@@ -5,13 +5,13 @@
 <title>
 A Guide to the Tinellbian Languages
 </title>
-<link rel="stylesheet" type="text/css" href="../grammar_main_style.css">
-<link rel="icon" type="image/png" href="../favicon.png">
+<link rel="stylesheet" type="text/css" href="main_style.css">
+<link rel="icon" type="image/png" href="favicon.png">
 </head>
 <body>
-<p class="return"><a href="../index.html">&#x2191; Return to Main Menu</a></p>
-<p class="forward"><a href="../dictionary/index.html">Dictionary &#x2192;</a></p>
-<p class="forward"><a href="../story/index.html">Story &#x2192;</a></p>
+<p class="return"><a href="www.tinellb.com">&#x2191; Return to Main Menu</a></p>
+<p class="forward"><a href="dictionary.tinellb.com">Dictionary &#x2192;</a></p>
+<p class="forward"><a href="story.tinellb.com">Story &#x2192;</a></p>
 <h1 class="title">Tinellbian Grammar</h1>
 <p>This is a guide to the languages of Tinellb. All these languages descend from a single common ancestor, High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.</p>
 {toc}
