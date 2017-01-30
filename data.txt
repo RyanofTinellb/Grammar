@@ -233,36 +233,12 @@ The first part of a compound noun must be a noun, and the subsequent parts speci
 Pronouns are a closed class.
 [5]Personal Pronouns
 Personal pronouns are marked for case and person. Third person pronouns are marked for animacy.
-[t]
-1st person
-2nd person
-3rd person animate
-3rd person inanimate
-[r]intranstitive (abs / nom)
-&rsquo;usu
-filli
-mihu
-pa
-[r]transitive (erg / acc)
-suma
-fu
-quhu
-&rsquo;iffa
-[r]ablative
-puttu
-sacu
-kassi
-kalu
-[r]dative
-pixi
-ba&rsquo;u
-jusi
-ku
-[r]genitive
-pagu
-ba
-disi
-qa
+[t] | 1st person | 2nd person | 3rd person animate | 3rd person inanimate
+[r]intranstitive (abs / nom) | &rsquo;usu | filli | mihu | pa
+[r]transitive (erg / acc) | suma | fu | quhu | &rsquo;iffa
+[r]ablative | puttu | sacu | kassi | kalu
+[r]dative | pixi | ba&rsquo;u | jusi | ku
+[r]genitive | pagu | ba | disi | qa
 [/t]
 <strong>Case</strong> will be discussed in a later section.
 [6]Person
@@ -312,41 +288,13 @@ Alienable possession is used in a hierarchy when the possessor is of higher rank
 [e]<strong>pagu</strong> <strong>mifasu</strong> <em>my vassal</em>
 [5]Indefinite Pronouns
 Indefinite pronouns are not marked for animacy.
-[t]
-object
-place
-manner
-state
-[r]proximate
-mari
-majja
-madusi
-marika
-[r]distal
-kasi
-kasuja
-kadusi
-kasika
-[r]interrogative
-sama
-satta
-lara
-saqqa
-[r]negative
-cu&rsquo;i
-qa&rsquo;i
--
--
-[r]universal
-&rsquo;aba
-batuja
--
--
-[r]existential
-&rsquo;umi
-mituja
-fana
-fana
+[t] | object | place | manner | state
+[r]proximate | mari | majja | madusi | marika
+[r]distal | kasi | kasuja | kadusi | kasika
+[r]interrogative | sama | satta | lara | saqqa
+[r]negative | cu&rsquo;i | qa&rsquo;i | - | -
+[r]universal | &rsquo;aba | batuja | - | -
+[r]existential | &rsquo;umi | mituja | fana | fana
 [/t]
 [l]The pronouns in the <strong>object</strong> column are used for people and things.
 The <strong>place</strong> column pronouns are used for locations in both space and time.
@@ -374,71 +322,6 @@ Reduplicated indefinite pronouns with suffixed <strong>-ta</strong> <em>and</em>
 [e]<strong>cu&rsquo;i cu&rsquo;ita</strong> <em>nothing and no one</em>
 [e]<strong>qa&rsquo;i qa&rsquo;ita</strong> <em>never ever</em>
 [e]<strong>&rsquo;aba &rsquo;abata</strong> <em>absolutely everything</em>
-[4]Attributives
-There is a special class of verbs that allow one noun to modify another in a particular way. They are suffixes for the modifying noun. This whole word is then placed before the noun being modified. The modified noun can be proper, common or a pronoun.
-<div class="glossary">
-<strong>qixa</strong> <em>doing</em>
-<strong>qilu</strong> <em>receiving</em>
-<strong>rusa</strong> <em>coming from</em>
-<strong>cani</strong> <em>having</em>
-<strong>ra&rsquo;u</strong> <em>being in</em>
-<strong>ji</strong> <em>needing</em>
-<strong>na</strong> <em>going towards</em>
-<strong>ru</strong> <em>called</em>
-<strong>labu</strong> <em>resembling</em>
-<strong>nagi</strong> <em>becoming</em>
-<strong>hu</strong> <em>wanting</em>
-<strong>ruku</strong> <em>being made of</em>
-<strong>pi</strong> <em>giving</em>
-<strong>taku</strong> <em>for</em>
-</div>
-<div class="glossary-2">
-[f]<strong>sinnaqixa gusuli</strong>
-[e]<em>story-doing person</em>
-[e]person writing a story
-[f]<strong>naccaqilu sabba</strong>
-[e]<em>clothing-receiving father</em>
-[e]a father getting clothing
-[f]<strong>Tinallirusa &rsquo;usu</strong>
-[e]<em>Tinellb-coming_from <small-caps>1int</small-caps></em>
-[e]I, who&rsquo;s coming from Tinellb
-[f]<strong>xucicani xu&rsquo;a</strong>
-[e]<em>feather-having bird</em>
-[e]feathered bird
-[f]<strong>&#x294;irri&rsquo;ara&rsquo;u Ra&rsquo;ani</strong>
-[e]<em>Ir&igrave;a-going_to Ryan</em>
-[e]Ryan, who&rsquo;s in Ir&igrave;a
-[f]<strong>daji mi</strong>
-[e]<em>water-needing someone</em>
-[e]someone who needs water
-[f]<strong>sattana kasi</strong>
-[e]<em>where-going_to that</em>
-[e]that person who&rsquo;s going where?
-[f]<strong>Sa&rsquo;imiru jusi</strong>
-[e]<em>Caemi-called <small-caps>3ani;dat</em>
-[e]to the one named Caemi
-[f]<strong>hannakulabu qikanni</strong>
-[e]<em>cat-resemble dog</em>
-[e]the dog that&rsquo;s like a cat
-[f]<strong>lulaninagi xa&#x294;u&rsquo;aba</strong>
-[e]<em>queen-becoming child-every</em>
-[e]every child who&rsquo;s becoming a queen
-[f]<strong>quhhuhu cu&rsquo;i</strong>
-[e]<em>river-wanting no_one</em>
-[e]no one who wants a river
-[f]<strong>nigataku kibba</strong>
-[e]<em>guide-for stick</em>
-[e]walking stick
-[f]<strong>linuruku xissata</strong>
-[e]<em>wood-made_of musical_instrument</em>
-[e]a wooden musical instrument
-[f]<strong>&rsquo;allapi taka</strong>
-[e]<em>familiarity-giving sound</em>
-[e]a familiar sound
-</div>
-
-In order to make any of these negative, add the adjective <strong>ji&rsquo;a</strong> <em>not</em> to the second noun.
-
 [3]Verbs
 A verb is a necessary part of any sentence, except for <strong>copular</strong> sentences (q.v.).
 [4]Basic Verbs
@@ -460,7 +343,6 @@ Monosyllabic verbs may only be used this way. The object of an transitive monosy
 [e]*<strong>ga sunu</strong>
 [e]*<strong>jannisunu</strong>
 [e]<strong>janni sunu</strong> <em>to move the cloak</em> (<strong>janni</strong> <em>move</em>)
-
 [4]Transitivity
 Verbs are broken down into one of a number of types:
 <strong>Transitive</strong> verbs require an object.
@@ -469,31 +351,10 @@ Ambitransitive verbs can be used transitively or intransitively.
 The transitivity of a compound verb is the same as that of the base verb.
 [3]Auxiliaries
 <strong>Auxiliaries</strong> are a type of helper verb, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark <strong>tense</strong> (the time at which an action takes place) and <strong>aspect</strong> (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
-They were originally intended to be main verbs, so some of these may seem familiar (cf: attributives).
-[t]
-dynamic
-stative
-negative
-iterative
-gnomic
-[r]past
-qixa
-pi
-qilu
-taku
-rusa
-[r]present
-cani
-ra&rsquo;u
-ji
-na
-ru
-[r]future
-labu
-nagi
-funi
-hu
-ruku
+[t] | dynamic | stative | negative | iterative | gnomic
+[r]past | qixa | pi | qilu | taku | rusa
+[r]present | cani | ra&rsquo;u | ji | na | ru
+[r]future | labu | nagi | funi | hu | ruku
 [/t]
 Auxiliary stacking gives a poetic or archaic nuance.
 [f]<strong>&#x294;usu rusarukuru lu&rsquo;i fu</strong>.
@@ -853,7 +714,6 @@ case marker-
 number
 superlative
 relative clause
-attributive
 main noun
 -adjective
 -conjunction
@@ -869,7 +729,7 @@ The only compulsory component of a noun phrase is the noun itself.
 [e]<strong>xiku dasi nukki ru gusulilumi</strong> (v vii-viii) <em>several people who eat strawberries</em>
 [e]<strong>kaluxiku kuluna &rsquo;usi na &rsquo;abu</strong> (ii-v vii) <em>because of everyone who looks at the moon.</em>
 [e]<strong>&rsquo;adira xiku kaluqikanni tura pi xa&#x294;u</strong> (i-iii v vii) <em>near the two children who looked after dogs.</em>
-[e]<strong>julliga kiluquna &#x294;irri&rsquo;ana kasataqa &rsquo;ara</strong> (v vi vii-viii-ix-x)
+[e]<strong>julliga kiluquna &#x294;irri&rsquo;ajanni kasataqa &rsquo;ara</strong> (v vi vii-viii-ix-x)
 [e]<em>the faces of the married women <u>and the walker men who are going to Ir&igrave;a</u></em>.
 [3]Gerunds
 Some verb phrases can be changed into nouns describing the activity.
