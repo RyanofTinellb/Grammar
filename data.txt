@@ -203,6 +203,31 @@ open vowel: (none)
 front vowel: vertical line
 back vowel: horizonal line
 [/l]
+[3]Spelling Alphabet
+There is a spelling alphabet, used for transmitting syllables across potentially noisy communication channels, such as telephone lines. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol corresponds to the word <strong>fa&#x294;a</strong> <em>language</em>.
+<div class="glossary">
+&rsquo;a: <strong>&rsquo;ara</strong> <em>face</em>  | pa: <strong>pacca</strong> <em>number</em> | ba: <strong>bitta</strong> <em>time</em> | ta: <strong>tila</strong> <em>shell</em> | da: <strong>diha</strong> <em>bureaucrat</em>
+ca: <strong>cula</strong> <em>egg</em> | ja: <strong>jana</strong> <em>elder</em> | ka: <strong>kaqqa</strong> <em>brother</em>  | ga: <strong>gata</strong> <em>pendulum</em> | ma: <strong>marru</strong> <em>flies</em>
+na: <strong>nassa</strong> <em>euphoria</em> | qa: <strong>qasa</strong> <em>fish</em> | la: <strong>liffa</strong> <em>speech</em> | ra: <strong>rippa</strong> <em>surprise</em> | fa: <strong>fipa</strong> <em>storey</em>
+sa: <strong>sinna</strong> <em>story</em> | xa: <strong>xima</strong> <em>morning</em> | ha: <strong>hafa</strong> <em>race</em> | &rsquo;i: <strong>&rsquo;ussi</strong> <em>gift</em> | pi: <strong>paji</strong> <em>fruit</em>
+bi: <strong>basi</strong> <em>lid</em> |  ti: <strong>tuhhi</strong> <em>farming</em> | di: <strong>dicci</strong> <em>cold</em> | ci: <strong>cadi</strong> <em>wall</em> | ji: <strong>jakki</strong> <em>candle</em> | ki: <strong>kiri</strong> <em>marigold</em>
+gi: <strong>gapi</strong> <em>soup</em> | mi: <strong>mixi</strong> <em>room</em> | ni: <strong>niddi</strong> <em>alertness</em> | qi: <strong>quxi</strong> <em>mountain</em> | li: <strong>lu&rsquo;i</strong> <em>love</em>
+ri: <strong>rali</strong> <em>back</em> | fi: <strong>faxi</strong> <em>to survive</em> | si: <strong>sutti</strong> <em>fear</em> | xi: <strong>xalli</strong> <em>husband</em> | hi: <strong>huri</strong> <em>ocean</em>
+&rsquo;u: <strong>&rsquo;iku</strong> <em>hunger</em> | pu: <strong>pusu</strong> <em>zirconium</em> | bu: <strong>batu</strong> <em>group</em> | tu: <strong>tadu</strong> <em>pig</em> | du: <strong>diru</strong> <em>money</em>
+cu: <strong>ciqu</strong> <em>mould</em> | ju: <strong>jixu</strong> <em>dictionary</em> | ku: <strong>kipu</strong> <em>horse</em> | gu: <strong>gusu</strong> <em>person</em> | mu: <strong>ma&#x294;u</strong> <em>gingla</em>
+nu: <strong>nuku</strong> <em>world</em> | qu: <strong>qumu</strong> <em>woman</em> | lu: <strong>laqqu</strong> <em>wealth</em> | ru: <strong>riccu</strong> <em>sphere</em> | fu: <strong>famu</strong> <em>completely</em>
+su: <strong>silu</strong> <em>husband</em> | xu: <strong>xa&#x294;u</strong> <em>child</em> | hu: <strong>halu</strong> <em>algorithm</em>
+</div>
+[3]Tactile Alphabet
+There is a tactile alphabet, for use by blind and visually-impaired language users.
+Each cell is three rows by two columns of raised dots. The upper four dots generally denote the consonant, with syllables beginning with b, d, j, g, f or x being the exceptions. The lowest pair generally denote the vowel.
+[t] | &#x294; | p | b | t | d | c | j | k | g | m | n | q | l | r | f | s | x | h
+[r]a | &#x2801; | &#x2803; | &#x2823; | &#x2809; | &#x2829; | &#x2812; | &#x2832; | &#x2811; | &#x2831; | &#x280B; | &#x2819; | &#x281A; | &#x280A; | &#x281B; | &#x282A; | &#x2813; | &#x2833; | &#x2802;
+[r]i | &#x2805; | &#x2807; | &#x282B; | &#x280D; | &#x2839; | &#x2816; | &#x2822; | &#x2815; | &#x283A; | &#x280F; | &#x281D; | &#x281E; | &#x280E; | &#x281F; | &#x283B; | &#x2817; | &#x2821; | &#x2806;
+[r]u | &#x2825; | &#x2827; | &#x282C; | &#x282D; | &#x283C; | &#x2836; | &#x2838; | &#x2835; | &#x2834; | &#x282F; | &#x283D; | &#x283E; | &#x282E; | &#x283F; | &#x280C; | &#x2837; | &#x281C; | &#x2826;
+[/t]
+Dot 5 (&#x2810;) by itself is the geminate. Word separation is shown by (&#x2800;) an empty space, clause separation by (&#x2824;) the comma, and sentence separation by (&#x2814;) the period. Numbers are prefixed with (&#x2828;) the number sign, and the first syllable of each number is used.
+
 [2]Morphology
 High Lulani is an analytic agglutinative language, as morphemes tend to keep their own shape, even when forming words.
 [3]Nouns
@@ -749,120 +774,122 @@ The superlative marker, contrary to the other two, is a particle placed before t
 [2]Apocrypha
 This section details particular categories of vocabulary items.
 [3]Numbers
-[4]Cardinal Numbers
-High Lulani numbers are written with the positive digits (1, 2, 3, 4, 5, 6 and 7), their negative counterparts (<overline>1</overline>, <overline>2</overline>, <overline>3</overline>, <overline>4</overline>, <overline>5</overline>, <overline>6</overline> and <overline>7</overline>) and a zero (0).
-When writing out a number, each digit is worth fifteen times as much as the following digit. A period (fractional point: . ) is used to separate the integer part of the number from the mantissa. A comma (,) is used in the integer part to separate the digits into groupings of four, beginning from the fractional point.
+[4]Car&#x2839;&#x2819;l Numbers
+High Lu&#x280A;&#x281D; &#x283D;mbers are w&#x281F;tten with the po&#x2817;&#x280D;ve &#x2839;&#x283A;ts &l&#x2803;ren;1&#x2824; 2&#x2824; 3&#x2824; 4&#x2824; 5&#x2824; 6 and 7&r&#x2803;ren;&#x2824; their ne&#x2831;&#x280D;ve counter&#x2803;rts &l&#x2803;ren;<overline>1</overline>&#x2824; <overline>2</overline>&#x2824; <overline>3</overline>&#x2824; <overline>4</overline>&#x2824; &&#x281F;ve;&#x2824; &&#x281F;x; and <overline>7</overline>&r&#x2803;ren; and a zero &l&#x2803;ren;0&r&#x2803;ren;&#x2814;
+When w&#x281F;&#x280D;ng out a &#x283D;mber&#x2824; each &#x2839;&#x283A;t is worth &#x283B;fteen &#x280D;mes as &#x282F;ch as the following &#x2839;&#x283A;t&#x2814; A pe&#x281F;od &l&#x2803;ren;f&#x281B;c&#x280D;o&#x2819;l point: &#x2814; &r&#x2803;ren; is used to se&#x2803;&#x281B;te the integer &#x2803;rt of the &#x283D;mber from the &#x280B;n&#x280D;s&#x2813;&#x2814; A com&#x280B; &l&#x2803;ren;&#x2824;&r&#x2803;ren; is used in the integer &#x2803;rt to se&#x2803;&#x281B;te the &#x2839;&#x283A;ts into grou&#x2807;ngs of four&#x2824; be&#x283A;n&#x281D;ng from the f&#x281B;c&#x280D;o&#x2819;l point&#x2814;
 [f]<strong>2</strong> <em>two</em>
-[e]<strong>5.<overline>3</overline></strong> <em>four and four-fifths = five + (minus three &times; (fifteen ^ minus one))</em> 
-[e]<strong>1<overline>7</overline></strong> <em>eight = (one &times; fifteen) + (minus seven)</em>
-[e]<strong>20</strong> <em>thirty = (two &times; fifteen)</em>
-[e]<strong>3<overline>2</overline>6</strong> <em>six hundred and forty-one = 
-(three &times; (fifteen ^ two)) + (minus two &times; fifteen) + six</em>
-[e]<strong><overline>1</overline>,34<overline>5</overline>3</strong> <em>minus thirty-nine thousand, six hundred and seventy-two =
-(minus one &times; (fifteen ^ four)) + (three &times; (fifteen ^ three)) + 
-(four &times; (fifteen ^ two)) + (minus five &times; fifteen) + three</em>
-[5]One-digit Numbers
-Here are the names for the one-digit numbers:
-[f]<strong><overline>7</overline></strong> <em>haki</em>
-[e]<strong><overline>6</overline></strong> <em>jusiti</em>
-[e]<strong><overline>5</overline></strong> <em>laffi</em>
-[e]<strong><overline>4</overline></strong> <em>missu</em>
-[e]<strong><overline>3</overline></strong> <em>bila</em>
-[e]<strong><overline>2</overline></strong> <em>kirallu</em>
-[e]<strong><overline>1</overline></strong> <em>mullu</em>
-[e]<strong>0</strong> <em>qikka</em>
-[e]<strong>1</strong> <em>xita</em>
-[e]<strong>2</strong> <em>ra</em>
-[e]<strong>3</strong> <em>kifi</em>
-[e]<strong>4</strong> <em>nuru</em>
-[e]<strong>5</strong> <em>guhi</em>
-[e]<strong>6</strong> <em>&rsquo;usi</em>
-[e]<strong>7</strong> <em>salumi</em>
+[e]<strong>5&#x2814;<overline>3</overline></strong> <em>four and four-&#x283B;fths = &#x283B;ve &p&#x282E;s; &l&#x2803;ren;&#x280F;&#x283D;s three &&#x280D;mes; &l&#x2803;ren;&#x283B;fteen ^ &#x280F;&#x283D;s one&r&#x2803;ren;&r&#x2803;ren;</em> 
+[e]<strong>1<overline>7</overline></strong> <em>eight = &l&#x2803;ren;one &&#x280D;mes; &#x283B;fteen&r&#x2803;ren; &p&#x282E;s; &l&#x2803;ren;&#x280F;&#x283D;s seven&r&#x2803;ren;</em>
+[e]<strong>20</strong> <em>t&#x2806;rty = &l&#x2803;ren;two &&#x280D;mes; &#x283B;fteen&r&#x2803;ren;</em>
+[e]<strong>3<overline>2</overline>6</strong> <em>&#x2817;x &#x2826;ndred and forty-one = 
+&l&#x2803;ren;three &&#x280D;mes; &l&#x2803;ren;&#x283B;fteen ^ two&r&#x2803;ren;&r&#x2803;ren; &p&#x282E;s; &l&#x2803;ren;&#x280F;&#x283D;s two &&#x280D;mes; &#x283B;fteen&r&#x2803;ren; &p&#x282E;s; &#x2817;x</em>
+[e]<strong><overline>1</overline>&#x2824;34&&#x281F;ve;3</strong> <em>&#x280F;&#x283D;s t&#x2806;rty-&#x281D;ne thou&#x2813;nd&#x2824; &#x2817;x &#x2826;ndred and seventy-two =
+&l&#x2803;ren;&#x280F;&#x283D;s one &&#x280D;mes; &l&#x2803;ren;&#x283B;fteen ^ four&r&#x2803;ren;&r&#x2803;ren; &p&#x282E;s; &l&#x2803;ren;three &&#x280D;mes; &l&#x2803;ren;&#x283B;fteen ^ three&r&#x2803;ren;&r&#x2803;ren; &p&#x282E;s; 
+&l&#x2803;ren;four &&#x280D;mes; &l&#x2803;ren;&#x283B;fteen ^ two&r&#x2803;ren;&r&#x2803;ren; &p&#x282E;s; &l&#x2803;ren;&#x280F;&#x283D;s &#x283B;ve &&#x280D;mes; &#x283B;fteen&r&#x2803;ren; &p&#x282E;s; three</em>
+[5]One-&#x2839;&#x283A;t Numbers
+Here are the &#x2819;mes for the one-&#x2839;&#x283A;t &#x283D;mbers:
+<&#x2839;v c&#x280A;ss=&double&#x283E;ote;glos&#x2813;ry-2&double&#x283E;ote;>
+[f]<strong><overline>7</overline></strong> <em>&#x2802;&#x2815;</em>
+[e]<strong>&&#x281F;x;</strong> <em>&#x2838;&#x2817;&#x280D;</em>
+[e]<strong>&&#x281F;ve;</strong> <em>&#x280A;f&#x283B;</em>
+[e]<strong><overline>4</overline></strong> <em>&#x280F;s&#x2837;</em>
+[e]<strong><overline>3</overline></strong> <em>&#x282B;&#x280A;</em>
+[e]<strong><overline>2</overline></strong> <em>&#x2811;&#x281B;l&#x282E;</em>
+[e]<strong><overline>1</overline></strong> <em>&#x282F;l&#x282E;</em>
+[e]<strong>0</strong> <em>&#x281E;k&#x2811;</em>
+[e]<strong>1</strong> <em>&#x2821;&#x2809;</em>
+[e]<strong>2</strong> <em>&#x281B;</em>
+[e]<strong>3</strong> <em>&#x2815;&#x283B;</em>
+[e]<strong>4</strong> <em>&#x283D;&#x283F;</em>
+[e]<strong>5</strong> <em>&#x2834;&#x2806;</em>
+[e]<strong>6</strong> <em>&#x2825;&#x2817;</em>
+[e]<strong>7</strong> <em>&#x2813;&#x282E;&#x280F;</em>
+</&#x2839;v>
 
-[5]Two-digit Numbers
-Numbers between 1<overline>7</overline> and 16 are composed of the prefix <strong>sa</strong> and the final two syllables of the number, except for:
-[f]<strong>sabilla</strong> (not <strong>sabila</strong>) 1<overline>3</overline>
-[e]<strong>salura</strong> (not <strong>sara</strong>) 12
-All other two digit numbers, except for 22, are formed by juxtaposing the tens digit with the units.
-[f]<strong>mullukifi</strong> <overline>1</overline>3
-[e]<strong>xitasalumi</strong> 17
-[e]<strong>ranuru</strong> 24
-[e]<strong>kifilaffi</strong> 3<overline>5</overline>
-[e]<strong>&rsquo;usiqikka</strong> 60
-The word for 22, the exception, is <strong>ranira</strong>.
-[5]Three- and Four-digit Numbers
-Three- and four-digit numbers are divided into the number of hundreds, and the remainder. This remainder is always the last two digits of the number.
-The word for 100 is <strong>takki</strong>.
-Other three-digit numbers beginning with a 1 are formed by prefixing <strong>takki</strong> to the remainder.
-[f]<strong>takkinurukirallu</strong> 14<overline>2</overline>
-Three- and four-digit numbers greater than this are formed by appending <strong>takki</strong> to the number of hundreds, which is then followed by the remainder as a separate word. 
-[f]<strong>guhitakki &rsquo;usibila</strong> 56<overline>3</overline>
-[e]<strong>saqikkatakki kifinuru</strong> 1034
-[e]<strong>kiralluratakki missumullu</strong> <overline>2</overline>2<overline>4</overline><overline>1</overline>
-In any of these cases, if the remainder is zero, it is left off.
-[f]<strong>mullutakki</strong> <overline>1</overline>00
-[e]<strong>ratakki</strong> 200
-[e]<strong>saguhitakki</strong> 1500
-[e]<strong>bilasalumitakki</strong> <overline>3</overline>700
+[5]Two-&#x2839;&#x283A;t Numbers
+Numbers between 1<overline>7</overline> and 16 are composed of the pre&#x283B;x <strong>&#x2813;</strong> and the &#x283B;&#x2819;l two syl&#x280A;bles of the &#x283D;mber&#x2824; except for:
+[f]<strong>&#x2813;&#x282B;l&#x280A;</strong> &l&#x2803;ren;not <strong>&#x2813;&#x282B;&#x280A;</strong>&r&#x2803;ren; 1<overline>3</overline>
+[e]<strong>&#x2813;&#x282E;&#x281B;</strong> &l&#x2803;ren;not <strong>&#x2813;&#x281B;</strong>&r&#x2803;ren; 12
+All other two &#x2839;&#x283A;t &#x283D;mbers&#x2824; except for 22&#x2824; are formed by &#x2838;x&#x2809;po&#x2817;ng the tens &#x2839;&#x283A;t with the u&#x281D;ts&#x2814;
+[f]<strong>&#x282F;l&#x282E;&#x2815;&#x283B;</strong> <overline>1</overline>3
+[e]<strong>&#x2821;&#x2809;&#x2813;&#x282E;&#x280F;</strong> 17
+[e]<strong>&#x281B;&#x283D;&#x283F;</strong> 24
+[e]<strong>&#x2815;&#x283B;&#x280A;f&#x283B;</strong> 3&&#x281F;ve;
+[e]<strong>&#x2825;&#x2817;&#x281E;k&#x2811;</strong> 60
+The word for 22&#x2824; the excep&#x280D;on&#x2824; is <strong>&#x281B;&#x281D;&#x281B;</strong>&#x2814;
+[5]Three- and Four-&#x2839;&#x283A;t Numbers
+Three- and four-&#x2839;&#x283A;t &#x283D;mbers are &#x2839;vided into the &#x283D;mber of &#x2826;ndreds&#x2824; and the re&#x280B;inder&#x2814; T&#x2806;s re&#x280B;inder is always the &#x280A;st two &#x2839;&#x283A;ts of the &#x283D;mber&#x2814;
+The word for 100 is <strong>&#x2809;k&#x2815;</strong>&#x2814;
+Other three-&#x2839;&#x283A;t &#x283D;mbers be&#x283A;n&#x281D;ng with a 1 are formed by pre&#x283B;&#x2821;ng <strong>&#x2809;k&#x2815;</strong> to the re&#x280B;inder&#x2814;
+[f]<strong>&#x2809;k&#x2815;&#x283D;&#x283F;&#x2811;&#x281B;l&#x282E;</strong> 14<overline>2</overline>
+Three- and four-&#x2839;&#x283A;t &#x283D;mbers greater t&#x2802;n t&#x2806;s are formed by appen&#x2839;ng <strong>&#x2809;k&#x2815;</strong> to the &#x283D;mber of &#x2826;ndreds&#x2824; w&#x2806;ch is then followed by the re&#x280B;inder as a se&#x2803;&#x281B;te word&#x2814; 
+[f]<strong>&#x2834;&#x2806;&#x2809;k&#x2815; &#x2825;&#x2817;&#x282B;&#x280A;</strong> 56<overline>3</overline>
+[e]<strong>&#x2813;&#x281E;k&#x2811;&#x2809;k&#x2815; &#x2815;&#x283B;&#x283D;&#x283F;</strong> 1034
+[e]<strong>&#x2811;&#x281B;l&#x282E;&#x281B;&#x2809;k&#x2815; &#x280F;s&#x2837;&#x282F;l&#x282E;</strong> <overline>2</overline>2<overline>4</overline><overline>1</overline>
+In any of these &#x2812;ses&#x2824; if the re&#x280B;inder is zero&#x2824; it is left off&#x2814;
+[f]<strong>&#x282F;l&#x282E;&#x2809;k&#x2815;</strong> <overline>1</overline>00
+[e]<strong>&#x281B;&#x2809;k&#x2815;</strong> 200
+[e]<strong>&#x2813;&#x2834;&#x2806;&#x2809;k&#x2815;</strong> 1500
+[e]<strong>&#x282B;&#x280A;&#x2813;&#x282E;&#x280F;&#x2809;k&#x2815;</strong> <overline>3</overline>700
 [5]Higher and Lower Order Numbers
-When a number is written out in digits, each set of four digits from the fractional point makes up a group. The group furthest from the fractional point may not have this full quota of digits. An <strong>index marker</strong> notes the identity of a particular group.
-The index marker is composed of the prefix <strong>pa</strong> followed by the number of groups between this one and the fractional point. Positive index numbers are for the integer part of the number, and negative index numbers are for the mantissa.
-The index marker is suffixed to the group word.
-[f]<strong>paxita</strong> 1,0000
-[e]<strong>para</strong> 1,0000,0000
-[e]<strong>pakifi</strong> 1,0000,0000,0000
-[e]<strong>pamullu</strong> 0.0001
-[e]<strong>samissupaxita</strong> 1<overline>4</overline>,0000
-[e]<strong>takkiranirapaxita</strong> 122,0000
-[e]<strong>&rsquo;usitakki mullurapaxita</strong> 6<overline>1</overline>2,0000
-There is nothing preventing an index-marked number being used within another index marker, although the second <strong>pa</strong> is usually geminated.
-[f]<strong>pappaxita</strong> 1,0000<sup>1,0000</sup>
-[e]<strong>papappaxita</strong> 1,0000<sup>1,0000^1,0000</sup>
-[5]Non-integral Numbers
-[6]Reading Mantissas
-There are two ways to read a mantissa.
-One uses the above method of index markers, and the second reads out the digits in pairs or individually. These methods are often combined: using index markers for the first digit groups, and then continuing to read digits separately.
-[6]Repeating and Reflecting Strings
-All rational numbers end with a repeating string of digits. For some numbers, this string is &ldquo;0&rdquo;. In non-zero cases, the word <strong>tuni</strong> repeat is inserted before the repeating string. The string must be read out with individual digits.
-There are also numbers for which the repeating string can be cut in half, with digits in the second half being the negative of the digits in the first half. For these, only the first half is read out, with the word <strong>mala</strong> reflect inserted.
-[f]<strong>tuni guhira</strong> 0.5252&hellip;
-[e]<strong>paqikka xita tuni guhira</strong> 0.15252&hellip;
-[e]<strong>paqikka xita mala guhira</strong> 0.152<overline>5</overline><overline>2</overline>52<overline>5</overline><overline>2</overline>&hellip;
-[6]Fractions
-The suffix <strong>ki</strong> separates the numerator from the denominator. <strong>Saki</strong> is used if the numerator is 1. There is also a commonly used variant for &frac12;: <strong>&rsquo;ima</strong>. 
-[f]<strong>&rsquo;ima / saki ra</strong> &frac12;
-[e]<strong>saki kifi</strong> &frac13;
-[e]<strong>kifiki nuru</strong> &frac34;
-[4]Ordinal Numbers
-<strong>Ordinal</strong> numbers are used to mark position in a line or a list.
-The first two ordinal numbers are suppletive, that is, they are not related to their cardinals. All other ordinals are formed by adding the suffix -<strong>uju</strong> <small-caps>ord</small-caps> to the cardinal number.
-[f]<strong>bijaju</strong> <em>first</em>
-[e]<strong>matta</strong> <em>second</em>
-[e]<strong>kifuju</strong> <em>third</em>
-[e]<strong>nuruju</strong> <em>fourth</em>
-[e]<strong>salumuju</strong> <em>seventh</em>
-[e]<strong>saqikkuju</strong> <em>fifteenth</em>
-[e]<strong>saxituju</strong> <em>sixteenth</em>
-[e]<strong>takkuju</strong> <em>two hundred and twenty-fifth</em>
-[4]Using Numbers
-Ordinal and cardinal numbers are used in noun phrases, and are inserted between any case markers or adpositions, and the noun.
-[f]<strong>nuruju kimilli</strong>
-[e]<em>four-</em><small-caps>ord</small-caps> <em>king</em>
-[e]&ldquo;the fourth king.&rdquo;
-[f]<strong>kalusalumi lulani</strong>
-[e]<small-caps>abl</small-caps><em>-seven queen</em>
-[e]&ldquo;due to the seven queens.&rdquo;
-Numbers can be suffixed to a noun to denote not the quantity, but a quality.
-[f]<strong>salumi &rsquo;isinnadi</strong>
-[e]seven say-story-<small-caps>nom</small-caps>
-[e]&ldquo;seven books&rdquo;
-[f]<strong>sinnasalumi</strong>
+When a &#x283D;mber is w&#x281F;tten out in &#x2839;&#x283A;ts&#x2824; each set of four &#x2839;&#x283A;ts from the f&#x281B;c&#x280D;o&#x2819;l point &#x280B;kes up a group&#x2814; The group &#x280C;rthest from the f&#x281B;c&#x280D;o&#x2819;l point &#x280B;y not &#x2802;ve t&#x2806;s &#x280C;ll &#x283E;o&#x2809; of &#x2839;&#x283A;ts&#x2814; An <strong>index &#x280B;rker</strong> notes the iden&#x280D;ty of a &#x2803;r&#x280D;&#x2836;&#x280A;r group&#x2814;
+The index &#x280B;rker is composed of the pre&#x283B;x <strong>&#x2803;</strong> followed by the &#x283D;mber of groups between t&#x2806;s one and the f&#x281B;c&#x280D;o&#x2819;l point&#x2814; Po&#x2817;&#x280D;ve index &#x283D;mbers are for the integer &#x2803;rt of the &#x283D;mber&#x2824; and ne&#x2831;&#x280D;ve index &#x283D;mbers are for the &#x280B;n&#x280D;s&#x2813;&#x2814;
+The index &#x280B;rker is &#x2837;f&#x283B;xed to the group word&#x2814;
+[f]<strong>&#x2803;&#x2821;&#x2809;</strong> 1&#x2824;0000
+[e]<strong>&#x2803;&#x281B;</strong> 1&#x2824;0000&#x2824;0000
+[e]<strong>&#x2803;&#x2815;&#x283B;</strong> 1&#x2824;0000&#x2824;0000&#x2824;0000
+[e]<strong>&#x2803;&#x282F;l&#x282E;</strong> 0&#x2814;0001
+[e]<strong>&#x2813;&#x280F;s&#x2837;&#x2803;&#x2821;&#x2809;</strong> 1<overline>4</overline>&#x2824;0000
+[e]<strong>&#x2809;k&#x2815;&#x281B;&#x281D;&#x281B;&#x2803;&#x2821;&#x2809;</strong> 122&#x2824;0000
+[e]<strong>&#x2825;&#x2817;&#x2809;k&#x2815; &#x282F;l&#x282E;&#x281B;&#x2803;&#x2821;&#x2809;</strong> 6<overline>1</overline>2&#x2824;0000
+There is not&#x2806;ng preven&#x280D;ng an index-&#x280B;rked &#x283D;mber being used wit&#x2806;n another index &#x280B;rker&#x2824; although the second <strong>&#x2803;</strong> is u&#x2837;ally ge&#x280F;&#x2819;ted&#x2814;
+[f]<strong>&#x2803;p&#x2803;&#x2821;&#x2809;</strong> 1&#x2824;0000<&#x2837;p>1&#x2824;0000</&#x2837;p>
+[e]<strong>&#x2803;&#x2803;p&#x2803;&#x2821;&#x2809;</strong> 1&#x2824;0000<&#x2837;p>1&#x2824;0000^1&#x2824;0000</&#x2837;p>
+[5]Non-integ&#x281B;l Numbers
+[6]Rea&#x2839;ng Man&#x280D;s&#x2813;s
+There are two ways to read a &#x280B;n&#x280D;s&#x2813;&#x2814;
+One uses the above method of index &#x280B;rkers&#x2824; and the second reads out the &#x2839;&#x283A;ts in &#x2803;irs or in&#x2839;vi&#x283C;ally&#x2814; These methods are often com&#x282B;ned: u&#x2817;ng index &#x280B;rkers for the &#x283B;rst &#x2839;&#x283A;t groups&#x2824; and then con&#x280D;&#x283D;ing to read &#x2839;&#x283A;ts se&#x2803;&#x281B;tely&#x2814;
+[6]Repea&#x280D;ng and Reflec&#x280D;ng St&#x281F;ngs
+All &#x281B;&#x280D;o&#x2819;l &#x283D;mbers end with a repea&#x280D;ng st&#x281F;ng of &#x2839;&#x283A;ts&#x2814; For some &#x283D;mbers&#x2824; t&#x2806;s st&#x281F;ng is &ld&#x283E;o;0&rd&#x283E;o;&#x2814; In non-zero &#x2812;ses&#x2824; the word <strong>&#x282D;&#x281D;</strong> repeat is inserted before the repea&#x280D;ng st&#x281F;ng&#x2814; The st&#x281F;ng &#x282F;st be read out with in&#x2839;vi&#x283C;al &#x2839;&#x283A;ts&#x2814;
+There are also &#x283D;mbers for w&#x2806;ch the repea&#x280D;ng st&#x281F;ng &#x2812;n be &#x2836;t in &#x2802;lf&#x2824; with &#x2839;&#x283A;ts in the second &#x2802;lf being the ne&#x2831;&#x280D;ve of the &#x2839;&#x283A;ts in the &#x283B;rst &#x2802;lf&#x2814; For these&#x2824; only the &#x283B;rst &#x2802;lf is read out&#x2824; with the word <strong>&#x280B;&#x280A;</strong> reflect inserted&#x2814;
+[f]<strong>&#x282D;&#x281D; &#x2834;&#x2806;&#x281B;</strong> 0&#x2814;5252&hel&#x280E;p;
+[e]<strong>&#x2803;&#x281E;k&#x2811; &#x2821;&#x2809; &#x282D;&#x281D; &#x2834;&#x2806;&#x281B;</strong> 0&#x2814;15252&hel&#x280E;p;
+[e]<strong>&#x2803;&#x281E;k&#x2811; &#x2821;&#x2809; &#x280B;&#x280A; &#x2834;&#x2806;&#x281B;</strong> 0&#x2814;152&&#x281F;ve;<overline>2</overline>52&&#x281F;ve;<overline>2</overline>&hel&#x280E;p;
+[6]F&#x281B;c&#x280D;ons
+The &#x2837;f&#x283B;x <strong>&#x2815;</strong> se&#x2803;&#x281B;tes the &#x283D;me&#x281B;tor from the deno&#x280F;&#x2819;tor&#x2814; <strong>Sa&#x2815;</strong> is used if the &#x283D;me&#x281B;tor is 1&#x2814; There is also a commonly used va&#x281F;ant for &f&#x281B;c12;: <strong>&#x2805;&#x280B;</strong>&#x2814; 
+[f]<strong>&#x2805;&#x280B; / &#x2813;&#x2815; &#x281B;</strong> &f&#x281B;c12;
+[e]<strong>&#x2813;&#x2815; &#x2815;&#x283B;</strong> &f&#x281B;c13;
+[e]<strong>&#x2815;&#x283B;&#x2815; &#x283D;&#x283F;</strong> &f&#x281B;c34;
+[4]Or&#x2839;&#x2819;l Numbers
+<strong>Or&#x2839;&#x2819;l</strong> &#x283D;mbers are used to &#x280B;rk po&#x2817;&#x280D;on in a &#x280E;ne or a &#x280E;st&#x2814;
+The &#x283B;rst two or&#x2839;&#x2819;l &#x283D;mbers are &#x2837;pple&#x280D;ve&#x2824; t&#x2802;t is&#x2824; they are not re&#x280A;ted to their &#x2812;r&#x2839;&#x2819;ls&#x2814; All other or&#x2839;&#x2819;ls are formed by ad&#x2839;ng the &#x2837;f&#x283B;x -<strong>u&#x2838;</strong> <small-caps>ord</small-caps> to the &#x2812;r&#x2839;&#x2819;l &#x283D;mber&#x2814;
+[f]<strong>&#x282B;&#x2832;&#x2838;</strong> <em>&#x283B;rst</em>
+[e]<strong>&#x280B;t&#x2809;</strong> <em>second</em>
+[e]<strong>&#x2815;&#x280C;&#x2838;</strong> <em>t&#x2806;rd</em>
+[e]<strong>&#x283D;&#x283F;&#x2838;</strong> <em>fourth</em>
+[e]<strong>&#x2813;&#x282E;&#x282F;&#x2838;</strong> <em>seventh</em>
+[e]<strong>&#x2813;&#x281E;k&#x2835;&#x2838;</strong> <em>&#x283B;fteenth</em>
+[e]<strong>&#x2813;&#x2821;&#x282D;&#x2838;</strong> <em>&#x2817;xteenth</em>
+[e]<strong>&#x2809;k&#x2835;&#x2838;</strong> <em>two &#x2826;ndred and twenty-&#x283B;fth</em>
+[4]U&#x2817;ng Numbers
+Or&#x2839;&#x2819;l and &#x2812;r&#x2839;&#x2819;l &#x283D;mbers are used in noun ph&#x281B;ses&#x2824; and are inserted between any &#x2812;se &#x280B;rkers or adpo&#x2817;&#x280D;ons&#x2824; and the noun&#x2814;
+[f]<strong>&#x283D;&#x283F;&#x2838; &#x2815;&#x280F;l&#x280E;</strong>
+[e]<em>four-</em><small-caps>ord</small-caps> <em>&#x2815;ng</em>
+[e]&ld&#x283E;o;the fourth &#x2815;ng&#x2814;&rd&#x283E;o;
+[f]<strong>&#x2811;&#x282E;&#x2813;&#x282E;&#x280F; &#x282E;&#x280A;&#x281D;</strong>
+[e]<small-caps>abl</small-caps><em>-seven &#x283E;een</em>
+[e]&ld&#x283E;o;&#x283C;e to the seven &#x283E;eens&#x2814;&rd&#x283E;o;
+Numbers &#x2812;n be &#x2837;f&#x283B;xed to a noun to denote not the &#x283E;an&#x280D;ty&#x2824; &#x282C;t a &#x283E;a&#x280E;ty&#x2814;
+[f]<strong>&#x2813;&#x282E;&#x280F; &#x2805;&#x2817;n&#x2819;&#x2839;</strong>
+[e]seven &#x2813;y-story-<small-caps>nom</small-caps>
+[e]&ld&#x283E;o;seven books&rd&#x283E;o;
+[f]<strong>&#x2817;n&#x2819;&#x2813;&#x282E;&#x280F;</strong>
 [e]<em>story-</em>seven
-[e]&ldquo;septet&rdquo;
-The number <strong>ra</strong> <em>two</em> can be used in this way to refer to a pair of something that is usually found in pairs
-[f]<strong>luffura</strong> <em>eyes</em>
-[e]<strong>&rsquo;itakkura</strong> <em>breasts</em>
-[e]<strong>tibara</strong> <em>legs</em>
+[e]&ld&#x283E;o;septet&rd&#x283E;o;
+The &#x283D;mber <strong>&#x281B;</strong> <em>two</em> &#x2812;n be used in t&#x2806;s way to refer to a &#x2803;ir of somet&#x2806;ng t&#x2802;t is u&#x2837;ally found in &#x2803;irs
+[f]<strong>&#x282E;f&#x280C;&#x281B;</strong> <em>eyes</em>
+[e]<strong>&#x2805;&#x2809;k&#x2835;&#x281B;</strong> <em>breasts</em>
+[e]<strong>&#x280D;&#x2823;&#x281B;</strong> <em>legs</em>
 [3]Colours
 The basis colour terms are all verbs:
 [f]<strong>baju</strong> <em>blue</em>
@@ -900,7 +927,6 @@ There can be a suffixed <strong>ju&rsquo;i</strong> <em>link</em> for spouses&rs
 [e]offspring-link-2<small-caps>gen</small-caps>
 [e]&ldquo;your step-daughter&rdquo;
 Other kinship terms began as nuclear family names, but were thence extended across a generation. So <strong>kaqqa</strong> <em>brother</em> and <strong>kica</strong> <em>sister</em> can also be applied to cousins.
-
 [1]Appendices
 This section contains information and rules that apply to all the Tinellbian languages, and their use on this site.
 [2]Glossing

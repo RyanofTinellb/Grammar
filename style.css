@@ -83,7 +83,7 @@ div.content {
 }
 
 div.content ul {
-	list-style: square;
+	list-style: disc;
 	padding-left: 10%;
 	text-indent: 0;
 }
