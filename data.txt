@@ -222,12 +222,11 @@ su: <strong>silu</strong> <em>husband</em> | xu: <strong>xa&#x294;u</strong> <em
 There is a tactile alphabet, for use by blind and visually-impaired language users.
 Each cell is three rows by two columns of raised dots. The upper four dots generally denote the consonant, with syllables beginning with b, d, j, g, f or x being the exceptions. The lowest pair generally denote the vowel.
 [t] | &#x294; | p | b | t | d | c | j | k | g | m | n | q | l | r | f | s | x | h
-[r]a | &#x2801; | &#x2803; | &#x2823; | &#x2809; | &#x2829; | &#x2812; | &#x2832; | &#x2811; | &#x2831; | &#x280B; | &#x2819; | &#x281A; | &#x280A; | &#x281B; | &#x282A; | &#x2813; | &#x2833; | &#x2802;
-[r]i | &#x2805; | &#x2807; | &#x282B; | &#x280D; | &#x2839; | &#x2816; | &#x2822; | &#x2815; | &#x283A; | &#x280F; | &#x281D; | &#x281E; | &#x280E; | &#x281F; | &#x283B; | &#x2817; | &#x2821; | &#x2806;
-[r]u | &#x2825; | &#x2827; | &#x282C; | &#x282D; | &#x283C; | &#x2836; | &#x2838; | &#x2835; | &#x2834; | &#x282F; | &#x283D; | &#x283E; | &#x282E; | &#x283F; | &#x280C; | &#x2837; | &#x281C; | &#x2826;
+[r]a | &#x2801; | &#x2803; | &#x2823; | &#x2809; | &#x2829; | &#x2812; | &#x2832; | &#x2811; | &#x2831; | &#x280B; | &#x2819; | &#x281A; | &#x280A; | &#x281B; | &#x280C; | &#x2813; | &#x2821; | &#x2802;
+[r]i | &#x2805; | &#x2807; | &#x282B; | &#x280D; | &#x2839; | &#x2816; | &#x2822; | &#x2815; | &#x283A; | &#x280F; | &#x281D; | &#x281E; | &#x280E; | &#x281F; | &#x281C; | &#x2817; | &#x2833; | &#x2806;
+[r]u | &#x2825; | &#x2827; | &#x282C; | &#x282D; | &#x283C; | &#x2836; | &#x2838; | &#x2835; | &#x2834; | &#x282F; | &#x283D; | &#x283E; | &#x282E; | &#x283F; | &#x282A; | &#x2837; | &#x283B; | &#x2826;
 [/t]
 Dot 5 (&#x2810;) by itself is the geminate. Word separation is shown by (&#x2800;) an empty space, clause separation by (&#x2824;) the comma, and sentence separation by (&#x2814;) the period. Numbers are prefixed with (&#x2828;) the number sign, and the first syllable of each number is used.
-
 [2]Morphology
 High Lulani is an analytic agglutinative language, as morphemes tend to keep their own shape, even when forming words.
 [3]Nouns
