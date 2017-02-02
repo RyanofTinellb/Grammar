@@ -176,6 +176,7 @@ In a stem word, primary stress falls on the last closed syllable, and secondary 
 Interrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (&#x1ce) or a falling tone (&acirc;), placed on the syllable of the appropriate word which has the greatest stress.
 Falling tone can also be used to bring focus to a particular word.
 [2]Orthography
+As well as the syllabary for most written use, there are also special-use syllabaries. One of these encodes more redundancy for use with noisy channels. The other is a non-visual written code for blind and other visually impaired users.
 [3]Syllabary
 The Lulani syllabary was developed as a featural script, with similar sounds having similar symbols.
 It is written in horizontal rows, right-to-left, and top-to-bottom.
@@ -203,8 +204,8 @@ open vowel: (none)
 front vowel: vertical line
 back vowel: horizonal line
 [/l]
-[3]Spelling Alphabet
-There is a spelling alphabet, used for transmitting syllables across potentially noisy communication channels, such as telephone lines. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol corresponds to the word <strong>fa&#x294;a</strong> <em>language</em>.
+[3]Spelling Syllabary
+There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol corresponds to the word <strong>fa&#x294;a</strong> <em>language</em>.
 <div class="glossary">
 &rsquo;a: <strong>&rsquo;ara</strong> <em>face</em>  | pa: <strong>pacca</strong> <em>number</em> | ba: <strong>bitta</strong> <em>time</em> | ta: <strong>tila</strong> <em>shell</em> | da: <strong>diha</strong> <em>bureaucrat</em>
 ca: <strong>cula</strong> <em>egg</em> | ja: <strong>jana</strong> <em>elder</em> | ka: <strong>kaqqa</strong> <em>brother</em>  | ga: <strong>gata</strong> <em>pendulum</em> | ma: <strong>marru</strong> <em>flies</em>
@@ -218,8 +219,8 @@ cu: <strong>ciqu</strong> <em>mould</em> | ju: <strong>jixu</strong> <em>diction
 nu: <strong>nuku</strong> <em>world</em> | qu: <strong>qumu</strong> <em>woman</em> | lu: <strong>laqqu</strong> <em>wealth</em> | ru: <strong>riccu</strong> <em>sphere</em> | fu: <strong>famu</strong> <em>completely</em>
 su: <strong>silu</strong> <em>husband</em> | xu: <strong>xa&#x294;u</strong> <em>child</em> | hu: <strong>halu</strong> <em>algorithm</em>
 </div>
-[3]Tactile Alphabet
-There is a tactile alphabet, for use by blind and visually-impaired language users.
+[3]Tactile Syllabary
+There is a tactile syllabary for use by blind and visually-impaired language users.
 Each cell is three rows by two columns of raised dots. The upper four dots generally denote the consonant, with syllables beginning with b, d, j, g, f or x being the exceptions. The lowest pair generally denote the vowel.
 [t] | &#x294; | p | b | t | d | c | j | k | g | m | n | q | l | r | f | s | x | h
 [r]a | &#x2801; | &#x2803; | &#x2823; | &#x2809; | &#x2829; | &#x2812; | &#x2832; | &#x2811; | &#x2831; | &#x280B; | &#x2819; | &#x281A; | &#x280A; | &#x281B; | &#x280C; | &#x2813; | &#x2821; | &#x2802;
