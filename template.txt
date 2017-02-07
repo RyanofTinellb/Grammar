@@ -8,7 +8,7 @@
 {stylesheet}
 </head>
 <div class="nav-header">
-{nav-header}
+{family-links}
 </div>
 <div class="content">
 {content}

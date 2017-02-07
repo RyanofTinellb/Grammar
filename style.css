@@ -44,6 +44,10 @@ div.nav-header li.link {
 	list-style: disc;
 }
 
+div.nav-header li.up-arrow {
+	margin-top: 1em;
+}
+
 ul {
 	list-style: none;
 }
@@ -89,17 +93,19 @@ div.content ul {
 }
 
 table {
-	margin-left: auto;
+	margin-left: -5%;
 	margin-right: auto;
 	text-align: center;
 }
 
-th {
-	text-align: center;
+tr:first-child {
+	font-weight: bold;
 }
 
-th:first-child {
+tr td:first-child {
 	text-align: right;
+	font-weight: bold;
+	width: 15em;
 }
 
 td {

@@ -41,11 +41,11 @@ High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the onl
 [3]Consonants
 Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
 [t] | labial | alveolar | palatal | velar | glottal
-[r]stop | p b | t d | c &#x25f; &lt;j&gt; | k g | &#x294; &lt;&rsquo;&gt;
-[r]nasal | m | n |  | &#x14b; &lt;q&gt;
-[r]lateral |  | l
-[r]central |  | &#x279; &lt;r&gt;
-[r]fricative | f | s | &#x255; &lt;x&gt; |  | h
+[r]stop | <ipa>p b</ipa> | <ipa>t d</ipa> | <ipa>c &#x25f;</ipa> &lt;j&gt; | <ipa>k g</ipa> | <ipa>&#x294;</ipa> &lt;&rsquo;&gt;
+[r]nasal | <ipa>m</ipa> | <ipa>n</ipa> |  | <ipa>&#x14b;</ipa> &lt;q&gt;
+[r]lateral |  | <ipa>l</ipa>
+[r]central |  | <ipa>&#x279;</ipa> &lt;r&gt;
+[r]fricative | <ipa>f</ipa> | <ipa>s</ipa> | <ipa>&#x255;</ipa> &lt;x&gt; |  | <ipa>h</ipa>
 [/t]
 This table shows the consonants phonemically, using the International Phonetic Alphabet. Where it differs from IPA, the transliteration is given in &lt;triangular brackets&gt;. Capital or geminate glottal stops are transliterated with &lt;&#x294;&gt;.
 [4]Stops
@@ -53,7 +53,7 @@ Plosives are differentiated by voicing, although voiced consonants tend to be ra
 The voiced plosives are fully voiced word-internally and partially voiced word-initially. Voiced geminate plosives are given breathy voice. Voiceless plosives are lightly aspirated, which is suppressed in voiceless geminate plosives.
 Geminate plosives are held for approximately twice as long as non-geminate plosives.
 [5]Labials
-The plosives /p/ and /b/ are bilabial.
+The plosives <ipa>/p/</ipa> and <ipa>/b/</ipa> are bilabial.
 [f]<strong>pu&rsquo;iba</strong> <em>ball</em>
 [e]<strong>qapi</strong> <em>rope</em>
 [e]<strong>kuppu</strong> <em>be strong</em>
@@ -61,7 +61,7 @@ The plosives /p/ and /b/ are bilabial.
 [e]<strong>huba</strong> <em>to breathe</em>
 [e]<strong>sabba</strong> <em>father</em>
 [5]Alveolars
-The plosives /t/ and /d/ are apical.
+The plosives <ipa>/t/</ipa> and <ipa>/d/</ipa> are apical.
 [f]<strong>turassi</strong> <em>redhead</em>
 [e]<strong>fi&rsquo;atu</strong> <em>certain</em>
 [e]<strong>matta</strong> <em>again</em>
@@ -69,7 +69,7 @@ The plosives /t/ and /d/ are apical.
 [e]<strong>xidu</strong> <em>far away</em>
 [e]<strong>kuddu</strong> <em>rain</em>
 [5]Palatal
-The plosives /c/ and /&#x25f;/ are laminal. In fast speech, they can approach the affricates /t&#x283;/ and /d&#x292;/.
+The plosives <ipa>/c/</ipa> and <ipa>/&#x25f;/</ipa> are laminal. In fast speech, they can approach the affricates <ipa>/t&#x283;/</ipa> and <ipa>/d&#x292;/</ipa>.
 [f]<strong>cissa</strong> <em>air</em>
 [e]<strong>xuci</strong> <em>feather</em>
 [e]<strong>nacca</strong> <em>clothing</em>
@@ -77,7 +77,7 @@ The plosives /c/ and /&#x25f;/ are laminal. In fast speech, they can approach th
 [e]<strong>sajimu</strong> <em>crack</em>
 [e]<strong>majja</strong> <em>here</em>
 [5]Velars
-The velar plosives are /k/ and /g/.
+The velar plosives are <ipa>/k/</ipa> and <ipa>/g/</ipa>.
 [f]<strong>ka&rsquo;u</strong> <em>jump</em>
 [e]<strong>&rsquo;isaki</strong> <em>cooperate</em>
 [e]<strong>nukki</strong> <em>strawberry</em>
@@ -85,7 +85,7 @@ The velar plosives are /k/ and /g/.
 [e]<strong>danagi</strong> <em>decree</em>
 [e]<strong>saggi</strong> <em>iron pyrites</em>
 [5]Glottal
-The glottal stop is one of the most common sounds. Non-geminate glottal stops are often suppressed between unstressed vowels. The second of a geminate glottal stop becomes a palatal approximant /j/.
+The glottal stop <ipa>/&#x294;/</ipa> is one of the most common sounds. Non-geminate glottal stops are often suppressed between unstressed vowels. The second of a geminate glottal stop becomes a palatal approximant <ipa>/j/</ipa>.
 [f]<strong>&rsquo;anu</strong> balance
 [e]<strong>kuli&rsquo;a</strong> friend
 [e]<strong>nasi&#x294;u</strong> sheep
@@ -93,24 +93,24 @@ The glottal stop is one of the most common sounds. Non-geminate glottal stops ar
 There are nasal consonants at each of the places of articulation of the plosives. However, the palatal nasal is only found when geminating the alveolar nasal. Nasals are prototypically voiced. Geminate nasals are held for 1 &frac12; times as long as non-geminates.
 
 [5]Labial
-The labial nasal /m/ is bilabial.
+The labial nasal <ipa>/m/</ipa> is bilabial.
 [f]<strong>mana</strong> <em>bubble</em>
 [e]<strong>salumi</strong> <em>seven</em>
 [e]<strong>lupumma</strong> <em>fire</em>
 [5]Alveolar
-The alveolar nasal /n/ is apical. When geminated, this sound is palatal and laminal.
+The alveolar nasal <ipa>/n/</ipa> is apical. When geminated, this sound is palatal and laminal.
 [f]<strong>nu</strong> <em>to</em> <em>stop</em>
 [e]<strong>lulani</strong> <em>queen</em>
 [e]<strong>sinna</strong> <em>story</em>
 [5]Velar
-The nasal /&#x14b;/ is velar.
+The nasal <ipa>/&#x14b;/</ipa> is velar.
 [f]<strong>quliru</strong> <em>family</em>
 [e]<strong>kunaqi</strong> <em>earth</em>
 [e]<strong>laqqu</strong> <em>wealth</em>
 [4]Approximants
 The approximants are mainly differentiated by laterality. This language lacks phonemic glides. Like nasals, approximants are prototypically voiced, and geminates are held for 1 &frac12; times as long as non-geminates.
-The consonant /l/ is lateral and apical. When geminated, this sound is laminal and palatal.
-The consonant /&#x279;/ is central and laminal. When geminated, this sound becomes a trill.
+The consonant <ipa>/l/</ipa> is lateral and apical. When geminated, this sound is laminal and palatal.
+The consonant <ipa>/&#x279;/</ipa> is central and laminal. When geminated, this sound becomes a trill.
 [f]<strong>lassi</strong> baby
 [e]<strong>kulu</strong> fork
 [e]<strong>malliju</strong> happiness
@@ -121,45 +121,45 @@ The consonant /&#x279;/ is central and laminal. When geminated, this sound becom
 <strong>Fricatives</strong> do not have complete closure of the vocal tract, but are formed with enough constriction to bring turbulence to the airstream.
 Fricatives are prototypically voiceless. The lips remain unrounded for all fricatives unless followed or preceded by a rounded vowel. Geminate fricatives are held for 1 &frac12; times as long as non-geminates.
 [5]Labial
-The fricative /f/ is realised as labiodental.
+The fricative <ipa>/f/</ipa> is realised as labiodental.
 [f]<strong>faxi</strong> to survive
 [e]<strong>bufiqi</strong> illness
 [e]<strong>kilaffi</strong> three
 [5]Alveolar
-The fricative /s/ is apical.
+The fricative <ipa>/s/</ipa> is apical.
 [f]<strong>sikka</strong> <em>skin</em>
 [e]<strong>husabi</strong> <em>finger</em>
 [e]<strong>&rsquo;alissa</strong> <em>to</em> <em>need</em>
 [5]Palatal
-The palatal fricative /&#x255;/ is laminal.
+The palatal fricative <ipa>/&#x255;/</ipa> is laminal.
 [f]<strong>xaha</strong> <em>name</em>
 [e]<strong>puxila</strong> <em>message</em>
 [e]<strong>dixxa to</strong> <em>drink</em>
 [5]Glottal
-The fricative /h/ is a voiceless sound. When geminate, it is pronounced as a palatal fricative.
+The fricative <ipa>/h/</ipa> is a voiceless sound. When geminate, it is pronounced as a palatal fricative.
 [f]<strong>hannaku</strong> <em>cat</em>
 [e]<strong>tihu</strong> <em>to dwell</em>
 [e]<strong>quhha</strong> <em>river</em>
 [3]Vowels
 There are three phonemic vowels, with three main allophones for each. The vowels are distinguished by closeness and frontness.
 [t] | front | central | back
-[r]close | i | (&#x268;) (&#x289;) | u
-[r]mid |  | (&#x259;)
-[r]open | a
+[r]close | <ipa>i</ipa> | <ipa>(&#x268;) (&#x289;)</ipa> | <ipa>u</ipa>
+[r]mid |  | <ipa>(&#x259;)</ipa>
+[r]open | <ipa>a</ipa>
 [/t]
 There are three phonemic vowels: two close vowels and one open. These are given in the above chart, with the variant allophones in (round brackets). The central and mid vowels are considered the lax variants, while the lengthened vowels are long.
 [4]Front
-The front close vowel is unrounded. It is realised as /i/ or /&#x268;/.
+The front close vowel is unrounded. It is realised as <ipa>/i/</ipa> or <ipa>/&#x268;/</ipa>.
 [f]<strong>mici</strong> <em>peace</em>
 [e]<strong>dinaku</strong> <em>mirror</em>
 [e]<strong>lu&rsquo;i</strong> <em>love</em>
 [4]Open
-The open vowel is unrounded. It can be realised as /a/ or /&#x259;/.
+The open vowel is unrounded. It can be realised as <ipa>/a/</ipa> or <ipa>/&#x259;/</ipa>.
 [f]<strong>kanama</strong> <em>to play</em>
 [e]<strong>naru</strong> <em>slowly</em>
 [e]<strong>&rsquo;i&rsquo;uja</strong> <em>table</em>
 [4]Back
-The back close vowel is rounded. It can be realised as /u/ or /&#x289;/.
+The back close vowel is rounded. It can be realised as <ipa>/u/</ipa> or <ipa>/&#x289;/</ipa>.
 [f]<strong>mulu</strong> <em>blood</em>
 [e]<strong>bunali</strong> <em>rhyme</em>
 [e]<strong>riccu</strong> <em>sphere</em>
