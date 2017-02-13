@@ -925,6 +925,13 @@ There can be a suffixed <strong>ju&rsquo;i</strong> <em>link</em> for spouses&rs
 [e]offspring-link-2<small-caps>gen</small-caps>
 [e]&ldquo;your step-daughter&rdquo;
 Other kinship terms began as nuclear family names, but were thence extended across a generation. So <strong>kaqqa</strong> <em>brother</em> and <strong>kica</strong> <em>sister</em> can also be applied to cousins.
+[3]Honorifics
+The suffix <strong>-fi</strong> can be added to abstract and inanimate nouns to show deference.
+
+Honorifics for people consist of a word prefixed to the person&rsquo;s name. The general honorific is <strong>gusu</strong> (person).
+
+The honorific can be a jobtitle.
+[f]<strong>hisubaRa&rsquo;ani</strong> (Administrator Ryan)
 [1]Appendices
 This section contains information and rules that apply to all the Tinellbian languages, and their use on this site.
 [2]Glossing
