@@ -239,6 +239,10 @@ high-lulani:after {
 			-moz-column-count: 1; /* Firefox */
 			column-count: 1;
 	}
+	
+	div.nav-header {
+		position: static;
+	}
 }
 
 @media screen and (max-width: 740px) {
