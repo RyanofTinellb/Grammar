@@ -22,6 +22,8 @@ div.nav-header {
 	color: cornsilk;
 	font-weight: bold;
 	position: fixed;
+	overflow: auto;
+	height: 100%;
 }
 
 div.nav-header a {

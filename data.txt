@@ -454,8 +454,8 @@ Adpositions can also be used in conjunction with nouns and verbs to make compoun
 Adpositions can be used by themselves to show the position of the action relative to the speaker, or the direction in which the action proceeds. Unlike other adverbs, these are placed after the auxiliary.
 [f]<strong>&rsquo;adi</strong> nearby
 [e]<strong>qa hussu</strong> drop down (<strong>qa</strong> down ; <strong>hussu</strong> drop)
-[3]Adjectives
-There is a closed class of true <strong>adjectives</strong>, words used to give qualities of a noun.
+[3]Determiners
+There is a closed class of <strong>determiners</strong>, words used to narrow the reference of a noun.
 [f]<strong>mimu&rsquo;i</strong> <em>some</em>
 [e]<strong>fi&rsquo;atu</strong> <em>certain</em>
 [e]<strong>sabufi</strong> <em>different</em>
@@ -930,7 +930,7 @@ The suffix <strong>-fi</strong> can be added to abstract and inanimate nouns to 
 
 Honorifics for people consist of a word prefixed to the person&rsquo;s name. The general honorific is <strong>gusu</strong> (person).
 
-The honorific can be a jobtitle.
+The honorific can be a job title.
 [f]<strong>hisubaRa&rsquo;ani</strong> (Administrator Ryan)
 [1]Appendices
 This section contains information and rules that apply to all the Tinellbian languages, and their use on this site.
@@ -938,7 +938,7 @@ This section contains information and rules that apply to all the Tinellbian lan
 Whenever the meaning of a Tinellbian phrase or sentence is explained morpheme by morpheme, these rules are used.
 [3]Glossing Rules
 The Leipzig glossing rules are used throughout this site. A summary thereof will be presented here. The three letter abbreviations used for functional morphemes are given on the next page.
-[n]A content mropheme is written in either roman or italic type.
+[n]A content morpheme is written in either roman or italic type.
 A function morpheme is written in <small-caps>small-caps</small-caps>.
 A hyphen ( - ) is used to separate morphemes.
 When two or more English content morphemes correspond to a single Tinellbian morpheme, an underscore ( _ ) is used to separate them.
