@@ -321,11 +321,12 @@ Indefinite pronouns are not marked for animacy.
 [r]universal | &rsquo;aba | batuja | - | -
 [r]existential | &rsquo;umi | mituja | fana | fana
 [/t]
+There are also pro-verbs for each row of this table.
 [l]The pronouns in the <strong>object</strong> column are used for people and things.
 The <strong>place</strong> column pronouns are used for locations in both space and time.
 The <strong>manner</strong> column is used to refer to the way in which an action is undertaken, and
 The <strong>state</strong> column refers to the condition of a thing.
-<strong>Objects</strong> and <strong>places</strong> are used as <strong>nouns</strong>, <strong>manners</strong> and <strong>states</strong> are used as adverbs.
+<strong>Objects</strong> and <strong>places</strong> are used as nouns, <strong>manners</strong> and <strong>states</strong> are used as adverbs.
 <strong>Proximate</strong> pronouns refer to objects and places physically or psychologically near the speaker, whereas
 <strong>Distal</strong> pronouns are used when the referent is far away.
 <strong>Interrogative</strong> pronouns are used in questions, and
@@ -357,6 +358,14 @@ The class of basic verbs is <strong>semi-closed</strong>. Basic verbs consist of
 [e]<strong>janni</strong> <em>to move</em>
 [e]<strong>kissa</strong> <em>to fight</em>
 [e]<strong>miku</strong> <em>to make red</em>
+[5]Indefinite Pro-verbs
+These act like the verbal forms of the indefinite pronouns.
+[f]<strong>marila</strong> <em>to do this</em>
+[e]<strong>kasila</strong> <em>to do that</em>
+[e]<strong>samila</strong> <em>to do what?</em>
+[e]<strong>culla</strong> <em>to do nothing</em>
+[e]<strong>&rsquo;abala</strong> <em>to do everything</em>
+[e]<strong>&rsquo;amila</strong> <em>to do something</em>
 [4]Compound Verbs
 In order to extend or specify the meaning of many verbs, verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of basic verbs.
 [f]<strong>&rsquo;isinna</strong> <em>to tell a story</em> (<strong>&rsquo;i</strong> <em>to speak</em> + <strong>sinna</strong> <em>story</em>)
@@ -427,6 +436,10 @@ A subclass of adverb are the <strong>modals</strong>, words used to denote prope
 [f]<strong>matta</strong> <em>again</em>
 [e]<strong>tasi</strong> <em>probably</em>
 [e]<strong>nufira</strong> <em>hopefully</em>
+Some modals dealing with time are zero-derived from abstract nouns.
+[f]<strong>musa</strong> <em>today</em>
+[e]<strong>laru</strong> <em>yearly</em>
+[e]<strong>tariti</strong> <em>at noon</em>
 [3]Suffixes
 [4]Derivational Suffixes
 There are many derivational suffixes which change a word from one part of speech to another.
