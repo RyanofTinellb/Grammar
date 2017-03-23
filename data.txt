@@ -311,43 +311,6 @@ Because of the nature of alienability, some contrasts can be made between posses
 Alienable possession is used in a hierarchy when the possessor is of higher rank than the possessed, and inalienable possession when the relationship is the other way around.
 [f]<strong>lulanipagu</strong> <em>my queen</em>
 [e]<strong>pagu</strong> <strong>mifasu</strong> <em>my vassal</em>
-[5]Indefinite Pronouns
-Indefinite pronouns are not marked for animacy.
-[t] | object | place | manner | state
-[r]proximate | mari | majja | madusi | marika
-[r]distal | kasi | kasuja | kadusi | kasika
-[r]interrogative | sama | satta | lara | saqqa
-[r]negative | cu&rsquo;i | qa&rsquo;i | - | -
-[r]universal | &rsquo;aba | batuja | - | -
-[r]existential | &rsquo;umi | mituja | fana | fana
-[/t]
-There are also pro-verbs for each row of this table.
-[l]The pronouns in the <strong>object</strong> column are used for people and things.
-The <strong>place</strong> column pronouns are used for locations in both space and time.
-The <strong>manner</strong> column is used to refer to the way in which an action is undertaken, and
-The <strong>state</strong> column refers to the condition of a thing.
-<strong>Objects</strong> and <strong>places</strong> are used as nouns, <strong>manners</strong> and <strong>states</strong> are used as adverbs.
-<strong>Proximate</strong> pronouns refer to objects and places physically or psychologically near the speaker, whereas
-<strong>Distal</strong> pronouns are used when the referent is far away.
-<strong>Interrogative</strong> pronouns are used in questions, and
-<strong>Negative</strong> pronouns are used in negative sentences.
-<strong>Universal</strong> means &ldquo;all&rdquo; or &ldquo;every&rdquo;,
-<strong>Existential</strong> means &ldquo;some&rdquo; or &ldquo;any&rdquo;.
-[/l]
-The &lsquo;object&rsquo; indefinite pronouns can modify a noun when used as a suffix. When <strong>cu&rsquo;i</strong> <em>nothing</em> is used as a suffix, it loses its last syllable. When <strong>&rsquo;umi</strong> <em>something</em> is used as a suffix, it loses its first syllable.
-[f]<strong>takacu</strong> <em>no sound</em>
-[e]<strong>manafamari</strong> <em>this country</em>
-[e]<strong>lulanimi</strong> <em>some queen</em>
-[e]<strong>kulu&rsquo;aba</strong> <em>every fork</em>
-[e]<strong>nullisama</strong> <em>which mountain?</em>
-[e]<strong>&#x294;usu&rsquo;aba filli&rsquo;abata</strong> <em>every me and every you</em>
-The existential markers are used in complements. For instance &ldquo;I learned what her name is.&rdquo;
-The dative marker is not applied to distal pronouns.
-Reduplicated indefinite pronouns with suffixed <strong>-ta</strong> <em>and</em> are used for emphasis.
-[f]<strong>sama samata</strong> <em>what the hell?</em>
-[e]<strong>cu&rsquo;i cu&rsquo;ita</strong> <em>nothing and no one</em>
-[e]<strong>qa&rsquo;i qa&rsquo;ita</strong> <em>never ever</em>
-[e]<strong>&rsquo;aba &rsquo;abata</strong> <em>absolutely everything</em>
 [3]Verbs
 A verb is a necessary part of any sentence, except for <strong>copular</strong> sentences (q.v.).
 [4]Basic Verbs
@@ -358,14 +321,6 @@ The class of basic verbs is <strong>semi-closed</strong>. Basic verbs consist of
 [e]<strong>janni</strong> <em>to move</em>
 [e]<strong>kissa</strong> <em>to fight</em>
 [e]<strong>miku</strong> <em>to make red</em>
-[5]Indefinite Pro-verbs
-These act like the verbal forms of the indefinite pronouns.
-[f]<strong>marila</strong> <em>to do this</em>
-[e]<strong>kasila</strong> <em>to do that</em>
-[e]<strong>samila</strong> <em>to do what?</em>
-[e]<strong>culla</strong> <em>to do nothing</em>
-[e]<strong>&rsquo;abala</strong> <em>to do everything</em>
-[e]<strong>&rsquo;amila</strong> <em>to do something</em>
 [4]Compound Verbs
 In order to extend or specify the meaning of many verbs, verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of basic verbs.
 [f]<strong>&rsquo;isinna</strong> <em>to tell a story</em> (<strong>&rsquo;i</strong> <em>to speak</em> + <strong>sinna</strong> <em>story</em>)
@@ -436,10 +391,79 @@ A subclass of adverb are the <strong>modals</strong>, words used to denote prope
 [f]<strong>matta</strong> <em>again</em>
 [e]<strong>tasi</strong> <em>probably</em>
 [e]<strong>nufira</strong> <em>hopefully</em>
+[5]Temporal Modals
 Some modals dealing with time are zero-derived from abstract nouns.
 [f]<strong>musa</strong> <em>today</em>
-[e]<strong>laru</strong> <em>yearly</em>
+[e]<strong>laru</strong> <em>this year</em>
 [e]<strong>tariti</strong> <em>at noon</em>
+Numbers can be suffixed to denote other times.
+[f]<strong>musa-hha</strong> <em>yesterday (day 0)</em>
+[e]<strong>musa-ra</strong> <em>tomorrow (day 2)</em>
+[e]<strong>laru-mullu</strong> <em>two years ago (year <overline>1</overline>)</em>
+[3]Deixis
+[4]Indefinite Pro-forms
+The indefinite pro-forms are sets of deictic words which can be placed into a table.
+[t] | object | place | action | manner | state
+[r]proximate | mari | majja | marila | madusi | marika
+[r]distal | kasi | kasuja | kasila | kadusi | kasika
+[r]interrogative | sama | satta | samila | lara | saqqa
+[r]negative | cu&rsquo;i | qa&rsquo;i | culla | - | -
+[r]universal | &rsquo;aba | batuja | &rsquo;abala | - | -
+[r]existential | &rsquo;umi | mituja | &rsquo;amila | fana | fana
+[/t]
+[l]<strong>Proximate</strong> forms have referents physically or psychologically near the speaker, whereas
+<strong>Distal</strong> forms are used when the referent is far away.
+<strong>Interrogative</strong> forms are used in questions, and
+<strong>Negative</strong> forms are used in negative sentences.
+<strong>Universal</strong> means &ldquo;all&rdquo; or &ldquo;every&rdquo;,
+<strong>Existential</strong> means &ldquo;some&rdquo; or &ldquo;any&rdquo;.
+[/l]
+[5]Indefinite Pronouns
+Unlike some personal pronouns, indefinite pronouns are not marked for animacy.
+[l]The pronouns in the <strong>object</strong> column are used for people and things.
+The <strong>place</strong> column pronouns are used for locations in both space and time.
+[/l]
+The &lsquo;object&rsquo; indefinite pronouns can modify a noun when used as a suffix. When <strong>cu&rsquo;i</strong> <em>nothing</em> is used as a suffix, it loses its last syllable. When <strong>&rsquo;umi</strong> <em>something</em> is used as a suffix, it loses its first syllable.
+[f]<strong>takacu</strong> <em>no sound</em>
+[e]<strong>manafamari</strong> <em>this country</em>
+[e]<strong>lulanimi</strong> <em>some queen</em>
+[e]<strong>kulu&rsquo;aba</strong> <em>every fork</em>
+[e]<strong>nullisama</strong> <em>which mountain?</em>
+[e]<strong>&#x294;usu&rsquo;aba filli&rsquo;abata</strong> <em>every me and every you</em>
+The existential markers are used in complements.
+[f]<strong>&#x294;usu li xaha-disi &rsquo;umi ru padissu.</strong>
+[e]<em>1<small-caps>int com</small-caps> name-<small-caps>3ani;gen</small-caps> something <small-caps>prs;gno</small-caps> learn.</em>
+[e]&ldquo;I learned what her name is.&rdquo;
+The dative marker is not applied to distal pronouns.
+Reduplicated indefinite pronouns with suffixed <strong>-ta</strong> <em>and</em> are used for emphasis.
+[f]<strong>sama samata</strong> <em>what the hell?</em>
+[e]<strong>cu&rsquo;i cu&rsquo;ita</strong> <em>nothing and no one</em>
+[e]<strong>qa&rsquo;i qa&rsquo;ita</strong> <em>never ever</em>
+[e]<strong>&rsquo;aba &rsquo;abata</strong> <em>absolutely everything</em>
+[4]Pro-verbs
+The <strong>action</strong> terms are pr-verbs, which can be used to replace ordinary verbs in sentences.
+[f]<strong>Filli samila qixa?</strong>
+[e]<em><small-caps>2int</small-caps> do_what <small-caps>pst;dyn</small-caps>?</em>
+[e]&ldquo;What did you do?&rdquo;
+[4]Pro-modals
+The <strong>manner</strong> column is used to refer to the way in which an action is undertaken, and the <strong>state</strong> column refers to the condition of a thing. These are used as modal adverbs.
+[4]Possessive Markers
+An item possessed by the third-person subject of a matrix clause need not appear with a genitive marker, whether the possession is alienable or inalienable.
+[f]<strong>Sabba &rsquo;usa tu.</strong>
+[e]<em>Father see daughter.</em>
+[e]&ldquo;Dad saw his daughter.&rdquo;
+If a genitive marker does appear, it takes the form <strong>su&rsquo;a</strong> <em>own</em>.
+[f]<strong>Sabba &rsquo;usa tusu&rsquo;a.</strong>
+[e]<em>Father saw daughter-own.</em>
+[e]&ldquo;Dad spoke to his daughter.&rdquo;
+The usual genitive markers refer to possession by some other party, not the subject.
+[f]<strong>Sabba  tu li dasi raninidisi labu hiqa.</strong>
+[e]<em>Father offspring <small-caps>com</small-caps> eat potato-<small-caps>dim-3ani;gen fut;dyn</small-caps> order.</em>
+[e]&ldquo;Dad asked his daughter to eat her chips.&rdquo;
+[f]<strong>Sabba tu li dasi raninisu&rsquo;a labu hiqa.</strong>
+[e]<em>Father offspring <small-caps>com</small-caps> eat potato-<small-caps>dim</small-caps>-own <small-caps>fut;dyn</small-caps> order.</em>
+[e]&ldquo;Dad asked my daughter to eat his chips.&rdquo;
+None of the above applies for first- and second-person subjects; these use their normal genitive markers.
 [3]Suffixes
 [4]Derivational Suffixes
 There are many derivational suffixes which change a word from one part of speech to another.
@@ -571,24 +595,6 @@ These example sentences have been given to clarify alignment and the correct use
 [e]<small-caps>3ani.int pst;sta</small-caps> <em>eat</em><small-caps> 3ina.tra</small-caps>
 [e]&ldquo;She was eating it.&rdquo;
 As can be seen, the only time the transitive case is used for the subject of a clause is in transitive (as well as copular) sentences using dynamic or iterative auxiliaries.
-[3]Deixis
-[4]Possessive Markers
-An item possessed by the third-person subject of a matrix clause need not appear with a genitive marker, whether the possession is alienable or inalienable.
-[f]<strong>Sabba &rsquo;usa tu.</strong>
-[e]<em>Father see daughter.</em>
-[e]&ldquo;Dad saw his daughter.&rdquo;
-If a genitive marker does appear, it takes the form <strong>su&rsquo;a</strong> <em>own</em>.
-[f]<strong>Sabba &rsquo;usa tusu&rsquo;a.</strong>
-[e]<em>Father saw daughter-own.</em>
-[e]&ldquo;Dad spoke to his daughter.&rdquo;
-The usual genitive markers refer to possession by some other party, not the subject.
-[f]<strong>Sabba  tu li dasi raninidisi labu hiqa.</strong>
-[e]<em>Father offspring <small-caps>com</small-caps> eat potato-<small-caps>dim-3ani;gen fut;dyn</small-caps> order.</em>
-[e]&ldquo;Dad asked his daughter to eat her chips.&rdquo;
-[f]<strong>Sabba tu li dasi raninisu&rsquo;a labu hiqa.</strong>
-[e]<em>Father offspring <small-caps>com</small-caps> eat potato-<small-caps>dim</small-caps>-own <small-caps>fut;dyn</small-caps> order.</em>
-[e]&ldquo;Dad asked my daughter to eat his chips.&rdquo;
-None of the above applies for first- and second-person subjects; these use their normal genitive markers.
 [3]Argument Promotion
 The first noun in a clause is the subject, which is prototypically the agent in transitive sentences and the patient in intransitive sentences. However, suffixes can be added to the verb to promote other nouns in the clause, other than the genitive.
 There are three such verbal suffixes, which can be stacked, however, once something has been shifted from the subject position, it can&rsquo;t be promoted again.
@@ -808,7 +814,7 @@ Here are the names for the one-digit numbers:
 [e]<strong><overline>3</overline></strong> <em>bila</em>
 [e]<strong><overline>2</overline></strong> <em>karallu</em>
 [e]<strong><overline>1</overline></strong> <em>mullu</em>
-[e]<strong>0</strong> <em>qikka</em>
+[e]<strong>0</strong> <em>(qi)hha</em>
 [e]<strong>1</strong> <em>xita</em>
 [e]<strong>2</strong> <em>ra</em>
 [e]<strong>3</strong> <em>kifi</em>
@@ -816,17 +822,20 @@ Here are the names for the one-digit numbers:
 [e]<strong>5</strong> <em>guhi</em>
 [e]<strong>6</strong> <em>&rsquo;usi</em>
 [e]<strong>7</strong> <em>salumi</em>
-
+The full form <strong>qihha</strong> <em>zero</em> is only used when by itself, or first in a number or noun phrase.
 [5]Two-digit Numbers
 Numbers between 1<overline>7</overline> and 16 are composed of the prefix <strong>sa</strong> and the final two syllables of the number, except for:
 [f]<strong>sabilla</strong> (not <strong>sabila</strong>) 1<overline>3</overline>
 [e]<strong>salura</strong> (not <strong>sara</strong>) 12
+Round numbers, <em>i.e.:</em> numbers ending with a single zero, use the suffix <strong>-hha</strong>.
+[f]<strong>sahha</strong> 10
+[e]<strong>rahha</strong> 20
+[e]<strong>kifihha</strong> 30
 All other two digit numbers, except for 22, are formed by juxtaposing the tens digit with the units.
 [f]<strong>mullukifi</strong> <overline>1</overline>3
 [e]<strong>xitasalumi</strong> 17
 [e]<strong>ranuru</strong> 24
 [e]<strong>kifilaffi</strong> 3<overline>5</overline>
-[e]<strong>&rsquo;usiqikka</strong> 60
 The word for 22, the exception, is <strong>ranira</strong>.
 [5]Three- and Four-digit Numbers
 Three- and four-digit numbers are divided into the number of hundreds, and the remainder. This remainder is always the last two digits of the number.
@@ -835,7 +844,7 @@ Other three-digit numbers beginning with a 1 are formed by prefixing <strong>tak
 [f]<strong>takkinurukarallu</strong> 14<overline>2</overline>
 Three- and four-digit numbers greater than this are formed by appending <strong>takki</strong> to the number of hundreds, which is then followed by the remainder as a separate word. 
 [f]<strong>guhitakki &rsquo;usibila</strong> 56<overline>3</overline>
-[e]<strong>saqikkatakki kifinuru</strong> 1034
+[e]<strong>sahhatakki kifinuru</strong> 1034
 [e]<strong>karalluratakki missumullu</strong> <overline>2</overline>2<overline>4</overline><overline>1</overline>
 In any of these cases, if the remainder is zero, it is left off.
 [f]<strong>mullutakki</strong> <overline>1</overline>00

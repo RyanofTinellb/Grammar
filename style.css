@@ -130,7 +130,11 @@ small-caps {
 	font-style: normal;
 }
 
-p {
+div.content p {
+	font-family: sans-serif;
+}
+
+div.content li {
 	font-family: sans-serif;
 }
 
