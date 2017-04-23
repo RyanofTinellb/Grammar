@@ -472,25 +472,68 @@ These transform a verb into a noun (animate, inanimate or abstract), which playe
 For instance <strong>bumaki</strong> <em>screen</em> could mean <em>drawing</em> (object), <em>recipient of the message</em> (animate dative), <em>message</em> (complement object), et cetera. However, not all of these are necessarily accepted.
 [3]Adpositions
 <strong>Adpositions</strong> are a closed class.
-[f]<strong>di</strong> <em>up</em>
-[e]<strong>haru</strong> <em>with</em>
-[e]<strong>&rsquo;adi</strong> <em>close</em>
-[e]<strong>gibi</strong> <em>east</em>
-These can be used in three different ways.
-[4]Preposition
+[4]Uses
+Adpositions can be used in three different ways.
+[5]Preposition
 The most basic use for an adposition is prefixed to a noun to signify where the action is taking place with relation to a reference.
 [f]<strong>di&rsquo;i&rsquo;uja</strong> atop the table (<strong>di</strong> up ; <strong>&rsquo;i&rsquo;uja</strong> table
 [e]<strong>harululani</strong> with the queen (<strong>haru</strong> with ; <strong>lulani</strong> queen)
 [e]<strong>nicula</strong> in an egg (<strong>ni</strong> at ; <strong>cula</strong> egg)
 [e]<strong>qakalu&rsquo;ita&rsquo;i</strong> <em>down from the cart</em> (<strong>qa</strong> <em>down</em> ; <strong>kalu</strong> <em>from</em> ; <strong>&rsquo;ita&rsquo;i</strong> <em>cart</em>)
-[4]Nomninal and Verbal Modifier
+[5]Nominal and Verbal Modifier
 Adpositions can also be used in conjunction with nouns and verbs to make compounds.
-[f]<strong>jannigibi</strong> <em>to go east</em> (<strong>janni</strong> <em>to move</em> ; <strong>gibi</strong> <em>east</em>
+[f]<strong>jannigibi</strong> <em>to go east</em> (<strong>janni</strong> <em>to move</em> ; <strong>gibi</strong> <em>east</em>)
 [e]<strong>gusu&rsquo;adi</strong> <em>nearby people</em>
-[4]Adverb
+[5]Adverb
 Adpositions can be used by themselves to show the position of the action relative to the speaker, or the direction in which the action proceeds. Unlike other adverbs, these are placed after the auxiliary.
-[f]<strong>&rsquo;adi</strong> nearby
-[e]<strong>qa hussu</strong> drop down (<strong>qa</strong> down ; <strong>hussu</strong> drop)
+[f]<strong>&rsquo;adi</strong> <em>nearby</em>
+[e]<strong>qa hussu</strong> <em>drop down</em> (<strong>qa</strong> down ; <strong>hussu</strong> drop)
+[4]List
+[5]Cardinal Directions
+[f]<strong>ka</strong> <em>south</em>
+[e]<strong>sumika</strong> <em>west</em>
+[e]<strong>sani</strong> <em>north</em>
+[e]<strong>gibi</strong> <em>east</em>
+[5]Locations
+These can be used to refer to locations in either space or time
+[f]<strong>&rsquo;adi</strong> <em>near; now</em>
+[e]<strong>xidu</strong> <em>far</em>
+[f]<strong>di</strong> <em>up; above; atop; before</em>
+[e]<strong>qa</strong> <em>down; below; beneath; after</em>
+[f]<strong>&rsquo;ari</strong> <em>front; before</em>
+[e]<strong>capi</strong> <em>behind; after</em>
+[f]<strong>pa</strong> <em>towards; at</em>
+[e]<strong>ni</strong> <em>at; in; during</em>
+[e]<strong>kika</strong> <em>over</em>
+[5]Spatial Locations
+These can only be used to refer to locations in space.
+[f]<strong>jimuli</strong> <em>outside</em>
+[e]<strong>qu&rsquo;u</strong> <em>in; inside</em>
+[e]<strong>nifi</strong> <em>next to; beside; besides</em>
+[e]<strong>raqu</strong> <em>between; among</em>
+[e]<strong>du&rsquo;i</strong> <em>beyond; opposite</em>
+[e]<strong>la&rsquo;a</strong> <em>on a horizontal surface</em>
+[e]<strong>kadu</strong> <em>on a vertical surface</em>
+[5]Motion
+These refer to motion
+[f]<strong>data</strong> <em>backwards</em>
+[e]<strong>tirri</strong> <em>forwards</em>
+[e]<strong>ja</strong> <em>along</em>
+[e]<strong>ma&rsquo;iki</strong> <em>across</em>
+[e]<strong>tiku</strong> <em>around</em>
+[e]<strong>bi</strong> <em>out; out of; from</em>
+[5]Animates
+This group have animate objects.
+[f]<strong>haru</strong> <em>with</em>
+[e]<strong>ha</strong> <em>for the benefit of</em>
+[5]Inanimates
+This group have inanimate objects.
+[f]<strong>nidu</strong> <em>with; using</em>
+[e]<strong>sarru</strong> <em>without; instead of; rather than</em>
+[e]<strong>haru</strong> <em>consisting of</em>
+[e]<strong>nina</strong> <em>used for a purpose</em>
+[e]<strong>sata</strong> <em>in order to obtain</em>
+[e]<strong>&rsquo;arri</strong> <em>along with</em>
 [3]Determiners
 There is a closed class of <strong>determiners</strong>, words used to narrow the reference of a noun.
 [f]<strong>mimu&rsquo;i</strong> <em>some</em>
@@ -599,7 +642,7 @@ As can be seen, the only time the transitive case is used for the subject of a c
 The first noun in a clause is the subject, which is prototypically the agent in transitive sentences and the patient in intransitive sentences. However, suffixes can be added to the verb to promote other nouns in the clause, other than the genitive.
 There are three such verbal suffixes, which can be stacked, however, once something has been shifted from the subject position, it can&rsquo;t be promoted again.
 [4]Passive
-The suffix <strong>illu</strong> promotes the object. This suffix replaces the final vowel of the verb. The old subject is then marked with the ablative case. A sentence with this marker is intransitive. The demoted item is not compulsory, but if it is put in, it is the first ablative-marked noun in the new sentence.
+The suffix <strong>-illu</strong> promotes the object. This suffix replaces the final vowel of the verb. The old subject is then marked with the ablative case. A sentence with this marker is intransitive. The demoted item is not compulsory, but if it is put in, it is the first ablative-marked noun in the new sentence.
 [f]<strong>Fu qixa kissaji kilatu&rsquo;i!</strong>
 [e]<small-caps>2tra pst;dyn</small-caps> <em>fight</em><small-caps></small-caps> <em>deer</em>
 [e]&ldquo;You fought a deer!&rdquo;
