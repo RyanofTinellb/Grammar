@@ -382,7 +382,7 @@ The <strong>gnomic</strong> aspect is used for states and attributes that are al
 Verbs of perception being used intransitively can also occur with gnomic auxiliaries, to signify an ongoing ability to use a particular sense.
 [f]<strong>ru &rsquo;usa</strong> to be able to see
 [3]Adverbs
-<strong>Adverbs</strong> are a closed class. Adverbs can be used either as a verbal suffix or independently to describe the entire utterance.
+<strong>Adverbs</strong> are a closed class. Adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <strong><a href="../syntax/adverbialphrases.html">Adverbial Phrases</a></strong>
 [f]<strong>naru</strong> <em>slowly</em>
 [e]<strong>dura</strong> <em>repeatedly</em>
 [e]<strong>kupira</strong> <em>intensely</em> 
@@ -405,9 +405,9 @@ Numbers can be suffixed to denote other times.
 The indefinite pro-forms are sets of deictic words which can be placed into a table.
 [t] | object | place | action | manner | state
 [r]proximate | mari | majja | marila | madusi | marika
-[r]distal | kasi | kasuja | kasila | kadusi | kasika
-[r]interrogative | sama | satta | samila | lara | saqqa
-[r]negative | cu&rsquo;i | qa&rsquo;i | culla | - | -
+[r]distal | kasi | kasuja | kalisa | kadusi | kasika
+[r]interrogative | sama | satta | sulla | lara | saqqa
+[r]negative | cu&rsquo;i | qa&rsquo;i | buni | - | -
 [r]universal | &rsquo;aba | batuja | &rsquo;abala | - | -
 [r]existential | &rsquo;umi | mituja | &rsquo;amila | fana | fana
 [/t]
@@ -511,6 +511,7 @@ These can only be used to refer to locations in space.
 [e]<strong>qu&rsquo;u</strong> <em>in; inside</em>
 [e]<strong>nifi</strong> <em>next to; beside; besides</em>
 [e]<strong>raqu</strong> <em>between; among</em>
+[e]<strong>ca</strong> <em>encircling</em>
 [e]<strong>du&rsquo;i</strong> <em>beyond; opposite</em>
 [e]<strong>la&rsquo;a</strong> <em>on a horizontal surface</em>
 [e]<strong>kadu</strong> <em>on a vertical surface</em>
@@ -818,12 +819,13 @@ The only compulsory component of a noun phrase is the noun itself.
 [e]<strong>&rsquo;adira xiku kaluqikanni tura pi xa&#x294;u</strong> (i-iii v vii) <em>near the two children who looked after dogs.</em>
 [e]<strong>julliga kiluquna &#x294;irri&rsquo;ajanni kasataqa &rsquo;ara</strong> (v vi vii-viii-ix-x)
 [e]<em>the faces of the married women <u>and the walker men who are going to Ir&igrave;a</u></em>.
+[
 [3]Gerunds
 Some verb phrases can be changed into nouns describing the activity.
 [f]<strong>Hubaru naqa</strong>.
 [e]<em>breathe</em>-<small-caps>ger</small-caps> <em>necessary</em>
 [e]Breathing is necessary.
-[f]<strong>Mika ru kudasiruqa dasu jaha</strong>.
+[f]<strong>Mika ru ku-dasi-ru-qa dasu jaha</strong>.
 [e]<em>some.group</em> <small-caps>prs;gno</small-caps> <small-caps>dat</small-caps><em>-eat-</em><small-caps>ger</small-caps><em>-</em><small-caps>gen</small-caps> <em>meat offend</em>
 [e]Eating meat offends some people.
 [3]Comparatives
