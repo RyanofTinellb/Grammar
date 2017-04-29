@@ -651,7 +651,7 @@ The suffix <strong>-illu</strong> promotes the object. This suffix replaces the 
 [e]<em>deer</em><small-caps> pst;dyn (2abl)</small-caps> <em>fight</em><small-caps>-psv</small-caps>
 [e]&ldquo;A deer was fought (by you).&rdquo;
 [4]Ablative
-The suffix <strong>pakka</strong> <small-caps>abp</small-caps> promotes an ablative. The old subject is demoted to object, and the old object is demoted to dative. A sentence with this marker is transitive. The first dative-marked noun in the new sentence is the demoted item.
+The suffix <strong>-kka</strong> <small-caps>abp</small-caps> promotes an ablative. The old subject is demoted to object, and the old object is demoted to dative. A sentence with this marker is transitive. The first dative-marked noun in the new sentence is the demoted item.
 [f]<strong>Lulani qixa kalukimilli dasi qasa</strong>.
 [e]<em>queen</em><small-caps> pst;dyn abl-</small-caps><em>king</em><small-caps></small-caps> <em>eat</em><small-caps></small-caps> <em>fish</em>
 [e]&ldquo;The queen ate a fish because of the king.&rdquo;
@@ -819,7 +819,6 @@ The only compulsory component of a noun phrase is the noun itself.
 [e]<strong>&rsquo;adira xiku kaluqikanni tura pi xa&#x294;u</strong> (i-iii v vii) <em>near the two children who looked after dogs.</em>
 [e]<strong>julliga kiluquna &#x294;irri&rsquo;ajanni kasataqa &rsquo;ara</strong> (v vi vii-viii-ix-x)
 [e]<em>the faces of the married women <u>and the walker men who are going to Ir&igrave;a</u></em>.
-[
 [3]Gerunds
 Some verb phrases can be changed into nouns describing the activity.
 [f]<strong>Hubaru naqa</strong>.
@@ -1015,7 +1014,7 @@ When a single Tinellbian function morpheme fulfills two or more grammatical role
 These are all the three letter abbreviations used in glosses.
 <div class="glossary">
 <small-caps>abl</small-caps> - ablative
-<small-caps>abp</small-caps> - ablative promotion
+<small-caps>abv</small-caps> - ablative promotion
 <small-caps>adv</small-caps> - adverbialiser
 <small-caps>ani</small-caps> - animate
 <small-caps>com</small-caps> - complementiser
