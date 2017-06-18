@@ -7,14 +7,14 @@ Within the universe named Tinellb, there is a planet named Ptoko. There arose on
 There had been many conflicts, small and large, throughout their history. One particularly bloody war had had much of the population brought into it: a World War. The survivors of this war were ruled by a single monarch.
 Generations passed. The people rebuilt their shattered world. The newest ruler, Queen Loren, decided to create an international language to promote peace amongst her subjects. She named this language Lulani after herself.
 Despite their shared language, as more time went by, fractures again showed between nations. Another world war ensued. A great weapon was created, one that tore apart space-time, flinging its victims far out into the universe.
-One such group were the Fezhl&ecirc;. They found themselves on a world already inhabited by the Zhaladi. The Fezhl&ecirc; tongue evolved independently from Lulani, and was influenced by Zhaladi dialects.
+One such group were the Fezhel. They found themselves on an empty world. The Fezhel tongue evolved independently from Lulani, and was later heavily influenced by Zhaladi dialects.
 The people that remained on Ptoko slowly grew back towards peace. Their vernacular evolved into Ptokan, and thence into Tsarin. By the time of Tsarin, Lulani was used only for science and the arts, not for everyday use.
 Tsarin was spoken in the realm of Tsarein.
 [l]HL: High Lulani
 VL: Vulgar Lulani
-EF: Early Fezhl&ecirc;
-LF: Late Fezhl&ecirc;
-KF: Koine Fezhl&ecirc;
+EF: Early Fezhel
+LF: Late Fezhel
+KF: Koine Fezhel
 OP: Old Ptokan
 MP: Middle Ptokan
 SP: Standard Ptokan
@@ -33,7 +33,7 @@ MS: Modern Solajin
 [/l]
 [3]External History
 I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <strong>mica</strong> <em>hello</em> dates from that time.
-When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what was to be the Ptokan language, and the language of the Fezhl&ecirc;. The latter  was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt.
+When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what was to be the Ptokan language, and the language of the Fezhel. The latter  was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhel have been forced to change somewhat to adapt.
 [1]High Lulani
 High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.
 [2]Phonology
@@ -59,7 +59,7 @@ The plosives <ipa>/p/</ipa> and <ipa>/b/</ipa> are bilabial.
 [e]<strong>kuppu</strong> <em>be strong</em>
 [e]<strong>bufi</strong> <em>pebble</em>
 [e]<strong>huba</strong> <em>to breathe</em>
-[e]<strong>sabba</strong> <em>father</em>
+[e]<strong>kibba</strong> <em>stick</em>
 [5]Alveolars
 The plosives <ipa>/t/</ipa> and <ipa>/d/</ipa> are apical.
 [f]<strong>turassi</strong> <em>redhead</em>
@@ -258,12 +258,12 @@ The first part of a compound noun must be a noun, and the subsequent parts speci
 Pronouns are a closed class.
 [5]Personal Pronouns
 Personal pronouns are marked for case and person. Third person pronouns are marked for animacy.
-[t] | 1st person | 2nd person | 3rd person animate | 3rd person inanimate
-[r]intranstitive (abs / nom) | &rsquo;usu | filli | mihu | pa
-[r]transitive (erg / acc) | suma | fu | quhu | &rsquo;iffa
-[r]ablative | puttu | sacu | kassi | kalu
-[r]dative | pixi | ba&rsquo;u | jusi | ku
-[r]genitive | pagu | ba | disi | qa
+[t] | 1st person | 2nd person | 3rd person topic | 3rd person animate | 3rd person inanimate
+[r]intranstitive (abs / nom) | &rsquo;usu | filli | (su&rsquo;a) | mihu | pa
+[r]transitive (erg / acc) | suma | fu | (su&rsquo;a) | quhu | &rsquo;iffa
+[r]ablative | puttu | sacu | raja | kassi | kalu
+[r]dative | pixi | ba&rsquo;u | datu | jusi | ku
+[r]genitive | pagu | ba | su&rsquo;a | disi | qa
 [/t]
 <strong>Case</strong> will be discussed in a later section.
 [6]Person
@@ -476,18 +476,18 @@ For instance <strong>bumaki</strong> <em>screen</em> could mean <em>drawing</em>
 Adpositions can be used in three different ways.
 [5]Preposition
 The most basic use for an adposition is prefixed to a noun to signify where the action is taking place with relation to a reference.
-[f]<strong>di&rsquo;i&rsquo;uja</strong> atop the table (<strong>di</strong> up ; <strong>&rsquo;i&rsquo;uja</strong> table
-[e]<strong>harululani</strong> with the queen (<strong>haru</strong> with ; <strong>lulani</strong> queen)
-[e]<strong>nicula</strong> in an egg (<strong>ni</strong> at ; <strong>cula</strong> egg)
+[f]<strong>di&rsquo;i&rsquo;uja</strong> <em>atop the table</em> (<strong>di</strong> <em>up</em> ; <strong>&rsquo;i&rsquo;uja</strong> <em>table</em>)
+[e]<strong>harululani</strong> <em>with the queen</em> (<strong>haru</strong> <em>with</em> ; <strong>lulani</strong> <em>queen</em>)
+[e]<strong>nicula</strong> <em>in an egg</em> (<strong>ni</strong> <em>at</em> ; <strong>cula</strong> <em>egg</em>)
 [e]<strong>qakalu&rsquo;ita&rsquo;i</strong> <em>down from the cart</em> (<strong>qa</strong> <em>down</em> ; <strong>kalu</strong> <em>from</em> ; <strong>&rsquo;ita&rsquo;i</strong> <em>cart</em>)
 [5]Nominal and Verbal Modifier
 Adpositions can also be used in conjunction with nouns and verbs to make compounds.
 [f]<strong>jannigibi</strong> <em>to go east</em> (<strong>janni</strong> <em>to move</em> ; <strong>gibi</strong> <em>east</em>)
-[e]<strong>gusu&rsquo;adi</strong> <em>nearby people</em>
+[e]<strong>gusu&rsquo;adi</strong> <em>nearby people</em> (<strong>gusu</strong> <em>person</em> ; <strong>&rsquo;adi</strong> <em>near</em>)
 [5]Adverb
 Adpositions can be used by themselves to show the position of the action relative to the speaker, or the direction in which the action proceeds. Unlike other adverbs, these are placed after the auxiliary.
 [f]<strong>&rsquo;adi</strong> <em>nearby</em>
-[e]<strong>qa hussu</strong> <em>drop down</em> (<strong>qa</strong> down ; <strong>hussu</strong> drop)
+[e]<strong>qa hussu</strong> <em>drop down</em> (<strong>qa</strong> <em>down</em> ; <strong>hussu</strong> <em>drop</em>)
 [4]List
 [5]Cardinal Directions
 [f]<strong>ka</strong> <em>south</em>
@@ -979,18 +979,24 @@ Each of these terms can be compounded to refer to specific hues.
 [3]Kinship
 [4]Marriage
 <strong>Ju&rsquo;idukuru</strong> <em>marriage</em> is the life-bonding of two people. It is intended to be eternal, but can be broken if requested by either partner. It is not an exclusive arrangement, and one can be involved in concurrent marriages.
-A bonded female is called a <strong>julliga</strong> <em>married woman</em>, and the male equivalent is a <strong>xalli</strong> <em>married man</em>. These terms are not used with possessives. On the other hand, the words <strong>kitisu</strong> <em>wife</em> and <strong>silu</strong> <em>husband</em> are used with possessives.
+A bonded person is called a <strong>silu</strong> <em>spouse</em> when using possessive pronouns, and  <strong>xalli</strong> <em>married person</em> otherwise.
 [4]Nuclear Family
-The words <strong>sabba</strong> <em>father</em> and <strong>piha</strong> <em>mother</em> usually refer to biological parents, but can be applied to the main guardians if the biological parents are not around. These are used both with and without possessives.
+The words <strong>kitisu</strong> <em>father</em> and <strong>julliga</strong> <em>mother</em> usually refer to biological parents, but can be applied to the main guardians if the biological parents are not around. These are used without possessives.
+The following table shows the possessive forms:
+[t] | mother | father
+[r]1st person | pi&rsquo;apagu | sappagu
+[r]2nd person | pihaba | sabba
+[r]3rd person topic | pihasu&rsquo;a | sassu&rsquo;a
+[r]3rd person animate | pi&rsquo;adisi | saddisi[/t]
 There are two terms for children: <strong>tu</strong> <em>offspring</em> for postnatal children, <strong>&rsquo;appu</strong> <em>foetus</em> for antenatal. Both of these are gender-neutral, and are most often used with possessives.
 There can be a suffixed <strong>ju&rsquo;i</strong> <em>link</em> for spouses&rsquo; offspring and parents&rsquo; spouses.
-[f]<strong>sabbaju&rsquo;ipagu</strong>
-[e]father-link-1<small-caps>gen</small-caps>
+[f]<strong>sappaguju&rsquo;i</strong>
+[e]father;1<small-caps>gen</small-caps>-link
 [e]&ldquo;my step-father&rdquo;
 [f]<strong>tuju&rsquo;iba</strong>
 [e]offspring-link-2<small-caps>gen</small-caps>
 [e]&ldquo;your step-daughter&rdquo;
-Other kinship terms began as nuclear family names, but were thence extended across a generation. So <strong>kaqqa</strong> <em>brother</em> and <strong>kica</strong> <em>sister</em> can also be applied to cousins.
+Other kinship terms began as nuclear family names, but were thence extended across a generation. So <strong>kaqqa</strong> <em>elder sibling</em> and <strong>kica</strong> <em>younger sibling</em> can also be applied to cousins.
 [3]Honorifics
 The suffix <strong>-fi</strong> can be added to abstract and inanimate nouns to show deference.
 
@@ -1049,6 +1055,7 @@ These are all the three letter abbreviations used in glosses.
 <small-caps>rel</small-caps> - relativiser
 <small-caps>sjv</small-caps> - subjunctive
 <small-caps>sta</small-caps> - stative
+<small-caps>top</small-caps> - topic
 <small-caps>tra</small-caps> - transitive case
 <small-caps>trm</small-caps> - terminative
 </div>
