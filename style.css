@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @font-face {
     font-family: high-lulani;
-    src: url('http://www.tinellb.com/Lulani.ttf'); 
+    src: url('http://www.tinellb.com/Lulani.ttf');
 }
 
 div.nav-header {
@@ -233,19 +233,42 @@ high-lulani:after {
 	content: "\202c"
 }
 
+div.results {
+	text-align: justify;
+	line-height: 1.5;
+	text-indent: -2em;
+}
+
+div.results a {
+	color: black;
+}
+
+div.results ol {
+	list-style-position: inside;
+}
+
+.results li {
+	padding-bottom: .5em;
+}
+
+form {
+	margin-left: 15%;
+	text-indent: 0;
+}
+
 @media screen and (max-width: 900px) {
     div.glossary {
         	-webkit-column-count: 2; /* Chrome, Safari, Opera */
 			-moz-column-count: 2; /* Firefox */
 			column-count: 2;
     }
-	
+
 	div.glossary-2 {
 		    -webkit-column-count: 1; /* Chrome, Safari, Opera */
 			-moz-column-count: 1; /* Firefox */
 			column-count: 1;
 	}
-	
+
 	div.nav-header {
 		position: static;
 	}
@@ -257,16 +280,16 @@ high-lulani:after {
 			-moz-column-count: 1; /* Firefox */
 			column-count: 1;
     }
-	
+
 	div.nav-header {
 		float: none;
 		padding-left: 0;
 	}
-	
+
 	ul.level-1 {
 		padding-left: 5%;
 	}
-	
+
 	div.content {
 		margin-left: 0;
 	}
