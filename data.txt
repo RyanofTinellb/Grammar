@@ -343,7 +343,7 @@ The transitivity of a compound verb is the same as that of the base verb.
 [t] | dynamic | stative | negative | iterative | gnomic
 [r]past | qixa | pi | qilu | taku | rusa
 [r]present | cani | ra&rsquo;u | ji | na | ru
-[r]future | labu | nagi | funi | hu | ruku
+[r]future | lanu | nagi | funi | hu | ruku
 [/t]
 Auxiliary stacking gives a poetic or archaic nuance.
 [f]<strong>&#x294;usu rusarukuru lu&rsquo;i fu</strong>.
@@ -457,10 +457,10 @@ If a genitive marker does appear, it takes the form <strong>su&rsquo;a</strong> 
 [e]<em>Father saw daughter-own.</em>
 [e]&ldquo;Dad spoke to his daughter.&rdquo;
 The usual genitive markers refer to possession by some other party, not the subject.
-[f]<strong>Sabba  tu li dasi raninidisi labu hiqa.</strong>
+[f]<strong>Sabba  tu li dasi raninidisi lanu hiqa.</strong>
 [e]<em>Father offspring <small-caps>com</small-caps> eat potato-<small-caps>dim-3ani;gen fut;dyn</small-caps> order.</em>
 [e]&ldquo;Dad asked his daughter to eat her chips.&rdquo;
-[f]<strong>Sabba tu li dasi raninisu&rsquo;a labu hiqa.</strong>
+[f]<strong>Sabba tu li dasi raninisu&rsquo;a lanu hiqa.</strong>
 [e]<em>Father offspring <small-caps>com</small-caps> eat potato-<small-caps>dim</small-caps>-own <small-caps>fut;dyn</small-caps> order.</em>
 [e]&ldquo;Dad asked my daughter to eat his chips.&rdquo;
 None of the above applies for first- and second-person subjects; these use their normal genitive markers.
@@ -609,7 +609,7 @@ Sometimes the object is in an oblique case.
 [e]&ldquo;She can see the dog.&rdquo;
 [4]Copular Sentences
 <strong>Copular sentences</strong> do not have a main verb. These sentences are used to show an equivalence relationship between two nouns, or to show that one noun is an element of the set described by the other noun. They are transitive sentences.
-[f]<strong>Mihu labu julliga</strong>.
+[f]<strong>Mihu lanu julliga</strong>.
 [e]<small-caps>3ani;int</small-caps> <small-caps>fut;dyn</small-caps> <em>married_woman</em>
 [e]&ldquo;She will become a married woman.&rdquo;
 Another use of copular sentences is to tell the location of something in relation to something else.
@@ -643,7 +643,7 @@ As can be seen, the only time the transitive case is used for the subject of a c
 The first noun in a clause is the subject, which is prototypically the agent in transitive sentences and the patient in intransitive sentences. However, suffixes can be added to the verb to promote other nouns in the clause, other than the genitive.
 There are three such verbal suffixes, which can be stacked, however, once something has been shifted from the subject position, it can&rsquo;t be promoted again.
 [4]Passive
-The suffix <strong>-illu</strong> promotes the object. This suffix replaces the final vowel of the verb. The old subject is then marked with the ablative case. A sentence with this marker is intransitive. The demoted item is not compulsory, but if it is put in, it is the first ablative-marked noun in the new sentence.
+The passive suffix promotes the object. This suffix has the form <strong>-&rsquo;illu</strong> when the last element of a verb is monosyllabic, has <strong>-ilu</strong> replacing the final vowel if the final consonant is geminated, and has <strong>-illu</strong> replacing the final vowel of the verb elsewise. The old subject is then marked with the ablative case. A sentence with this marker is intransitive. The demoted item is not compulsory, but if it is put in, it is the first ablative-marked noun in the new sentence.
 [f]<strong>Fu qixa kissaji kilatu&rsquo;i!</strong>
 [e]<small-caps>2tra pst;dyn</small-caps> <em>fight</em><small-caps></small-caps> <em>deer</em>
 [e]&ldquo;You fought a deer!&rdquo;
@@ -651,7 +651,7 @@ The suffix <strong>-illu</strong> promotes the object. This suffix replaces the 
 [e]<em>deer</em><small-caps> pst;dyn (2abl)</small-caps> <em>fight</em><small-caps>-psv</small-caps>
 [e]&ldquo;A deer was fought (by you).&rdquo;
 [4]Ablative
-The suffix <strong>-kka</strong> <small-caps>abp</small-caps> promotes an ablative. The old subject is demoted to object, and the old object is demoted to dative. A sentence with this marker is transitive. The first dative-marked noun in the new sentence is the demoted item.
+When the final consonant of a verb is geminate, the ablative suffix takes the form <strong>-&rsquo;ika</strong>, elsewise it is <strong>-kka</strong>. The old subject is demoted to object, and the old object is demoted to dative. A sentence with this marker is transitive. The first dative-marked noun in the new sentence is the demoted item.
 [f]<strong>Lulani qixa kalukimilli dasi qasa</strong>.
 [e]<em>queen</em><small-caps> pst;dyn abl-</small-caps><em>king</em><small-caps></small-caps> <em>eat</em><small-caps></small-caps> <em>fish</em>
 [e]&ldquo;The queen ate a fish because of the king.&rdquo;
@@ -792,7 +792,7 @@ The modal <strong>da&rsquo;aru</strong> <em>experience</em> can be used to show 
 [f]<strong>Fu &rsquo;usa kuddu da&rsquo;aru qixa?</strong>
 [e]<small-caps>2tra</small-caps> <em>see rain experience</em> <small-caps>pst;dyn?</small-caps>
 [e]&ldquo;Have you ever seen the rain?&rdquo;
-[f]<strong>Fu lu&rsquo;isamma &rsquo;usu da&rsquo;aru labu?</strong>
+[f]<strong>Fu lu&rsquo;isamma &rsquo;usu da&rsquo;aru lanu?</strong>
 [e]2<small-caps>tra</small-caps> <em>love-true_love</em> <small-caps>1int</small-caps> <em>experience</em> <small-caps>fut;dyn</small-caps>
 [e]&ldquo;Could you ever love me?&rdquo;
 [3]Noun Phrases
