@@ -253,6 +253,12 @@ body {
 		width: 100%;
 	}
 
+  .content div.glossary {
+      -webkit-columns: 1; /* Chrome, Safari, Opera */
+      -moz-columns: 1; /* Firefox */
+      columns: 1;
+  }
+
   .nav-header {
 		position: static;
 		width: 100%;
