@@ -44,7 +44,7 @@ Consonants are differentiated by manner and place of articulation, and by word-i
 [r]stop | <ipa>p b</ipa> | <ipa>t d</ipa> | <ipa>c &#x25f;</ipa> &lt;j&gt; | <ipa>k g</ipa> | <ipa>&#x294;</ipa> &lt;&rsquo;&gt;
 [r]nasal | <ipa>m</ipa> | <ipa>n</ipa> |  | <ipa>&#x14b;</ipa> &lt;q&gt;
 [r]lateral |  | <ipa>l</ipa>
-[r]central |  | <ipa>&#x279;</ipa> &lt;r&gt;
+[r]central |  | <ipa>&#x27e;</ipa> &lt;r&gt;
 [r]fricative | <ipa>f</ipa> | <ipa>s</ipa> | <ipa>&#x255;</ipa> &lt;x&gt; |  | <ipa>h</ipa>
 [/t]
 This table shows the consonants phonemically, using the International Phonetic Alphabet. Where it differs from IPA, the transliteration is given in &lt;triangular brackets&gt;. Capital or geminate glottal stops are transliterated with &lt;&#x294;&gt;.
@@ -110,7 +110,7 @@ The nasal <ipa>/&#x14b;/</ipa> is velar.
 [4]Approximants
 The approximants are mainly differentiated by laterality. This language lacks phonemic glides. Like nasals, approximants are prototypically voiced, and geminates are held for 1 &frac12; times as long as non-geminates.
 The consonant <ipa>/l/</ipa> is lateral and apical. When geminated, this sound is laminal and palatal.
-The consonant <ipa>/&#x279;/</ipa> is central and laminal. When geminated, this sound becomes a trill.
+The consonant <ipa>/&#x27e;/</ipa> is central and laminal. When geminated, this sound becomes a trill.
 [f]<strong>lassi</strong> baby
 [e]<strong>kulu</strong> fork
 [e]<strong>malliju</strong> happiness
@@ -205,14 +205,13 @@ front vowel: vertical line
 back vowel: horizonal line
 [/l]
 [3]Spelling Syllabary
-There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol corresponds to the word <strong>fa&#x294;a</strong> <em>language</em>.
-<div class="glossary">
-&rsquo;a: <strong>&rsquo;ara</strong> <em>face</em>  | pa: <strong>pacca</strong> <em>number</em> | ba: <strong>bitta</strong> <em>time</em> | ta: <strong>tila</strong> <em>shell</em> | da: <strong>diha</strong> <em>bureaucrat</em>
+There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol is represented by the word <strong>fa&#x294;a</strong> <em>language</em>.
+<div class="glossary">&rsquo;a: <strong>&rsquo;ara</strong> <em>face</em>  | pa: <strong>pacca</strong> <em>number</em> | ba: <strong>bitta</strong> <em>time</em> | ta: <strong>tila</strong> <em>shell</em> | da: <strong>diha</strong> <em>bureaucrat</em>
 ca: <strong>cula</strong> <em>egg</em> | ja: <strong>jana</strong> <em>elder</em> | ka: <strong>kaqqa</strong> <em>brother</em>  | ga: <strong>gata</strong> <em>pendulum</em> | ma: <strong>marru</strong> <em>flies</em>
 na: <strong>nassa</strong> <em>euphoria</em> | qa: <strong>qasa</strong> <em>fish</em> | la: <strong>liffa</strong> <em>speech</em> | ra: <strong>rippa</strong> <em>surprise</em> | fa: <strong>fipa</strong> <em>storey</em>
 sa: <strong>sinna</strong> <em>story</em> | xa: <strong>xima</strong> <em>morning</em> | ha: <strong>hafa</strong> <em>race</em> | &rsquo;i: <strong>&rsquo;ussi</strong> <em>gift</em> | pi: <strong>paji</strong> <em>fruit</em>
 bi: <strong>basi</strong> <em>lid</em> |  ti: <strong>tuhhi</strong> <em>farming</em> | di: <strong>dicci</strong> <em>cold</em> | ci: <strong>cadi</strong> <em>wall</em> | ji: <strong>jakki</strong> <em>candle</em> | ki: <strong>kiri</strong> <em>marigold</em>
-gi: <strong>gapi</strong> <em>soup</em> | mi: <strong>mixi</strong> <em>room</em> | ni: <strong>niddi</strong> <em>alertness</em> | qi: <strong>quxi</strong> <em>mountain</em> | li: <strong>lu&rsquo;i</strong> <em>love</em>
+gi: <strong>gapi</strong> <em>soup</em> |  mi: <strong>mixi</strong> <em>room</em> | ni: <strong>niddi</strong> <em>alertness</em> | qi: <strong>quxi</strong> <em>mountain</em> | li: <strong>lu&rsquo;i</strong> <em>love</em>
 ri: <strong>rali</strong> <em>back</em> | fi: <strong>faxi</strong> <em>to survive</em> | si: <strong>sutti</strong> <em>fear</em> | xi: <strong>xalli</strong> <em>husband</em> | hi: <strong>huri</strong> <em>ocean</em>
 &rsquo;u: <strong>&rsquo;iku</strong> <em>hunger</em> | pu: <strong>pusu</strong> <em>zirconium</em> | bu: <strong>batu</strong> <em>group</em> | tu: <strong>tadu</strong> <em>pig</em> | du: <strong>diru</strong> <em>money</em>
 cu: <strong>ciqu</strong> <em>mould</em> | ju: <strong>jixu</strong> <em>dictionary</em> | ku: <strong>kipu</strong> <em>horse</em> | gu: <strong>gusu</strong> <em>person</em> | mu: <strong>ma&#x294;u</strong> <em>gingla</em>
@@ -258,7 +257,7 @@ The first part of a compound noun must be a noun, and the subsequent parts speci
 Pronouns are a closed class.
 [5]Personal Pronouns
 Personal pronouns are marked for case and person. Third person pronouns are marked for animacy.
-[t] | 1st person | 2nd person | 3rd person topic | 3rd person animate | 3rd person inanimate
+[t] | 1st person | 2nd person | 3rd person<br>topic | 3rd person<br>animate | 3rd person<br>inanimate
 [r]intranstitive (abs / nom) | &rsquo;usu | filli | (su&rsquo;a) | mihu | pa
 [r]transitive (erg / acc) | suma | fu | (su&rsquo;a) | quhu | &rsquo;iffa
 [r]ablative | puttu | sacu | raja | kassi | kalu
@@ -272,9 +271,8 @@ Personal pronouns are marked for case and person. Third person pronouns are mark
 <strong>Third person</strong> refers to any other party. It is not used for the subject of the sentence, whether present or implied.
 [6]Number
 Pronouns are not marked for number. However, if the pronoun refers to a group that includes more than one of these persons, then additional pronouns can be constructed as follows:
-[l]The second person transitive pronoun <strong>fu</strong> can be suffixed to the first person pronouns to form first person inclusive plural pronouns.
+The second person transitive pronoun <strong>fu</strong> can be suffixed to the first person pronouns to form first person inclusive plural pronouns.
 The third person intransitive inanimate pronoun <strong>pa</strong> can be suffixed to any first or second person pronouns, including those with <strong>fu</strong>, to form other plural pronouns.
-[/l]
 [f]<strong>sumafu</strong> <em>you and I</em>
 [e]<strong>pixifu</strong> <em>to you and me</em>
 [e]<strong>puttupa</strong> <em>from them and me</em>
@@ -411,18 +409,11 @@ The indefinite pro-forms are sets of deictic words which can be placed into a ta
 [r]universal | &rsquo;aba | batuja | &rsquo;abala | - | -
 [r]existential | &rsquo;umi | mituja | &rsquo;amila | fana | fana
 [/t]
-[l]<strong>Proximate</strong> forms have referents physically or psychologically near the speaker, whereas
-<strong>Distal</strong> forms are used when the referent is far away.
-<strong>Interrogative</strong> forms are used in questions, and
-<strong>Negative</strong> forms are used in negative sentences.
-<strong>Universal</strong> means &ldquo;all&rdquo; or &ldquo;every&rdquo;,
-<strong>Existential</strong> means &ldquo;some&rdquo; or &ldquo;any&rdquo;.
-[/l]
+<strong>Proximate</strong> forms have referents physically or psychologically near the speaker, whereas <strong>distal</strong> forms are used when the referent is far away. <strong>Interrogative</strong> forms are used in questions, and <strong>negative</strong> forms are used in negative sentences. <strong>Universal</strong> means &ldquo;all&rdquo; or &ldquo;every&rdquo;, and <strong>existential</strong> means &ldquo;some&rdquo; or &ldquo;any&rdquo;.
 [5]Indefinite Pronouns
 Unlike some personal pronouns, indefinite pronouns are not marked for animacy.
-[l]The pronouns in the <strong>object</strong> column are used for people and things.
+The pronouns in the <strong>object</strong> column are used for people and things.
 The <strong>place</strong> column pronouns are used for locations in both space and time.
-[/l]
 The &lsquo;object&rsquo; indefinite pronouns can modify a noun when used as a suffix. When <strong>cu&rsquo;i</strong> <em>nothing</em> is used as a suffix, it loses its last syllable. When <strong>&rsquo;umi</strong> <em>something</em> is used as a suffix, it loses its first syllable.
 [f]<strong>takacu</strong> <em>no sound</em>
 [e]<strong>manafamari</strong> <em>this country</em>
@@ -1018,8 +1009,7 @@ When a single Tinellbian function morpheme fulfills two or more grammatical role
 [/n]
 [3]Abbreviations
 These are all the three letter abbreviations used in glosses.
-<div class="glossary">
-<small-caps>abl</small-caps> - ablative
+<div class="glossary"><small-caps>abl</small-caps> - ablative
 <small-caps>abv</small-caps> - ablative promotion
 <small-caps>adv</small-caps> - adverbialiser
 <small-caps>ani</small-caps> - animate
