@@ -1,6 +1,6 @@
 @font-face {
     font-family: tinellb;
-    src: url('http://www.tinellb.com/Lulani.ttf');
+    src: url('http://www.tinellb.com/highlulani.ttf');
 }
 
 ipa {
@@ -42,11 +42,10 @@ body {
 }
 
 .content {
-	width: 20em;
-	flex-grow: 1;
-	padding: 1em 10%;
-	margin-left: 13em;
 	text-align: justify;
+  padding: 1em 10%;
+  margin-left: 20%;
+  flex-grow: 1;
 }
 
 .content p {
@@ -113,11 +112,11 @@ body {
 	padding-left: 10%;
 }
 
-.content ul.main {
+.content ul.languages {
 	list-style: none;
 }
 
-.content ul.main li a {
+.content ul.languages li a {
 	color: black;
 	font-size: large;
 	font-weight: bold;
@@ -152,7 +151,7 @@ body {
 	padding: 0;
 }
 
-.nav-header {
+.nav-pane {
 	background-color: cadetblue;
 	position: fixed;
 	height: 75%;
@@ -164,49 +163,50 @@ body {
 	color: cornsilk;
 }
 
-.nav-header:hover {
+.nav-pane:hover {
 	overflow: auto;
 }
 
-.nav-header a {
+.nav-pane a {
 	color: cornsilk;
 	text-decoration: none;
 }
 
-.nav-header ul {
+.nav-pane ul {
 	list-style: none;
 	padding: 0;
 }
 
-.nav-header ul.level-1 {
+.nav-pane ul.level-1 {
 	padding-left: 1em;
 }
 
-.nav-header ul.level-2 {
+.nav-pane ul.level-2 {
 	padding-left: 1em;
 }
 
-.nav-header ul.level-3 {
+.nav-pane ul.level-3 {
 	padding-left: 1em;
 }
 
-.nav-header li {
+.nav-pane li {
 	padding-bottom: 0.5em;
 }
 
-.nav-header li.normal {
+.nav-pane li.normal {
 	font-weight: bold;
 	text-decoration: underline;
 }
 
-.nav-header li.up-arrow {
+.nav-pane li.up-arrow {
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
 
 .nav-footer {
-	text-align: right;
-	padding: 0 10%;
+	display: flex;
+  justify-content: space-between;
+	padding: 1em;
 	margin: 0;
 }
 
@@ -259,7 +259,7 @@ body {
       columns: 1;
   }
 
-  .nav-header {
+  .nav-pane {
 		position: static;
 		width: 100%;
 		padding: 0 20%;
