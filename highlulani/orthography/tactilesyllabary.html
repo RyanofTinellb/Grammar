@@ -7,14 +7,29 @@
       Tactile Syllabary &lt; Orthography &lt; High Lulani &lt; Grammar
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
-<link rel="icon" type="image/png" href="../../favicon.png">
-
+    <link rel="icon" type="image/png" href="../../favicon.png">
+    <script type="text/javascript">
+        if (window.location.href.indexOf("?") != -1) {
+            window.location.href = "../../search.html" +
+            window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
+        }
+    </script>
   </head>
   <body>
     <div class="flex">
       <div class="nav-pane">
-        <ul><li><a href="../../index.html">Grammar</a></li>
-<ul class="level-1"><li><a href="../../introduction/index.html">Introduction</a></li>
+        <ul>
+                  <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
+                  <li class="link"><a href="http://dictionary.tinellb.com">Dictionary &rarr;</a></li>
+                  <li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet &rarr;</a></li>
+                </ul>
+                <ul><li><a href="../../index.html">Grammar</a></li>
+                  <form id="search">
+                    <li class="search">
+                      <input type="text" name="term"></input> <button type="submit">Search</button>
+                    </li>
+                  </form>
+                <ul class="level-1"><li><a href="../../introduction/index.html">Introduction</a></li>
 <li><a href="../../highlulani/index.html">High Lulani</a></li>
 <ul class="level-2"><li><a href="../phonology/index.html">Phonology</a></li>
 <li><a href="../orthography/index.html">Orthography</a></li>
@@ -29,15 +44,18 @@
 <li><a href="../../appendices/index.html">Appendices</a></li>
 </ul>
 
-<li class="up-arrow"><a href="../orthography/index.html">Go up one level &uarr;</a></li>
-<li class="link"><a href="../../search.html">Search</a></li>
-<li class="link"><a href="http://www.tinellb.com">Tinellb</a></li>
-<li class="link"><a href="http://dictionary.tinellb.com">Dictionary</a></li>
-<li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet</a></li>
-</ul>
-
+                </ul>
       </div>
       <div class="content">
+        <div class="nav-footer">
+          <div>
+<a href="spellingsyllabary.html">&larr; Previous page</a>
+</div>
+<div>
+<a href="../morphology/index.html">Next page &rarr;</a>
+</div>
+
+        </div>
         <h1 id="tactilesyllabary">Tactile Syllabary</h1>
 <p>There is a tactile syllabary for use by blind and visually-impaired language users.</p><p>Each cell is three rows by two columns of raised dots. The upper four dots generally denote the consonant, with syllables beginning with b, d, j, g, f or x being the exceptions. The lowest pair generally denote the vowel.</p><table><tr><td></td>
 <td>&#x294;</td>
@@ -124,5 +142,9 @@
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      document.getElementById('search').style.display = 'list-item';
+      document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
+    </script>
   </body>
 </html>

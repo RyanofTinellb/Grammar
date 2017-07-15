@@ -7,14 +7,29 @@
       Appendices &lt; Grammar
     </title>
     <link rel="stylesheet" type="text/css" href="../style.css">
-<link rel="icon" type="image/png" href="../favicon.png">
-
+    <link rel="icon" type="image/png" href="../favicon.png">
+    <script type="text/javascript">
+        if (window.location.href.indexOf("?") != -1) {
+            window.location.href = "../search.html" +
+            window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
+        }
+    </script>
   </head>
   <body>
     <div class="flex">
       <div class="nav-pane">
-        <ul><li><a href="../index.html">Grammar</a></li>
-<ul class="level-1"><li><a href="../introduction/index.html">Introduction</a></li>
+        <ul>
+                  <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
+                  <li class="link"><a href="http://dictionary.tinellb.com">Dictionary &rarr;</a></li>
+                  <li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet &rarr;</a></li>
+                </ul>
+                <ul><li><a href="../index.html">Grammar</a></li>
+                  <form id="search">
+                    <li class="search">
+                      <input type="text" name="term"></input> <button type="submit">Search</button>
+                    </li>
+                  </form>
+                <ul class="level-1"><li><a href="../introduction/index.html">Introduction</a></li>
 <li><a href="../highlulani/index.html">High Lulani</a></li>
 <li class="normal">Appendices</li>
 <ul class="level-2"><li><a href="glossing/index.html">Glossing</a></li>
@@ -24,15 +39,18 @@
 </ul>
 </ul>
 
-<li class="up-arrow"><a href="../index.html">Go up one level &uarr;</a></li>
-<li class="link"><a href="../search.html">Search</a></li>
-<li class="link"><a href="http://www.tinellb.com">Tinellb</a></li>
-<li class="link"><a href="http://dictionary.tinellb.com">Dictionary</a></li>
-<li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet</a></li>
-</ul>
-
+                </ul>
       </div>
       <div class="content">
+        <div class="nav-footer">
+          <div>
+<a href="../highlulani/apocrypha/honorifics.html">&larr; Previous page</a>
+</div>
+<div>
+<a href="glossing/index.html">Next page &rarr;</a>
+</div>
+
+        </div>
         <h1 id="appendices">Appendices</h1>
 <p>This section contains information and rules that apply to all the Tinellbian languages, and their use on this site.</p>
         <div class="nav-footer">
@@ -46,5 +64,9 @@
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      document.getElementById('search').style.display = 'list-item';
+      document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
+    </script>
   </body>
 </html>

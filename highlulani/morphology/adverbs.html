@@ -7,14 +7,29 @@
       Adverbs &lt; Morphology &lt; High Lulani &lt; Grammar
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
-<link rel="icon" type="image/png" href="../../favicon.png">
-
+    <link rel="icon" type="image/png" href="../../favicon.png">
+    <script type="text/javascript">
+        if (window.location.href.indexOf("?") != -1) {
+            window.location.href = "../../search.html" +
+            window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
+        }
+    </script>
   </head>
   <body>
     <div class="flex">
       <div class="nav-pane">
-        <ul><li><a href="../../index.html">Grammar</a></li>
-<ul class="level-1"><li><a href="../../introduction/index.html">Introduction</a></li>
+        <ul>
+                  <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
+                  <li class="link"><a href="http://dictionary.tinellb.com">Dictionary &rarr;</a></li>
+                  <li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet &rarr;</a></li>
+                </ul>
+                <ul><li><a href="../../index.html">Grammar</a></li>
+                  <form id="search">
+                    <li class="search">
+                      <input type="text" name="term"></input> <button type="submit">Search</button>
+                    </li>
+                  </form>
+                <ul class="level-1"><li><a href="../../introduction/index.html">Introduction</a></li>
 <li><a href="../../highlulani/index.html">High Lulani</a></li>
 <ul class="level-2"><li><a href="../phonology/index.html">Phonology</a></li>
 <li><a href="../orthography/index.html">Orthography</a></li>
@@ -36,15 +51,18 @@
 <li><a href="../../appendices/index.html">Appendices</a></li>
 </ul>
 
-<li class="up-arrow"><a href="../morphology/index.html">Go up one level &uarr;</a></li>
-<li class="link"><a href="../../search.html">Search</a></li>
-<li class="link"><a href="http://www.tinellb.com">Tinellb</a></li>
-<li class="link"><a href="http://dictionary.tinellb.com">Dictionary</a></li>
-<li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet</a></li>
-</ul>
-
+                </ul>
       </div>
       <div class="content">
+        <div class="nav-footer">
+          <div>
+<a href="auxiliaries.html">&larr; Previous page</a>
+</div>
+<div>
+<a href="deixis.html">Next page &rarr;</a>
+</div>
+
+        </div>
         <h1 id="adverbs">Adverbs</h1>
 <p><strong>Adverbs</strong> are a closed class. Adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <strong><a href="../syntax/adverbialphrases.html">Adverbial Phrases</a></strong></p><p class="example"><strong>naru</strong> <em>slowly</em></p><p class="example_no_lines"><strong>dura</strong> <em>repeatedly</em></p><p class="example_no_lines"><strong>kupira</strong> <em>intensely</em> </p><h2 id="modals">Modals</h2>
 <p>A subclass of adverb are the <strong>modals</strong>, words used to denote properties of sentences, such as their reality, probability or the speaker&rsquo;s emotions towards the topic. These may only be used independently.</p><p class="example"><strong>matta</strong> <em>again</em></p><p class="example_no_lines"><strong>tasi</strong> <em>probably</em></p><p class="example_no_lines"><strong>nufira</strong> <em>hopefully</em></p><h3 id="temporalmodals">Temporal Modals</h3>
@@ -61,5 +79,9 @@
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      document.getElementById('search').style.display = 'list-item';
+      document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
+    </script>
   </body>
 </html>

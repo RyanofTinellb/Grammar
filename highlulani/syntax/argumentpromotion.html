@@ -7,14 +7,29 @@
       Argument Promotion &lt; Syntax &lt; High Lulani &lt; Grammar
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
-<link rel="icon" type="image/png" href="../../favicon.png">
-
+    <link rel="icon" type="image/png" href="../../favicon.png">
+    <script type="text/javascript">
+        if (window.location.href.indexOf("?") != -1) {
+            window.location.href = "../../search.html" +
+            window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
+        }
+    </script>
   </head>
   <body>
     <div class="flex">
       <div class="nav-pane">
-        <ul><li><a href="../../index.html">Grammar</a></li>
-<ul class="level-1"><li><a href="../../introduction/index.html">Introduction</a></li>
+        <ul>
+                  <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
+                  <li class="link"><a href="http://dictionary.tinellb.com">Dictionary &rarr;</a></li>
+                  <li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet &rarr;</a></li>
+                </ul>
+                <ul><li><a href="../../index.html">Grammar</a></li>
+                  <form id="search">
+                    <li class="search">
+                      <input type="text" name="term"></input> <button type="submit">Search</button>
+                    </li>
+                  </form>
+                <ul class="level-1"><li><a href="../../introduction/index.html">Introduction</a></li>
 <li><a href="../../highlulani/index.html">High Lulani</a></li>
 <ul class="level-2"><li><a href="../phonology/index.html">Phonology</a></li>
 <li><a href="../orthography/index.html">Orthography</a></li>
@@ -34,15 +49,18 @@
 <li><a href="../../appendices/index.html">Appendices</a></li>
 </ul>
 
-<li class="up-arrow"><a href="../syntax/index.html">Go up one level &uarr;</a></li>
-<li class="link"><a href="../../search.html">Search</a></li>
-<li class="link"><a href="http://www.tinellb.com">Tinellb</a></li>
-<li class="link"><a href="http://dictionary.tinellb.com">Dictionary</a></li>
-<li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet</a></li>
-</ul>
-
+                </ul>
       </div>
       <div class="content">
+        <div class="nav-footer">
+          <div>
+<a href="matrixclauses.html">&larr; Previous page</a>
+</div>
+<div>
+<a href="dependentclauses.html">Next page &rarr;</a>
+</div>
+
+        </div>
         <h1 id="argumentpromotion">Argument Promotion</h1>
 <p>The first noun in a clause is the subject, which is prototypically the agent in transitive sentences and the patient in intransitive sentences. However, suffixes can be added to the verb to promote other nouns in the clause, other than the genitive.</p><p>There are three such verbal suffixes, which can be stacked, however, once something has been shifted from the subject position, it can&rsquo;t be promoted again.</p><h2 id="passive">Passive</h2>
 <p>The passive suffix promotes the object. This suffix has the form <strong>-&rsquo;illu</strong> when the last element of a verb is monosyllabic, has <strong>-ilu</strong> replacing the final vowel if the final consonant is geminated, and has <strong>-illu</strong> replacing the final vowel of the verb elsewise. The old subject is then marked with the ablative case. A sentence with this marker is intransitive. The demoted item is not compulsory, but if it is put in, it is the first ablative-marked noun in the new sentence.</p><p class="example"><strong>Fu qixa kissaji kilatu&rsquo;i!</strong></p><p class="example_no_lines"><small-caps>2tra pst;dyn</small-caps> <em>fight</em><small-caps></small-caps> <em>deer</em></p><p class="example_no_lines">&ldquo;You fought a deer!&rdquo;</p><p class="example"><strong>Kilatu&rsquo;i qixa (sacu) kissajillu</strong>.</p><p class="example_no_lines"><em>deer</em><small-caps> pst;dyn (2abl)</small-caps> <em>fight</em><small-caps>-psv</small-caps></p><p class="example_no_lines">&ldquo;A deer was fought (by you).&rdquo;</p><h2 id="ablative">Ablative</h2>
@@ -60,5 +78,9 @@
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      document.getElementById('search').style.display = 'list-item';
+      document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
+    </script>
   </body>
 </html>

@@ -9,7 +9,7 @@ ipa {
 
 small-caps { /* Remove italics from small-caps */
 	font-variant: small-caps;
-	font-weight: normal;
+	font-weight: none;
 	font-style: normal;
 }
 
@@ -31,7 +31,8 @@ high-lulani::after, vulgar-lulani::after {
 }
 
 body {
-	font-family: sans-serif;f
+	background-color: cornsilk;
+	font-family: sans-serif;
 }
 
 .flex {
@@ -42,8 +43,8 @@ body {
 
 .content {
 	text-align: justify;
-  width: 20em;
   padding: 1em 10%;
+  margin-left: 20%;
   flex-grow: 1;
 }
 
@@ -146,19 +147,28 @@ body {
 
 .content div.glossary p {
 	margin-top: 0;
-	margin-bottom: 0.5em;
+	margin-bottom: 0.5;
 	padding: 0;
 }
 
 .nav-pane {
-	margin: 2em 1% 10%;
+	background-color: cadetblue;
+	position: fixed;
+	height: 75%;
+	margin: 1% 1% 10%;
 	padding: 1% 2em 10%;
+	overflow: visible;
 	white-space: nowrap;
 	text-align: left;
+	color: cornsilk;
+}
+
+.nav-pane:hover {
+	overflow: auto;
 }
 
 .nav-pane a {
-	color: black;
+	color: cornsilk;
 	text-decoration: none;
 }
 
@@ -188,24 +198,9 @@ body {
 	text-decoration: underline;
 }
 
-.nav-pane li.link {
-  font-family: serif;
-  text-align: center;
-}
-
 .nav-pane li.up-arrow {
 	margin-top: 1em;
 	margin-bottom: 1em;
-}
-
-.nav-pane li.search {
-  text-align: center;
-  margin: 1em 0;
-  margin-left: -1em;
-}
-
-.nav-pane form#search {
-  display: none;
 }
 
 .nav-footer {

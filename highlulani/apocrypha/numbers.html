@@ -7,14 +7,29 @@
       Numbers &lt; Apocrypha &lt; High Lulani &lt; Grammar
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
-<link rel="icon" type="image/png" href="../../favicon.png">
-
+    <link rel="icon" type="image/png" href="../../favicon.png">
+    <script type="text/javascript">
+        if (window.location.href.indexOf("?") != -1) {
+            window.location.href = "../../search.html" +
+            window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
+        }
+    </script>
   </head>
   <body>
     <div class="flex">
       <div class="nav-pane">
-        <ul><li><a href="../../index.html">Grammar</a></li>
-<ul class="level-1"><li><a href="../../introduction/index.html">Introduction</a></li>
+        <ul>
+                  <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
+                  <li class="link"><a href="http://dictionary.tinellb.com">Dictionary &rarr;</a></li>
+                  <li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet &rarr;</a></li>
+                </ul>
+                <ul><li><a href="../../index.html">Grammar</a></li>
+                  <form id="search">
+                    <li class="search">
+                      <input type="text" name="term"></input> <button type="submit">Search</button>
+                    </li>
+                  </form>
+                <ul class="level-1"><li><a href="../../introduction/index.html">Introduction</a></li>
 <li><a href="../../highlulani/index.html">High Lulani</a></li>
 <ul class="level-2"><li><a href="../phonology/index.html">Phonology</a></li>
 <li><a href="../orthography/index.html">Orthography</a></li>
@@ -30,15 +45,18 @@
 <li><a href="../../appendices/index.html">Appendices</a></li>
 </ul>
 
-<li class="up-arrow"><a href="../apocrypha/index.html">Go up one level &uarr;</a></li>
-<li class="link"><a href="../../search.html">Search</a></li>
-<li class="link"><a href="http://www.tinellb.com">Tinellb</a></li>
-<li class="link"><a href="http://dictionary.tinellb.com">Dictionary</a></li>
-<li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet</a></li>
-</ul>
-
+                </ul>
       </div>
       <div class="content">
+        <div class="nav-footer">
+          <div>
+<a href="../apocrypha/index.html">&larr; Previous page</a>
+</div>
+<div>
+<a href="colours.html">Next page &rarr;</a>
+</div>
+
+        </div>
         <h1 id="numbers">Numbers</h1>
 <h2 id="cardinalnumbers">Cardinal Numbers</h2>
 <p>High Lulani numbers are written with the positive digits (1, 2, 3, 4, 5, 6 and 7), their negative counterparts (<overline>1</overline>, <overline>2</overline>, <overline>3</overline>, <overline>4</overline>, <overline>5</overline>, <overline>6</overline> and <overline>7</overline>) and a zero (0).</p><p>When writing out a number, each digit is worth fifteen times as much as the following digit. A period (fractional point: . ) is used to separate the integer part of the number from the mantissa. A comma (,) is used in the integer part to separate the digits into groupings of four, beginning from the fractional point.</p><p class="example"><strong>2</strong> <em>two</em></p><p class="example_no_lines"><strong>5.<overline>3</overline></strong> <em>four and four-fifths = five + (minus three &times; (fifteen ^ minus one))</em> </p><p class="example_no_lines"><strong>1<overline>7</overline></strong> <em>eight = (one &times; fifteen) + (minus seven)</em></p><p class="example_no_lines"><strong>20</strong> <em>thirty = (two &times; fifteen)</em></p><p class="example_no_lines"><strong>3<overline>2</overline>6</strong> <em>six hundred and forty-one = </p>
@@ -75,5 +93,9 @@
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      document.getElementById('search').style.display = 'list-item';
+      document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
+    </script>
   </body>
 </html>
