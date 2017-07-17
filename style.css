@@ -221,6 +221,12 @@ body {
 	text-decoration: none;
 }
 
+.copyright {
+  font-size: smaller;
+  font-family: serif;
+  text-align: right;
+}
+
 .toc a {
 	font-weight: bold;
 	color: black;

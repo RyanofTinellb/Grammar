@@ -1,6 +1,7 @@
 if (window.location.href.indexOf("?") != -1) {
 	search();
 }
+
 function search() {
 	document.getElementById("results").innerHTML = "Searching...";
 	var url = "searching.json";
@@ -24,19 +25,28 @@ function search() {
 
 // returns array of terms
 function getTerms() {
-	var markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%29", ")", "%c5%97", ",r",	"%20", "+", "%24", "$", "%25", "%",
+	var andOr;
+	var url;
+	var markup;
+	var searchString;
+	var text;
+	markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%29", ")", "%c5%97", ",r",	"%20", "+", "%24", "$", "%25", "%",
 	"%3b", " ", "%2cr", ",r"];
-	var url = window.location.href;
+	url = window.location.href;
 	url  = url.split("?");
-	var searchString = url[1].split("&");
-	var andOr = searchString[1].split("=")[1];
+	searchString = url[1].split("&");
+	try {
+		andOr = searchString[1].split("=")[1];
+	} catch (err) {
+		andOr = "and"
+	}
 	if (andOr == "or") {document.getElementById("or").checked = true}
-	var text = searchString[0].split("=")[1];
+	text = searchString[0].split("=")[1];
 	for (i = 0; i < markup.length; i += 2) {
 		text = text.split(markup[i]).join(markup[i+1]).toLowerCase();
 	}
 	document.getElementById("term").value = text.split("+").join(" ");
-	return text.split("+").filter(function (i) {return i != "";});	
+	return text.split("+").filter(function (i) {return i != "";});
 }
 
 // builds array of results containing any search term
@@ -122,7 +132,7 @@ function markdown(arr) {
 	}
 	return terms;
 }
-	
+
 
 // displays results as list
 // @param Array arr: results array
