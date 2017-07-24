@@ -867,36 +867,30 @@ This section details particular categories of vocabulary items.
 High Lulani numbers are written with the positive digits (1, 2, 3, 4, 5, 6 and 7), their negative counterparts (<overline>1</overline>, <overline>2</overline>, <overline>3</overline>, <overline>4</overline>, <overline>5</overline>, <overline>6</overline> and <overline>7</overline>) and a zero (0).
 When writing out a number, each digit is worth fifteen times as much as the following digit. A period (fractional point: . ) is used to separate the integer part of the number from the mantissa. A comma (,) is used in the integer part to separate the digits into groupings of four, beginning from the fractional point.
 [f]<strong>2</strong> <em>two</em>
-[e]<strong>5.<overline>3</overline></strong> <em>four and four-fifths = five + (minus three &times; (fifteen ^ minus one))</em>
-[e]<strong>1<overline>7</overline></strong> <em>eight = (one &times; fifteen) + (minus seven)</em>
-[e]<strong>20</strong> <em>thirty = (two &times; fifteen)</em>
+[e]<strong>5.<overline>3</overline></strong> <em>four and four-fifths = five + (minus three &times; (fifteen ^ minus one</em></em>
+[e]<strong>1<overline>7</overline></strong> <em>eight = (one &times; fifteen) + (minus seven</em>)
+[e]<strong>20</strong> <em>thirty = (two &times; fifteen</em>)
 [e]<strong>3<overline>2</overline>6</strong> <em>six hundred and forty-one =
-(three &times; (fifteen ^ two)) + (minus two &times; fifteen) + six</em>
+(three &times; (fifteen ^ two</em> + (minus two &times; fifteen) + six</em>
 [e]<strong><overline>1</overline>,34<overline>5</overline>3</strong> <em>minus thirty-nine thousand, six hundred and seventy-two =
-(minus one &times; (fifteen ^ four)) + (three &times; (fifteen ^ three)) +
-(four &times; (fifteen ^ two)) + (minus five &times; fifteen) + three</em>
+(minus one &times; (fifteen ^ four</em> + (three &times; (fifteen ^ three</em> +
+(four &times; (fifteen ^ two</em> + (minus five &times; fifteen) + three</em>
 [5]One-digit Numbers
 Here are the names for the one-digit numbers:
-[f]<strong><overline>7</overline></strong> <em>haki</em>
-[e]<strong><overline>6</overline></strong> <em>jusiti</em>
-[e]<strong><overline>5</overline></strong> <em>laffi</em>
-[e]<strong><overline>4</overline></strong> <em>missu</em>
-[e]<strong><overline>3</overline></strong> <em>bila</em>
-[e]<strong><overline>2</overline></strong> <em>karallu</em>
-[e]<strong><overline>1</overline></strong> <em>mullu</em>
-[e]<strong>0</strong> <em>(qi)hha</em>
-[e]<strong>1</strong> <em>xita</em>
-[e]<strong>2</strong> <em>ra</em>
-[e]<strong>3</strong> <em>kifi</em>
-[e]<strong>4</strong> <em>nuru</em>
-[e]<strong>5</strong> <em>guhi</em>
-[e]<strong>6</strong> <em>&rsquo;usi</em>
-[e]<strong>7</strong> <em>salumi</em>
+<div class="example">
+[t]
+[r] | <strong>(qi)hha</strong> | <em>0</em>
+[r] | <strong>xita</strong> | <em>1</em> |  | <strong>mullu</strong> | <em><overline>1</overline></em>
+[r] | <strong>ra</strong> | <em>2</em> |  | <strong>kannu</strong> | <em><overline>2</overline></em>
+[r] | <strong>kifi</strong> | <em>3</em> |  | <strong>billa</strong> | <em><overline>3</overline></em>
+[r] | <strong>nuru</strong> | <em>4</em> |  | <strong>missu</strong> | <em><overline>4</overline></em>
+[r] | <strong>guhi</strong> | <em>5</em> |  | <strong>laffi</strong> | <em><overline>5</overline></em>
+[r] | <strong>&rsquo;usi</strong> | <em>6</em> |  | <strong>jusiti</strong> | <em><overline>6</overline></em>
+[r] | <strong>salumi</strong> | <em>7</em> |  | <strong>haki</strong> | <em><overline>7</overline></em>
+[/t]</div>
 The full form <strong>qihha</strong> <em>zero</em> is only used when by itself, or first in a number or noun phrase.
 [5]Two-digit Numbers
-Numbers between 1<overline>7</overline> and 16 are composed of the prefix <strong>sa</strong> and the final two syllables of the number, except for:
-[f]<strong>sabilla</strong> (not <strong>sabila</strong>) 1<overline>3</overline>
-[e]<strong>salura</strong> (not <strong>sara</strong>) 12
+Numbers between 1<overline>7</overline> and 16 are composed of the prefix <strong>sa</strong> and the final two syllables of the number, except for <strong>salura</strong> (not <strong>sara</strong>) 12.
 Round numbers, <em>i.e.:</em> numbers ending with a single zero, use the suffix <strong>-hha</strong>.
 [f]<strong>sahha</strong> 10
 [e]<strong>rahha</strong> 20
@@ -911,16 +905,16 @@ The word for 22, the exception, is <strong>ranira</strong>.
 Three- and four-digit numbers are divided into the number of hundreds, and the remainder. This remainder is always the last two digits of the number.
 The word for 100 is <strong>takki</strong>.
 Other three-digit numbers beginning with a 1 are formed by prefixing <strong>takki</strong> to the remainder.
-[f]<strong>takkinurukarallu</strong> 14<overline>2</overline>
+[f]<strong>takkinurukannu</strong> 14<overline>2</overline>
 Three- and four-digit numbers greater than this are formed by appending <strong>takki</strong> to the number of hundreds, which is then followed by the remainder as a separate word.
-[f]<strong>guhitakki &rsquo;usibila</strong> 56<overline>3</overline>
+[f]<strong>guhitakki &rsquo;usibilla</strong> 56<overline>3</overline>
 [e]<strong>sahhatakki kifinuru</strong> 1034
-[e]<strong>karalluratakki missumullu</strong> <overline>2</overline>2<overline>4</overline><overline>1</overline>
+[e]<strong>kannuratakki missumullu</strong> <overline>2</overline>2<overline>4</overline><overline>1</overline>
 In any of these cases, if the remainder is zero, it is left off.
 [f]<strong>mullutakki</strong> <overline>1</overline>00
 [e]<strong>ratakki</strong> 200
 [e]<strong>saguhitakki</strong> 1500
-[e]<strong>bilasalumitakki</strong> <overline>3</overline>700
+[e]<strong>billasalumitakki</strong> <overline>3</overline>700
 [5]Higher and Lower Order Numbers
 When a number is written out in digits, each set of four digits from the fractional point makes up a group. The group furthest from the fractional point may not have this full quota of digits. An <strong>index marker</strong> notes the identity of a particular group.
 The index marker is composed of the prefix <strong>pa</strong> followed by the number of groups between this one and the fractional point. Positive index numbers are for the integer part of the number, and negative index numbers are for the mantissa.
@@ -980,7 +974,7 @@ The number <strong>ra</strong> <em>two</em> can be used in this way to refer to 
 [f]<strong>luffura</strong> <em>eyes</em>
 [e]<strong>&rsquo;itakkura</strong> <em>breasts</em>
 [e]<strong>tibara</strong> <em>legs</em>
-&date=20170716
+&date=20170724
 [3]Colours
 The basis colour terms are all verbs:
 [f]<strong>baju</strong> <em>blue</em>
