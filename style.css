@@ -31,7 +31,7 @@ high-lulani::after, vulgar-lulani::after {
 }
 
 body {
-	font-family: sans-serif;f
+	font-family: sans-serif;
 }
 
 .flex {
@@ -99,7 +99,7 @@ body {
 }
 
 .content td {
-	padding: 0.25em 1em;
+	padding: 0.25em 0.5em;
 }
 
 .content td:first-child {

@@ -1028,12 +1028,47 @@ Other kinship terms began as nuclear family names, but were thence extended acro
 &date=20170716
 [3]Honorifics
 The suffix <strong>-fi</strong> can be added to abstract and inanimate nouns to show deference.
-
 Honorifics for people consist of a word prefixed to the person&rsquo;s name. The general honorific is <strong>gusu</strong> (person).
-
 The honorific can be a job title.
 [f]<strong>hisubaRa&rsquo;ani</strong> (Administrator Ryan)
-&date=20170716
+&date=20170724
+[3]Elements
+The first 118 chemical elements have been named.
+[t]
+[r] | hydrogen<br><strong>la</strong> | lithium<br><strong>pini</strong> | sodium<br><strong>lisu</strong> | potassium<br><strong>dina</strong> | rubidium<br><strong>sadadu</strong> | cesium<br><strong>nudda</strong> | francium<br><strong>guqqa</strong>
+[r] |  | beryllium<br><strong>fiqqala</strong> | magnesium<br><strong>xaki</strong> | calcium<br><strong>qaxa</strong> | strontium<br><strong>&rsquo;aru&rsquo;u</strong> | barium<br><strong>baca</strong> | radium<br><strong>&rsquo;ilasa</strong>
+[r] |  |  |  | scandium<br><strong>cakina</strong> | yttrium<br><strong>&rsquo;aqqixi</strong> | lanthanum<br><strong>xanaki</strong> | actinium<br><strong>na&rsquo;a</strong>
+[r] |  |  |  |  |  | cerium<br><strong>&rsquo;a&rsquo;ami</strong> | thorium<br><strong>paraba</strong>
+[r] |  |  |  |  |  | praseodymium<br><strong>ra&#x294;asa</strong> | protactinium<br><strong>lakatti</strong>
+[r] |  |  |  |  |  | neodymium<br><strong>fibaku</strong> | uranium<br><strong>kari</strong>
+[r] |  |  |  |  |  | prometheum<br><strong>&rsquo;uccadama</strong> | neptunium<br><strong>xasagi</strong>
+[r] |  |  |  |  |  | samarium<br><strong>&rsquo;i&rsquo;isata</strong> | plutonium<br><strong>sussi</strong>
+[r] |  |  |  |  |  | europium<br><strong>siqi</strong> | americium<br><strong>dihiqa</strong>
+[r] |  |  |  |  |  | gadolinium<br><strong>tacala</strong> | curium<br><strong>farra</strong>
+[r] |  |  |  |  |  | terbium<br><strong>rila</strong> | berkelium<br><strong>saxxuru</strong>
+[r] |  |  |  |  |  | dysprosium<br><strong>bumissi</strong> | californium<br><strong>&rsquo;ikka</strong>
+[r] |  |  |  |  |  | holmium<br><strong>katiru</strong> | einsteinium<br><strong>banara</strong>
+[r] |  |  |  |  |  | erbium<br><strong>calluna</strong> | fermium<br><strong>tika</strong>
+[r] |  |  |  |  |  | thulium<br><strong>raddilla</strong> | mendelevium<br><strong>laqura</strong>
+[r] |  |  |  |  |  | ytterbium<br><strong>tukaga</strong> | nobelium<br><strong>qa&#x294;iku</strong>
+[r] |  |  |  |  |  | lutetium<br><strong>kixa</strong> | lawrencium<br><strong>nulina</strong>
+[r] |  |  |  | titanium<br><strong>ka&rsquo;i</strong> | zirconium<br><strong>pusu</strong> | hafnium<br><strong>tacuca</strong> | rutherfordium<br><strong>famati</strong>
+[r] |  |  |  | vanadium<br><strong>nussa</strong> | niobium<br><strong>lakka</strong> | tantalum<br><strong>hila</strong> | dubnium<br><strong>nullasu</strong>
+[r] |  |  |  | chromium<br><strong>fada</strong> | molybdenum<br><strong>sula</strong> | tungsten<br><strong>mina&#x294;i</strong> | seaborgium<br><strong>saniki</strong>
+[r] |  |  |  | manganese<br><strong>qumalli</strong> | technetium<br><strong>nikili</strong> | rhenium<br><strong>hasuki</strong> | bohrium<br><strong>cabahi</strong>
+[r] |  |  |  | iron<br><strong>&rsquo;a</strong> | ruthenium<br><strong>nasufi</strong> | osmium<br><strong>supu</strong> | hassium<br><strong>&rsquo;i&rsquo;ami</strong>
+[r] |  |  |  | cobalt<br><strong>gaxiki</strong> | rhodium<br><strong>fula</strong> | iridium<br><strong>natu</strong> | meitnerium<br><strong>nakaku</strong>
+[r] |  |  |  | nickel<br><strong>tasa</strong> | paladium<br><strong>qala</strong> | platinum<br><strong>jala</strong> | darmstadtium<br><strong>na&rsquo;ipa</strong>
+[r] |  |  |  | copper<br><strong>suki</strong> | silver<br><strong>ni</strong> | gold<br><strong>fi</strong> | roentgenium<br><strong>su&rsquo;usi</strong>
+[r] |  |  |  | zinc<br><strong>hika</strong> | cadmium<br><strong>kaca</strong> | mercury<br><strong>&rsquo;usa</strong> | copernicium<br><strong>hatanu</strong>
+[r] |  | boron<br><strong>kuxxu</strong> | aluminium<br><strong>disa</strong> | gallium<br><strong>&rsquo;ali</strong> | indium<br><strong>luka</strong> | thallium<br><strong>silla</strong> | nihonium<br><strong>rabaci</strong>
+[r] |  | carbon<br><strong>xu</strong> | silicon<br><strong>&rsquo;ama</strong> | germanium<br><strong>xuhhi</strong> | tin<br><strong>laji</strong> | lead<br><strong>musaqu</strong> | flerovium<br><strong>xa&rsquo;a</strong>
+[r] |  | nitrogen<br><strong>sutta</strong> | phosphorus<br><strong>pibi</strong> | arsenic<br><strong>da&rsquo;u</strong> | antimony<br><strong>salari</strong> | bismuth<br><strong>&rsquo;aggini</strong> | moscovium<br><strong>rili</strong>
+[r] |  | oxygen<br><strong>sa</strong> | sulfur<br><strong>ta</strong> | selenium<br><strong>matirra</strong> | tellurium<br><strong>lasu</strong> | polonium<br><strong>cakassu</strong> | livermorium<br><strong>suda</strong>
+[r] |  | fluorine<br><strong>ca&rsquo;a</strong> | chlorine<br><strong>limma</strong> | bromine<br><strong>bi</strong> | iodine<br><strong>papa</strong> | astatine<br><strong>sicu</strong> | tennessine<br><strong>buccata</strong>
+[r] | helium<br><strong>li&rsquo;a</strong> | neon<br><strong>kuxalu</strong> | argon<br><strong>laqa</strong> | krypton<br><strong>quffi</strong> | xenon<br><strong>sahha</strong> | radon<br><strong>fasami</strong> | oganesson<br><strong>&rsquo;ittika</strong>
+[/t]
+&date=20170724
 [1]Appendices
 This section contains information and rules that apply to all the Tinellbian languages, and their use on this site.
 &date=20170716
