@@ -1123,7 +1123,7 @@ These are all the three letter abbreviations used in glosses.
 <small-caps>prf</small-caps> - perfect
 <small-caps>prs</small-caps> - present
 <small-caps>pst</small-caps> - past
-<small-caps>psv</small-caps> - passive (object promotion)
+<small-caps>psv</small-caps> - passive
 <small-caps>qal</small-caps> - qualifier
 <small-caps>que</small-caps> - question
 <small-caps>rel</small-caps> - relativiser
@@ -1133,4 +1133,4 @@ These are all the three letter abbreviations used in glosses.
 <small-caps>tra</small-caps> - transitive case
 <small-caps>trm</small-caps> - terminative
 </div>
-&date=20170716
+&date=20170726
