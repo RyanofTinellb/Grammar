@@ -164,10 +164,21 @@ body {
 		padding: 0;
 }
 
+.content div.glossary a {
+  color: black;
+  text-decoration: underline dotted;
+  font-weight: bold;
+}
+
+.content div.glossary a:hover {
+  text-decoration: underline solid;
+}
+
 .content div.glossary p {
 	margin-top: 0;
 	margin-bottom: 0.5em;
 	padding: 0;
+  text-align: left;
 }
 
 .content div.example table {
