@@ -1,4 +1,4 @@
-/'[1]Introduction
+[1]Introduction
 The Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality.
 &date=20170717
 [2]History
@@ -42,8 +42,28 @@ When I decided to write a novel, a constructed language (conlang) was an obvious
 High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.
 &date=20170716
 [2]Phonology
-High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated.
-&date=20170716
+High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word&#x268;nternal consonant can be geminated.
+This page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.
+[t] | Consonant | Example |  | Consonant | Example |  | Consonant | Example
+[r] | <ipa>b</ipa> | <strong>b</strong>a&rsquo;u |  | <ipa>h</ipa> | <strong>h</strong>isuba |  | <ipa>&#x272;</ipa> | ja<strong>nn</strong>i
+[r] | <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a |  | <ipa>j</ipa> | fa<strong>&#x294;</strong>a<sup>1</sup> |  | <ipa>&#x14b;</ipa> | <strong>q</strong>a
+[r] | <ipa>c</ipa> | qa<strong>cc</strong>a |  | <ipa>&#x25f;</ipa> | <strong>j</strong>usi |  | <ipa>p</ipa> | &rsquo;a<strong>pp</strong>u
+[r] | <ipa>c&#x2b0;</ipa> | <strong>c</strong>u&rsquo;i |  | <ipa>&#x25f;&#x2b1;</ipa> | ma<strong>jj</strong>a |  | <ipa>p&#x2b0;</ipa> | <strong>p</strong>uttu
+[r] | <ipa>&#x255;</ipa> | <strong>x</strong>u&rsquo;a |  | <ipa>k</ipa> | ta<strong>kk</strong>i |  | <ipa>r</ipa> | gu<strong>rr</strong>isu
+[r] | <ipa>d</ipa> | <strong>d</strong>aru |  | <ipa>k&#x2b0;</ipa> | <strong>k</strong>a&rsquo;u |  | <ipa>&#x27e;</ipa> | <strong>r</strong>usa
+[r] | <ipa>d&#x2b1;</ipa> | &rsquo;a<strong>dd</strong>a |  | <ipa>l</ipa> | <strong>l</strong>isa |  | <ipa>s</ipa> | <strong>s</strong>ippa
+[r] | <ipa>f</ipa> | <strong>f</strong>ara |  | <ipa>&#x28e;</ipa> | mu<strong>ll</strong>u |  | <ipa>t</ipa> | ni<strong>tt</strong>u
+[r] | <ipa>g</ipa> | <strong>g</strong>usu |  | <ipa>m</ipa> | <strong>m</strong>ullu |  | <ipa>t&#x2b0;</ipa> | <strong>t</strong>a&rsquo;i
+[r] | <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i |  | <ipa>n</ipa> | <strong>n</strong>isa |  | <ipa>&#x294;</ipa> | xu<strong>&rsquo;</strong>a
+[/t]
+<sup>1</sup>The phone <ipa>/j/</ipa> only appears as the second segment of an allophonic variant of &#x294;, when that sound is geminated.
+[t] | Vowel | Example |  | Vowel | Example
+[r] | a | b<strong>a</strong>tu |  | &#x259; | su&rsquo;<strong>a</strong>
+[r] | i | b<strong>i</strong>tta |  | &#x268; | kas<strong>i</strong>
+[r] | u | c<strong>u</strong>ra |  | &#x289; | l<strong>u</strong>lani
+[/t]
+The suprasegmental symbols are all exemplified in <ipa>/&#x2cc;p&#x2b0;am.&#x268;.&#x2c8;lam.&#x268;/</ipa>.
+&date=20170726
 [3]Consonants
 Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
 [t] | labial | alveolar | palatal | velar | glottal
