@@ -94,6 +94,10 @@ body {
 	margin-left: 20%;
 }
 
+.content h5 {
+  margin-left: 25%;
+}
+
 .content table {
 	line-height: 1.5;
 	margin: auto;
