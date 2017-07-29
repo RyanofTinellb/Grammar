@@ -523,7 +523,7 @@ Adverbs are a closed class. Adverbs can be used either as a verbal suffix or ind
 [e]<a href="http://dictionary.tinellb.com/d/dura.html#highlulani">dura</a> <em>repeatedly</em>
 [e]<a href="http://dictionary.tinellb.com/k/kupira.html#highlulani">kupira</a> <em>intensely</em>
 [4]Modals
-A subclass of adverb are the <a href="http://dictionary.tinellb.com/m/modals.html#highlulani">modals</a>, words used to denote properties of sentences, such as their reality, probability or the speaker&rsquo;s emotions towards the topic. These may only be used independently.
+A subclass of adverb are the modals, words used to denote properties of sentences, such as their reality, probability or the speaker&rsquo;s emotions towards the topic. These may only be used independently.
 [f]<a href="http://dictionary.tinellb.com/m/matta.html#highlulani">matta</a> <em>again</em>
 [e]<a href="http://dictionary.tinellb.com/t/tasi.html#highlulani">tasi</a> <em>probably</em>
 [e]<a href="http://dictionary.tinellb.com/n/nufira.html#highlulani">nufira</a> <em>hopefully</em>
@@ -536,7 +536,7 @@ Numbers can be suffixed to denote other times.
 [f]<a href="http://dictionary.tinellb.com/m/musa.html#highlulani">musa</a>-<a href="http://dictionary.tinellb.com/h/hha.html#highlulani">hha</a> <em>yesterday (day 0</em>)
 [e]<a href="http://dictionary.tinellb.com/m/musa.html#highlulani">musa</a>-<a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>tomorrow (day 2</em>)
 [e]<a href="http://dictionary.tinellb.com/l/laru.html#highlulani">laru</a>-<a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> <em>two years ago (year <overline>1</overline></em>)
-&date=20170725
+&date=20170729
 [3]Deixis
 [4]Indefinite Pro-forms
 The indefinite pro-forms are sets of deictic words which can be placed into a table.
@@ -1079,8 +1079,8 @@ The index marker is suffixed to the group word.
 [e]<a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a><a href="http://dictionary.tinellb.com/r/ranira.html#highlulani">ranira</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> 122,0000
 [e]<a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> 6<overline>1</overline>2,0000
 There is nothing preventing an index-marked number being used within another index marker, although the second <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> is usually geminated.
-[f]<a href="http://dictionary.tinellb.com/p/pappaxita.html#highlulani">pappaxita</a> 1,0000<sup>1,0000</sup>
-[e]<a href="http://dictionary.tinellb.com/p/papappaxita.html#highlulani">papappaxita</a> 1,0000<sup>1,0000^1,0000</sup>
+[f]<strong>pappaxita</strong> 1,0000<sup>1,0000</sup>
+[e]<strong>papappaxita</strong> 1,0000<sup>1,0000^1,0000</sup>
 [5]Non-integral Numbers
 [6]Reading Mantissas
 There are two ways to read a mantissa.
@@ -1126,7 +1126,7 @@ The number <a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <
 [f]<a href="http://dictionary.tinellb.com/l/luffura.html#highlulani">luffura</a> <em>eyes</em>
 [e]<a href="http://dictionary.tinellb.com/i/'itakkura.html#highlulani">&rsquo;itakkura</a> <em>breasts</em>
 [e]<a href="http://dictionary.tinellb.com/t/tibara.html#highlulani">tibara</a> <em>legs</em>
-&date=20170725
+&date=20170729
 [3]Colours
 The basis colour terms are all verbs:
 [f]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <em>blue</em>
