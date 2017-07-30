@@ -178,7 +178,7 @@ There are three phonemic vowels: two close vowels and one open. These are given 
 [4]Front
 The front close vowel is unrounded. It is realised as <ipa>/i/</ipa> or <ipa>/&#x268;/</ipa>.
 [f]<a href="http://dictionary.tinellb.com/m/mici.html#highlulani">mici</a> <em>peace</em>
-[e]<a href="http://dictionary.tinellb.com/d/dinaku.html#highlulani">dinaku</a> <em>mirror</em>
+[e]<a href="http://dictionary.tinellb.com/d/dibada.html#highlulani">dibada</a> <em>life</em>
 [e]<a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <em>love</em>
 [4]Open
 The open vowel is unrounded. It can be realised as <ipa>/a/</ipa> or <ipa>/&#x259;/</ipa>.
@@ -190,8 +190,7 @@ The back close vowel is rounded. It can be realised as <ipa>/u/</ipa> or <ipa>/&
 [f]<a href="http://dictionary.tinellb.com/m/mulu.html#highlulani">mulu</a> <em>blood</em>
 [e]<a href="http://dictionary.tinellb.com/b/bunali.html#highlulani">bunali</a> <em>rhyme</em>
 [e]<a href="http://dictionary.tinellb.com/r/riccu.html#highlulani">riccu</a> <em>sphere</em>
-
-&date=20170716
+&date=20170729
 [3]Phonotactics
 Phonemically, all syllables are CV, that is, one consonant followed by one vowel. Word-internal consonants can be geminated. The only consonant clusters are geminate consonants, and there are no vowel clusters or long vowels.
 &date=20170716
@@ -336,7 +335,7 @@ Because of the nature of alienability, some contrasts can be made between posses
 [f]<a href="http://dictionary.tinellb.com/l/luffu.html#highlulani">luffu</a><a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <em>my eyes, the ones with which I was born</em>
 [e]<a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <a href="http://dictionary.tinellb.com/l/luffu.html#highlulani">luffu</a> <em>the eyes I just bought and have in my hand</em>
 [f]<a href="http://dictionary.tinellb.com/a/'asilari.html#highlulani">&rsquo;asilari</a><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> <em>your friend</em>
-[e]<a href="http://dictionary.tinellb.com/b/ba'asila.html#highlulani">ba &rsquo;asila</a><a href="http://dictionary.tinellb.com/r/ri.html#highlulani">ri</a> <em>the friend you own</em>
+[e]<a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> <a href="http://dictionary.tinellb.com/a/'asilari.html#highlulani">&rsquo;asilari</a> <em>the friend you own</em>
 [f]<a href="http://dictionary.tinellb.com/h/hu'asa.html#highlulani">hu&rsquo;asa</a><a href="http://dictionary.tinellb.com/d/disi.html#highlulani">disi</a> <em>the painting she made</em>
 [e]<a href="http://dictionary.tinellb.com/d/disi.html#highlulani">disi</a> <a href="http://dictionary.tinellb.com/h/hu'asa.html#highlulani">hu&rsquo;asa</a> <em>the painting she bought</em>
 Alienable possession is used in a hierarchy when the possessor is of higher rank than the possessed, and inalienable possession when the relationship is the other way around.
@@ -989,11 +988,11 @@ The only compulsory component of a noun phrase is the noun itself.
 [e]<a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a><a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a> (i-ii-vii) <em>onto the table</em>
 [e]<a href="http://dictionary.tinellb.com/h/haru.html#highlulani">haru</a><a href="http://dictionary.tinellb.com/b/bijaju.html#highlulani">bijaju</a> <a href="http://dictionary.tinellb.com/n/nimalu.html#highlulani">nimalu</a> (i-iii vii) <em>with the first bear</em>
 [e]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/g/gusuli.html#highlulani">gusuli</a><a href="http://dictionary.tinellb.com/l/lumi.html#highlulani">lumi</a> (v vii-viii) <em>several people who eat strawberries</em>
-[e]<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/luna.html#highlulani">luna</a> <a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a> <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/a/'abu.html#highlulani">&rsquo;abu</a> (ii-v vii) <em>because of everyone who looks at the moon</em>
+[e]<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/luna.html#highlulani">luna</a> <a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a> <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> (ii-v vii) <em>because of everyone who looks at the moon</em>
 [e]<a href="http://dictionary.tinellb.com/a/'adi.html#highlulani">&rsquo;adi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">qikanni</a> <a href="http://dictionary.tinellb.com/t/tura.html#highlulani">tura</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/x/xa''u.html#highlulani">xa&#x294;u</a> (i-iii v vii) <em>near the two children who looked after dogs</em>
 [e]<a href="http://dictionary.tinellb.com/j/julliga.html#highlulani">julliga</a> <a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a><a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a><a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <a href="http://dictionary.tinellb.com/k/kasa.html#highlulani">kasa</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a><a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&rsquo;ara</a> (v vi vii-viii-ix-x)
 [e]<em>the faces of the married women <u>and the walker men who are going to Ir&igrave;a</u></em>.
-&date=20170725
+&date=20170729
 [3]Gerunds
 Some verb phrases can be changed into nouns describing the activity.
 [f]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">Huba</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/n/naqa.html#highlulani">naqa</a>.
@@ -1046,7 +1045,7 @@ Numbers between 1<overline>7</overline> and 16 are composed of the prefix <a hre
 Round numbers, <em>i.e.:</em> numbers ending with a single zero, use the suffix <a href="http://dictionary.tinellb.com/h/-hha.html#highlulani">-hha</a>.
 [f]<a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a> 10
 [e]<a href="http://dictionary.tinellb.com/r/rahha.html#highlulani">rahha</a> 20
-[e]<a href="http://dictionary.tinellb.com/k/kifihha.html#highlulani">kifihha</a> 30
+[e]<strong>kifihha</strong> 30
 All other two digit numbers, except for 22, are formed by juxtaposing the tens digit with the units.
 [f]<a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a><a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> <overline>1</overline>3
 [e]<a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> 17
@@ -1101,12 +1100,12 @@ Ordinal numbers are used to mark position in a line or a list.
 The first two ordinal numbers are suppletive, that is, they are not related to their cardinals. All other ordinals are formed by adding the suffix <a href="http://dictionary.tinellb.com/u/-uju.html#highlulani">-uju</a> <small-caps>ord</small-caps> to the cardinal number.
 [f]<a href="http://dictionary.tinellb.com/b/bijaju.html#highlulani">bijaju</a> <em>first</em>
 [e]<a href="http://dictionary.tinellb.com/m/matta.html#highlulani">matta</a> <em>second</em>
-[e]<a href="http://dictionary.tinellb.com/k/kifuju.html#highlulani">kifuju</a> <em>third</em>
-[e]<a href="http://dictionary.tinellb.com/n/nuruju.html#highlulani">nuruju</a> <em>fourth</em>
-[e]<a href="http://dictionary.tinellb.com/s/salumuju.html#highlulani">salumuju</a> <em>seventh</em>
-[e]<a href="http://dictionary.tinellb.com/s/saqikkuju.html#highlulani">saqikkuju</a> <em>fifteenth</em>
-[e]<a href="http://dictionary.tinellb.com/s/saxituju.html#highlulani">saxituju</a> <em>sixteenth</em>
-[e]<a href="http://dictionary.tinellb.com/t/takkuju.html#highlulani">takkuju</a> <em>two hundred and twenty-fifth</em>
+[e]<strong>kifuju</strong> <em>third</em>
+[e]<strong>nuruju</strong> <em>fourth</em>
+[e]<strong>salumuju</strong> <em>seventh</em>
+[e]<strong>saqikkuju</strong> <em>fifteenth</em>
+[e]<strong>saxituju</strong> <em>sixteenth</em>
+[e]<strong>takkuju</strong> <em>two hundred and twenty-fifth</em>
 [4]Using Numbers
 Ordinal and cardinal numbers are used in noun phrases, and are inserted between any case markers or adpositions, and the noun.
 [f]<a href="http://dictionary.tinellb.com/n/nuruju.html#highlulani">nuruju</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a>
@@ -1152,7 +1151,7 @@ Each of these terms can be compounded to refer to specific hues.
 &date=20170725
 [3]Kinship
 [4]Marriage
-<a href="http://dictionary.tinellb.com/j/ju'idukuru.html#highlulani">Ju&rsquo;idukuru</a> <em>marriage</em> is the life-bonding of two people. It is intended to be eternal, but can be broken if requested by either partner. It is not an exclusive arrangement, and one can be involved in concurrent marriages.
+<a href="http://dictionary.tinellb.com/j/ju'iduku.html#highlulani">Ju&rsquo;iduku</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <em>marriage</em> is the life-bonding of two people. It is intended to be eternal, but can be broken if requested by either partner. It is not an exclusive arrangement, and one can be involved in concurrent marriages.
 A bonded person is called a <a href="http://dictionary.tinellb.com/s/silu.html#highlulani">silu</a> <em>spouse</em> when using possessive pronouns, and  <a href="http://dictionary.tinellb.com/x/xalli.html#highlulani">xalli</a> <em>married person</em> otherwise.
 [4]Nuclear Family
 The words <a href="http://dictionary.tinellb.com/k/kitisu.html#highlulani">kitisu</a> <em>father</em> and <a href="http://dictionary.tinellb.com/j/julliga.html#highlulani">julliga</a> <em>mother</em> usually refer to biological parents, but can be applied to the main guardians if the biological parents are not around. These are used without possessives.
@@ -1171,7 +1170,7 @@ There can be a suffixed <a href="http://dictionary.tinellb.com/j/ju'i.html#highl
 [e]offspring-link-2<small-caps>gen</small-caps>
 [e]&ldquo;your step-daughter&rdquo;
 Other kinship terms began as nuclear family names, but were thence extended across a generation. So <a href="http://dictionary.tinellb.com/k/kaqqa.html#highlulani">kaqqa</a> <em>elder sibling</em> and <a href="http://dictionary.tinellb.com/k/kica.html#highlulani">kica</a> <em>younger sibling</em> can also be applied to cousins.
-&date=20170725
+&date=20170729
 [3]Honorifics
 The suffix <a href="http://dictionary.tinellb.com/f/-fi.html#highlulani">-fi</a> can be added to abstract and inanimate nouns to show deference.
 Honorifics for people consist of a word prefixed to the person&rsquo;s name. The general honorific is <a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a> (person).
