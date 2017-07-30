@@ -117,12 +117,11 @@ The glottal stop <ipa>/&#x294;/</ipa> is one of the most common sounds. Non-gemi
 [e]<a href="http://dictionary.tinellb.com/n/nasi''u.html#highlulani">nasi&#x294;u</a> sheep
 [4]Nasals
 There are nasal consonants at each of the places of articulation of the plosives. However, the palatal nasal is only found when geminating the alveolar nasal. Nasals are prototypically voiced. Geminate nasals are held for 1 &frac12; times as long as non-geminates.
-
 [5]Labial
 The labial nasal <ipa>/m/</ipa> is bilabial.
 [f]<a href="http://dictionary.tinellb.com/m/mana.html#highlulani">mana</a> <em>bubble</em>
 [e]<a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <em>seven</em>
-[e]<a href="http://dictionary.tinellb.com/l/lupumma.html#highlulani">lupumma</a> <em>fire</em>
+[e]<a href="http://dictionary.tinellb.com/g/girammi.html#highlulani">girammi</a> <em>thunder</em>
 [5]Alveolar
 The alveolar nasal <ipa>/n/</ipa> is apical. When geminated, this sound is palatal and laminal.
 [f]<a href="http://dictionary.tinellb.com/n/nu.html#highlulani">nu</a> <em>to</em> <em>stop</em>
@@ -150,23 +149,23 @@ Fricatives are prototypically voiceless. The lips remain unrounded for all frica
 The fricative <ipa>/f/</ipa> is realised as labiodental.
 [f]<a href="http://dictionary.tinellb.com/f/faxi.html#highlulani">faxi</a> to survive
 [e]<a href="http://dictionary.tinellb.com/b/bufiqi.html#highlulani">bufiqi</a> illness
-[e]<a href="http://dictionary.tinellb.com/k/kilaffi.html#highlulani">kilaffi</a> three
+[e]<a href="http://dictionary.tinellb.com/i/'iffa.html#highlulani">&rsquo;iffa</a> it
 [5]Alveolar
 The fricative <ipa>/s/</ipa> is apical.
 [f]<a href="http://dictionary.tinellb.com/s/sikka.html#highlulani">sikka</a> <em>skin</em>
 [e]<a href="http://dictionary.tinellb.com/h/husabi.html#highlulani">husabi</a> <em>finger</em>
-[e]<a href="http://dictionary.tinellb.com/a/'alissa.html#highlulani">&rsquo;alissa</a> <em>to</em> <em>need</em>
+[e]<a href="http://dictionary.tinellb.com/a/'alissa.html#highlulani">&rsquo;alissa</a> <em>to need</em>
 [5]Palatal
 The palatal fricative <ipa>/&#x255;/</ipa> is laminal.
 [f]<a href="http://dictionary.tinellb.com/x/xaha.html#highlulani">xaha</a> <em>name</em>
 [e]<a href="http://dictionary.tinellb.com/p/puxila.html#highlulani">puxila</a> <em>message</em>
-[e]<a href="http://dictionary.tinellb.com/d/dixxato.html#highlulani">dixxa to</a> <em>drink</em>
+[e]<a href="http://dictionary.tinellb.com/d/dixxa.html#highlulani">dixxa</a> <em>to drink</em>
 [5]Glottal
 The fricative <ipa>/h/</ipa> is a voiceless sound. When geminate, it is pronounced as a palatal fricative.
 [f]<a href="http://dictionary.tinellb.com/h/hannaku.html#highlulani">hannaku</a> <em>cat</em>
 [e]<a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a> <em>to dwell</em>
 [e]<a href="http://dictionary.tinellb.com/q/quhha.html#highlulani">quhha</a> <em>river</em>
-&date=20170716
+&date=20170730
 [3]Vowels
 There are three phonemic vowels, with three main allophones for each. The vowels are distinguished by closeness and frontness.
 [t] | front | central | back
@@ -267,8 +266,8 @@ High Lulani is an analytic agglutinative language, as morphemes tend to keep the
 Common and proper nouns are open classes; the pronouns are closed.
 [4]Proper Nouns
 Proper nouns begin with a capital letter in the transliteration.
-[f]<a href="http://dictionary.tinellb.com/r/ra'ani.html#highlulani">Ra&rsquo;ani</a> <em>Ryan</em> (name of a person)
-[e]<a href="http://dictionary.tinellb.com/i/'ikinnisa.html#highlulani">&#x294;ikinnisa</a> <em>Eakins</em> (name of a family)
+[f]<strong>Ra&rsquo;ani</strong> <em>Ryan</em> (name of a person)
+[e]<strong>&#x294;ikinnisa</strong> <em>Eakins</em> (name of a family)
 [e]<a href="http://dictionary.tinellb.com/s/sa'imi.html#highlulani">Sa&rsquo;imi</a> <em>Caemi</em> (name of a deity)
 [e]<a href="http://dictionary.tinellb.com/t/tinalli.html#highlulani">Tinalli</a> <em>Tinellb</em> (name of a universe)
 [e]<a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <em>Ir&igrave;a</em> (name of a city)
@@ -305,11 +304,11 @@ Third person refers to any other party. It is not used for the subject of the se
 Pronouns are not marked for number. However, if the pronoun refers to a group that includes more than one of these persons, then additional pronouns can be constructed as follows:
 The second person transitive pronoun <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> can be suffixed to the first person pronouns to form first person inclusive plural pronouns.
 The third person intransitive inanimate pronoun <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> can be suffixed to any first or second person pronouns, including those with <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>, to form other plural pronouns.
-[f]<a href="http://dictionary.tinellb.com/s/sumafu.html#highlulani">sumafu</a> <em>you and I</em>
-[e]<a href="http://dictionary.tinellb.com/p/pixifu.html#highlulani">pixifu</a> <em>to you and me</em>
-[e]<a href="http://dictionary.tinellb.com/p/puttupa.html#highlulani">puttupa</a> <em>from them and me</em>
-[e]<a href="http://dictionary.tinellb.com/f/fillipa.html#highlulani">fillipa</a> <em>they and you</em>
-[e]<a href="http://dictionary.tinellb.com/p/pagufupa.html#highlulani">pagufupa</a> <em>of you, them and me</em>
+[f]<a href="http://dictionary.tinellb.com/s/suma.html#highlulani">suma</a><a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <em>you and I</em>
+[e]<a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a><a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <em>to you and me</em>
+[e]<a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <em>from them and me</em>
+[e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <em>they and you</em>
+[e]<a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a><a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <em>of you, them and me</em>
 [6]Animacy
 Animate pronouns refer to people and other multicellular organisms capable of independent movement.
 Inanimate pronouns refer to anything else, such as natural phenomena, plants, fungi, unicellular life and abstract concepts.
@@ -328,8 +327,8 @@ For inalienable possession, as well as genitive constructions that do not involv
 [f]<a href="http://dictionary.tinellb.com/k/kahi.html#highlulani">kahi</a><a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <em>my arm</em>
 [e]<a href="http://dictionary.tinellb.com/s/sabba.html#highlulani">sabba</a><a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <em>the queen&rsquo;s father</em>
 [e]<a href="http://dictionary.tinellb.com/h/hafi.html#highlulani">hafi</a><a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/n/nasi''u.html#highlulani">nasi&#x294;u</a> <em>the sheep field</em>
-[e]<a href="http://dictionary.tinellb.com/r/ra'ani.html#highlulani">Ra&rsquo;ani</a><a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/i/'ikinisa.html#highlulani">&#x294;ikinisa</a> <em>Ryan (of the family) Eakins</em>
-[e]<a href="http://dictionary.tinellb.com/s/sa'imi.html#highlulani">Sa&rsquo;imi</a><a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> Tinalli</strong> <em>Caemi from Tinellb</em>
+[e]Ra&rsquo;ani<a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> &#x294;ikinnisa <em>Ryan (of the family) Eakins</em>
+[e]<a href="http://dictionary.tinellb.com/s/sa'imi.html#highlulani">Sa&rsquo;imi</a><a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/t/tinalli.html#highlulani">Tinalli</a> <em>Caemi from Tinellb</em>
 [6]Contrasts
 Because of the nature of alienability, some contrasts can be made between possessives.
 [f]<a href="http://dictionary.tinellb.com/l/luffu.html#highlulani">luffu</a><a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <em>my eyes, the ones with which I was born</em>
@@ -341,7 +340,7 @@ Because of the nature of alienability, some contrasts can be made between posses
 Alienable possession is used in a hierarchy when the possessor is of higher rank than the possessed, and inalienable possession when the relationship is the other way around.
 [f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a><a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <em>my queen</em>
 [e]<a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <a href="http://dictionary.tinellb.com/m/mifasu.html#highlulani">mifasu</a> <em>my vassal</em>
-&date=20170729
+&date=20170730
 [3]Auxiliaries
 Auxiliaries are a type of helper verb, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
 [t] | dynamic | stative | negative | iterative | gnomic
@@ -558,7 +557,7 @@ The &lsquo;object&rsquo; indefinite pronouns can modify a noun when used as a su
 [e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a><a href="http://dictionary.tinellb.com/m/mi.html#highlulani">mi</a> <em>some monarch</em>
 [e]<a href="http://dictionary.tinellb.com/k/kulu.html#highlulani">kulu</a><a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <em>every fork</em>
 [e]<a href="http://dictionary.tinellb.com/n/nulli.html#highlulani">nulli</a><a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <em>which mountain?</em>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a><a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a><a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a><a href="http://dictionary.tinellb.com/t/-ta.html#highlulani">-ta</a> <em>every me and every you</em>
+[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a><a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a><a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a>-<a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>every me and every you</em>
 The existential markers are used in complements.
 [f]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <a href="http://dictionary.tinellb.com/x/xaha.html#highlulani">xaha</a>-<a href="http://dictionary.tinellb.com/d/disi.html#highlulani">disi</a> <a href="http://dictionary.tinellb.com/u/'umi.html#highlulani">&rsquo;umi</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/p/padissu.html#highlulani">padissu</a>.
 [e]<em>1<small-caps>int com</small-caps> name-<small-caps>3ani;gen</small-caps> something <small-caps>prs;gno</small-caps> learn.</em>
@@ -571,7 +570,7 @@ Reduplicated indefinite pronouns with suffixed -<a href="http://dictionary.tinel
 [e]<a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>absolutely everything</em>
 [4]Pro-verbs
 The action terms are pro-verbs, which can be used to replace ordinary verbs in sentences.
-[f]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/s/samila.html#highlulani">samila</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>?
+[f]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/s/sulla.html#highlulani">sulla</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>?
 [e]<em><small-caps>2int</small-caps> do_what <small-caps>pst;dyn</small-caps>?</em>
 [e]&ldquo;What did you do?&rdquo;
 [4]Pro-modals
@@ -593,7 +592,7 @@ The usual genitive markers refer to possession by some other party, not the subj
 [e]<em>Father offspring <small-caps>com</small-caps> eat potato-<small-caps>dim</small-caps>-own <small-caps>fut;dyn</small-caps> order.</em>
 [e]&ldquo;Dad asked my daughter to eat his chips.&rdquo;
 None of the above applies for first- and second-person subjects; these use their normal genitive markers.
-&date=20170725
+&date=20170730
 [3]Suffixes
 [4]Derivational Suffixes
 There are many derivational suffixes which change a word from one part of speech to another.
@@ -788,7 +787,7 @@ Copular sentences do not have a main verb. These sentences are used to show an e
 [e]<small-caps>3ani;int</small-caps> <small-caps>fut;dyn</small-caps> <em>married_woman</em>
 [e]&ldquo;She will become a married woman.&rdquo;
 Another use of copular sentences is to tell the location of something in relation to something else.
-[f]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">Pa</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/d/di'i'uja.html#highlulani">di&rsquo;i&rsquo;uja</a>.
+[f]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">Pa</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a><a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a>.
 [e]<small-caps>3ina;int</small-caps> <small-caps>prs;gno</small-caps> <em>down-table</em>
 [e]&ldquo;It&rsquo;s under the table.&rdquo;
 The copular sentence structure for ownership is as follows. It has the possessor in the dative case, and the possessum as the subject.
@@ -814,27 +813,27 @@ These example sentences have been given to clarify alignment and the correct use
 [e]<small-caps>3ani.int pst;sta</small-caps> <em>eat</em><small-caps> 3ina.tra</small-caps>
 [e]&ldquo;She was eating it.&rdquo;
 As can be seen, the only time the transitive case is used for the subject of a clause is in transitive (as well as copular) sentences using dynamic or iterative auxiliaries.
-&date=20170725
+&date=20170730
 [3]Argument Promotion
 The first noun in a clause is the subject, which is prototypically the agent in transitive sentences and the patient in intransitive sentences. However, suffixes can be added to the verb to promote other nouns in the clause, other than the genitive.
 There are three such verbal suffixes, which can be stacked, however, once something has been shifted from the subject position, it can&rsquo;t be promoted again.
 [4]Passive
 The passive suffix promotes the object. This suffix has the form <a href="http://dictionary.tinellb.com/i/-'illu.html#highlulani">-&rsquo;illu</a> when the last element of a verb is monosyllabic, has <a href="http://dictionary.tinellb.com/i/-ilu.html#highlulani">-ilu</a> replacing the final vowel if the final consonant is geminated, and has <a href="http://dictionary.tinellb.com/i/-illu.html#highlulani">-illu</a> replacing the final vowel of the verb elsewise. The old subject is then marked with the ablative case. A sentence with this marker is intransitive. The demoted item is not compulsory, but if it is put in, it is the first ablative-marked noun in the new sentence.
-[f]<a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kissaji.html#highlulani">kissaji</a> <a href="http://dictionary.tinellb.com/k/kilatu'i.html#highlulani">kilatu&rsquo;i</a>!
-[e]<small-caps>2tra pst;dyn</small-caps> <em>fight</em><small-caps></small-caps> <em>deer</em>
+[f]<a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a> <a href="http://dictionary.tinellb.com/k/kilatu'i.html#highlulani">kilatu&rsquo;i</a>!
+[e]<small-caps>2tra pst;dyn</small-caps> <em>fight deer</em>
 [e]&ldquo;You fought a deer!&rdquo;
-[f]<a href="http://dictionary.tinellb.com/k/kilatu'i.html#highlulani">Kilatu&rsquo;i</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> (<a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a>) <a href="http://dictionary.tinellb.com/k/kissajillu.html#highlulani">kissajillu</a>.
-[e]<em>deer</em><small-caps> pst;dyn (2abl)</small-caps> <em>fight</em><small-caps>-psv</small-caps>
+[f]<a href="http://dictionary.tinellb.com/k/kilatu'i.html#highlulani">Kilatu&rsquo;i</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> (<a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a>) <a href="http://dictionary.tinellb.com/k/kissilu.html#highlulani">kissilu</a>.
+[e]<em>deer</em> <small-caps>pst;dyn (2abl)</small-caps> <em>fight</em><small-caps>-psv</small-caps>
 [e]&ldquo;A deer was fought (by you).&rdquo;
 [4]Ablative
-When the final consonant of a verb is geminate, the ablative suffix takes the form <a href="http://dictionary.tinellb.com/i/-'ika.html#highlulani">-&rsquo;ika</a>, elsewise it is <a href="http://dictionary.tinellb.com/k/-kka.html#highlulani">-kka</a>. The old subject is demoted to object, and the old object is demoted to dative. A sentence with this marker is transitive. The first dative-marked noun in the new sentence is the demoted item.
+When the final consonant of a verb is geminate, the ablative suffix takes the form <a href="http://dictionary.tinellb.com/k/-ka.html#highlulani">-ka</a>, elsewise it is <a href="http://dictionary.tinellb.com/k/-kka.html#highlulani">-kka</a>. The old subject is demoted to object, and the old object is demoted to dative. A sentence with this marker is transitive. The first dative-marked noun in the new sentence is the demoted item.
 [f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a>.
 [e]<em>queen</em><small-caps> pst;dyn abl-</small-caps><em>king</em><small-caps></small-caps> <em>eat</em><small-caps></small-caps> <em>fish</em>
 [e]&ldquo;The queen ate a fish because of the king.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a> <a href="http://dictionary.tinellb.com/d/dasikka.html#highlulani">dasikka</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>.
 [e]<em>king</em><small-caps> pst;dyn dat-</small-caps><em>fish</em><small-caps></small-caps> <em>eat</em><small-caps>-abp</small-caps> <em>queen</em><small-caps>.</small-caps>
 [e]&ldquo;The king made the queen eat fish.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> (<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>) <a href="http://dictionary.tinellb.com/d/dasilluka.html#highlulani">dasilluka</a> <a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a>.
+[f]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> (<strong>kal&middot;lani</strong>) <a href="http://dictionary.tinellb.com/d/dasilluka.html#highlulani">dasilluka</a> <a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a>.
 [e]<em>king</em><small-caps> pst;dyn (abl-</small-caps><em>queen</em><small-caps>)</small-caps> <em>eat</em><small-caps>-psv-abp</small-caps> <em>fish</em>
 [e]&ldquo;The king made the fish get eaten (by the queen).&rdquo;
 [4]Dative
@@ -862,7 +861,7 @@ To promote a adpositional phrase to subject, prefix the verb with the adposition
 [f]<a href="http://dictionary.tinellb.com/j/jagaru.html#highlulani">Jagaru</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a><a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a>.
 [e]<em>sand</em><small-caps> pst;sta dat-</small-caps><em>strawberry</em><small-caps></small-caps> <em>in-eat</em> <small-caps>3ani;tra</small-caps>.
 [e]&ldquo;It was in the sand that he was eating the strawberry.&rdquo;
-&date=20170725
+&date=20170730
 [3]Dependent Clauses
 A dependent clause is a clause that is unable to stand meaningfully by itself.
 They are marked by having the auxiliary at the end.
@@ -884,7 +883,7 @@ The word <a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a> <em
 [e]&ldquo;I loved you before your ball turned red.&rdquo;
 [4]Content Clauses
 A content clause is one that takes the place of a noun. They begin with the complementiser <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> and are separated from the matrix clause by commas. The auxiliary is not optional, and is given a low tone. Quote marks are used around reported speech, replacing the complementiser.
-[f]<a href="http://dictionary.tinellb.com/l/li.html#highlulani">Li</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/k/kissaji.html#highlulani">kissaji</a><a href="http://dictionary.tinellb.com/j/jisuka.html#highlulani">jisuka</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/g/gibi.html#highlulani">gibi</a><a href="http://dictionary.tinellb.com/a/'asi'a.html#highlulani">&#x294;asi&rsquo;a</a> <a href="http://dictionary.tinellb.com/r/rusa.html#highlulani">rusa</a>, <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a> <a href="http://dictionary.tinellb.com/p/pillu.html#highlulani">pillu</a>.
+[f]<a href="http://dictionary.tinellb.com/l/li.html#highlulani">Li</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a><a href="http://dictionary.tinellb.com/j/jisuka.html#highlulani">jisuka</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/g/gibi.html#highlulani">gibi</a><strong>&#x294;asi&rsquo;a</strong> <a href="http://dictionary.tinellb.com/r/rusa.html#highlulani">rusa</a>, <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a> <a href="http://dictionary.tinellb.com/p/pa'illu.html#highlulani">pa&rsquo;illu</a>.
 [e]<small-caps>1int</small-caps> <em>fight-ideology</em> <small-caps>dat</small-caps><em>-east-Asia</em> <small-caps>pst;gno</small-caps><em>,</em> <small-caps>pst;dyn</small-caps> <small-caps>1abl</small-caps> <em>think-</em><small-caps>psv</small-caps>
 [e]&ldquo;That we&rsquo;ve always been at war with Eastasia, is what I think.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/s/suma.html#highlulani">Suma</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/i/'icipu.html#highlulani">&rsquo;icipu</a>, <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a> <a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> <a href="http://dictionary.tinellb.com/d/dissudanagi.html#highlulani">dissudanagi</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>.
@@ -957,7 +956,7 @@ Second person imperatives are directed to the listener. In these, the subject is
 [f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a><a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a>!
 [e]<em>queen love-</em><small-caps>fut;gno</small-caps>
 [e]&ldquo;Love the queen!&rdquo;
-&date=20170725
+&date=20170730
 [3]Particular Clauses
 [4]Experiences
 The modal <a href="http://dictionary.tinellb.com/d/da'aru.html#highlulani">da&rsquo;aru</a> <em>experience</em> can be used to show experiences.
@@ -1070,7 +1069,7 @@ In any of these cases, if the remainder is zero, it is left off.
 When a number is written out in digits, each set of four digits from the fractional point makes up a group. The group furthest from the fractional point may not have this full quota of digits. An index marker notes the identity of a particular group.
 The index marker is composed of the prefix <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> followed by the number of groups between this one and the fractional point. Positive index numbers are for the integer part of the number, and negative index numbers are for the mantissa.
 The index marker is suffixed to the group word.
-[f]<a href="http://dictionary.tinellb.com/p/paxita.html#highlulani">paxita</a> 1,0000
+[f]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> 1,0000
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> 1,0000,0000
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> 1,0000,0000,0000
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> 0.0001
@@ -1087,14 +1086,14 @@ One uses the above method of index markers, and the second reads out the digits 
 [6]Repeating and Reflecting Strings
 All rational numbers end with a repeating string of digits. For some numbers, this string is &ldquo;0&rdquo;. In non-zero cases, the word <a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> repeat is inserted before the repeating string. The string must be read out with individual digits.
 There are also numbers for which the repeating string can be cut in half, with digits in the second half being the negative of the digits in the first half. For these, only the first half is read out, with the word <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> reflect inserted.
-[f]<a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <a href="http://dictionary.tinellb.com/g/guhira.html#highlulani">guhira</a> 0.5252&hellip;
-[e]<a href="http://dictionary.tinellb.com/p/paqikka.html#highlulani">paqikka</a> <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <a href="http://dictionary.tinellb.com/g/guhira.html#highlulani">guhira</a> 0.15252&hellip;
-[e]<a href="http://dictionary.tinellb.com/p/paqikka.html#highlulani">paqikka</a> <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> 0.152<overline>5</overline><overline>2</overline>52<overline>5</overline><overline>2</overline>&hellip;
+[f]<a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> 0.5252&hellip;
+[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">qihha</a> <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> 0.15252&hellip;
+[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">qihha</a> <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> 0.152<overline>5</overline><overline>2</overline>52<overline>5</overline><overline>2</overline>&hellip;
 [6]Fractions
 The suffix <a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a> separates the numerator from the denominator. <a href="http://dictionary.tinellb.com/s/saki.html#highlulani">Saki</a> is used if the numerator is 1. There is also a commonly used variant for &frac12;: <a href="http://dictionary.tinellb.com/i/'ima.html#highlulani">&rsquo;ima</a>.
 [f]<a href="http://dictionary.tinellb.com/i/'ima.html#highlulani">&rsquo;ima</a> / <a href="http://dictionary.tinellb.com/s/saki.html#highlulani">saki</a> <a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> &frac12;
 [e]<a href="http://dictionary.tinellb.com/s/saki.html#highlulani">saki</a> <a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> &frac13;
-[e]<a href="http://dictionary.tinellb.com/k/kifiki.html#highlulani">kifiki</a> <a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> &frac34;
+[e]<a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a><a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a> <a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> &frac34;
 [4]Ordinal Numbers
 Ordinal numbers are used to mark position in a line or a list.
 The first two ordinal numbers are suppletive, that is, they are not related to their cardinals. All other ordinals are formed by adding the suffix <a href="http://dictionary.tinellb.com/u/-uju.html#highlulani">-uju</a> <small-caps>ord</small-caps> to the cardinal number.
@@ -1108,24 +1107,24 @@ The first two ordinal numbers are suppletive, that is, they are not related to t
 [e]<strong>takkuju</strong> <em>two hundred and twenty-fifth</em>
 [4]Using Numbers
 Ordinal and cardinal numbers are used in noun phrases, and are inserted between any case markers or adpositions, and the noun.
-[f]<a href="http://dictionary.tinellb.com/n/nuruju.html#highlulani">nuruju</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a>
+[f]<strong>nuruju</strong> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a>
 [e]<em>four-</em><small-caps>ord</small-caps> <em>king</em>
 [e]&ldquo;the fourth king.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>
 [e]<small-caps>abl</small-caps><em>-seven queen</em>
 [e]&ldquo;due to the seven queens.&rdquo;
 Numbers can be suffixed to a noun to denote not the quantity, but a quality.
-[f]<a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <a href="http://dictionary.tinellb.com/i/'isinnadi.html#highlulani">&rsquo;isinnadi</a>
-[e]seven say-story-<small-caps>nom</small-caps>
+[f]<a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <a href="http://dictionary.tinellb.com/s/sinnadi.html#highlulani">sinnadi</a>
+[e]seven story-<small-caps>nmn</small-caps>
 [e]&ldquo;seven books&rdquo;
 [f]<a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a>
-[e]<em>story-</em>seven
+[e]<em>story</em>-<em>seven</em>
 [e]&ldquo;septet&rdquo;
 The number <a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>two</em> can be used in this way to refer to a pair of something that is usually found in pairs
-[f]<a href="http://dictionary.tinellb.com/l/luffura.html#highlulani">luffura</a> <em>eyes</em>
-[e]<a href="http://dictionary.tinellb.com/i/'itakkura.html#highlulani">&rsquo;itakkura</a> <em>breasts</em>
-[e]<a href="http://dictionary.tinellb.com/t/tibara.html#highlulani">tibara</a> <em>legs</em>
-&date=20170729
+[f]<a href="http://dictionary.tinellb.com/l/luffu.html#highlulani">luffu</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>eyes</em>
+[e]<a href="http://dictionary.tinellb.com/i/'itikku.html#highlulani">&rsquo;itikku</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>breasts</em>
+[e]<a href="http://dictionary.tinellb.com/t/tiba.html#highlulani">tiba</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>legs</em>
+&date=20170730
 [3]Colours
 The basis colour terms are all verbs:
 [f]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <em>blue</em>
