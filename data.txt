@@ -1,10 +1,11 @@
-[1]Introduction
+[0]A Guide to the Tinellbian Languages
+This is a grammar of the languages of Tinellb. All these languages descend from a single common ancestor, High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.
+[l]<a href="highlulani/index.html">High Lulani</a>: <high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi.
+[/l]&date=20171014[1]Introduction
 The Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality.
-&date=20170717
-[2]History
+&date=20171023[2]History
 The internal history of the Guozu and their languages is written as if it were a chronicle of actual events. The external history is the more prosaic record: a description of the genesis and evolution of my ideas.
-&date=20170716
-[3]Internal History
+&date=20171017[3]Internal History
 Within the universe named Tinellb, there is a planet named Ptoko. There arose on this world a race of humanoids, the Ptokan. Over millions of years, their race evolved and became the dominant force on their planet.
 There had been many conflicts, small and large, throughout their history. One particularly bloody war had had much of the population brought into it: a World War. The survivors of this war were ruled by a single monarch.
 Generations passed. The people rebuilt their shattered world. The newest ruler, Queen Loren, decided to create an international language to promote peace amongst her subjects. She named this language Lulani after herself.
@@ -20,21 +21,20 @@ KF: Koine Fezhel
 OP: Old Ptokan
 MP: Middle Ptokan
 SP: Standard Ptokan
-AT: Ancient Tsarin
-MT: Medieval Tsarin
-CT: Contemporary Tsarin
-NT: New Tsarin
+AS: Ancient Solajin
+MS: Medieval Solajin
+CS: Contemporary Solajin
+NS: New Solajin
 PZ: Proto-Zhaladi
 TZ: Traditional Zhaladi
 RZ: Reformed Zhaladi
 PB: Pre-Brequ&egrave;n
 AB: Archaic Brequ&egrave;n
 CB: Common Brequ&egrave;n
-CS: Classical Solajin
-MS: Modern Solajin
+CT: Classical Tsarin
+MT: Modern Tsarin
 [/l]
-&date=20170716
-[3]External History
+&date=20171017[3]External History
 I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <strong>mica</strong> <em>hello</em> dates from that time.
 When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what was to be the Ptokan language, and the language of the Fezhel. The latter  was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhel have been forced to change somewhat to adapt.
 &date=20170716

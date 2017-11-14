@@ -1,0 +1,29 @@
+{
+  "site": {
+    "name": "Grammar",
+    "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar",
+    "leaf_level": 3
+  },
+  "files": {
+    "searchjson": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json",
+    "markdown": "c:/users/ryan/documents/tinellbianlanguages/replacements.mkd",
+    "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.txt",
+    "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
+  },
+  "random words": {
+    "number": 20,
+    "geminate": 3
+  },
+  "links": [
+    {
+      "type": "InternalDictionary"
+    },
+    {
+      "type": "InternalStory"
+    },
+    {
+      "type": "ExternalGrammar",
+      "filename": "c:/users/ryan/documents/tinellbianlanguages/dictionarylinks.txt"
+    }
+  ]
+}
