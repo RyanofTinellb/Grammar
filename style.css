@@ -199,6 +199,10 @@ body {
 	padding-left: 1em;
 }
 
+.nav-pane ul.level-4 {
+	padding-left: 1em;
+}
+
 .nav-pane li {
 	padding-bottom: 0.5em;
 }

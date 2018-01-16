@@ -1,8 +1,7 @@
 {
   "site": {
     "name": "Grammar",
-    "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar",
-    "leaf_level": 3
+    "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar"
   },
   "files": {
     "searchjson": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json",
