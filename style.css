@@ -1,10 +1,15 @@
 @font-face {
-    font-family: tinellb;
-    src: url('http://www.tinellb.com/highlulani.ttf');
+  font-family: tinellb;
+  src: url('http://www.tinellb.com/highlulani.ttf');
+}
+
+@font-face {
+  font-family: android-ipa;
+  src: url('http://openfontlibrary.org/content/rebeccargb/412/constructium.ttf') format('truetype');
 }
 
 ipa {
-	font-family: lucida sans unicode, segoe ui, monospace;
+	font-family: lucida sans unicode, segoe ui, android-ipa, monospace;
 }
 
 small-caps { /* Remove italics from small-caps */
