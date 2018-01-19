@@ -1,5 +1,5 @@
 @font-face {
-  font-family: tinellb;
+  font-family: high-lulani;
   src: url('http://www.tinellb.com/highlulani.ttf');
 }
 
@@ -23,7 +23,7 @@ overline {
 }
 
 high-lulani, vulgar-lulani {
-	font-family: tinellb, lulani;
+	font-family: tinellb, high-lulani;
 	font-size: x-large;
 }
 
