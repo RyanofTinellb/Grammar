@@ -1,17 +1,17 @@
 {
-  "site": {
-    "name": "Grammar",
-    "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar"
-  },
   "files": {
-    "searchjson": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json",
-    "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.txt",
+    "searchjson": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json", 
+    "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.txt", 
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
-  },
+  }, 
+  "site": {
+    "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar", 
+    "name": "Grammar"
+  }, 
   "links": [
     {
-      "type": "ExternalDictionary",
-      "resource": "http://dictionary.tinellb.com"
+      "resource": "http://dictionary.tinellb.com", 
+      "type": "ExternalDictionary"
     }
   ]
 }

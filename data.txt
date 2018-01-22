@@ -423,9 +423,18 @@ The class of basic verbs is semi-closed. Basic verbs consist of one stem.
 [e]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <em>to be red</em>
 [2]Compound Verbs
 In order to extend or specify the meaning of many verbs, verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of basic verbs.
-[e]<a href="http://dictionary.tinellb.com/i/'isinna.html#highlulani">&rsquo;isinna</a> <em>to tell a story</em> (<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> <em>to speak</em> + <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a> <em>story</em>)
-[e]<a href="http://dictionary.tinellb.com/d/dissu'ahati.html#highlulani">dissu&rsquo;ahati</a> <em>to be happy</em> (<a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a> <em>to feel</em> + <a href="http://dictionary.tinellb.com/a/'ahati.html#highlulani">&rsquo;ahati</a> <em>happiness</em>)
-[e]<a href="http://dictionary.tinellb.com/p/pamilami.html#highlulani">pamilami</a> <em>to be conscious</em> (<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <em>think</em> + <a href="http://dictionary.tinellb.com/m/milami.html#highlulani">milami</a> <em>surroundings</em>)
+[f]<strong>&rsquo;isinna</strong>
+[e]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> + <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a>
+[e]<em>say</em>-<em>story</em>
+[e]&ldquo;to tell a story&rdquo;
+[f]<strong>dissu&rsquo;ahati</strong>
+[e]<a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a> + <a href="http://dictionary.tinellb.com/a/'ahati.html#highlulani">&rsquo;ahati</a>
+[e]<em>feel</em>-<em>happiness</em>
+[e]&ldquo;to be happy&rdquo;
+[f]<strong>pamilami</strong>
+[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> + <a href="http://dictionary.tinellb.com/m/milami.html#highlulani">milami</a>
+[e]<em>think</em>-<em>surroundings</em>
+[e]&ldquo;to be conscious&rdquo;
 Monosyllabic verbs may only be used this way. The object of an transitive monosyllabic verb can be used to form the compound, however, this does not occur with polysyllabic verbs.
 [e]<a href="http://dictionary.tinellb.com/d/dissu'ahati.html#highlulani">dissu &rsquo;ahati</a> <em>to feel happiness</em> (as above)
 [e]<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a><a href="http://dictionary.tinellb.com/s/sunu.html#highlulani">sunu</a> <em>to put the cloak (somewhere</em>) (<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a> <em>to put</em> + <a href="http://dictionary.tinellb.com/s/sunu.html#highlulani">sunu</a> <em>cloak</em>)
@@ -538,8 +547,7 @@ These verbs describe an attribute of the subject. With continuous auxiliaries,
 [2]Subtle
 [e]<a href="http://dictionary.tinellb.com/x/xi.html#highlulani">xi</a>: <em>to appear to be; to project</em>
 [e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a>: <em>to experience</em>
-&date=20170727
---------------------------------------------------3
+&date=20180122--------------------------------------------------3
 [1]Adverbs
 Adverbs are a closed class. Adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <a href="../syntax/adverbialphrases.html">Adverbial Phrases</a>
 [f]<a href="http://dictionary.tinellb.com/n/naru.html#highlulani">naru</a> <em>slowly</em>
