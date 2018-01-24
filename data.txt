@@ -435,21 +435,19 @@ In order to extend or specify the meaning of many verbs, verbs can be compounded
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> + <a href="http://dictionary.tinellb.com/m/milami.html#highlulani">milami</a>
 [e]<em>think</em>-<em>surroundings</em>
 [e]&ldquo;to be conscious&rdquo;
-Monosyllabic verbs may only be used this way. The object of an transitive monosyllabic verb can be used to form the compound, however, this does not occur with polysyllabic verbs.
-[e]<a href="http://dictionary.tinellb.com/d/dissu'ahati.html#highlulani">dissu &rsquo;ahati</a> <em>to feel happiness</em> (as above)
-[e]<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a><a href="http://dictionary.tinellb.com/s/sunu.html#highlulani">sunu</a> <em>to put the cloak (somewhere</em>) (<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a> <em>to put</em> + <a href="http://dictionary.tinellb.com/s/sunu.html#highlulani">sunu</a> <em>cloak</em>)
-[e]*<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a> <a href="http://dictionary.tinellb.com/s/sunu.html#highlulani">sunu</a>
-[e]*<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a><a href="http://dictionary.tinellb.com/s/sunu.html#highlulani">sunu</a>
-[e]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <a href="http://dictionary.tinellb.com/s/sunu.html#highlulani">sunu</a> <em>to move the cloak</em> (<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <em>move</em>)
 [2]Verbal Arguments
 The arguments of a verb are those nouns which accompany it in order to construct a sentence. The two main arguments are the subject and the object, and verbs can be categorised by which of these are obligatory.
 [3]Intransitivity
 Intransitive verbs only require a subject, not an object.
-[e]<a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a>: <em>to change</em>
-[e]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">huba</a>: <em>to breathe</em>
+[f]<strong>Badiri ru cura</strong>.
+[e]<a href="http://dictionary.tinellb.com/b/badiri.html#highlulani">Badiri</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a>.
+[e]<em>World</em> <small-caps>prs;gno</small-caps> <em>change</em>.
+[e]&ldquo;The world is always changing.&rdquo;
+[f]<a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a>: <em>to change</em>
 [e]<a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a>: <em>to wait</em>
+[e]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">huba</a>: <em>to live; to breathe</em>
 [e]<a href="http://dictionary.tinellb.com/s/siku.html#highlulani">siku</a>: <em>to die</em>
-[e]<a href="http://dictionary.tinellb.com/h/hacci.html#highlulani">hacci</a>: <em>to be awake</em>
+[e]<a href="http://dictionary.tinellb.com/h/hacci.html#highlulani">hacci</a>: <em>to awaken</em>
 [e]<a href="http://dictionary.tinellb.com/n/nara.html#highlulani">nara</a>: <em>to sleep</em>
 [4]Kinetic Verbs
 These verbs deal with motion of the subject.
@@ -457,12 +455,12 @@ These verbs deal with motion of the subject.
 [e]<a href="http://dictionary.tinellb.com/u/'ussa.html#highlulani">&rsquo;ussa</a>: <em>to follow</em>
 [e]<a href="http://dictionary.tinellb.com/n/nura.html#highlulani">nura</a>: <em>to separate; to move away from someone else; to leave</em>
 [e]<a href="http://dictionary.tinellb.com/m/madi.html#highlulani">madi</a>: <em>to rise; to be high</em>
-[e]<a href="http://dictionary.tinellb.com/k/ka'u.html#highlulani">ka&rsquo;u</a>: <em>jump</em>
+[e]<a href="http://dictionary.tinellb.com/k/ka'u.html#highlulani">ka&rsquo;u</a>: <em>to jump</em>
 [e]<a href="http://dictionary.tinellb.com/h/hussu.html#highlulani">hussu</a>: <em>to drop; to fall; to be low</em>
-[e]<a href="http://dictionary.tinellb.com/s/saja.html#highlulani">saja</a>: <em>lie down</em>
-[e]<a href="http://dictionary.tinellb.com/t/tiku.html#highlulani">tiku</a>: <em>turn; rotate</em>
+[e]<a href="http://dictionary.tinellb.com/s/saja.html#highlulani">saja</a>: <em>to lie down</em>
+[e]<a href="http://dictionary.tinellb.com/t/tiku.html#highlulani">tiku</a>: <em>to turn; to rotate</em>
 [e]<a href="http://dictionary.tinellb.com/r/raca.html#highlulani">raca</a>: <em>to hang</em>
-[e]<a href="http://dictionary.tinellb.com/f/fiqu.html#highlulani">fiqu</a>: <em>float; drift</em>
+[e]<a href="http://dictionary.tinellb.com/f/fiqu.html#highlulani">fiqu</a>: <em>to float; to drift</em>
 [4]Attributive Verbs
 These verbs describe an attribute of the subject. With continuous auxiliaries,
 [e]<a href="http://dictionary.tinellb.com/m/mu.html#highlulani">mu</a>: <em>to be good</em>
@@ -547,7 +545,7 @@ These verbs describe an attribute of the subject. With continuous auxiliaries,
 [2]Subtle
 [e]<a href="http://dictionary.tinellb.com/x/xi.html#highlulani">xi</a>: <em>to appear to be; to project</em>
 [e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a>: <em>to experience</em>
-&date=20180122--------------------------------------------------3
+&date=20180124--------------------------------------------------3
 [1]Adverbs
 Adverbs are a closed class. Adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <a href="../syntax/adverbialphrases.html">Adverbial Phrases</a>
 [f]<a href="http://dictionary.tinellb.com/n/naru.html#highlulani">naru</a> <em>slowly</em>
