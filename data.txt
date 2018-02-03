@@ -2,8 +2,7 @@
 This is a grammar of the languages of Tinellb. All these languages descend from a single common ancestor, High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.
 [2]<a href="highlulani/index.html">High Lulani</a>
 <high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi.
-&date=20171014
---------------------------------------------------1
+&date=20180203--------------------------------------------------1
 [1]Introduction
 The Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality.
 &date=20171023
@@ -415,23 +414,26 @@ The negative aspect is used for actions, attributes and perceptions which do not
 A verb is a necessary part of any sentence, except when making <a href="../syntax/matrixclauses.html#copularsentences">copular sentences</a>.
 [2]Basic Verbs
 The class of basic verbs is semi-closed. Basic verbs consist of one stem.
-[e]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> <em>to say</em>
-[e]<a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a> <em>to feel</em>
-[e]<a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <em>to see</em>
-[e]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <em>to move</em>
-[e]<a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a> <em>to fight</em>
-[e]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <em>to be red</em>
+[e]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> <high-lulani>i</high-lulani> <em>to say</em>
+[e]<a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a> <high-lulani>D;z</high-lulani> <em>to feel</em>
+[e]<a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <high-lulani>us</high-lulani> <em>to see</em>
+[e]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <high-lulani>j;N</high-lulani> <em>to move</em>
+[e]<a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a> <high-lulani>K;s</high-lulani> <em>to fight</em>
+[e]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <high-lulani>M&gt;</high-lulani> <em>to be red</em>
 [2]Compound Verbs
 In order to extend or specify the meaning of many verbs, verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of basic verbs.
 [f]<strong>&rsquo;isinna</strong>
+[e]<high-lulani>iS;n</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> + <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a>
 [e]<em>say</em>-<em>story</em>
 [e]&ldquo;to tell a story&rdquo;
 [f]<strong>dissu&rsquo;ahati</strong>
+[e]<high-lulani>D;zahT</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a> + <a href="http://dictionary.tinellb.com/a/'ahati.html#highlulani">&rsquo;ahati</a>
 [e]<em>feel</em>-<em>happiness</em>
 [e]&ldquo;to be happy&rdquo;
 [f]<strong>pamilami</strong>
+[e]<high-lulani>pMlM</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> + <a href="http://dictionary.tinellb.com/m/milami.html#highlulani">milami</a>
 [e]<em>think</em>-<em>surroundings</em>
 [e]&ldquo;to be conscious&rdquo;
@@ -440,51 +442,58 @@ The arguments of a verb are those nouns which accompany it in order to construct
 [3]Intransitivity
 Intransitive verbs only require a subject, not an object.
 [f]<strong>Badiri ru cura</strong>.
+[e]<high-lulani>.bDR / w / yr.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/b/badiri.html#highlulani">Badiri</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a>.
 [e]<em>World</em> <small-caps>prs;gno</small-caps> <em>change</em>.
 [e]&ldquo;The world is always changing.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a>: <em>to change</em>
-[e]<a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a>: <em>to wait</em>
-[e]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">huba</a>: <em>to live; to breathe</em>
-[e]<a href="http://dictionary.tinellb.com/s/siku.html#highlulani">siku</a>: <em>to die</em>
-[e]<a href="http://dictionary.tinellb.com/h/hacci.html#highlulani">hacci</a>: <em>to awaken</em>
-[e]<a href="http://dictionary.tinellb.com/n/nara.html#highlulani">nara</a>: <em>to sleep</em>
+[f]<a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a> <high-lulani>yr</high-lulani> <em>to change; to be different</em>
+[e]<a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a> <high-lulani>&lt;P</high-lulani> <em>to sit down; to wait</em>
+[e]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">huba</a> <high-lulani>Vb</high-lulani> <em>to breathe; to be alive</em>
+[e]<a href="http://dictionary.tinellb.com/s/siku.html#highlulani">siku</a> <high-lulani>S&gt;</high-lulani> <em>to die; to be dead</em>
+[e]<a href="http://dictionary.tinellb.com/h/hacci.html#highlulani">hacci</a> <high-lulani>h;C</high-lulani> <em>to awaken; to be awake</em>
+[e]<a href="http://dictionary.tinellb.com/n/nara.html#highlulani">nara</a> <high-lulani>nr</high-lulani> <em>to sleep; to be asleep</em>
 [4]Kinetic Verbs
 These verbs deal with motion of the subject.
-[e]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a>: <em>to accelerate; to move around; to vibrate; to go; to come</em>
-[e]<a href="http://dictionary.tinellb.com/u/'ussa.html#highlulani">&rsquo;ussa</a>: <em>to follow</em>
-[e]<a href="http://dictionary.tinellb.com/n/nura.html#highlulani">nura</a>: <em>to separate; to move away from someone else; to leave</em>
-[e]<a href="http://dictionary.tinellb.com/m/madi.html#highlulani">madi</a>: <em>to rise; to be high</em>
-[e]<a href="http://dictionary.tinellb.com/k/ka'u.html#highlulani">ka&rsquo;u</a>: <em>to jump</em>
-[e]<a href="http://dictionary.tinellb.com/h/hussu.html#highlulani">hussu</a>: <em>to drop; to fall; to be low</em>
-[e]<a href="http://dictionary.tinellb.com/s/saja.html#highlulani">saja</a>: <em>to lie down</em>
-[e]<a href="http://dictionary.tinellb.com/t/tiku.html#highlulani">tiku</a>: <em>to turn; to rotate</em>
-[e]<a href="http://dictionary.tinellb.com/r/raca.html#highlulani">raca</a>: <em>to hang</em>
-[e]<a href="http://dictionary.tinellb.com/f/fiqu.html#highlulani">fiqu</a>: <em>to float; to drift</em>
+[e]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <high-lulani>j;N</high-lulani> <em>to accelerate; to move around</em>
+[e]<a href="http://dictionary.tinellb.com/u/'ussa.html#highlulani">&rsquo;ussa</a> <high-lulani>u;s</high-lulani> <em>to follow</em>
+[e]<a href="http://dictionary.tinellb.com/n/nura.html#highlulani">nura</a> <high-lulani>Ir</high-lulani> <em>to leave; to be apart from</em>
+[e]<a href="http://dictionary.tinellb.com/m/madi.html#highlulani">madi</a> <high-lulani>mD</high-lulani> <em>to rise; to be high</em>
+[e]<a href="http://dictionary.tinellb.com/k/ka'u.html#highlulani">ka&rsquo;u</a> <high-lulani>ku</high-lulani> <em>to jump</em>
+[e]<a href="http://dictionary.tinellb.com/h/hussu.html#highlulani">hussu</a> <high-lulani>V;z</high-lulani> <em>to fall; to be low</em>
+[e]<a href="http://dictionary.tinellb.com/s/saja.html#highlulani">saja</a> <high-lulani>sj</high-lulani> <em>to lie down; to be lying down</em>
+[e]<a href="http://dictionary.tinellb.com/t/tiku.html#highlulani">tiku</a> <high-lulani>T&gt;</high-lulani> <em>to turn</em>
+[e]<a href="http://dictionary.tinellb.com/r/raca.html#highlulani">raca</a> <high-lulani>rc</high-lulani> <em>to be hung; to be hanging</em>
+[e]<a href="http://dictionary.tinellb.com/f/fiqu.html#highlulani">fiqu</a> <high-lulani>FA</high-lulani> <em>to float; to be floating</em>
 [4]Attributive Verbs
-These verbs describe an attribute of the subject. With continuous auxiliaries,
-[e]<a href="http://dictionary.tinellb.com/m/mu.html#highlulani">mu</a>: <em>to be good</em>
-[e]<a href="http://dictionary.tinellb.com/g/guqqi.html#highlulani">guqqi</a>: <em>to be bad</em>
-[e]<a href="http://dictionary.tinellb.com/t/tuhi.html#highlulani">tuhi</a>: <em>to be little</em>
-[e]<a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a>: <em>to be big</em>
-[e]<a href="http://dictionary.tinellb.com/r/ri.html#highlulani">ri</a>: <em>to be smooth</em>
-[e]<a href="http://dictionary.tinellb.com/q/qira.html#highlulani">qira</a>: <em>to be rough</em>
-[e]<a href="http://dictionary.tinellb.com/n/nama.html#highlulani">nama</a>: <em>to be light</em>
-[e]<a href="http://dictionary.tinellb.com/k/kuppu.html#highlulani">kuppu</a>: <em>to be strong</em>
-[e]<a href="http://dictionary.tinellb.com/p/pani.html#highlulani">pani</a>: <em>to be tame</em>
-[e]<a href="http://dictionary.tinellb.com/n/nittu.html#highlulani">nittu</a>: <em>to be wild</em>
-[e]<a href="http://dictionary.tinellb.com/r/runihi.html#highlulani">runihi</a>: <em>to be similar to</em>
-[e]<a href="http://dictionary.tinellb.com/t/tina.html#highlulani">tina</a>: <em>to differ from</em>
-[e]<a href="http://dictionary.tinellb.com/s/suqa.html#highlulani">suqa</a>: <em>to be ready</em>
-[e]<a href="http://dictionary.tinellb.com/b/bi'u.html#highlulani">bi&rsquo;u</a>: <em>to be sore</em>
-[e]<a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a>: <em>to be pregnant</em>
+These verbs describe an attribute of the subject. These become &ldquo;<em>to be</em> <em><strong>X</strong></em>&rdquo; when the auxiliary is continuous, and &ldquo;<em>to become</em> <em><strong>X</strong></em>&rdquo; when discrete.
+[f]<strong>Mihu ra&rsquo;u giri. / Mihu qixa giri.</strong>
+[e]<high-lulani>.MV / Qx / GR. - .MV / ru / GR.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a>. / <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a>.
+[e]<small-caps>3ani;int prs;sta</small-caps> <em>pregnant</em>. / <small-caps>3ani;int pst;dyn</small-caps> <em>pregnant</em>.
+[e]&ldquo;She is pregnant.&rdquo; / &ldquo;She fell pregnant.&rdquo;
+[f]<a href="http://dictionary.tinellb.com/m/mu.html#highlulani">mu</a> <high-lulani>U</high-lulani> <em>good</em>
+[e]<a href="http://dictionary.tinellb.com/g/guqqi.html#highlulani">guqqi</a> <high-lulani>&lt;;Q</high-lulani> <em>bad</em>
+[e]<a href="http://dictionary.tinellb.com/t/tuhi.html#highlulani">tuhi</a> <high-lulani>eH</high-lulani> <em>little</em>
+[e]<a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a> <high-lulani>K</high-lulani> <em>big</em>
+[e]<a href="http://dictionary.tinellb.com/r/ri.html#highlulani">ri</a> <high-lulani>R</high-lulani> <em>smooth</em>
+[e]<a href="http://dictionary.tinellb.com/q/qira.html#highlulani">qira</a> <high-lulani>Qr</high-lulani> <em>rough</em>
+[e]<a href="http://dictionary.tinellb.com/n/nama.html#highlulani">nama</a> <high-lulani>nm</high-lulani> <em>light</em>
+[e]<a href="http://dictionary.tinellb.com/k/kuppu.html#highlulani">kuppu</a> <high-lulani>&gt;;o</high-lulani> <em>strong</em>
+[e]<a href="http://dictionary.tinellb.com/p/pani.html#highlulani">pani</a> <high-lulani>pN</high-lulani> <em>tame</em>
+[e]<a href="http://dictionary.tinellb.com/n/nittu.html#highlulani">nittu</a> <high-lulani>N;e</high-lulani> <em>wild</em>
+[e]<a href="http://dictionary.tinellb.com/r/runihi.html#highlulani">runihi</a> <high-lulani>wNH</high-lulani> <em>similar to</em>
+[e]<a href="http://dictionary.tinellb.com/t/tina.html#highlulani">tina</a> <high-lulani>Tn</high-lulani> <em>differ from</em>
+[e]<a href="http://dictionary.tinellb.com/s/suqa.html#highlulani">suqa</a> <high-lulani>zq</high-lulani> <em>ready</em>
+[e]<a href="http://dictionary.tinellb.com/b/bi'u.html#highlulani">bi&rsquo;u</a> <high-lulani>Bu</high-lulani> <em>sore</em>
+[e]<a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a> <high-lulani>GR</high-lulani> <em>pregnant</em>
 [5]Chromatic Verbs
-[e]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a>: <em>to be white; to turn white</em>
-[e]<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a>: <em>to be black; to turn black</em>
-[e]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>: <em>to be red; to make red</em>
-[e]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a>: <em>to be blue; to turn blue</em>
-[e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a>: <em>to be yellow; to turn yellow</em>
-[e]<a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a>: <em>to be brown; to turn brown</em>
+These are attributive verbs specifically dealing with <a href="../apocrypha/colours.html">colour</a>.
+[e]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a> <high-lulani>K;</high-lulani> <em>white</em>
+[e]<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a> <high-lulani>g</high-lulani> <em>black</em>
+[e]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <high-lulani>M&gt;</high-lulani> <em>red</em>
+[e]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <high-lulani>bY</high-lulani> <em>blue</em>
+[e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a> <high-lulani>s</high-lulani> <em>yellow</em>
+[e]<a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a> <high-lulani>M;W</high-lulani> <em>brown</em>
 [4]Verbs with Prepositional Objects
 [e]<a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a>: <em>to reflect</em>
 [e]<a href="http://dictionary.tinellb.com/f/faxi.html#highlulani">faxi</a>: <em>to survive</em>
@@ -542,10 +551,10 @@ These verbs describe an attribute of the subject. With continuous auxiliaries,
 [e]<a href="http://dictionary.tinellb.com/q/qacca.html#highlulani">qacca</a>: <em>choose; decide</em>
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>: <em>to think</em>
 [e]<a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a>: <em>to think with the soul</em>
-[2]Subtle
+[4]Subtle
 [e]<a href="http://dictionary.tinellb.com/x/xi.html#highlulani">xi</a>: <em>to appear to be; to project</em>
 [e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a>: <em>to experience</em>
-&date=20180124--------------------------------------------------3
+&date=20180203--------------------------------------------------3
 [1]Adverbs
 Adverbs are a closed class. Adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <a href="../syntax/adverbialphrases.html">Adverbial Phrases</a>
 [f]<a href="http://dictionary.tinellb.com/n/naru.html#highlulani">naru</a> <em>slowly</em>
@@ -957,10 +966,14 @@ The first noun in a clause is the subject, which is prototypically the agent in 
 There are three such verbal suffixes, which can be stacked, however, once something has been shifted from the subject position, it can&rsquo;t be promoted again.
 [2]Passive
 The passive suffix promotes the object. This suffix has the form <a href="http://dictionary.tinellb.com/i/-'illu.html#highlulani">-&rsquo;illu</a> when the last element of a verb is monosyllabic, has <a href="http://dictionary.tinellb.com/i/-ilu.html#highlulani">-ilu</a> replacing the final vowel if the final consonant is geminated, and has <a href="http://dictionary.tinellb.com/i/-illu.html#highlulani">-illu</a> replacing the final vowel of the verb elsewise. The old subject is then marked with the ablative case. A sentence with this marker is intransitive. The demoted item is not compulsory, but if it is put in, it is the first ablative-marked noun in the new sentence.
-[f]<a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a> <a href="http://dictionary.tinellb.com/k/kilatu'i.html#highlulani">kilatu&rsquo;i</a>!
+[f]<strong>Fu qixa kissa kilatu&rsquo;i!</strong>
+[e]<high-lulani>.v / Qx / K;s / Klei.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a> <a href="http://dictionary.tinellb.com/k/kilatu'i.html#highlulani">kilatu&rsquo;i</a>!
 [e]<small-caps>2tra pst;dyn</small-caps> <em>fight deer</em>
 [e]&ldquo;You fought a deer!&rdquo;
-[f]<a href="http://dictionary.tinellb.com/k/kilatu'i.html#highlulani">Kilatu&rsquo;i</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> (<a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a>) <a href="http://dictionary.tinellb.com/k/kissilu.html#highlulani">kissilu</a>.
+[f]<strong>Kilatu&rsquo;i qixa (sacu) kissilu.</strong>
+[e]<high-lulani>.Klei / Qx / sy / K;SW.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kilatu'i.html#highlulani">Kilatu&rsquo;i</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> (<a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a>) <a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a><a href="http://dictionary.tinellb.com/i/-ilu.html#highlulani">-ilu</a>.
 [e]<em>deer</em> <small-caps>pst;dyn (2abl)</small-caps> <em>fight</em><small-caps>-psv</small-caps>
 [e]&ldquo;A deer was fought (by you).&rdquo;
 [2]Ablative
@@ -971,8 +984,9 @@ When the final consonant of a verb is geminate, the ablative suffix takes the fo
 [f]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a> <a href="http://dictionary.tinellb.com/d/dasikka.html#highlulani">dasikka</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>.
 [e]<em>king</em><small-caps> pst;dyn dat-</small-caps><em>fish</em><small-caps></small-caps> <em>eat</em><small-caps>-abp</small-caps> <em>queen</em><small-caps>.</small-caps>
 [e]&ldquo;The king made the queen eat fish.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> (<strong>kal&middot;lani</strong>) <a href="http://dictionary.tinellb.com/d/dasilluka.html#highlulani">dasilluka</a> <a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a>.
-[e]<em>king</em><small-caps> pst;dyn (abl-</small-caps><em>queen</em><small-caps>)</small-caps> <em>eat</em><small-caps>-psv-abp</small-caps> <em>fish</em>
+[f]<strong>Kimilli qixa (kal&middot;lani) dasilluka qasa.</strong>
+[e]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>-<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a><a href="http://dictionary.tinellb.com/i/-illu.html#highlulani">-illu</a><a href="http://dictionary.tinellb.com/k/-ka.html#highlulani">-ka</a> <a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a>.
+[e]<em>king</em> <small-caps>pst;dyn</small-caps> (abl-</small-caps><em>queen</em><small-caps>)</small-caps> <em>eat</em><small-caps>-psv-abp</small-caps> <em>fish</em>
 [e]&ldquo;The king made the fish get eaten (by the queen).&rdquo;
 [2]Dative
 The suffix <a href="http://dictionary.tinellb.com/x/xa.html#highlulani">xa</a> promotes a dative. The old subject is demoted to object, and the old object (if any) is demoted to dative. A sentence with this marker is transitive.
@@ -999,17 +1013,18 @@ To promote a adpositional phrase to subject, prefix the verb with the adposition
 [f]<a href="http://dictionary.tinellb.com/j/jagaru.html#highlulani">Jagaru</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a><a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a>.
 [e]<em>sand</em><small-caps> pst;sta dat-</small-caps><em>strawberry</em><small-caps></small-caps> <em>in-eat</em> <small-caps>3ani;tra</small-caps>.
 [e]&ldquo;It was in the sand that he was eating the strawberry.&rdquo;
-&date=20170730
---------------------------------------------------3
+&date=20180202--------------------------------------------------3
 [1]Dependent Clauses
 A dependent clause is a clause that is unable to stand meaningfully by itself.
 They are marked by having the auxiliary at the end.
 [2]Subordinate Clauses
 A subordinate clause is one introduced by a subordinating conjunction in the matrix clause. A comma is used to separate a subordinate from its matrix. The conjunction is placed on the side of the main clause that is closest to the subordinate. The clauses can be put in either order.
-[f]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <a href="http://dictionary.tinellb.com/d/daru'i.html#highlulani">daru&rsquo;i</a>, <u><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a></u>.
+[f]<strong>&#x294;usu ru lu&rsquo;i fu daru&rsquo;i, <u>ba pu&rsquo;iba miku ra&rsquo;u</u>.</strong>
+[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <a href="http://dictionary.tinellb.com/d/daru'i.html#highlulani">daru&rsquo;i</a>, <u><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a></u>.
 [e]<small-caps>1int prs;gno</small-caps> <em>love</em><small-caps> 2tra</small-caps> <em>because</em><small-caps>, 2gen</small-caps> <em>ball</em><small-caps></small-caps> <em>red</em><small-caps> prs;sta</small-caps>
 [e]&ldquo;I love you because your ball is red.&rdquo;
-[f]<u><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">Ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a></u>, <a href="http://dictionary.tinellb.com/d/daru'i.html#highlulani">daru&rsquo;i</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>.
+[f]<strong><u>Ba pu&rsquo;iba miku ra&rsquo;u</u>, daru&rsquo;i &rsquo;usu ru lu&rsquo;i fu.</strong>
+[e]<u><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">Ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a></u>, <a href="http://dictionary.tinellb.com/d/daru'i.html#highlulani">daru&rsquo;i</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>.
 [e]<small-caps>2gen</small-caps> <em>ball</em><small-caps></small-caps> <em>red</em><small-caps> prs;sta,</small-caps> <em>because</em><small-caps> 1int prs;gno</small-caps> <em>love</em><small-caps> 2tra</small-caps>
 [e]&ldquo;I love you because your ball is red.&rdquo;
 Here the subordinate clauses are underlined. The cause is subordinate to the effect.
@@ -1075,7 +1090,7 @@ Polar questions are one in which the answer is &ldquo;yes&rdquo; or &ldquo;no&rd
 [e]&ldquo;Yes, she&rsquo;s not.&rdquo; / &ldquo;No, she is.&rdquo; / &ldquo;Sometimes.&rdquo;
 If the focus of the question is on a particular noun, that noun receives a falling tone.
 Content questions are ones in which the expected answer is more than just &ldquo;yes&rdquo; or &ldquo;no&rdquo;. These questions have a rising tone on the main question word itself.
-[f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/r/ra'u?.html#highlulani">ra&rsquo;u?</a>
+[f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/r/ra'u%3F.html#highlulani">ra&rsquo;u?</a>
 [e]<em>queen love what</em> <small-caps>prs;sta</small-caps>
 [e]&ldquo;Whom does the queen love?&rdquo;
 [f]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> / <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> / <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">Cu&rsquo;i</a>
@@ -1095,8 +1110,7 @@ Second person imperatives are directed to the listener. In these, the subject is
 [f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a><a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a>!
 [e]<em>queen love-</em><small-caps>fut;gno</small-caps>
 [e]&ldquo;Love the queen!&rdquo;
-&date=20170730
---------------------------------------------------3
+&date=20180202--------------------------------------------------3
 [1]Particular Clauses
 [2]Experiences
 The modal <a href="http://dictionary.tinellb.com/d/da'aru.html#highlulani">da&rsquo;aru</a> <em>experience</em> can be used to show experiences.

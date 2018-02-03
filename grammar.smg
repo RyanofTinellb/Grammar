@@ -10,8 +10,8 @@
   }, 
   "links": [
     {
-      "resource": "http://dictionary.tinellb.com", 
-      "type": "ExternalDictionary"
+      "type": "ExternalDictionary", 
+      "resource": "http://dictionary.tinellb.com"
     }
   ]
 }
