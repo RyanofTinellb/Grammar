@@ -1,21 +1,38 @@
-<high-lulani> [hl] <br>
-</high-lulani> [/hl] <br>
-<link> {{ <br>
-</link> }} <br>
-[e] == <br>
-[f] === <br>
-<em> (( <br>
-</em> )) <br>
-<strong> [[ <br>
-</strong> ]] <br>
-<small-caps><span << <br>
-title=" ,, <br>
-</small-caps> >> <br>
-' &quot; <br>
-" &dblquot; <br>
-&rsquo; ' <br>
-&#x294; '' <br>
-&rdquo; " <br>
-&ldquo; '" <br>
-&quot; `` <br>
-&dblquot; "" <br>
+<!DOCTYPE html>
+<high-lulani> | [hl] | <br>
+</high-lulani> | [/hl] | <br>
+<link> | {{ | <br>
+</link> | }} | <br>
+[e] | == | <br>
+[f] | === | <br>
+<em> | (( | <br>
+</em> | )) | <br>
+<strong> | [[ | <br>
+</strong> | ]] | <br>
+<small-caps> | << | <br>
+</small-caps> | >> | <br>
+' | &quot; | <br>
+" | &dblquot; | <br>
+&rsquo; | ' | <br>
+&#x294; | '' | <br>
+&rdquo; | " | <br>
+&ldquo; | '" | <br>
+&quot; | `` | <br>
+&dblquot; | "" | <br>
+&mdash; | -- | <br>
+&igrave; | )i | <br>
+<a href= | href= | <br>
+<span class=""tooltip""> | &tool; | <br>
+<span class=""tooltip-text""> | &ttext; | <br>
+&tool;<<abl>>&ttext;ablative</span></span> | <<abl>> | <br>
+&tool;<<dat>>&ttext;dative</span></span> | <<dat>> | <br>
+&tool;<<prs;gno>>&ttext;present gnomic</span></span> | <<prs;gno>> | <br>
+&tool;<<prs;sta>>&ttext;present stative</span></span> | <<prs;sta>> | <br>
+&tool;<<prs;dyn>>&ttext;present dynamic</span></span> | <<prs;dyn>> | <br>
+&tool;<<pst;dyn>>&ttext;past dynamic</span></span> | <<pst;dyn>> | <br>
+&tool;<<1int>>&ttext;first person intransitive</span></span> | <<1int>> | <br>
+&tool;<<1tra>>&ttext;first person transitive</span></span> | <<1tra>> | <br>
+&tool;<<2int>>&ttext;second person intransitive</span></span> | <<2int>> | <br>
+&tool;<<2tra>>&ttext;second person transitive</span></span> | <<2tra>> | <br>
+&tool;<<3ani;int>>&ttext;animate third person intransitive</span></span> | <<3ani;int>> | <br>
+&tool;<<3ina;int>>&ttext;inanimate third person intransitive</span></span> | <<3ina;int>> | <br>

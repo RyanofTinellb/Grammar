@@ -4,6 +4,13 @@
     "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.txt", 
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
+  "current page": [
+    "High Lulani", 
+    "Morphology", 
+    "Verbs", 
+    ""
+  ], 
+  "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
   "site": {
     "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar", 
     "name": "Grammar"

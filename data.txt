@@ -9,8 +9,7 @@ The Tinellbian languages are a range of constructed languages, as befits the con
 --------------------------------------------------2
 [1]History
 The internal history of the Guozu and their languages is written as if it were a chronicle of actual events. The external history is the more prosaic record: a description of the genesis and evolution of my ideas.
-&date=20171017
---------------------------------------------------3
+&date=20180223--------------------------------------------------3
 [1]Internal History
 Within the universe named Tinellb, there is a planet named Ptoko. There arose on this world a race of humanoids, the Ptokan. Over millions of years, their race evolved and became the dominant force on their planet.
 There had been many conflicts, small and large, throughout their history. One particularly bloody war had had much of the population brought into it: a World War. The survivors of this war were ruled by a single monarch.
@@ -247,10 +246,9 @@ velar: semi-circle
 glottal: high circle
 open vowel: (none)
 front vowel: vertical line
-back vowel: horizonal line
+back vowel: horizontal line
 [/l]
-&date=20170716
---------------------------------------------------3
+&date=20180223--------------------------------------------------3
 [1]Spelling Syllabary
 There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol is represented by the word <a href="http://dictionary.tinellb.com/f/fa''a.html#highlulani">fa&#x294;a</a> <em>language</em>.
 <div class="glossary">&rsquo;a: <a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&rsquo;ara</a> <em>face</em>  | pa: <a href="http://dictionary.tinellb.com/p/pacca.html#highlulani">pacca</a> <em>number</em> | ba: <a href="http://dictionary.tinellb.com/b/bitta.html#highlulani">bitta</a> <em>time</em> | ta: <a href="http://dictionary.tinellb.com/t/tila.html#highlulani">tila</a> <em>shell</em> | da: <a href="http://dictionary.tinellb.com/d/diha.html#highlulani">diha</a> <em>bureaucrat</em>
@@ -444,11 +442,12 @@ Intransitive verbs only require a subject, not an object.
 [f]<strong>Badiri ru cura</strong>.
 [e]<high-lulani>.bDR / w / yr.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/b/badiri.html#highlulani">Badiri</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a>.
-[e]<em>World</em> <small-caps><span title="present gnomic">prs;gno</small-caps> <em>change</em>.
+[e]<em>World</em> <span class="tooltip"><small-caps>3ina;int</small-caps><span class="tooltip-text">inanimate third person intransitive</span></span> <em>change</em>.
 [e]&ldquo;The world is always changing.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a> <high-lulani>yr</high-lulani> <em>to change; to be different</em>
 [e]<a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a> <high-lulani>&lt;P</high-lulani> <em>to sit down; to wait</em>
 [e]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">huba</a> <high-lulani>Vb</high-lulani> <em>to breathe; to be alive</em>
+[e]<a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a> <high-lulani>GR</high-lulani> <em>to conceive; to be pregnant</em>
 [e]<a href="http://dictionary.tinellb.com/s/siku.html#highlulani">siku</a> <high-lulani>S&gt;</high-lulani> <em>to die; to be dead</em>
 [e]<a href="http://dictionary.tinellb.com/h/hacci.html#highlulani">hacci</a> <high-lulani>h;C</high-lulani> <em>to awaken; to be awake</em>
 [e]<a href="http://dictionary.tinellb.com/n/nara.html#highlulani">nara</a> <high-lulani>nr</high-lulani> <em>to sleep; to be asleep</em>
@@ -467,11 +466,11 @@ These verbs deal with motion of the subject.
 [e]<a href="http://dictionary.tinellb.com/f/fiqu.html#highlulani">fiqu</a> <high-lulani>FA</high-lulani> <em>to float; to be floating</em>
 [4]Attributive Verbs
 These verbs describe an attribute of the subject. These become &ldquo;<em>to be <strong>X</strong></em>&rdquo; when the auxiliary is continuous, and &ldquo;<em>to become <strong>X</strong></em>&rdquo; when discrete.
-[f]<strong>Mihu ra&rsquo;u giri. / Mihu qixa giri.</strong>
-[e]<high-lulani>.MV / Qx / GR. - .MV / ru / GR.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a>. / <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a>.
-[e]<small-caps><span title="third person animate intransitive">3ani;int</small-caps> <small-caps><span title="present stative">prs;sta</small-caps> <em>pregnant</em>. / <small-caps><span title="third person animate intransitive">3ani;int</small-caps> <small-caps><span title="past dynamic">pst;dyn</small-caps> <em>pregnant</em>.
-[e]&ldquo;She is pregnant.&rdquo; / &ldquo;She fell pregnant.&rdquo;
+[f]<strong>&#x294;usu ra&rsquo;u ki. / &#x294;usu qixa ki.</strong>
+[e]<high-lulani>.uz / Qx / K. - .uz / ru / K.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a>. / <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a>.
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>big</em>. / <span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <em>big</em>.
+[e]&ldquo;I am tall.&rdquo; / &ldquo;I grew.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/m/mu.html#highlulani">mu</a> <high-lulani>U</high-lulani> <em>good</em>
 [e]<a href="http://dictionary.tinellb.com/g/guqqi.html#highlulani">guqqi</a> <high-lulani>&lt;;Q</high-lulani> <em>bad</em>
 [e]<a href="http://dictionary.tinellb.com/t/tuhi.html#highlulani">tuhi</a> <high-lulani>eH</high-lulani> <em>little</em>
@@ -486,7 +485,6 @@ These verbs describe an attribute of the subject. These become &ldquo;<em>to be 
 [e]<a href="http://dictionary.tinellb.com/t/tina.html#highlulani">tina</a> <high-lulani>Tn</high-lulani> <em>different from</em>
 [e]<a href="http://dictionary.tinellb.com/s/suqa.html#highlulani">suqa</a> <high-lulani>zq</high-lulani> <em>ready</em>
 [e]<a href="http://dictionary.tinellb.com/b/bi'u.html#highlulani">bi&rsquo;u</a> <high-lulani>Bu</high-lulani> <em>sore</em>
-[e]<a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a> <high-lulani>GR</high-lulani> <em>pregnant</em>
 [5]Chromatic Verbs
 These are attributive verbs specifically dealing with <a href="../apocrypha/colours.html">colour</a>.
 [e]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a> <high-lulani>K;</high-lulani> <em>white</em>
@@ -496,22 +494,50 @@ These are attributive verbs specifically dealing with <a href="../apocrypha/colo
 [e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a> <high-lulani>s</high-lulani> <em>yellow</em>
 [e]<a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a> <high-lulani>M;W</high-lulani> <em>brown</em>
 [4]Quasi-Transitve Verbs
-These are intransitive verbs in that they either do not require a noun phrase in the object position, or an object can be swapped with the subject without a change in meaning. However, they act transitively by having a second noun phrase marked in a particular way.
-[5]Case Marked Arguments
-These are marked with one of the <a href="../syntax/case.html#obliquecases">oblique case markers</a>.
+These are intransitive verbs in that they do not require a noun phrase in the object position. However, they act transitively by having a second noun phrase marked in a particular way.
+[5]Oblique and Adpositional Arguments
+These are marked with an <a href="../syntax/case.html#obliquecases">oblique case marker</a>:
 [f]<strong>&#x294;usu kalumalaki mala.</strong>
 [e]<high-lulani>.uz / kWmlK / ml.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>-<a href="http://dictionary.tinellb.com/m/malaki.html#highlulani">malaki</a> <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a>.
-[e]<small-caps><span title="first-person intransitive">1int</small-caps> <small-caps><span title="ablative">abl</small-caps>-<em>mirror reflect</em>.
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>mirror reflect</em>.
 [e]&ldquo;I am reflected in the mirror.&rdquo;
-[f]<strong>&#x294;usu kuxuhha faxi.</strong>
-[e]<a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> <high-lulani>ml</high-lulani> <em>to reflect</em> <small-caps><span title="kalu">
-[e]<a href="http://dictionary.tinellb.com/f/faxi.html#highlulani">faxi</a> <high-lulani>fX</high-lulani> <em>to survive</em> <small-caps>ku</small-caps>
-[e]<a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a> <high-lulani>TV</high-lulani> <em>to abide</em> <small-caps>ni, ku</small-caps>
-[e]<a href="http://dictionary.tinellb.com/m/malu.html#highlulani">malu</a> <high-lulani>mW</high-lulani> <em>to be in a place</em> <small-caps>ni, di</small-caps> <em>&c</em>.
-[e]<a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <high-lulani>n</high-lulani> <em>to face</em> <em>obj.</em>, <small-caps>pa</small-caps>
-[e]<a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a> <high-lulani>V;l</high-lulani> <em>to have sex</em> <em>subj.</em>
-[e]<a href="http://dictionary.tinellb.com/s/sisa.html#highlulani">sisa</a> <high-lulani>Ss</high-lulani> <em>to be in contact</em> <em>subj.</em>
+or an <a href="adpositions.html">adposition</a>:
+[f]<strong>&#x294;usu ni&#x294;irri&rsquo;a tihu.</strong>
+[e]<high-lulani>.Vz / Ni;Ra / TV.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a>.
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>in-Ir&igrave;a abide.</em>
+[e]&ldquo;I live in Ir&igrave;a.&rdquo;
+The usual markers for each of these verbs is shown here:
+[f]<a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> <high-lulani>ml</high-lulani> <em>to reflect</em> &mdash; <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>
+[e]<a href="http://dictionary.tinellb.com/f/faxi.html#highlulani">faxi</a> <high-lulani>fX</high-lulani> <em>to survive</em> &mdash; <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>
+[e]<a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a> <high-lulani>TV</high-lulani> <em>to abide</em> &mdash; <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>, <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>
+[e]<a href="http://dictionary.tinellb.com/m/malu.html#highlulani">malu</a> <high-lulani>mW</high-lulani> <em>to be in a place</em> &mdash; <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>, <a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a>, or other adpositions.
+[e]<a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <high-lulani>n</high-lulani> <em>to face</em> &mdash; <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>
+[5]Symmetric Relations
+The participants of these verbs are equivalent to each other, that is, if Alice acts on Bob, then Bob acts on Alice in the same way. When the subject is Alice, say, then Bob can:
+1. Be placed in the object position. Despite the structure, this is not transitive, as the verb has no <a href="../syntax/argumentpromotion.html#passive">passive</a>, and pronouns use the intransitive form:
+[f]<strong>&#x294;allisi sisa Bubu.</strong>
+[e]<high-lulani>.a;LS / Ss / OO.</high-lulani>
+[e]&#x294;allisi <a href="http://dictionary.tinellb.com/s/sisa.html#highlulani">sisa</a> Bubu.
+[e]<em>Alice contact Bob</em>.
+[e]&ldquo;Alice is touching Bob.&rdquo;
+2. Take dative marking:
+[f]<strong>&#x294;allisi kuBubu ju&rsquo;i.</strong>
+[e]<high-lulani>.a;LS / &gt;OO / Yi.</high-lulani>
+[e]&#x294;allisi <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a>Bubu <a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a>.
+[e]<em>Alice</em> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-Bob link</em>.
+[e]&ldquo;Alice is married to Bob.&rdquo;
+3. Be conjoined with the subject:
+[f]<strong>&#x294;allisi Bubuta hulla</strong>.
+[e]<high-lulani>.a;LS / OOt / V;l.</high-lulani>
+[e]&#x294;allisi Bubu<a href="http://dictionary.tinellb.com/t/-ta.html#highlulani">-ta</a> <a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a>.
+[e]<em>Alice Bob-and copulate.</em>
+[e]&ldquo;Alice and Bob are having sex.
+The basic meaning of these sentences is not changed when swapping the particpants or using the alternate structures.
+[f]<a href="http://dictionary.tinellb.com/s/sisa.html#highlulani">sisa</a> <high-lulani>Ss</high-lulani> <em>to touch</em>
+[e]<a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a> <high-lulani>Yi</high-lulani> <em>to join</em>
+[e]<a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a> <high-lulani>V;l</high-lulani> <em>to copulate</em>
 [3]Transitivity
 [4]Transitive Physical
 [e]<a href="http://dictionary.tinellb.com/b/buma.html#highlulani">buma</a> <high-lulani>Om</high-lulani> <em>to draw; to write; to project on screen</em>
@@ -524,11 +550,11 @@ These are marked with one of the <a href="../syntax/case.html#obliquecases">obli
 [e]<a href="http://dictionary.tinellb.com/m/maku.html#highlulani">maku</a> <high-lulani>m&gt;</high-lulani> <em>to throw</em>
 [e]<a href="http://dictionary.tinellb.com/n/nidu.html#highlulani">nidu</a> <high-lulani>NE</high-lulani> <em>to use</em>
 [e]<a href="http://dictionary.tinellb.com/x/xu.html#highlulani">xu</a> <high-lulani>Z</high-lulani> <em>to put out; to radiate; to broadcast</em>
+[e]<a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <high-lulani>n</high-lulani> <em>to face</em>
 [4]Verbs of Transformation
 [e]<a href="http://dictionary.tinellb.com/i/'idu.html#highlulani">&rsquo;idu</a> <high-lulani>iE</high-lulani> <em>to create; to make</em>
 [e]<a href="http://dictionary.tinellb.com/p/pifa.html#highlulani">pifa</a> <high-lulani>Pf</high-lulani> (to create ex nihilo; to make</em>
 [e]<a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <high-lulani>or</high-lulani> <em>to change; to become</em>
-[e]<a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a> <high-lulani>Yi</high-lulani> <em>link; join; wear</em>
 [e]<a href="http://dictionary.tinellb.com/s/si'a.html#highlulani">si&rsquo;a</a> <high-lulani>Sa</high-lulani> <em>heal; fix</em>
 [e]<a href="http://dictionary.tinellb.com/l/lakka.html#highlulani">lakka</a> <high-lulani>l;k</high-lulani> <em>to break</em>
 [e]<a href="http://dictionary.tinellb.com/q/qarri.html#highlulani">qarri</a> <high-lulani>q;R</high-lulani> <em>to open</em>
@@ -563,7 +589,7 @@ These are marked with one of the <a href="../syntax/case.html#obliquecases">obli
 [4]Subtle
 [e]<a href="http://dictionary.tinellb.com/x/xi.html#highlulani">xi</a> <high-lulani>X</high-lulani> <em>to appear to be; to project</em>
 [e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a> <high-lulani>Q</high-lulani> <em>to experience</em>
-&date=20180221--------------------------------------------------3
+&date=20180224--------------------------------------------------3
 [1]Adverbs
 Adverbs are a closed class. Adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <a href="../syntax/adverbialphrases.html">Adverbial Phrases</a>
 [f]<a href="http://dictionary.tinellb.com/n/naru.html#highlulani">naru</a> <em>slowly</em>
@@ -890,8 +916,7 @@ Subordinating conjunctions are used to introduce a dependent clause.
 --------------------------------------------------2
 [1]Syntax
 High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.
-&date=20170716
---------------------------------------------------3
+&date=20180223--------------------------------------------------3
 [1]Case
 [2]Alignment
 The three basic arguments for any verb (intransitive subjects, transitive subjects and transitive objects) are marked in High Lulani. Because intransitive subjects cannot co-occur with transitive arguments, it is possible to mark either of the transitive arguments in the same way as the intransitive without confusion. In the ergative alignment, it is the transitive object that is marked the same as the intransitive subject. In accusative alignment, it is instead the transitive subject that shares marking with intransitive subjects. In either alignment, the intransitive case is the one treated like the intransitive subject, and the transitive case is the other.

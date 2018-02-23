@@ -282,6 +282,26 @@ body {
 	padding-top: 2em;
 }
 
+.tooltip-text {
+  display: none;
+}
+
+.tooltip-text::before {
+  content: " ("
+}
+
+.tooltip-text::after {
+  content: ")"
+}
+
+.tooltip:hover .tooltip-text {
+  display: inline;
+}
+
+.tooltip .tooltip-text:hover {
+  display: inline;
+}
+
 @media screen and (max-width: 800px) {
 
 	.content {
