@@ -444,7 +444,7 @@ Intransitive verbs only require a subject, not an object.
 [f]<strong>Badiri ru cura</strong>.
 [e]<high-lulani>.bDR / w / yr.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/b/badiri.html#highlulani">Badiri</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a>.
-[e]<em>World</em> <small-caps>prs;gno</small-caps> <em>change</em>.
+[e]<em>World</em> <small-caps><span title="present gnomic">prs;gno</small-caps> <em>change</em>.
 [e]&ldquo;The world is always changing.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a> <high-lulani>yr</high-lulani> <em>to change; to be different</em>
 [e]<a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a> <high-lulani>&lt;P</high-lulani> <em>to sit down; to wait</em>
@@ -452,6 +452,7 @@ Intransitive verbs only require a subject, not an object.
 [e]<a href="http://dictionary.tinellb.com/s/siku.html#highlulani">siku</a> <high-lulani>S&gt;</high-lulani> <em>to die; to be dead</em>
 [e]<a href="http://dictionary.tinellb.com/h/hacci.html#highlulani">hacci</a> <high-lulani>h;C</high-lulani> <em>to awaken; to be awake</em>
 [e]<a href="http://dictionary.tinellb.com/n/nara.html#highlulani">nara</a> <high-lulani>nr</high-lulani> <em>to sleep; to be asleep</em>
+[e]<a href="http://dictionary.tinellb.com/n/nu'ifi.html#highlulani">nu&rsquo;ifi</a> <high-lulani>IiF</high-lulani> <em>to hide; to be hidden</em>
 [4]Kinetic Verbs
 These verbs deal with motion of the subject.
 [e]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <high-lulani>j;N</high-lulani> <em>to accelerate; to move around</em>
@@ -465,11 +466,11 @@ These verbs deal with motion of the subject.
 [e]<a href="http://dictionary.tinellb.com/r/raca.html#highlulani">raca</a> <high-lulani>rc</high-lulani> <em>to be hung; to be hanging</em>
 [e]<a href="http://dictionary.tinellb.com/f/fiqu.html#highlulani">fiqu</a> <high-lulani>FA</high-lulani> <em>to float; to be floating</em>
 [4]Attributive Verbs
-These verbs describe an attribute of the subject. These become &ldquo;<em>to be</em> <em><strong>X</strong></em>&rdquo; when the auxiliary is continuous, and &ldquo;<em>to become</em> <em><strong>X</strong></em>&rdquo; when discrete.
+These verbs describe an attribute of the subject. These become &ldquo;<em>to be <strong>X</strong></em>&rdquo; when the auxiliary is continuous, and &ldquo;<em>to become <strong>X</strong></em>&rdquo; when discrete.
 [f]<strong>Mihu ra&rsquo;u giri. / Mihu qixa giri.</strong>
 [e]<high-lulani>.MV / Qx / GR. - .MV / ru / GR.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a>. / <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a>.
-[e]<small-caps>3ani;int prs;sta</small-caps> <em>pregnant</em>. / <small-caps>3ani;int pst;dyn</small-caps> <em>pregnant</em>.
+[e]<small-caps><span title="third person animate intransitive">3ani;int</small-caps> <small-caps><span title="present stative">prs;sta</small-caps> <em>pregnant</em>. / <small-caps><span title="third person animate intransitive">3ani;int</small-caps> <small-caps><span title="past dynamic">pst;dyn</small-caps> <em>pregnant</em>.
 [e]&ldquo;She is pregnant.&rdquo; / &ldquo;She fell pregnant.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/m/mu.html#highlulani">mu</a> <high-lulani>U</high-lulani> <em>good</em>
 [e]<a href="http://dictionary.tinellb.com/g/guqqi.html#highlulani">guqqi</a> <high-lulani>&lt;;Q</high-lulani> <em>bad</em>
@@ -482,7 +483,7 @@ These verbs describe an attribute of the subject. These become &ldquo;<em>to be<
 [e]<a href="http://dictionary.tinellb.com/p/pani.html#highlulani">pani</a> <high-lulani>pN</high-lulani> <em>tame</em>
 [e]<a href="http://dictionary.tinellb.com/n/nittu.html#highlulani">nittu</a> <high-lulani>N;e</high-lulani> <em>wild</em>
 [e]<a href="http://dictionary.tinellb.com/r/runihi.html#highlulani">runihi</a> <high-lulani>wNH</high-lulani> <em>similar to</em>
-[e]<a href="http://dictionary.tinellb.com/t/tina.html#highlulani">tina</a> <high-lulani>Tn</high-lulani> <em>differ from</em>
+[e]<a href="http://dictionary.tinellb.com/t/tina.html#highlulani">tina</a> <high-lulani>Tn</high-lulani> <em>different from</em>
 [e]<a href="http://dictionary.tinellb.com/s/suqa.html#highlulani">suqa</a> <high-lulani>zq</high-lulani> <em>ready</em>
 [e]<a href="http://dictionary.tinellb.com/b/bi'u.html#highlulani">bi&rsquo;u</a> <high-lulani>Bu</high-lulani> <em>sore</em>
 [e]<a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a> <high-lulani>GR</high-lulani> <em>pregnant</em>
@@ -494,67 +495,75 @@ These are attributive verbs specifically dealing with <a href="../apocrypha/colo
 [e]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <high-lulani>bY</high-lulani> <em>blue</em>
 [e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a> <high-lulani>s</high-lulani> <em>yellow</em>
 [e]<a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a> <high-lulani>M;W</high-lulani> <em>brown</em>
-[4]Verbs with Prepositional Objects
-[e]<a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a>: <em>to reflect</em>
-[e]<a href="http://dictionary.tinellb.com/f/faxi.html#highlulani">faxi</a>: <em>to survive</em>
-[e]<a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a>: <em>to abide</em>
-[e]<a href="http://dictionary.tinellb.com/m/malu.html#highlulani">malu</a>: <em>to be in a place</em>
-[e]<a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a>: <em>to face</em>
-[e]<a href="http://dictionary.tinellb.com/n/nu'ifi.html#highlulani">nu&rsquo;ifi</a>: <em>to hide</em>
-[e]<a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a>: <em>to have sex</em>
-[e]<a href="http://dictionary.tinellb.com/s/sisa.html#highlulani">sisa</a>: <em>to be in contact</em>
+[4]Quasi-Transitve Verbs
+These are intransitive verbs in that they either do not require a noun phrase in the object position, or an object can be swapped with the subject without a change in meaning. However, they act transitively by having a second noun phrase marked in a particular way.
+[5]Case Marked Arguments
+These are marked with one of the <a href="../syntax/case.html#obliquecases">oblique case markers</a>.
+[f]<strong>&#x294;usu kalumalaki mala.</strong>
+[e]<high-lulani>.uz / kWmlK / ml.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>-<a href="http://dictionary.tinellb.com/m/malaki.html#highlulani">malaki</a> <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a>.
+[e]<small-caps><span title="first-person intransitive">1int</small-caps> <small-caps><span title="ablative">abl</small-caps>-<em>mirror reflect</em>.
+[e]&ldquo;I am reflected in the mirror.&rdquo;
+[f]<strong>&#x294;usu kuxuhha faxi.</strong>
+[e]<a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> <high-lulani>ml</high-lulani> <em>to reflect</em> <small-caps><span title="kalu">
+[e]<a href="http://dictionary.tinellb.com/f/faxi.html#highlulani">faxi</a> <high-lulani>fX</high-lulani> <em>to survive</em> <small-caps>ku</small-caps>
+[e]<a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a> <high-lulani>TV</high-lulani> <em>to abide</em> <small-caps>ni, ku</small-caps>
+[e]<a href="http://dictionary.tinellb.com/m/malu.html#highlulani">malu</a> <high-lulani>mW</high-lulani> <em>to be in a place</em> <small-caps>ni, di</small-caps> <em>&c</em>.
+[e]<a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <high-lulani>n</high-lulani> <em>to face</em> <em>obj.</em>, <small-caps>pa</small-caps>
+[e]<a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a> <high-lulani>V;l</high-lulani> <em>to have sex</em> <em>subj.</em>
+[e]<a href="http://dictionary.tinellb.com/s/sisa.html#highlulani">sisa</a> <high-lulani>Ss</high-lulani> <em>to be in contact</em> <em>subj.</em>
 [3]Transitivity
 [4]Transitive Physical
-[e]<a href="http://dictionary.tinellb.com/b/buma.html#highlulani">buma</a>: <em>to draw; to write; to project on screen</em>
-[e]<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a>: <em>to place in the mouth; to eat; to chew; to suck; to lick; to drink</em>
-[e]<a href="http://dictionary.tinellb.com/d/duci.html#highlulani">duci</a>: <em>to have; to own; to possess</em>
-[e]<a href="http://dictionary.tinellb.com/f/funi.html#highlulani">funi</a>: <em>to lack</em>
-[e]<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a>: <em>to put</em>
-[e]<a href="http://dictionary.tinellb.com/g/gi.html#highlulani">gi</a>: <em>to carry; to take; to bring; to have; to hold</em>
-[e]<a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a>: <em>to fight</em>
-[e]<a href="http://dictionary.tinellb.com/m/maku.html#highlulani">maku</a>: <em>to throw</em>
-[e]<a href="http://dictionary.tinellb.com/n/nidu.html#highlulani">nidu</a>: <em>to use</em>
-[e]<a href="http://dictionary.tinellb.com/x/xu.html#highlulani">xu</a>: <em>to put out; to radiate; to broadcast</em>
+[e]<a href="http://dictionary.tinellb.com/b/buma.html#highlulani">buma</a> <high-lulani>Om</high-lulani> <em>to draw; to write; to project on screen</em>
+[e]<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <high-lulani>dS</high-lulani> <em>to place in the mouth; to eat; to chew; to suck; to lick; to drink</em>
+[e]<a href="http://dictionary.tinellb.com/d/duci.html#highlulani">duci</a> <high-lulani>EC</high-lulani> <em>to have; to own; to possess</em>
+[e]<a href="http://dictionary.tinellb.com/f/funi.html#highlulani">funi</a> <high-lulani>vN</high-lulani> <em>to lack</em>
+[e]<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a> <high-lulani>g</high-lulani> <em>to put</em>
+[e]<a href="http://dictionary.tinellb.com/g/gi.html#highlulani">gi</a> <high-lulani>G</high-lulani> <em>to carry; to take; to bring; to have; to hold</em>
+[e]<a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a> <high-lulani>K;s</high-lulani> <em>to fight</em>
+[e]<a href="http://dictionary.tinellb.com/m/maku.html#highlulani">maku</a> <high-lulani>m&gt;</high-lulani> <em>to throw</em>
+[e]<a href="http://dictionary.tinellb.com/n/nidu.html#highlulani">nidu</a> <high-lulani>NE</high-lulani> <em>to use</em>
+[e]<a href="http://dictionary.tinellb.com/x/xu.html#highlulani">xu</a> <high-lulani>Z</high-lulani> <em>to put out; to radiate; to broadcast</em>
 [4]Verbs of Transformation
-[e]<a href="http://dictionary.tinellb.com/i/'idu.html#highlulani">&rsquo;idu</a>: <em>to create; to make</em>
-[e]<a href="http://dictionary.tinellb.com/p/pifa.html#highlulani">pifa</a>: <em>to create ex nihilo; to make</em>
-[e]<a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a>: <em>to change; to become</em>
-[e]<a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a>: <em>link; join; wear</em>
-[e]<a href="http://dictionary.tinellb.com/s/si'a.html#highlulani">si&rsquo;a</a>: <em>heal; fix</em>
-[e]<a href="http://dictionary.tinellb.com/l/lakka.html#highlulani">lakka</a>: <em>to break</em>
-[e]<a href="http://dictionary.tinellb.com/q/qarri.html#highlulani">qarri</a>: <em>to open</em>
-[e]<a href="http://dictionary.tinellb.com/t/turu.html#highlulani">turu</a>: <em>to close; to fill</em>
+[e]<a href="http://dictionary.tinellb.com/i/'idu.html#highlulani">&rsquo;idu</a> <high-lulani>iE</high-lulani> <em>to create; to make</em>
+[e]<a href="http://dictionary.tinellb.com/p/pifa.html#highlulani">pifa</a> <high-lulani>Pf</high-lulani> (to create ex nihilo; to make</em>
+[e]<a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <high-lulani>or</high-lulani> <em>to change; to become</em>
+[e]<a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a> <high-lulani>Yi</high-lulani> <em>link; join; wear</em>
+[e]<a href="http://dictionary.tinellb.com/s/si'a.html#highlulani">si&rsquo;a</a> <high-lulani>Sa</high-lulani> <em>heal; fix</em>
+[e]<a href="http://dictionary.tinellb.com/l/lakka.html#highlulani">lakka</a> <high-lulani>l;k</high-lulani> <em>to break</em>
+[e]<a href="http://dictionary.tinellb.com/q/qarri.html#highlulani">qarri</a> <high-lulani>q;R</high-lulani> <em>to open</em>
+[e]<a href="http://dictionary.tinellb.com/t/turu.html#highlulani">turu</a> <high-lulani>ew</high-lulani> <em>to close; to fill</em>
 [4]Action Verbs
-[e]<a href="http://dictionary.tinellb.com/l/la.html#highlulani">la</a>: <em>do</em>
-[e]<a href="http://dictionary.tinellb.com/t/tara.html#highlulani">tara</a>: <em>to begin</em>
-[e]<a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a>: <em>to repeat</em>
-[e]<a href="http://dictionary.tinellb.com/n/nu.html#highlulani">nu</a>: <em>to stop</em>
-[e]<a href="http://dictionary.tinellb.com/n/naqa.html#highlulani">naqa</a>: <em>need</em>
+[e]<a href="http://dictionary.tinellb.com/l/la.html#highlulani">la</a> <high-lulani>l</high-lulani> <em>do</em>
+[e]<a href="http://dictionary.tinellb.com/t/tara.html#highlulani">tara</a> <high-lulani>tr</high-lulani> <em>to begin</em>
+[e]<a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <high-lulani>eN</high-lulani> <em>to repeat</em>
+[e]<a href="http://dictionary.tinellb.com/n/nu.html#highlulani">nu</a> <high-lulani>I</high-lulani> <em>to stop</em>
+[e]<a href="http://dictionary.tinellb.com/n/naqa.html#highlulani">naqa</a> <high-lulani>nq</high-lulani> <em>need</em>
 [4]Verbs Requiring Animate Objects
-[e]<a href="http://dictionary.tinellb.com/k/kuli.html#highlulani">kuli</a>: <em>to meet; to become acquainted</em>
-[e]<a href="http://dictionary.tinellb.com/c/ca.html#highlulani">ca</a>: <em>to help</em>
-[e]<a href="http://dictionary.tinellb.com/h/hisu.html#highlulani">hisu</a>: <em>to administer; to manage; to run; to rule</em>
-[e]<a href="http://dictionary.tinellb.com/u/'ussa.html#highlulani">&rsquo;ussa</a>: <em>to obey</em>
-[e]<a href="http://dictionary.tinellb.com/s/saki.html#highlulani">saki</a>: <em>to share</em>
-[e]<a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a>: <em>to give</em>
-[e]<a href="http://dictionary.tinellb.com/t/tali.html#highlulani">tali</a>: <em>to take away from someone</em>
+[e]<a href="http://dictionary.tinellb.com/k/kuli.html#highlulani">kuli</a> <high-lulani>&gt;L</high-lulani> <em>to meet; to become acquainted</em>
+[e]<a href="http://dictionary.tinellb.com/c/ca.html#highlulani">ca</a> <high-lulani>c</high-lulani> <em>to help</em>
+[e]<a href="http://dictionary.tinellb.com/h/hisu.html#highlulani">hisu</a> <high-lulani>Hz</high-lulani> <em>to administer; to manage; to run; to rule</em>
+[e]<a href="http://dictionary.tinellb.com/u/'ussa.html#highlulani">&rsquo;ussa</a> <high-lulani>u;s</high-lulani> <em>to obey</em>
+[e]<a href="http://dictionary.tinellb.com/s/saki.html#highlulani">saki</a> <high-lulani>sK</high-lulani> <em>to share</em>
+[e]<a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> <high-lulani>&gt;;f</high-lulani> <em>to give</em>
+[e]<a href="http://dictionary.tinellb.com/t/tali.html#highlulani">tali</a> <high-lulani>tL</high-lulani> <em>to take away from someone</em>
 [3]Ambitransitivity
 [4]Perceptive Verbs
-[e]<a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>: <em>to look; to see; to watch</em>
-[e]<a href="http://dictionary.tinellb.com/h/hulu.html#highlulani">hulu</a>: <em>to hear; to listen</em>
-[e]<a href="http://dictionary.tinellb.com/c/cussi.html#highlulani">cussi</a>: <em>feel; touch</em>
-[e]<a href="http://dictionary.tinellb.com/j/ji'i.html#highlulani">ji&rsquo;i</a>: <em>to taste; to smell</em>
-[e]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a>: <em>to say; to speak; to tell</em>
-[e]<a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a>: <em>to feel</em>
-[e]<a href="http://dictionary.tinellb.com/c/cikki.html#highlulani">cikki</a>: <em>to hear telepathically; to see empathically</em>
-[e]<a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a>: <em>to love</em>
-[e]<a href="http://dictionary.tinellb.com/q/qacca.html#highlulani">qacca</a>: <em>choose; decide</em>
-[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>: <em>to think</em>
-[e]<a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a>: <em>to think with the soul</em>
+[e]<a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <high-lulani>us</high-lulani> <em>to look; to see; to watch</em>
+[e]<a href="http://dictionary.tinellb.com/h/hulu.html#highlulani">hulu</a> <high-lulani>VW</high-lulani> <em>to hear; to listen</em>
+[e]<a href="http://dictionary.tinellb.com/c/cussi.html#highlulani">cussi</a> <high-lulani>y;S</high-lulani> <em>feel; touch</em>
+[e]<a href="http://dictionary.tinellb.com/j/ji'i.html#highlulani">ji&rsquo;i</a> <high-lulani>Ji</high-lulani> <em>to taste; to smell</em>
+[e]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> <high-lulani>i</high-lulani> <em>to say; to speak; to tell</em>
+[e]<a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a> <high-lulani>D;z</high-lulani> <em>to feel</em>
+[e]<a href="http://dictionary.tinellb.com/c/cikki.html#highlulani">cikki</a> <high-lulani>C;K</high-lulani> <em>to hear telepathically; to see empathically</em>
+[e]<a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <high-lulani>Wi</high-lulani> <em>to love</em>
+[e]<a href="http://dictionary.tinellb.com/q/qacca.html#highlulani">qacca</a> <high-lulani>q;c</high-lulani> <em>choose; decide</em>
+[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <high-lulani>p</high-lulani> <em>to think</em>
+[e]<a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a> <high-lulani>m</high-lulani> <em>to think with the soul</em>
 [4]Subtle
-[e]<a href="http://dictionary.tinellb.com/x/xi.html#highlulani">xi</a>: <em>to appear to be; to project</em>
-[e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a>: <em>to experience</em>
-&date=20180203--------------------------------------------------3
+[e]<a href="http://dictionary.tinellb.com/x/xi.html#highlulani">xi</a> <high-lulani>X</high-lulani> <em>to appear to be; to project</em>
+[e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a> <high-lulani>Q</high-lulani> <em>to experience</em>
+&date=20180221--------------------------------------------------3
 [1]Adverbs
 Adverbs are a closed class. Adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <a href="../syntax/adverbialphrases.html">Adverbial Phrases</a>
 [f]<a href="http://dictionary.tinellb.com/n/naru.html#highlulani">naru</a> <em>slowly</em>
