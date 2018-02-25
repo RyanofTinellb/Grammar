@@ -325,8 +325,8 @@ second person:[e]intransitive: <a href="http://dictionary.tinellb.com/f/filli.ht
 [e]ablative: <a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a>
 [e]dative: <a href="http://dictionary.tinellb.com/b/ba'u.html#highlulani">ba&rsquo;u</a>
 [e]genitive: <a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a>
-third person topic:[e]intransitive: <a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>
-[e]transitive: <a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>
+third person topic:[e]intransitive: (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>)
+[e]transitive: (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>)
 [e]ablative: <a href="http://dictionary.tinellb.com/r/raja.html#highlulani">raja</a>
 [e]dative: <a href="http://dictionary.tinellb.com/d/datu.html#highlulani">datu</a>
 [e]genitive: <a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>
@@ -697,6 +697,39 @@ The indefinite pro-forms are sets of deictic words which can be placed into a ta
 [r]universal | <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> | <a href="http://dictionary.tinellb.com/b/batuja.html#highlulani">batuja</a> | <a href="http://dictionary.tinellb.com/a/'abala.html#highlulani">&rsquo;abala</a> | - | -
 [r]existential | <a href="http://dictionary.tinellb.com/u/'umi.html#highlulani">&rsquo;umi</a> | <a href="http://dictionary.tinellb.com/m/mituja.html#highlulani">mituja</a> | <a href="http://dictionary.tinellb.com/a/'amila.html#highlulani">&rsquo;amila</a> | <a href="http://dictionary.tinellb.com/f/fana.html#highlulani">fana</a> | <a href="http://dictionary.tinellb.com/f/fana.html#highlulani">fana</a>
 [/t]
+<div class="mobile-table">
+proximate:
+[e]object: <a href="http://dictionary.tinellb.com/m/mari.html#highlulani">mari</a>
+[e]place: <a href="http://dictionary.tinellb.com/m/majja.html#highlulani">majja</a>
+[e]action: <a href="http://dictionary.tinellb.com/m/marila.html#highlulani">marila</a>
+[e]manner: <a href="http://dictionary.tinellb.com/m/madusi.html#highlulani">madusi</a>
+[e]state: <a href="http://dictionary.tinellb.com/m/marika.html#highlulani">marika</a>
+distal:
+[e]object: <a href="http://dictionary.tinellb.com/k/kasi.html#highlulani">kasi</a>
+[e]place: <a href="http://dictionary.tinellb.com/k/kasuja.html#highlulani">kasuja</a>
+[e]action: <a href="http://dictionary.tinellb.com/k/kalisa.html#highlulani">kalisa</a>
+[e]manner: <a href="http://dictionary.tinellb.com/k/kadusi.html#highlulani">kadusi</a>
+[e]state: <a href="http://dictionary.tinellb.com/k/kasika.html#highlulani">kasika</a>
+interrogative:
+[e]object: <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a>
+[e]place: <a href="http://dictionary.tinellb.com/s/satta.html#highlulani">satta</a>
+[e]action: <a href="http://dictionary.tinellb.com/s/sulla.html#highlulani">sulla</a>
+[e]manner: <a href="http://dictionary.tinellb.com/l/lara.html#highlulani">lara</a>
+[e]state: <a href="http://dictionary.tinellb.com/s/saqqa.html#highlulani">saqqa</a>
+negative:
+[e]object: <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a>
+[e]place: <a href="http://dictionary.tinellb.com/q/qa'i.html#highlulani">qa&rsquo;i</a>
+[e]action: <a href="http://dictionary.tinellb.com/b/buni.html#highlulani">buni</a>
+universal:
+[e]object: <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a>
+[e]place: <a href="http://dictionary.tinellb.com/b/batuja.html#highlulani">batuja</a>
+[e]action: <a href="http://dictionary.tinellb.com/a/'abala.html#highlulani">&rsquo;abala</a>
+existential:
+[e]object: <a href="http://dictionary.tinellb.com/u/'umi.html#highlulani">&rsquo;umi</a>
+[e]place: <a href="http://dictionary.tinellb.com/m/mituja.html#highlulani">mituja</a>
+[e]action: <a href="http://dictionary.tinellb.com/a/'amila.html#highlulani">&rsquo;amila</a>
+[e]manner / state: <a href="http://dictionary.tinellb.com/f/fana.html#highlulani">fana</a>
+</div>
 Proximate forms have referents physically or psychologically near the speaker, whereas distal forms are used when the referent is far away. Interrogative forms are used in questions, and negative forms are used in negative sentences. Universal means &ldquo;all&rdquo; or &ldquo;every&rdquo;, and existential means &ldquo;some&rdquo; or &ldquo;any&rdquo;.
 [3]Indefinite Pronouns
 Unlike some personal pronouns, indefinite pronouns are not marked for animacy.
@@ -711,7 +744,7 @@ The &lsquo;object&rsquo; indefinite pronouns can modify a noun when used as a su
 [e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a><a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a><a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a>-<a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>every me and every you</em>
 The existential markers are used in complements.
 [f]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <a href="http://dictionary.tinellb.com/x/xaha.html#highlulani">xaha</a>-<a href="http://dictionary.tinellb.com/d/disi.html#highlulani">disi</a> <a href="http://dictionary.tinellb.com/u/'umi.html#highlulani">&rsquo;umi</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/p/padissu.html#highlulani">padissu</a>.
-[e]<em>1<small-caps>int com</small-caps> name-<small-caps>3ani;gen</small-caps> something <small-caps>prs;gno</small-caps> learn.</em>
+[e]<em>1<small-caps>int com</small-caps> name-<small-caps>3ani;gen</small-caps> something <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> learn.</em>
 [e]&ldquo;I learned what her name is.&rdquo;
 The dative marker is not applied to distal pronouns.
 Reduplicated indefinite pronouns with suffixed -<a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>and</em> are used for emphasis.
@@ -722,7 +755,7 @@ Reduplicated indefinite pronouns with suffixed -<a href="http://dictionary.tinel
 [2]Pro-verbs
 The action terms are pro-verbs, which can be used to replace ordinary verbs in sentences.
 [f]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/s/sulla.html#highlulani">sulla</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>?
-[e]<em><small-caps>2int</small-caps> do_what <small-caps>pst;dyn</small-caps>?</em>
+[e]<em><span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> do_what <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span>?</em>
 [e]&ldquo;What did you do?&rdquo;
 [2]Pro-modals
 The manner column is used to refer to the way in which an action is undertaken, and the state column refers to the condition of a thing. These are used as modal adverbs.
@@ -743,8 +776,7 @@ The usual genitive markers refer to possession by some other party, not the subj
 [e]<em>Father offspring <small-caps>com</small-caps> eat potato-<small-caps>dim</small-caps>-own <small-caps>fut;dyn</small-caps> order.</em>
 [e]&ldquo;Dad asked my daughter to eat his chips.&rdquo;
 None of the above applies for first- and second-person subjects; these use their normal genitive markers.
-&date=20170730
---------------------------------------------------3
+&date=20180225--------------------------------------------------3
 [1]Suffixes
 Suffixes can be used to derive new word from existing vocabulary. A suffix beginning with a vowel replaces the final vowel of the base.
 [2]Ordinary Derivational Suffixes
