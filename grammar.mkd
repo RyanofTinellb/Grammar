@@ -5,6 +5,7 @@
 </link> | }} | <br>
 [e] | == | <br>
 [f] | === | <br>
+)</em> | </em>) | <br>
 <em> | (( | <br>
 </em> | )) | <br>
 <strong> | [[ | <br>
@@ -26,6 +27,7 @@
 <span class=""tooltip-text""> | &ttext; | <br>
 &tool;<<abl>>&ttext;ablative</span></span> | <<abl>> | <br>
 &tool;<<dat>>&ttext;dative</span></span> | <<dat>> | <br>
+&tool;<<ger>>&ttext;gerund</span></span> | <<ger>> | <br>
 &tool;<<prs;gno>>&ttext;present gnomic</span></span> | <<prs;gno>> | <br>
 &tool;<<prs;sta>>&ttext;present stative</span></span> | <<prs;sta>> | <br>
 &tool;<<prs;dyn>>&ttext;present dynamic</span></span> | <<prs;dyn>> | <br>
@@ -34,5 +36,6 @@
 &tool;<<1tra>>&ttext;first person transitive</span></span> | <<1tra>> | <br>
 &tool;<<2int>>&ttext;second person intransitive</span></span> | <<2int>> | <br>
 &tool;<<2tra>>&ttext;second person transitive</span></span> | <<2tra>> | <br>
+&tool;<<2dat>>&ttext;second person dative</span></span> | <<2dat>> | <br>
 &tool;<<3ani;int>>&ttext;animate third person intransitive</span></span> | <<3ani;int>> | <br>
 &tool;<<3ina;int>>&ttext;inanimate third person intransitive</span></span> | <<3ina;int>> | <br>
