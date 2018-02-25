@@ -186,6 +186,10 @@ body {
   margin-bottom: 1em;
 }
 
+.content div.mobile-table {
+  display: none;
+}
+
 .content div.wordlist p.example {
 	margin-top: 0;
 }
@@ -328,6 +332,14 @@ body {
       -webkit-columns: 1; /* Chrome, Safari, Opera */
       -moz-columns: 1; /* Firefox */
       columns: 1;
+  }
+
+  .content table {
+    display: none;
+  }
+
+  .content div.mobile-table {
+    display: inline;
   }
 
   .nav-footer {
