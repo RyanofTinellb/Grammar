@@ -342,6 +342,14 @@ body {
     display: inline;
   }
 
+  .content div.mobile-table p {
+    margin-bottom: 0;
+  }
+
+  .content div.mobile-table p.example_no_lines {
+    margin-bottom: 0;
+  }
+
   .nav-footer {
     padding-left: 0;
     padding-right: 0;
