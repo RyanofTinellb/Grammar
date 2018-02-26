@@ -23,3 +23,12 @@
 &mdash; | -- | <br>
 &igrave; | )i | <br>
 <a href= | href= | <br>
+&hellip; | ... | <br>
+&rarr; | => | <br>
+<overline>1</overline> | &rone; | <br>
+<overline>2</overline> | &rwo; | <br>
+<overline>3</overline> | &ree; | <br>
+<overline>4</overline> | &rour; | <br>
+<overline>5</overline> | &rive; | <br>
+<overline>6</overline> | &rix; | <br>
+<overline>7</overline> | &reven; | <br>

@@ -802,10 +802,17 @@ These derive nouns from other nouns.
 [r]Animate | <a href="http://dictionary.tinellb.com/r/-rra.html#highlulani">-rra</a> | <a href="http://dictionary.tinellb.com/s/-sa.html#highlulani">-sa</a> / <a href="http://dictionary.tinellb.com/r/-ri.html#highlulani">-ri</a>
 [r]Inanimate |  | <a href="http://dictionary.tinellb.com/d/-di.html#highlulani">-di</a>
 [r]Abstract | <a href="http://dictionary.tinellb.com/j/-ja.html#highlulani">-ja</a>[/t]
+<div class="mobile-table">
+inanimate
+[e] &rarr; animate: <a href="http://dictionary.tinellb.com/r/-rra.html#highlulani">-rra</a>
+[e] &rarr; abstract: <a href="http://dictionary.tinellb.com/j/-ja.html#highlulani">-ja</a>
+abstract
+[e] &rarr; animate: <a href="http://dictionary.tinellb.com/s/-sa.html#highlulani">-sa</a> / <a href="http://dictionary.tinellb.com/r/-ri.html#highlulani">-ri</a>
+[e] &rarr; inanimate: <a href="http://dictionary.tinellb.com/d/-di.html#highlulani">-di</a></div>
 The above table shows the suffixes used for deriving nouns between different animacy classes.
 <strong><a href="http://dictionary.tinellb.com/r/-rra.html#highlulani">-rra</a></strong> derives an animate noun from an inanimate noun.
 [f]<a href="http://dictionary.tinellb.com/t/tisakarra.html#highlulani">tisakarra</a> <em>townsperson</em>
-<strong><a href="http://dictionary.tinellb.com/s/-sa.html#highlulani">-sa</a></strong> and <strong><a href="http://dictionary.tinellb.com/r/-ri.html#highlulani">-ri</a></strong> both derive an animate noun from an abstract noun, however, these are not predictable. For instance, note the difference between <a href="http://dictionary.tinellb.com/d/dis.sa.html#highlulani">dis&middot;sa</a> <em>youth</em> and <a href="http://dictionary.tinellb.com/d/dissuri.html#highlulani">dissuri</a> <em>stranger</em>. Other examples are:
+<strong><a href="http://dictionary.tinellb.com/s/-sa.html#highlulani">-sa</a></strong> and <strong><a href="http://dictionary.tinellb.com/r/-ri.html#highlulani">-ri</a></strong> both derive an animate noun from an abstract noun, however, these are not predictable. For instance, note the difference between <a href="http://dictionary.tinellb.com/d/dis(.)sa.html#highlulani">dis&middot;sa</a> <em>youth</em> and <a href="http://dictionary.tinellb.com/d/dissuri.html#highlulani">dissuri</a> <em>stranger</em>. Other examples are:
 [f]<a href="http://dictionary.tinellb.com/p/pucasa.html#highlulani">pucasa</a> <em>optimist</em>
 [e]<a href="http://dictionary.tinellb.com/s/sasa.html#highlulani">sasa</a> <em>introvert</em>
 [e]<a href="http://dictionary.tinellb.com/d/dattusa.html#highlulani">dattusa</a> <em>god</em>
@@ -880,8 +887,7 @@ Any
 Other Part of Speech changes
 -atinna: derivational suffix verb &rarr; adverb derives an adverb from a verb
 -niqqi: derivational suffix noun &rarr; adverb derives an adverb from a noun
-&date=20170903
---------------------------------------------------3
+&date=20180226--------------------------------------------------3
 [1]Adpositions
 Adpositions are a closed class.
 [2]Uses
@@ -1330,8 +1336,8 @@ High Lulani numbers are written with the positive digits (1, 2, 3, 4, 5, 6 and 7
 When writing out a number, each digit is worth fifteen times as much as the following digit. A period (fractional point: . ) is used to separate the integer part of the number from the mantissa. A comma (,) is used in the integer part to separate the digits into groupings of four, beginning from the fractional point.
 [f]2 <em>two</em>
 [e]5.<overline>3</overline> <em>four and four-fifths = five + (minus three &times; (fifteen ^ minus one</em></em>
-[e]1<overline>7</overline> <em>eight = (one &times; fifteen) + (minus seven</em>)
-[e]20 <em>thirty = (two &times; fifteen</em>)
+[e]1<overline>7</overline> <em>eight = (one &times; fifteen) + (minus seven)</em>
+[e]20 <em>thirty = (two &times; fifteen)</em>
 [e]3<overline>2</overline>6 <em>six hundred and forty-one =
 (three &times; (fifteen ^ two</em> + (minus two &times; fifteen) + six</em>
 [e]<overline>1</overline>,34<overline>5</overline>3 <em>minus thirty-nine thousand, six hundred and seventy-two =
@@ -1350,6 +1356,22 @@ Here are the names for the one-digit numbers:
 [r] | <a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a> | <em>6</em> |  | <a href="http://dictionary.tinellb.com/j/jusiti.html#highlulani">jusiti</a> | <em><overline>6</overline></em>
 [r] | <a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> | <em>7</em> |  | <a href="http://dictionary.tinellb.com/h/haki.html#highlulani">haki</a> | <em><overline>7</overline></em>
 [/t]</div>
+<div class="mobile-table">
+[e]<a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">(qi)hha</a> <em>0</em>
+[e]<a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <em>1</em>
+[e]<a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>2</em>
+[e]<a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> <em>3</em>
+[e]<a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> <em>4</em>
+[e]<a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a> <em>5</em>
+[e]<a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a> <em>6</em>
+[e]<a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <em>7</em>
+[e]<a href="http://dictionary.tinellb.com/h/haki.html#highlulani">haki</a> <em><overline>7</overline></em>
+[e]<a href="http://dictionary.tinellb.com/j/jusiti.html#highlulani">jusiti</a> <em><overline>6</overline></em>
+[e]<a href="http://dictionary.tinellb.com/l/laffi.html#highlulani">laffi</a> <em><overline>5</overline></em>
+[e]<a href="http://dictionary.tinellb.com/m/missu.html#highlulani">missu</a> <em><overline>4</overline></em>
+[e]<a href="http://dictionary.tinellb.com/b/billa.html#highlulani">billa</a> <em><overline>3</overline></em>
+[e]<a href="http://dictionary.tinellb.com/k/kannu.html#highlulani">kannu</a> <em><overline>2</overline></em>
+[e]<a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> <em><overline>1</overline></em>
 The full form <a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">qihha</a> <em>zero</em> is only used when by itself, or first in a number or noun phrase.
 [3]Two-digit Numbers
 Numbers between 1<overline>7</overline> and 16 are composed of the prefix <a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a> and the final two syllables of the number, except for <a href="http://dictionary.tinellb.com/s/salura.html#highlulani">salura</a> (not <a href="http://dictionary.tinellb.com/s/sara.html#highlulani">sara</a>) 12.
@@ -1423,7 +1445,7 @@ Ordinal and cardinal numbers are used in noun phrases, and are inserted between 
 [e]<em>four-</em><small-caps>ord</small-caps> <em>king</em>
 [e]&ldquo;the fourth king.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>
-[e]<small-caps>abl</small-caps><em>-seven queen</em>
+[e]<span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span><em>-seven queen</em>
 [e]&ldquo;due to the seven queens.&rdquo;
 Numbers can be suffixed to a noun to denote not the quantity, but a quality.
 [f]<a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <a href="http://dictionary.tinellb.com/s/sinnadi.html#highlulani">sinnadi</a>
@@ -1436,8 +1458,7 @@ The number <a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <
 [f]<a href="http://dictionary.tinellb.com/l/luffu.html#highlulani">luffu</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>eyes</em>
 [e]<a href="http://dictionary.tinellb.com/i/'itikku.html#highlulani">&rsquo;itikku</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>breasts</em>
 [e]<a href="http://dictionary.tinellb.com/t/tiba.html#highlulani">tiba</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>legs</em>
-&date=20170730
---------------------------------------------------3
+&date=20180226--------------------------------------------------3
 [1]Colours
 The basis colour terms are all verbs:
 [f]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <em>blue</em>
@@ -1474,17 +1495,28 @@ The following table shows the possessive forms:
 [r]2nd person | <a href="http://dictionary.tinellb.com/p/pihaba.html#highlulani">pihaba</a> | <a href="http://dictionary.tinellb.com/s/sabba.html#highlulani">sabba</a>
 [r]3rd person topic | <a href="http://dictionary.tinellb.com/p/pihasu'a.html#highlulani">pihasu&rsquo;a</a> | <a href="http://dictionary.tinellb.com/s/sassu'a.html#highlulani">sassu&rsquo;a</a>
 [r]3rd person animate | <a href="http://dictionary.tinellb.com/p/pi'adisi.html#highlulani">pi&rsquo;adisi</a> | <a href="http://dictionary.tinellb.com/s/saddisi.html#highlulani">saddisi</a>[/t]
+<div class="mobile-table">
+mother:
+[e]first person: <a href="http://dictionary.tinellb.com/p/pi'apagu.html#highlulani">pi&rsquo;apagu</a>
+[e]second person: <a href="http://dictionary.tinellb.com/p/pihaba.html#highlulani">pihaba</a>
+[e]third person topic: <a href="http://dictionary.tinellb.com/p/pihasu'a.html#highlulani">pihasu&rsquo;a</a>
+[e]third person animate: <a href="http://dictionary.tinellb.com/p/pi'adisi.html#highlulani">pi&rsquo;adisi</a>
+father:
+[e]first person: <a href="http://dictionary.tinellb.com/s/sappagu.html#highlulani">sappagu</a>
+[e]second person: <a href="http://dictionary.tinellb.com/s/sabba.html#highlulani">sabba</a>
+[e]third person topic: <a href="http://dictionary.tinellb.com/s/sassu'a.html#highlulani">sassu&rsquo;a</a>
+[e]third person animate: <a href="http://dictionary.tinellb.com/s/saddisi.html#highlulani">saddisi</a>
+</div>
 There are two terms for children: <a href="http://dictionary.tinellb.com/t/tu.html#highlulani">tu</a> <em>offspring</em> for postnatal children, <a href="http://dictionary.tinellb.com/a/'appu.html#highlulani">&rsquo;appu</a> <em>foetus</em> for antenatal. Both of these are gender-neutral, and are most often used with possessives.
 There can be a suffixed <a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a> <em>link</em> for spouses&rsquo; offspring and parents&rsquo; spouses.
 [f]<a href="http://dictionary.tinellb.com/s/sappagu.html#highlulani">sappagu</a><a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a>
-[e]father;1<small-caps>gen</small-caps>-link
+[e]father;1<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span>-link
 [e]&ldquo;my step-father&rdquo;
 [f]<a href="http://dictionary.tinellb.com/t/tu.html#highlulani">tu</a><a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a>
-[e]offspring-link-2<small-caps>gen</small-caps>
+[e]offspring-link-2<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span>
 [e]&ldquo;your step-daughter&rdquo;
 Other kinship terms began as nuclear family names, but were thence extended across a generation. So <a href="http://dictionary.tinellb.com/k/kaqqa.html#highlulani">kaqqa</a> <em>elder sibling</em> and <a href="http://dictionary.tinellb.com/k/kica.html#highlulani">kica</a> <em>younger sibling</em> can also be applied to cousins.
-&date=20170729
---------------------------------------------------3
+&date=20180226--------------------------------------------------3
 [1]Honorifics
 The suffix <a href="http://dictionary.tinellb.com/f/-fi.html#highlulani">-fi</a> can be added to abstract and inanimate nouns to show deference.
 Honorifics for people consist of a word prefixed to the person&rsquo;s name. The general honorific is <a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a> (person).
@@ -1528,8 +1560,126 @@ The first 118 chemical elements have been named.
 [r] |  | fluorine<br><a href="http://dictionary.tinellb.com/c/ca'a.html#highlulani">ca&rsquo;a</a> | chlorine<br><a href="http://dictionary.tinellb.com/l/limma.html#highlulani">limma</a> | bromine<br><a href="http://dictionary.tinellb.com/b/bi.html#highlulani">bi</a> | iodine<br><a href="http://dictionary.tinellb.com/p/papa.html#highlulani">papa</a> | astatine<br><a href="http://dictionary.tinellb.com/s/sicu.html#highlulani">sicu</a> | tennessine<br><a href="http://dictionary.tinellb.com/b/buccata.html#highlulani">buccata</a>
 [r] | helium<br><a href="http://dictionary.tinellb.com/l/li'a.html#highlulani">li&rsquo;a</a> | neon<br><a href="http://dictionary.tinellb.com/k/kuxalu.html#highlulani">kuxalu</a> | argon<br><a href="http://dictionary.tinellb.com/l/laqa.html#highlulani">laqa</a> | krypton<br><a href="http://dictionary.tinellb.com/q/quffi.html#highlulani">quffi</a> | xenon<br><a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a> | radon<br><a href="http://dictionary.tinellb.com/f/fasami.html#highlulani">fasami</a> | oganesson<br><a href="http://dictionary.tinellb.com/i/'ittika.html#highlulani">&rsquo;ittika</a>
 [/t]
-&date=20170724
---------------------------------------------------1
+<div class="mobile-table">
+[e]actinium: <a href="http://dictionary.tinellb.com/n/na'a.html#highlulani">na&rsquo;a</a>
+[e]aluminium: <a href="http://dictionary.tinellb.com/d/disa.html#highlulani">disa</a>
+[e]americium: <a href="http://dictionary.tinellb.com/d/dihiqa.html#highlulani">dihiqa</a>
+[e]antimony: <a href="http://dictionary.tinellb.com/s/salari.html#highlulani">salari</a>
+[e]argon: <a href="http://dictionary.tinellb.com/l/laqa.html#highlulani">laqa</a>
+[e]arsenic: <a href="http://dictionary.tinellb.com/d/da'u.html#highlulani">da&rsquo;u</a>
+[e]astatine: <a href="http://dictionary.tinellb.com/s/sicu.html#highlulani">sicu</a>
+[e]barium: <a href="http://dictionary.tinellb.com/b/baca.html#highlulani">baca</a>
+[e]berkelium: <a href="http://dictionary.tinellb.com/s/saxxuru.html#highlulani">saxxuru</a>
+[e]beryllium: <a href="http://dictionary.tinellb.com/f/fiqqala.html#highlulani">fiqqala</a>
+[e]bismuth: <a href="http://dictionary.tinellb.com/a/'aggini.html#highlulani">&rsquo;aggini</a>
+[e]bohrium: <a href="http://dictionary.tinellb.com/c/cabahi.html#highlulani">cabahi</a>
+[e]boron: <a href="http://dictionary.tinellb.com/k/kuxxu.html#highlulani">kuxxu</a>
+[e]bromine: <a href="http://dictionary.tinellb.com/b/bi.html#highlulani">bi</a>
+[e]cadmium: <a href="http://dictionary.tinellb.com/k/kaca.html#highlulani">kaca</a>
+[e]calcium: <a href="http://dictionary.tinellb.com/q/qaxa.html#highlulani">qaxa</a>
+[e]californium: <a href="http://dictionary.tinellb.com/i/'ikka.html#highlulani">&rsquo;ikka</a>
+[e]carbon: <a href="http://dictionary.tinellb.com/x/xu.html#highlulani">xu</a>
+[e]cerium: <a href="http://dictionary.tinellb.com/a/'a'ami.html#highlulani">&rsquo;a&rsquo;ami</a>
+[e]cesium: <a href="http://dictionary.tinellb.com/n/nudda.html#highlulani">nudda</a>
+[e]chlorine: <a href="http://dictionary.tinellb.com/l/limma.html#highlulani">limma</a>
+[e]chromium: <a href="http://dictionary.tinellb.com/f/fada.html#highlulani">fada</a>
+[e]cobalt: <a href="http://dictionary.tinellb.com/g/gaxiki.html#highlulani">gaxiki</a>
+[e]copernicium: <a href="http://dictionary.tinellb.com/h/hatanu.html#highlulani">hatanu</a>
+[e]copper: <a href="http://dictionary.tinellb.com/s/suki.html#highlulani">suki</a>
+[e]curium: <a href="http://dictionary.tinellb.com/f/farra.html#highlulani">farra</a>
+[e]darmstadtium: <a href="http://dictionary.tinellb.com/n/na'ipa.html#highlulani">na&rsquo;ipa</a>
+[e]dubnium: <a href="http://dictionary.tinellb.com/n/nullasu.html#highlulani">nullasu</a>
+[e]dysprosium: <a href="http://dictionary.tinellb.com/b/bumissi.html#highlulani">bumissi</a>
+[e]einsteinium: <a href="http://dictionary.tinellb.com/b/banara.html#highlulani">banara</a>
+[e]erbium: <a href="http://dictionary.tinellb.com/c/calluna.html#highlulani">calluna</a>
+[e]europium: <a href="http://dictionary.tinellb.com/s/siqi.html#highlulani">siqi</a>
+[e]fermium: <a href="http://dictionary.tinellb.com/t/tika.html#highlulani">tika</a>
+[e]flerovium: <a href="http://dictionary.tinellb.com/x/xa'a.html#highlulani">xa&rsquo;a</a>
+[e]fluorine: <a href="http://dictionary.tinellb.com/c/ca'a.html#highlulani">ca&rsquo;a</a>
+[e]francium: <a href="http://dictionary.tinellb.com/g/guqqa.html#highlulani">guqqa</a>
+[e]gadolinium: <a href="http://dictionary.tinellb.com/t/tacala.html#highlulani">tacala</a>
+[e]gallium: <a href="http://dictionary.tinellb.com/a/'ali.html#highlulani">&rsquo;ali</a>
+[e]germanium: <a href="http://dictionary.tinellb.com/x/xuhhi.html#highlulani">xuhhi</a>
+[e]gold: <a href="http://dictionary.tinellb.com/f/fi.html#highlulani">fi</a>
+[e]hafnium: <a href="http://dictionary.tinellb.com/t/tacuca.html#highlulani">tacuca</a>
+[e]hassium: <a href="http://dictionary.tinellb.com/i/'i'ami.html#highlulani">&rsquo;i&rsquo;ami</a>
+[e]helium: <a href="http://dictionary.tinellb.com/l/li'a.html#highlulani">li&rsquo;a</a>
+[e]holmium: <a href="http://dictionary.tinellb.com/k/katiru.html#highlulani">katiru</a>
+[e]hydrogen: <a href="http://dictionary.tinellb.com/l/la.html#highlulani">la</a>
+[e]indium: <a href="http://dictionary.tinellb.com/l/luka.html#highlulani">luka</a>
+[e]iodine: <a href="http://dictionary.tinellb.com/p/papa.html#highlulani">papa</a>
+[e]iridium: <a href="http://dictionary.tinellb.com/n/natu.html#highlulani">natu</a>
+[e]iron: <a href="http://dictionary.tinellb.com/a/'a.html#highlulani">&rsquo;a</a>
+[e]krypton: <a href="http://dictionary.tinellb.com/q/quffi.html#highlulani">quffi</a>
+[e]lanthanum: <a href="http://dictionary.tinellb.com/x/xanaki.html#highlulani">xanaki</a>
+[e]lawrencium: <a href="http://dictionary.tinellb.com/n/nulina.html#highlulani">nulina</a>
+[e]lead: <a href="http://dictionary.tinellb.com/m/musaqu.html#highlulani">musaqu</a>
+[e]lithium: <a href="http://dictionary.tinellb.com/p/pini.html#highlulani">pini</a>
+[e]livermorium: <a href="http://dictionary.tinellb.com/s/suda.html#highlulani">suda</a>
+[e]lutetium: <a href="http://dictionary.tinellb.com/k/kixa.html#highlulani">kixa</a>
+[e]magnesium: <a href="http://dictionary.tinellb.com/x/xaki.html#highlulani">xaki</a>
+[e]manganese: <a href="http://dictionary.tinellb.com/q/qumalli.html#highlulani">qumalli</a>
+[e]meitnerium: <a href="http://dictionary.tinellb.com/n/nakaku.html#highlulani">nakaku</a>
+[e]mendelevium: <a href="http://dictionary.tinellb.com/l/laqura.html#highlulani">laqura</a>
+[e]mercury: <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>
+[e]molybdenum: <a href="http://dictionary.tinellb.com/s/sula.html#highlulani">sula</a>
+[e]moscovium: <a href="http://dictionary.tinellb.com/r/rili.html#highlulani">rili</a>
+[e]neodymium: <a href="http://dictionary.tinellb.com/f/fibaku.html#highlulani">fibaku</a>
+[e]neon: <a href="http://dictionary.tinellb.com/k/kuxalu.html#highlulani">kuxalu</a>
+[e]neptunium: <a href="http://dictionary.tinellb.com/x/xasagi.html#highlulani">xasagi</a>
+[e]nickel: <a href="http://dictionary.tinellb.com/t/tasa.html#highlulani">tasa</a>
+[e]nihonium: <a href="http://dictionary.tinellb.com/r/rabaci.html#highlulani">rabaci</a>
+[e]niobium: <a href="http://dictionary.tinellb.com/l/lakka.html#highlulani">lakka</a>
+[e]nitrogen: <a href="http://dictionary.tinellb.com/s/sutta.html#highlulani">sutta</a>
+[e]nobelium: <a href="http://dictionary.tinellb.com/q/qa''iku.html#highlulani">qa&#x294;iku</a>
+[e]oganesson: <a href="http://dictionary.tinellb.com/i/'ittika.html#highlulani">&rsquo;ittika</a>
+[e]osmium: <a href="http://dictionary.tinellb.com/s/supu.html#highlulani">supu</a>
+[e]oxygen: <a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a>
+[e]paladium: <a href="http://dictionary.tinellb.com/q/qala.html#highlulani">qala</a>
+[e]phosphorus: <a href="http://dictionary.tinellb.com/p/pibi.html#highlulani">pibi</a>
+[e]platinum: <a href="http://dictionary.tinellb.com/j/jala.html#highlulani">jala</a>
+[e]plutonium: <a href="http://dictionary.tinellb.com/s/sussi.html#highlulani">sussi</a>
+[e]polonium: <a href="http://dictionary.tinellb.com/c/cakassu.html#highlulani">cakassu</a>
+[e]potassium: <a href="http://dictionary.tinellb.com/d/dina.html#highlulani">dina</a>
+[e]praseodymium: <a href="http://dictionary.tinellb.com/r/ra''asa.html#highlulani">ra&#x294;asa</a>
+[e]prometheum: <a href="http://dictionary.tinellb.com/u/'uccadama.html#highlulani">&rsquo;uccadama</a>
+[e]protactinium: <a href="http://dictionary.tinellb.com/l/lakatti.html#highlulani">lakatti</a>
+[e]radium: <a href="http://dictionary.tinellb.com/i/'ilasa.html#highlulani">&rsquo;ilasa</a>
+[e]radon: <a href="http://dictionary.tinellb.com/f/fasami.html#highlulani">fasami</a>
+[e]rhenium: <a href="http://dictionary.tinellb.com/h/hasuki.html#highlulani">hasuki</a>
+[e]rhodium: <a href="http://dictionary.tinellb.com/f/fula.html#highlulani">fula</a>
+[e]roentgenium: <a href="http://dictionary.tinellb.com/s/su'usi.html#highlulani">su&rsquo;usi</a>
+[e]rubidium: <a href="http://dictionary.tinellb.com/s/sadadu.html#highlulani">sadadu</a>
+[e]ruthenium: <a href="http://dictionary.tinellb.com/n/nasufi.html#highlulani">nasufi</a>
+[e]rutherfordium: <a href="http://dictionary.tinellb.com/f/famati.html#highlulani">famati</a>
+[e]samarium: <a href="http://dictionary.tinellb.com/i/'i'isata.html#highlulani">&rsquo;i&rsquo;isata</a>
+[e]scandium: <a href="http://dictionary.tinellb.com/c/cakina.html#highlulani">cakina</a>
+[e]seaborgium: <a href="http://dictionary.tinellb.com/s/saniki.html#highlulani">saniki</a>
+[e]selenium: <a href="http://dictionary.tinellb.com/m/matirra.html#highlulani">matirra</a>
+[e]silicon: <a href="http://dictionary.tinellb.com/a/'ama.html#highlulani">&rsquo;ama</a>
+[e]silver: <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>
+[e]sodium: <a href="http://dictionary.tinellb.com/l/lisu.html#highlulani">lisu</a>
+[e]strontium: <a href="http://dictionary.tinellb.com/a/'aru'u.html#highlulani">&rsquo;aru&rsquo;u</a>
+[e]sulfur: <a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a>
+[e]tantalum: <a href="http://dictionary.tinellb.com/h/hila.html#highlulani">hila</a>
+[e]tellurium: <a href="http://dictionary.tinellb.com/l/lasu.html#highlulani">lasu</a>
+[e]tennessine: <a href="http://dictionary.tinellb.com/b/buccata.html#highlulani">buccata</a>
+[e]terbium: <a href="http://dictionary.tinellb.com/r/rila.html#highlulani">rila</a>
+[e]thallium: <a href="http://dictionary.tinellb.com/s/silla.html#highlulani">silla</a>
+[e]thorium: <a href="http://dictionary.tinellb.com/p/paraba.html#highlulani">paraba</a>
+[e]thulium: <a href="http://dictionary.tinellb.com/r/raddilla.html#highlulani">raddilla</a>
+[e]tin: <a href="http://dictionary.tinellb.com/l/laji.html#highlulani">laji</a>
+[e]titanium: <a href="http://dictionary.tinellb.com/k/ka'i.html#highlulani">ka&rsquo;i</a>
+[e]tungsten: <a href="http://dictionary.tinellb.com/m/mina''i.html#highlulani">mina&#x294;i</a>
+[e]uranium: <a href="http://dictionary.tinellb.com/k/kari.html#highlulani">kari</a>
+[e]vanadium: <a href="http://dictionary.tinellb.com/n/nussa.html#highlulani">nussa</a>
+[e]xenon: <a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a>
+[e]ytterbium: <a href="http://dictionary.tinellb.com/t/tukaga.html#highlulani">tukaga</a>
+[e]yttrium: <a href="http://dictionary.tinellb.com/a/'aqqixi.html#highlulani">&rsquo;aqqixi</a>
+[e]zinc: <a href="http://dictionary.tinellb.com/h/hika.html#highlulani">hika</a>
+[e]zirconium: <a href="http://dictionary.tinellb.com/p/pusu.html#highlulani">pusu</a>
+</div>
+&date=20180226--------------------------------------------------1
 [1]Appendices
 This section contains information and rules that apply to all the Tinellbian languages, and their use on this site.
 &date=20170716

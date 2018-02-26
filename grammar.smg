@@ -5,15 +5,15 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
   "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
-  "current position": "69.26", 
+  "current position": "48.14", 
   "links": [
     {
-      "type": "Glossary", 
-      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls"
+      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
+      "type": "Glossary"
     }, 
     {
-      "type": "ExternalDictionary", 
-      "resource": "http://dictionary.tinellb.com"
+      "resource": "http://dictionary.tinellb.com", 
+      "type": "ExternalDictionary"
     }
   ], 
   "current language": "hl", 
@@ -23,8 +23,8 @@
   }, 
   "current page": [
     "High Lulani", 
-    "Syntax", 
-    "Dependent Clauses", 
+    "Apocrypha", 
+    "Elements", 
     ""
   ]
 }
