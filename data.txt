@@ -1662,6 +1662,7 @@ The first 118 chemical elements have been named.
 [e]strontium: <a href="http://dictionary.tinellb.com/a/'aru'u.html#highlulani">&rsquo;aru&rsquo;u</a>
 [e]sulfur: <a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a>
 [e]tantalum: <a href="http://dictionary.tinellb.com/h/hila.html#highlulani">hila</a>
+[e]technetium: <a href="http://dictionary.tinellb.com/n/nikili.html#highlulani">nikili</a>
 [e]tellurium: <a href="http://dictionary.tinellb.com/l/lasu.html#highlulani">lasu</a>
 [e]tennessine: <a href="http://dictionary.tinellb.com/b/buccata.html#highlulani">buccata</a>
 [e]terbium: <a href="http://dictionary.tinellb.com/r/rila.html#highlulani">rila</a>
@@ -1679,7 +1680,7 @@ The first 118 chemical elements have been named.
 [e]zinc: <a href="http://dictionary.tinellb.com/h/hika.html#highlulani">hika</a>
 [e]zirconium: <a href="http://dictionary.tinellb.com/p/pusu.html#highlulani">pusu</a>
 </div>
-&date=20180226--------------------------------------------------1
+&date=20180227--------------------------------------------------1
 [1]Appendices
 This section contains information and rules that apply to all the Tinellbian languages, and their use on this site.
 &date=20170716
