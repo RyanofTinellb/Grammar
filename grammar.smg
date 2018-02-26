@@ -5,8 +5,12 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
   "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
-  "current position": "23.20", 
+  "current position": "69.26", 
   "links": [
+    {
+      "type": "Glossary", 
+      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls"
+    }, 
     {
       "type": "ExternalDictionary", 
       "resource": "http://dictionary.tinellb.com"
@@ -19,8 +23,8 @@
   }, 
   "current page": [
     "High Lulani", 
-    "Morphology", 
-    "Deixis", 
+    "Syntax", 
+    "Dependent Clauses", 
     ""
   ]
 }

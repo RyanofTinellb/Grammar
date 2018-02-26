@@ -419,7 +419,7 @@ Intransitive verbs only require a subject, not an object.
 [f]<strong>Badiri ru cura</strong>.
 [e]<high-lulani>.bDR / w / yr.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/b/badiri.html#highlulani">Badiri</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a>.
-[e]<em>World</em> <span class="tooltip"><small-caps>3ina;int</small-caps><span class="tooltip-text">inanimate third person intransitive</span></span> <em>change</em>.
+[e]<em>World</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>change</em>.
 [e]&ldquo;The world is always changing.&rdquo;
 <div class="wordlist">[f]<a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a> <high-lulani>yr</high-lulani> <em>to change; to be different</em>
 [e]<a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a> <high-lulani>&lt;P</high-lulani> <em>to sit down; to wait</em>
@@ -443,11 +443,11 @@ These verbs deal with motion of the subject.
 [e]<a href="http://dictionary.tinellb.com/f/fiqu.html#highlulani">fiqu</a> <high-lulani>FA</high-lulani> <em>to float; to be floating</em></div>
 [3]Adjectival Verbs
 These verbs attribute a property to the subject.
-[f]<strong>&#x294;usu ra&rsquo;u ki. / &#x294;usu qixa ki.</strong>
-[e]<high-lulani>.uz / Qx / K. - .uz / ru / K.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a>. / <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a>.
-[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>big</em>. / <span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <em>big</em>.
-[e]&ldquo;I am tall.&rdquo; / &ldquo;I grew.&rdquo;
+[f]<strong>Linu ra&rsquo;u ki. / Linu qixa ki.</strong>
+[e]<high-lulani>.LI / ru / K .  / LI / Qx / K.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/l/linu.html#highlulani">Linu</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a>. / <a href="http://dictionary.tinellb.com/l/linu.html#highlulani">Linu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a>.
+[e]<em>Tree</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>big</em>. / <em>Tree</em> <span class="tooltip"><small-caps>prs;dyn</small-caps><span class="tooltip-text">present dynamic</span></span> <em>big</em>.
+[e]&ldquo;The tree is big. / The tree is growing.&rdquo;
 <div class="wordlist">[f]<a href="http://dictionary.tinellb.com/m/mu.html#highlulani">mu</a> <high-lulani>U</high-lulani> <em>good</em>
 [e]<a href="http://dictionary.tinellb.com/g/guqqi.html#highlulani">guqqi</a> <high-lulani>&lt;;Q</high-lulani> <em>bad</em>
 [e]<a href="http://dictionary.tinellb.com/t/tuhi.html#highlulani">tuhi</a> <high-lulani>eH</high-lulani> <em>little</em>
@@ -474,17 +474,17 @@ These are adjectival verbs specifically dealing with <a href="../apocrypha/colou
 These are intransitive verbs in that they do not require a noun phrase in the object position. However, they act transitively by having a second noun phrase marked in a particular way.
 [4]Oblique and Adpositional Arguments
 These are marked with an <a href="../syntax/case.html#obliquecases">oblique case marker</a>:
-[f]<strong>&#x294;usu kalumalaki mala.</strong>
-[e]<high-lulani>.uz / kWmlK / ml.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>-<a href="http://dictionary.tinellb.com/m/malaki.html#highlulani">malaki</a> <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a>.
-[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>mirror reflect</em>.
-[e]&ldquo;I am reflected in the mirror.&rdquo;
+[f]<strong>Luna kalujifiru&rsquo;i mala; luna kalu&rsquo;ilupagu mala.</strong>
+[e]<high-lulani>.Wn / kWJFwi / ml , Wn / kWiWp&lt; / ml.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/l/luna.html#highlulani">Luna</a> <a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/j/jifiru'i.html#highlulani">jifiru&rsquo;i</a> <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a>; <a href="http://dictionary.tinellb.com/l/luna.html#highlulani">luna</a> <a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/i/'ilu.html#highlulani">&rsquo;ilu</a><a href="http://dictionary.tinellb.com/p/-pagu.html#highlulani">-pagu</a> <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a>.
+[e]<em>Moon</em> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>lake reflect; moon</em> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>heart</em>-<span class="tooltip"><small-caps>1gen</small-caps><span class="tooltip-text">first person genitive</span></span> reflect.
+[e]&ldquo;The moon is reflected in the lake; the moon is reflected in my heart.&rdquo;
 or an <a href="adpositions.html">adposition</a>:
-[f]<strong>&#x294;usu ni&#x294;irri&rsquo;a tihu.</strong>
-[e]<high-lulani>.Vz / Ni;Ra / TV.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a>.
-[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>in-Ir&igrave;a abide.</em>
-[e]&ldquo;I live in Ir&igrave;a.&rdquo;
+[f]<strong>&#x294;aggami ni&#x294;irri&rsquo;a tihu.</strong>
+[e]<high-lulani>.a;gM / N;i;Ra / TV.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/a/'aggami.html#highlulani">&#x294;aggami</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a>.
+[e]<em>Police_officer</em> <em>in-Ir&igrave;a abide.</em>
+[e]&ldquo;The police officer lives in Ir&igrave;a.&rdquo;
 The usual markers for each of these verbs is shown here:
 [f]<a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> <high-lulani>ml</high-lulani> <em>to reflect</em> &mdash; <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>
 [e]<a href="http://dictionary.tinellb.com/f/faxi.html#highlulani">faxi</a> <high-lulani>fX</high-lulani> <em>to survive</em> &mdash; <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>
@@ -517,11 +517,11 @@ The basic meaning of these sentences is not changed when swapping the particpant
 [e]<a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a> <high-lulani>V;l</high-lulani> <em>to copulate</em></div>
 [2]Transitive Verbs
 A transitive verb requires an object to complete its meaning. It is possible to elide this object if it is obvious or irrelevant.
-[f]<strong>&#x294;usu dasi (nukki).</strong>
-[e]<high-lulani>.uz / dS / I;K.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> (<a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a>).
-[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>eat (strawberry)</em>.
-[e]&ldquo;I ate (the strawberry).&rdquo;
+[f]<strong>Nimalu dasi (nukki).</strong>
+[e]<high-lulani>.NmW / dS / I;K.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/n/nimalu.html#highlulani">Nimalu</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> (<a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a>).
+[e]<em>Bear eat (strawberry)</em>.
+[e]&ldquo;The bear is eating (the strawberry).&rdquo;
 <div class="wordlist">[f]<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <high-lulani>dS</high-lulani> <em>to consume</em>
 [e]<a href="http://dictionary.tinellb.com/b/buma.html#highlulani">buma</a> <high-lulani>Om</high-lulani> <em>to draw</em>
 [e]<a href="http://dictionary.tinellb.com/d/duci.html#highlulani">duci</a> <high-lulani>EC</high-lulani> <em>to possess</em>
@@ -544,17 +544,17 @@ Unlike those above, these verbs involve a fundamental change to their patients.
 [e]<a href="http://dictionary.tinellb.com/t/turu.html#highlulani">turu</a> <high-lulani>ew</high-lulani> <em>to close</em></div>
 [3]Action Verbs
 The objects of these verbs are activities. These can take the form of pure nouns:
-[f]<strong>&#x294;usu tara sinna.</strong>
-[e]<high-lulani>.uz / tr / S;n.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/t/tara.html#highlulani">tara</a> <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a>.
-[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>begin story</em>.
-[e]&ldquo;I started the story.&rdquo;
+[f]<strong>Hisubatu tara sinna.</strong>
+[e]<high-lulani>.Hzbe / tr / S;n.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/h/hisubatu.html#highlulani">hisubatu</a> <a href="http://dictionary.tinellb.com/t/tara.html#highlulani">tara</a> <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a>.
+[e]<em>Babysitter begin story</em>.
+[e]&ldquo;The babysitter started the story.&rdquo;
 They can also take <a href="../syntax/gerunds.html">gerunds</a>:
-[f]<strong>&#x294;usu nu dasiru.</strong>
-[e]<high-lulani>.uz / I / dSw.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/n/nu.html#highlulani">nu</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a><a href="http://dictionary.tinellb.com/r/-ru.html#highlulani">-ru</a>.
-[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>stop eating</em>-<span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span>.
-[e]&ldquo;I stopped eating.&rdquo;
+[f]<strong>Kipu nu dasiruqa hafi.</strong>
+[e]<high-lulani>.Ko / I / dSwq / hF.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kipu.html#highlulani">Kipu</a> <a href="http://dictionary.tinellb.com/n/nu.html#highlulani">nu</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a><a href="http://dictionary.tinellb.com/r/-ru.html#highlulani">-ru</a><a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a> <a href="http://dictionary.tinellb.com/h/hafi.html#highlulani">hafi</a>.
+[e]<em>Ox stop eat-</em><span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span>-<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span> <em>grass</em>.
+[e]&ldquo;The cow stopped its eating of the grass.&rdquo;
 <div class="wordlist">[f]<a href="http://dictionary.tinellb.com/l/la.html#highlulani">la</a> <high-lulani>l</high-lulani> <em>to do</em>
 [e]<a href="http://dictionary.tinellb.com/t/tara.html#highlulani">tara</a> <high-lulani>tr</high-lulani> <em>to begin</em>
 [e]<a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <high-lulani>eN</high-lulani> <em>to repeat</em>
@@ -573,23 +573,23 @@ They can also take <a href="../syntax/gerunds.html">gerunds</a>:
 [2]Perceptive Verbs
 These verbs deal with the subject&rsquo;s ability to perceive stimuli. They are ambitransitive, that is, they can be used with or without an argument in the object position.
 When used purely intransitively, with no direct or dative object, they refer to a general ability to use that sense:
-[f]<strong>&#x294;usu &rsquo;usa.</strong>
-[e]<high-lulani>.uz / us.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>.
-[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>see</em>.
-[e]&ldquo;I can see.&rdquo;
+[f]<strong>Guli ruku &rsquo;usa.</strong>
+[e]<high-lulani>.&lt;L / w&gt; / us.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/g/guli.html#highlulani">Guli</a> <a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>.
+[e]<em>Blind_person</em> <span class="tooltip"><small-caps>fut;gno</small-caps><span class="tooltip-text">future gnomic</span></span> <em>see</em>.
+[e]&ldquo;The blind person can now see.&rdquo;
 When used with a direct object, this denotes a conscious effort at perception:
-[f]<strong>&#x294;usu &rsquo;usa fu.</strong>
-[e]<high-lulani>.uz / us / v.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>.
-[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>see</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span>.
-[e]&ldquo;I am looking at you.&rdquo;
+[f]<strong>Ju&rsquo;ipu&rsquo;a &rsquo;usa bumaki.</strong>
+[e]<high-lulani>.Yioa / us / OmK.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/j/ju'ipu'a.html#highlulani">Ju&rsquo;ipu&rsquo;a</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <a href="http://dictionary.tinellb.com/b/bumaki.html#highlulani">bumaki</a>.
+[e]<em>Assembly see screen.</em>
+[e]&ldquo;The audience watched the screen.&rdquo;
 When used with a dative object, this instead lacks that effort:
-[f]<strong>&#x294;usu ba&rsquo;u &rsquo;usa.</strong>
-[e]<high-lulani>.uz / bu / us.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/b/ba'u.html#highlulani">ba&rsquo;u</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>.
-[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>2dat</small-caps><span class="tooltip-text">second person dative</span></span> <em>see</em>.
-[e]&ldquo;I saw you.&rdquo;
+[f]<strong>Mihu kulasidaxi ju&rsquo;isataduru &rsquo;usa.</strong>
+[e]<high-lulani>.MV / &gt;lSdX / YistEw / us.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/l/lasida.html#highlulani">lasida</a>-<a href="http://dictionary.tinellb.com/x/xi.html#highlulani">xi</a> <a href="http://dictionary.tinellb.com/j/ju'isatadu.html#highlulani">ju&rsquo;isatadu</a><a href="http://dictionary.tinellb.com/r/-ru.html#highlulani">-ru</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>.
+[e]<span class="tooltip"><small-caps>3ani;int</small-caps><span class="tooltip-text">animate third person intransitive</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>secret-seem conversation-</em><span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span> <em>see</em>.
+[e]&ldquo;She saw the secret meeting.&rdquo;
 <div class="wordlist">[f]<a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <high-lulani>us</high-lulani> <em>to see</em>
 [e]<a href="http://dictionary.tinellb.com/h/hulu.html#highlulani">hulu</a> <high-lulani>VW</high-lulani> <em>to hear</em>
 [e]<a href="http://dictionary.tinellb.com/c/cussi.html#highlulani">cussi</a> <high-lulani>y;S</high-lulani> <em>to feel</em>
@@ -601,7 +601,7 @@ When used with a dative object, this instead lacks that effort:
 [e]<a href="http://dictionary.tinellb.com/q/qacca.html#highlulani">qacca</a> <high-lulani>q;c</high-lulani> <em>to choose</em>
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <high-lulani>p</high-lulani> <em>to think</em>
 [e]<a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a> <high-lulani>m</high-lulani> <em>to consider</em>
-[e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a> <high-lulani>Q</high-lulani> <em>to experience</em></div>&date=20180225--------------------------------------------------3
+[e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a> <high-lulani>Q</high-lulani> <em>to experience</em></div>&date=20180226--------------------------------------------------3
 [1]Auxiliaries
 Auxiliaries are a type of helper verb, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
 [t] | dynamic | stative | negative | iterative | gnomic
@@ -1166,7 +1166,7 @@ A subordinate clause is one introduced by a subordinating conjunction in the mat
 [e]&ldquo;I love you because your ball is red.&rdquo;
 [f]<strong><u>Ba pu&rsquo;iba miku ra&rsquo;u</u>, daru&rsquo;i &rsquo;usu ru lu&rsquo;i fu.</strong>
 [e]<u><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">Ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a></u>, <a href="http://dictionary.tinellb.com/d/daru'i.html#highlulani">daru&rsquo;i</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>.
-[e]<small-caps>2gen</small-caps> <em>ball</em><small-caps></small-caps> <em>red</em><small-caps> prs;sta,</small-caps> <em>because</em><small-caps> 1int prs;gno</small-caps> <em>love</em><small-caps> 2tra</small-caps>
+[e]<span class="tooltip"><small-caps>2gen</small-caps><span class="tooltip-text">second person genitive</span></span> <em>ball</em><small-caps></small-caps> <em>red</em><small-caps> prs;sta,</small-caps> <em>because</em><small-caps> 1int prs;gno</small-caps> <em>love</em><small-caps> 2tra</small-caps>
 [e]&ldquo;I love you because your ball is red.&rdquo;
 Here the subordinate clauses are underlined. The cause is subordinate to the effect.
 [2]Adverbial Clauses
@@ -1174,33 +1174,33 @@ An adverbial clause is one which acts as an adverb.
 [3]Location Adverbial Clauses
 The word <a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a> <em>where</em> is often used as a prefix for adpositions used as clausal conjunctions.
 [f]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <a href="http://dictionary.tinellb.com/m/madi.html#highlulani">madi</a>, <a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>.
-[e]<small-caps>1int</small-caps> <em>love</em> <small-caps>2tra</small-caps> <em>where-up,</em> <small-caps>2gen</small-caps> <em>ball red</em> <small-caps>pst;dyn.</small-caps>
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>love</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span> <em>where-up,</em> <span class="tooltip"><small-caps>2gen</small-caps><span class="tooltip-text">second person genitive</span></span> <em>ball red</em> <small-caps>pst;dyn.</small-caps>
 [e]&ldquo;I loved you before your ball turned red.&rdquo;
 [2]Content Clauses
 A content clause is one that takes the place of a noun. They begin with the complementiser <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> and are separated from the matrix clause by commas. The auxiliary is not optional, and is given a low tone. Quote marks are used around reported speech, replacing the complementiser.
 [f]<a href="http://dictionary.tinellb.com/l/li.html#highlulani">Li</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a><a href="http://dictionary.tinellb.com/j/jisuka.html#highlulani">jisuka</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/g/gibi.html#highlulani">gibi</a><strong>&#x294;asi&rsquo;a</strong> <a href="http://dictionary.tinellb.com/r/rusa.html#highlulani">rusa</a>, <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a> <a href="http://dictionary.tinellb.com/p/pa'illu.html#highlulani">pa&rsquo;illu</a>.
-[e]<small-caps>1int</small-caps> <em>fight-ideology</em> <small-caps>dat</small-caps><em>-east-Asia</em> <small-caps>pst;gno</small-caps><em>,</em> <small-caps>pst;dyn</small-caps> <small-caps>1abl</small-caps> <em>think-</em><small-caps>psv</small-caps>
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>fight-ideology</em> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-east-Asia</em> <span class="tooltip"><small-caps>pst;gno</small-caps><span class="tooltip-text">past gnomic</span></span><em>,</em> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <span class="tooltip"><small-caps>1abl</small-caps><span class="tooltip-text">first person ablative</span></span> <em>think-</em><small-caps>psv</small-caps>
 [e]&ldquo;That we&rsquo;ve always been at war with Eastasia, is what I think.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/s/suma.html#highlulani">Suma</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/i/'icipu.html#highlulani">&rsquo;icipu</a>, <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a> <a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> <a href="http://dictionary.tinellb.com/d/dissudanagi.html#highlulani">dissudanagi</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>.
-[e]<small-caps>1tra</small-caps> <small-caps>pst;dyn</small-caps> <small-caps>dat</small-caps><em>-queen speak-question,</em> <small-caps>com</small-caps> <small-caps>3ani;tra</small-caps> <small-caps>1dat</small-caps> <em>give new-decree</em> <small-caps>pst;dyn</small-caps>
+[e]<span class="tooltip"><small-caps>1tra</small-caps><span class="tooltip-text">first person transitive</span></span> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-queen speak-question,</em> <small-caps>com</small-caps> <span class="tooltip"><small-caps>3ani;tra</small-caps><span class="tooltip-text">animate third person transitive</span></span> <span class="tooltip"><small-caps>1dat</small-caps><span class="tooltip-text">first person dative</span></span> <em>give new-decree</em> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span>
 [e]&ldquo;I asked the queen if she had pardoned me.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a>, &ldquo;<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/m/mulisa.html#highlulani">mulisa</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a>?&rdquo;
-[e]<small-caps>3ani.int</small-caps> <small-caps>pst;dyn</small-caps> <em>speak &ldquo;</em><small-caps>2int</small-caps> <em>fool</em> <small-caps>prs;sta</small-caps><em>?&rdquo;</em>
+[e]<small-caps>3ani.int</small-caps> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <em>speak &ldquo;</em><span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>fool</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span><em>?&rdquo;</em>
 [e]&ldquo;He said, &lsquo;Are you a fool?&ldquo;
 [2]Relative Clauses
 Relative clauses specify the noun by describing it. They are placed before the modified noun, beginning with the relativiser <a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a>. The auxiliary is not optional, and is given a rising tone. Only subjects can be relativised. Other cases must be promoted to subject.
 [f]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>.
-[e]<small-caps>rel</small-caps> <em>love king</em> <small-caps>pst;sta</small-caps> <em>queen</em>
+[e]<small-caps>rel</small-caps> <em>love king</em> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>queen</em>
 [e]&ldquo;The queen who loved the king.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/l/lu'illu.html#highlulani">lu&rsquo;illu</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>.
-[e]<small-caps>rel</small-caps> <small-caps>abl</small-caps><em>-king love-</em><small-caps>psv</small-caps> <small-caps>pst;sta</small-caps> <em>queen</em>
+[e]<small-caps>rel</small-caps> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span><em>-king love-</em><small-caps>psv</small-caps> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>queen</em>
 [e]&ldquo;The queen whom the king loved.&rdquo;
 Any noun can be modified by relative clauses, including pronouns and proper nouns.
 [f]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">mihu</a>.
 [e]<small-caps>rel</small-caps> <em>love king</em> <small-caps>pst;sta 3ani.int</small-caps>
 [e]&ldquo;The one who loved the king.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/s/sa'imi.html#highlulani">Sa&rsquo;imi</a>.
-[e]<small-caps>rel</small-caps> <em>love king</em> <small-caps>pst;sta</small-caps> <em>Caemi</em>
+[e]<small-caps>rel</small-caps> <em>love king</em> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>Caemi</em>
 [e]&ldquo;Caemi, who loved the king.&rdquo;
 [3]Intransitives
 If the only argument of the relative verb is the modified noun, the auxiliary is appended to the verb, and the relativiser is dropped. This auxiliary is given a mid-tone.
@@ -1212,6 +1212,18 @@ Similar are intransitives utilising the case markers and other adpositions.
 [f]<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/n/nuhu.html#highlulani">nuhu</a> <em>the letter from the king</em>
 [e]<a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a> <em>the strawberry for the queen</em>
 [e]<a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a><a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <em>the thing under the table</em>
+[3]Transitives
+If the only arguments of the relative verb are the modified noun and a direct object, the verb is appended to the object, with or without the auxiliary, and the relativiser is dropped.
+[f]<strong>xucipura cula</strong>
+[e]<high-lulani>ZCor / yl</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/x/xuci.html#highlulani">xuci</a>-<a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">cula</a>
+[e]<em>feather-change egg</em>
+[e]&ldquo;hatching egg.&rdquo;
+[f]<strong>hafidasira&rsquo;u kipu</strong>
+[e]<high-lulani>hFdSru / Ko</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/h/hafi.html#highlulani">hafi</a>-<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a>-<a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/k/kipu.html#highlulani">kipu</a>
+[e]<em>grass-eat-</em><span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>ox</em>
+[e]&ldquo;the grass-eating cow.&rdquo;
 [2]Questions and Requests
 Questions and requests are main clauses, but have the same auxiliary movement as dependent clauses, and thus are treated alongside them here.
 [3]Interrogatives
@@ -1224,7 +1236,7 @@ Polar questions are one in which the answer is &ldquo;yes&rdquo; or &ldquo;no&rd
 [e]<small-caps>prs;sta  prs;neg  fut;gno  pst;sta</small-caps>
 [e]&ldquo;Yes.&rdquo; / &ldquo;No.&rdquo; / &ldquo;She will.&rdquo; / &ldquo;She did.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/n/nimalu.html#highlulani">nimalu</a> <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a>?
-[e]<em>queen bear</em> <small-caps>prs;neg</small-caps>
+[e]<em>queen bear</em> <span class="tooltip"><small-caps>prs;neg</small-caps><span class="tooltip-text">present negative</span></span>
 [e]&ldquo;Is the queen not a bear?&rdquo;
 [e]<a href="http://dictionary.tinellb.com/j/ji.html#highlulani">Ji</a>. / <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">Ra&rsquo;u</a>. / <a href="http://dictionary.tinellb.com/n/na.html#highlulani">Na</a>.
 [e]<small-caps>prs;neg  prs;sta  prs;itr</small-caps>
@@ -1232,26 +1244,26 @@ Polar questions are one in which the answer is &ldquo;yes&rdquo; or &ldquo;no&rd
 If the focus of the question is on a particular noun, that noun receives a falling tone.
 Content questions are ones in which the expected answer is more than just &ldquo;yes&rdquo; or &ldquo;no&rdquo;. These questions have a rising tone on the main question word itself.
 [f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/r/ra'u%3F.html#highlulani">ra&rsquo;u?</a>
-[e]<em>queen love what</em> <small-caps>prs;sta</small-caps>
+[e]<em>queen love what</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>
 [e]&ldquo;Whom does the queen love?&rdquo;
 [f]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> / <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> / <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">Cu&rsquo;i</a>
-[e]<em>king</em> / <small-caps>2tra</small-caps> / <em>nothing</em>
+[e]<em>king</em> / <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span> / <em>nothing</em>
 [e]&ldquo;The king.&rdquo; / &ldquo;You.&rdquo; / &ldquo;No one.&rdquo;
 [4]Quantities
 Lulani questions regarding quantity or measurement are phrased thus:
 [f]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/k/kika.html#highlulani">kika</a><a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/h/huba.html#highlulani">huba</a> <a href="http://dictionary.tinellb.com/r/rusa.html#highlulani">rusa</a>?
-[e]<small-caps>2int</small-caps> <em>interval-what breathe</em> <small-caps>pst;gno</small-caps><em>?</em>
+[e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>interval-what breathe</em> <span class="tooltip"><small-caps>pst;gno</small-caps><span class="tooltip-text">past gnomic</span></span><em>?</em>
 [e]&ldquo;How old are you?&rdquo;
 [f]<a href="http://dictionary.tinellb.com/k/kika.html#highlulani">Kika</a><a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> (<a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a>) <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a>?
-[e]<em>over-what</em> <small-caps>dat</small-caps><em>-Ir&igrave;a (walk</em>) <small-caps>prs;gno</small-caps><em>?</em>
+[e]<em>over-what</em> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-Ir&igrave;a (walk)</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span><em>?</em>
 [e]&ldquo;How far is it (to walk) to Ir&igrave;a?&rdquo;
 [3]Imperatives
 An imperative statement is an order.
 Second person imperatives are directed to the listener. In these, the subject is dropped, a future auxiliary in the appropriate aspect is suffixed to the verb, and this verb complex is moved to the end of the sentence. These are spoken with a falling tone on the auxiliary.
 [f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a><a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a>!
-[e]<em>queen love-</em><small-caps>fut;gno</small-caps>
+[e]<em>queen love-</em><span class="tooltip"><small-caps>fut;gno</small-caps><span class="tooltip-text">future gnomic</span></span>
 [e]&ldquo;Love the queen!&rdquo;
-&date=20180202--------------------------------------------------3
+&date=20180226--------------------------------------------------3
 [1]Particular Clauses
 [2]Experiences
 The modal <a href="http://dictionary.tinellb.com/d/da'aru.html#highlulani">da&rsquo;aru</a> <em>experience</em> can be used to show experiences.
@@ -1538,21 +1550,22 @@ When a single Tinellbian function morpheme fulfills two or more grammatical role
 --------------------------------------------------3
 [1]Abbreviations
 These are all the three letter abbreviations used in glosses.
-<div class="glossary"><small-caps>abl</small-caps> - ablative
+<div class="glossary"><span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span> - ablative
 <small-caps>abv</small-caps> - ablative promotion
 <small-caps>adv</small-caps> - adverbialiser
 <small-caps>ani</small-caps> - animate
 <small-caps>com</small-caps> - complementiser
 <small-caps>cmp</small-caps> - comparative
-<small-caps>dat</small-caps> - dative
+<span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span> - dative
 <small-caps>drv</small-caps> - derivative
 <small-caps>dtv</small-caps> - dative promotion
 <small-caps>dua</small-caps> - dual number
 <small-caps>dyn</small-caps> - dynamic
 <small-caps>fut</small-caps> - future
 <small-caps>gen</small-caps> - genitive
-<small-caps>ger</small-caps> - gerund
+<span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span> - gerund
 <small-caps>gno</small-caps> - gnomic
+<small-caps>hab</small-caps> - habitual
 <small-caps>imp</small-caps> - imperfect
 <small-caps>imv</small-caps> - imperative
 <small-caps>ina</small-caps> - inanimate
@@ -1578,4 +1591,4 @@ These are all the three letter abbreviations used in glosses.
 <small-caps>tra</small-caps> - transitive case
 <small-caps>trm</small-caps> - terminative
 </div>
-&date=20170726
+&date=20180226
