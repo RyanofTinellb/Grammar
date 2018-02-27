@@ -555,9 +555,9 @@ Unlike those above, these verbs involve a fundamental change to their patients.
 [e]<a href="http://dictionary.tinellb.com/t/turu.html#highlulani">turu</a> <high-lulani>ew</high-lulani> <em>to close</em></div>
 [3]Action Verbs
 The objects of these verbs are activities. These can take the form of pure nouns:
-[f]<strong>Hisubatu tara sinna.</strong>
-[e]<high-lulani>.Hzbe / tr / S;n.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/h/hisubatu.html#highlulani">hisubatu</a> <a href="http://dictionary.tinellb.com/t/tara.html#highlulani">tara</a> <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a>.
+[f]<strong>Hisutuba tara sinna.</strong>
+[e]<high-lulani>.Hzeb / tr / S;n.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/h/hisutuba.html#highlulani">hisutuba</a> <a href="http://dictionary.tinellb.com/t/tara.html#highlulani">tara</a> <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a>.
 [e]<em>Babysitter begin story</em>.
 [e]&ldquo;The babysitter started the story.&rdquo;
 They can also take <a href="../syntax/gerunds.html">gerunds</a>:
@@ -612,7 +612,7 @@ When used with a dative object, this instead lacks that effort:
 [e]<a href="http://dictionary.tinellb.com/q/qacca.html#highlulani">qacca</a> <high-lulani>q;c</high-lulani> <em>to choose</em>
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <high-lulani>p</high-lulani> <em>to think</em>
 [e]<a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a> <high-lulani>m</high-lulani> <em>to consider</em>
-[e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a> <high-lulani>Q</high-lulani> <em>to experience</em></div>&date=20180226--------------------------------------------------3
+[e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a> <high-lulani>Q</high-lulani> <em>to experience</em></div>&date=20180228--------------------------------------------------3
 [1]Auxiliaries
 Auxiliaries are a type of helper verb, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
 [t] | dynamic | stative | negative | iterative | gnomic

@@ -17884,12 +17884,6 @@
         1625
       ]
     }, 
-    "hisubatu": {
-      "18": [
-        838, 
-        840
-      ]
-    }, 
     "king": {
       "37": [
         1980, 
@@ -26535,6 +26529,12 @@
         1115
       ]
     }, 
+    "hisutuba": {
+      "18": [
+        838, 
+        840
+      ]
+    }, 
     "billa": {
       "37": [
         1854, 
@@ -28698,9 +28698,9 @@
     "Action Verbs", 
     "The objects of these verbs are activities", 
     "These can take the form of pure nouns", 
-    " Hisubatu tara sinna", 
+    " Hisutuba tara sinna", 
     "", 
-    " hisubatu tara sinna", 
+    " hisutuba tara sinna", 
     " Babysitter begin story", 
     "&ldquo;The babysitter started the story", 
     "&rdquo;", 

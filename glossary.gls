@@ -42,5 +42,6 @@
   "abl": "ablative",
   "dat": "dative",
   "ger": "gerund",
-  "gen": "genitive"
+  "gen": "genitive",
+	"nmn": "nominaliser"
 }
