@@ -282,6 +282,30 @@ High Lulani is an analytic agglutinative language, as morphemes tend to keep the
 --------------------------------------------------3
 [1]Nouns
 Common and proper nouns are open classes; the pronouns are closed.
+[2]Common Nouns
+Common nouns can refer to abstract or concrete items.
+[f]<a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <em>love</em>
+[e]<a href="http://dictionary.tinellb.com/b/bata.html#highlulani">bata</a> <em>caution</em>
+[e]<a href="http://dictionary.tinellb.com/a/'ahati.html#highlulani">&rsquo;ahati</a> <em>happiness</em>
+[e]<a href="http://dictionary.tinellb.com/c/caga.html#highlulani">caga</a> <em>mouth</em>
+[e]<a href="http://dictionary.tinellb.com/p/purissiji.html#highlulani">purissiji</a> <em>circle</em>
+[3]Stem Nouns
+[4]Mass Nouns
+Mass nouns refer to an undifferentiated aggregation rather than separate units. These cannot take numbers, except for a postpended <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <em>one</em> to denote the smallest individual piece of that aggregate.
+[f]<a href="http://dictionary.tinellb.com/i/'iti.html#highlulani">&rsquo;iti</a> <em>milk</em> / <a href="http://dictionary.tinellb.com/i/'iti.html#highlulani">&rsquo;iti</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <em>drop of milk</em>
+[e]<a href="http://dictionary.tinellb.com/m/marru.html#highlulani">marru</a> <em>flies</em> / <a href="http://dictionary.tinellb.com/m/marru.html#highlulani">marru</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <em>fly</em>
+[4]Animacy
+This determines which derivational suffixes can be applied, and which pronouns are used as reference.
+[5]Animate Noun
+These refer to people and other multicellular organisms capable of independent movement.
+[5]Inanimate Noun
+These refer to things such as natural phenomena, plants, fungi and unicellular life.
+[5]Abstract Noun
+This category encompasses concepts, ideas and other intangibles. They are referred to by inanimate pronouns.
+[3]Compound Nouns
+The first part of a compound noun must be a noun, and the subsequent parts specify the meaning of that noun. These parts can be nouns or verbs. The whole noun is usually written without spaces. The syllabification and stress of nonce words are determined on a stem-by-stem basis. However, a compound in common use will start being treated whole.
+[f]<a href="http://dictionary.tinellb.com/j/jifiru'inulli.html#highlulani">jifiru&rsquo;inulli</a> <em>mountain lake</em> ( <a href="http://dictionary.tinellb.com/j/jifiru'i.html#highlulani">jifiru&rsquo;i</a> <em>lake</em> + <a href="http://dictionary.tinellb.com/n/nulli.html#highlulani">nulli</a> <em>mountain</em> )
+[e]<a href="http://dictionary.tinellb.com/x/xu'abaju.html#highlulani">xu&rsquo;abaju</a> <em>bluebird</em> (  <a href="http://dictionary.tinellb.com/x/xu'a.html#highlulani">xu&rsquo;a</a> <em>bird</em> + <a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <em>blue</em> )
 [2]Proper Nouns
 Proper nouns begin with a capital letter in the transliteration.
 [f]<strong>Ra&rsquo;ani</strong> <em>Ryan</em> (name of a person)
@@ -290,19 +314,7 @@ Proper nouns begin with a capital letter in the transliteration.
 [e]<a href="http://dictionary.tinellb.com/t/tinalli.html#highlulani">Tinalli</a> <em>Tinellb</em> (name of a universe)
 [e]<a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <em>Ir&igrave;a</em> (name of a city)
 [e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <em>Lulani</em> (name of a language)
-[e]<a href="http://dictionary.tinellb.com/x/xuci.html#highlulani">Xuci</a><a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">Cula</a> <em>The Crackled Egg</em> (name of a story)
-[2]Common Nouns
-Common nouns can refer to abstract or concrete items.
-[f]<a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <em>love</em>
-[e]<a href="http://dictionary.tinellb.com/b/bata.html#highlulani">bata</a> <em>caution</em>
-[e]<a href="http://dictionary.tinellb.com/a/'ahati.html#highlulani">&rsquo;ahati</a> <em>happiness</em>
-[e]<a href="http://dictionary.tinellb.com/c/caga.html#highlulani">caga</a> <em>mouth</em>
-[e]<a href="http://dictionary.tinellb.com/p/purissiji.html#highlulani">purissiji</a> <em>circle</em>
-[3]Compound Nouns
-The first part of a compound noun must be a noun, and the subsequent parts specify the meaning of that noun. These parts can be nouns or verbs. The whole noun is usually written without spaces. The syllabification and stress of nonce words are determined on a stem-by-stem basis. However, a compound in common use will start being treated whole.
-[f]<a href="http://dictionary.tinellb.com/j/jifiru'inulli.html#highlulani">jifiru&rsquo;inulli</a> <em>mountain lake</em> ( <a href="http://dictionary.tinellb.com/j/jifiru'i.html#highlulani">jifiru&rsquo;i</a> <em>lake</em> + <a href="http://dictionary.tinellb.com/n/nulli.html#highlulani">nulli</a> <em>mountain</em> )
-[e]<a href="http://dictionary.tinellb.com/x/xu'abaju.html#highlulani">xu&rsquo;abaju</a> <em>bluebird</em> (  <a href="http://dictionary.tinellb.com/x/xu'a.html#highlulani">xu&rsquo;a</a> <em>bird</em> + <a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <em>blue</em> )
---------------------------------------------------4
+[e]<a href="http://dictionary.tinellb.com/x/xuci.html#highlulani">Xuci</a><a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">Cula</a> <em>The Crackled Egg</em> (name of a story)&date=20180227--------------------------------------------------4
 [1]Pronouns
 Pronouns are a closed class.
 [2]Personal Pronouns
@@ -355,9 +367,6 @@ The third person intransitive inanimate pronoun <a href="http://dictionary.tinel
 [e]<a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <em>from them and me</em>
 [e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <em>they and you</em>
 [e]<a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a><a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <em>of you, them and me</em>
-[3]Animacy
-Animate pronouns refer to people and other multicellular organisms capable of independent movement.
-Inanimate pronouns refer to anything else, such as natural phenomena, plants, fungi, unicellular life and abstract concepts.
 [2]The Genitive
 The genitive is used to mark a connection between nouns, including one noun possessing another.
 [3]Alienable Possession
@@ -375,6 +384,8 @@ For inalienable possession, as well as genitive constructions that do not involv
 [e]<a href="http://dictionary.tinellb.com/h/hafi.html#highlulani">hafi</a><a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/n/nasi''u.html#highlulani">nasi&#x294;u</a> <em>the sheep field</em>
 [e]Ra&rsquo;ani<a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> &#x294;ikinnisa <em>Ryan (of the family) Eakins</em>
 [e]<a href="http://dictionary.tinellb.com/s/sa'imi.html#highlulani">Sa&rsquo;imi</a><a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/t/tinalli.html#highlulani">Tinalli</a> <em>Caemi from Tinellb</em>
+[4]Possessives
+Some common nouns have suppletive forms when used with a possessive pronoun.
 [3]Contrasts
 Because of the nature of alienability, some contrasts can be made between possessives.
 [f]<a href="http://dictionary.tinellb.com/l/luffu.html#highlulani">luffu</a><a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <em>my eyes, the ones with which I was born</em>
@@ -386,7 +397,7 @@ Because of the nature of alienability, some contrasts can be made between posses
 Alienable possession is used in a hierarchy when the possessor is of higher rank than the possessed, and inalienable possession when the relationship is the other way around.
 [f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a><a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <em>my queen</em>
 [e]<a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <a href="http://dictionary.tinellb.com/m/mifasu.html#highlulani">mifasu</a> <em>my vassal</em>
-&date=20180225--------------------------------------------------3
+&date=20180227--------------------------------------------------3
 [1]Verbs
 A verb is a necessary part of any sentence, except when making <a href="../syntax/matrixclauses.html#copularsentences">copular sentences</a>. The arguments of a verb are those nouns which accompany it in order to construct a sentence. The two main arguments are the subject and the object, and verbs can be categorised by which of these are obligatory.
 [2]Basic Verbs
@@ -779,7 +790,7 @@ None of the above applies for first- and second-person subjects; these use their
 &date=20180225--------------------------------------------------3
 [1]Suffixes
 Suffixes can be used to derive new word from existing vocabulary. A suffix beginning with a vowel replaces the final vowel of the base.
-[2]Ordinary Derivational Suffixes
+[2]Derivational Suffixes
 These derive words within a class, <em>i.e.:</em> a noun from a noun, or a verb from a verb.
 <strong><a href="http://dictionary.tinellb.com/a/-aku.html#highlulani">-aku</a></strong> forms an augmentative. It is most often attached to nouns to reference something large or important. It is rarely used for people.
 [f]<a href="http://dictionary.tinellb.com/t/tissaku.html#highlulani">tissaku</a> <em>wind</em>
@@ -887,7 +898,7 @@ Any
 Other Part of Speech changes
 -atinna: derivational suffix verb &rarr; adverb derives an adverb from a verb
 -niqqi: derivational suffix noun &rarr; adverb derives an adverb from a noun
-&date=20180226--------------------------------------------------3
+&date=20180227--------------------------------------------------3
 [1]Adpositions
 Adpositions are a closed class.
 [2]Uses
@@ -1372,6 +1383,7 @@ Here are the names for the one-digit numbers:
 [e]<a href="http://dictionary.tinellb.com/b/billa.html#highlulani">billa</a> <em><overline>3</overline></em>
 [e]<a href="http://dictionary.tinellb.com/k/kannu.html#highlulani">kannu</a> <em><overline>2</overline></em>
 [e]<a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> <em><overline>1</overline></em>
+</div>
 The full form <a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">qihha</a> <em>zero</em> is only used when by itself, or first in a number or noun phrase.
 [3]Two-digit Numbers
 Numbers between 1<overline>7</overline> and 16 are composed of the prefix <a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a> and the final two syllables of the number, except for <a href="http://dictionary.tinellb.com/s/salura.html#highlulani">salura</a> (not <a href="http://dictionary.tinellb.com/s/sara.html#highlulani">sara</a>) 12.
@@ -1458,7 +1470,7 @@ The number <a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <
 [f]<a href="http://dictionary.tinellb.com/l/luffu.html#highlulani">luffu</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>eyes</em>
 [e]<a href="http://dictionary.tinellb.com/i/'itikku.html#highlulani">&rsquo;itikku</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>breasts</em>
 [e]<a href="http://dictionary.tinellb.com/t/tiba.html#highlulani">tiba</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>legs</em>
-&date=20180226--------------------------------------------------3
+&date=20180227--------------------------------------------------3
 [1]Colours
 The basis colour terms are all verbs:
 [f]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <em>blue</em>
