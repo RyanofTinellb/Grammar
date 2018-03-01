@@ -194,10 +194,34 @@
         1997
       ]
     }, 
-    "1dat": {
+    "pst": {
+      "45": [
+        2396
+      ], 
+      "32": [
+        1769
+      ], 
+      "31": [
+        1627, 
+        1666, 
+        1715
+      ], 
+      "30": [
+        1538, 
+        1544, 
+        1553, 
+        1557, 
+        1562, 
+        1586, 
+        1590, 
+        1595, 
+        1599
+      ], 
       "29": [
-        1494, 
-        1498
+        1504, 
+        1509, 
+        1514, 
+        1520
       ]
     }, 
     "qa'i": {
@@ -2058,6 +2082,12 @@
         636
       ]
     }, 
+    "1dat": {
+      "29": [
+        1494, 
+        1498
+      ]
+    }, 
     "isu": {
       "6": [
         101
@@ -3707,14 +3737,6 @@
         1734
       ]
     }, 
-    "location": {
-      "31": [
-        1624
-      ], 
-      "29": [
-        1486
-      ]
-    }, 
     "dots": {
       "14": [
         414, 
@@ -3873,9 +3895,6 @@
     "gno": {
       "38": [
         2015
-      ], 
-      "19": [
-        949
       ], 
       "45": [
         2380
@@ -9343,16 +9362,6 @@
       ]
     }, 
     "iterative": {
-      "19": [
-        911, 
-        935, 
-        940, 
-        945, 
-        959, 
-        968, 
-        969, 
-        970
-      ], 
       "45": [
         2387
       ], 
@@ -9774,20 +9783,14 @@
       ]
     }, 
     "2": {
+      "18": [
+        786
+      ], 
       "39": [
         2068
       ], 
       "20": [
         1014
-      ], 
-      "32": [
-        1773
-      ], 
-      "19": [
-        949
-      ], 
-      "18": [
-        786
       ], 
       "37": [
         1820, 
@@ -9800,6 +9803,9 @@
         1912, 
         1916, 
         1957
+      ], 
+      "32": [
+        1773
       ]
     }, 
     "white": {
@@ -10485,9 +10491,6 @@
       "38": [
         2015, 
         2019
-      ], 
-      "19": [
-        949
       ], 
       "45": [
         2395
@@ -11484,6 +11487,11 @@
         1326
       ]
     }, 
+    "kal.lani": {
+      "30": [
+        1560
+      ]
+    }, 
     "cabahi": {
       "41": [
         2162, 
@@ -11959,6 +11967,11 @@
     "bi'ini": {
       "22": [
         1169
+      ]
+    }, 
+    "dis.sa": {
+      "22": [
+        1198
       ]
     }, 
     "external": {
@@ -19533,13 +19546,6 @@
       ]
     }, 
     "fut": {
-      "21": [
-        1142, 
-        1146
-      ], 
-      "19": [
-        949
-      ], 
       "32": [
         1773
       ], 
@@ -19548,6 +19554,10 @@
       ], 
       "45": [
         2377
+      ], 
+      "21": [
+        1142, 
+        1146
       ], 
       "29": [
         1483
@@ -20206,37 +20216,12 @@
         2063
       ]
     }, 
-    "pst": {
-      "45": [
-        2396
-      ], 
-      "19": [
-        949
-      ], 
-      "32": [
-        1769
-      ], 
+    "location": {
       "31": [
-        1627, 
-        1666, 
-        1715
-      ], 
-      "30": [
-        1538, 
-        1544, 
-        1553, 
-        1557, 
-        1562, 
-        1586, 
-        1590, 
-        1595, 
-        1599
+        1624
       ], 
       "29": [
-        1504, 
-        1509, 
-        1514, 
-        1520
+        1486
       ]
     }, 
     "transformation": {
@@ -21816,14 +21801,11 @@
       ]
     }, 
     "tra": {
-      "19": [
-        949
+      "45": [
+        2404
       ], 
       "32": [
         1773
-      ], 
-      "45": [
-        2404
       ], 
       "30": [
         1591, 
@@ -25128,9 +25110,6 @@
       ]
     }, 
     "1int": {
-      "19": [
-        949
-      ], 
       "32": [
         1773
       ], 
@@ -25391,6 +25370,16 @@
       ]
     }, 
     "habitual": {
+      "19": [
+        911, 
+        935, 
+        940, 
+        945, 
+        959, 
+        968, 
+        969, 
+        970
+      ], 
       "45": [
         2381
       ]
@@ -26475,11 +26464,6 @@
         868
       ]
     }, 
-    "kal(.)lani": {
-      "30": [
-        1560
-      ]
-    }, 
     "necessary": {
       "18": [
         658
@@ -26989,11 +26973,6 @@
     "negate": {
       "22": [
         1241
-      ]
-    }, 
-    "dis(.)sa": {
-      "22": [
-        1198
       ]
     }, 
     "additional": {
@@ -28771,7 +28750,7 @@
     "dynamic", 
     "stative", 
     "negative", 
-    "iterative", 
+    "habitual", 
     "gnomic", 
     "past", 
     "qixa", 
@@ -28795,21 +28774,21 @@
     "pastdynamic qixa", 
     "stative pi", 
     "negative qilu", 
-    "iterative taku", 
+    "habitual taku", 
     "gnomic rusa", 
     "presentdynamic cani", 
     "stative ra&rsquo;u", 
     "negative ji", 
-    "iterative na", 
+    "habitual na", 
     "gnomic ru", 
     "futuredynamic lanu", 
     "stative nagi", 
     "negative funi", 
-    "iterative hu", 
+    "habitual hu", 
     "gnomic ruku", 
     "Auxiliary stacking gives a poetic or archaic nuance", 
     " &#x294;usu rusa ruku ru lu&rsquo;i fu", 
-    " 1int pst;gno-fut;gno-prs;gno love 2 tra", 
+    " - - love", 
     "&ldquo;I have always and will always love you", 
     "&rdquo;", 
     "Tense", 
@@ -28819,7 +28798,7 @@
     "The other tenses are then used relatively so that past tense is used for things that happened earlier than the narrative present and the future tense for things that happened later", 
     "Aspect", 
     "There are five aspects", 
-    "The continuous aspects are the stative and the gnomic and the discrete are the dynamic and the iterative", 
+    "The continuous aspects are the stative and the gnomic and the discrete are the dynamic and the habitual", 
     "For simplicity &lsquo;negative&rsquo; is considered an aspect in this grammar and can be used either continuously or discretely", 
     "Discrete", 
     "Dynamic", 
@@ -28828,9 +28807,9 @@
     " cani kiluqu to take a step cani present dynamic ; kiluqu to walk", 
     " cani miku to turn red miku to be red", 
     " cani &rsquo;usa to see it &rsquo;usa to see", 
-    "Iterative", 
-    "The iterative aspect is used for actions that take place at discrete intervals", 
-    " na kiluqu to habitually walk na present iterative", 
+    "Habitual", 
+    "The habitual aspect is used for actions that take place at discrete intervals", 
+    " na kiluqu to habitually walk na present habitual", 
     " na miku to be red at intervals", 
     " na &rsquo;usa to see it often", 
     "Continuous", 

@@ -615,7 +615,7 @@ When used with a dative object, this instead lacks that effort:
 [e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a> <high-lulani>Q</high-lulani> <em>to experience</em></div>&date=20180228--------------------------------------------------3
 [1]Auxiliaries
 Auxiliaries are a type of helper verb, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
-[t] | dynamic | stative | negative | iterative | gnomic
+[t] | dynamic | stative | negative | habitual | gnomic
 [r]past | <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> | <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> | <a href="http://dictionary.tinellb.com/q/qilu.html#highlulani">qilu</a> | <a href="http://dictionary.tinellb.com/t/taku.html#highlulani">taku</a> | <a href="http://dictionary.tinellb.com/r/rusa.html#highlulani">rusa</a>
 [r]present | <a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a> | <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> | <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a> | <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> | <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a>
 [r]future | <a href="http://dictionary.tinellb.com/l/lanu.html#highlulani">lanu</a> | <a href="http://dictionary.tinellb.com/n/nagi.html#highlulani">nagi</a> | <a href="http://dictionary.tinellb.com/f/funi.html#highlulani">funi</a> | <a href="http://dictionary.tinellb.com/h/hu.html#highlulani">hu</a> | <a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a>
@@ -624,37 +624,37 @@ Auxiliaries are a type of helper verb, however, they are sufficiently different 
 past:[e]dynamic: <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>
 [e]stative: <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a>
 [e]negative: <a href="http://dictionary.tinellb.com/q/qilu.html#highlulani">qilu</a>
-[e]iterative: <a href="http://dictionary.tinellb.com/t/taku.html#highlulani">taku</a>
+[e]habitual: <a href="http://dictionary.tinellb.com/t/taku.html#highlulani">taku</a>
 [e]gnomic: <a href="http://dictionary.tinellb.com/r/rusa.html#highlulani">rusa</a>
 present:[e]dynamic: <a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a>
 [e]stative: <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a>
 [e]negative: <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a>
-[e]iterative: <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a>
+[e]habitual: <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a>
 [e]gnomic: <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a>
 future:[e]dynamic: <a href="http://dictionary.tinellb.com/l/lanu.html#highlulani">lanu</a>
 [e]stative: <a href="http://dictionary.tinellb.com/n/nagi.html#highlulani">nagi</a>
 [e]negative: <a href="http://dictionary.tinellb.com/f/funi.html#highlulani">funi</a>
-[e]iterative: <a href="http://dictionary.tinellb.com/h/hu.html#highlulani">hu</a>
+[e]habitual: <a href="http://dictionary.tinellb.com/h/hu.html#highlulani">hu</a>
 [e]gnomic: <a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a>
 </div>
 Auxiliary stacking gives a poetic or archaic nuance.
 [f]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/r/rusa.html#highlulani">rusa</a><a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>.
-[e]<small-caps>1int pst;gno-fut;gno-prs;gno</small-caps> <em>love 2</em><small-caps>tra</small-caps>.
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>pst;gno</small-caps><span class="tooltip-text">past gnomic</span></span>-<span class="tooltip"><small-caps>fut;gno</small-caps><span class="tooltip-text">future gnomic</span></span>-<span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>love</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span>.
 [e]&ldquo;I have always and will always love you.&rdquo;
 [2]Tense
 The three tenses are past, present and future. In conversation, the tenses tend to mark the time at which the action began or occurred.
 On the other hand, narratives are mainly told in present tense. The other tenses are then used relatively, so that past tense is used for things that happened earlier than the narrative present, and the future tense for things that happened later.
 [2]Aspect
-There are five aspects. The continuous aspects are the stative and the gnomic, and the discrete are the dynamic and the iterative. For simplicity, &lsquo;negative&rsquo; is considered an aspect in this grammar, and can be used either continuously or discretely.
+There are five aspects. The continuous aspects are the stative and the gnomic, and the discrete are the dynamic and the habitual. For simplicity, &lsquo;negative&rsquo; is considered an aspect in this grammar, and can be used either continuously or discretely.
 [3]Discrete
 [4]Dynamic
  The dynamic aspect is used for changes of state, and actions that occupy one moment in time. The exception is verbs of perception, where the action may be taking place over a period of time.
 [f]<a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a> <a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a> to take a step (<a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a> <em>present dynamic</em> ; <a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a> <em>to walk)</em>
 [e]<a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> to turn red (<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <em>to be red)</em>
 [e]<a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> to see (it) (<a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <em>to see)</em>
-[4]Iterative
-The iterative aspect is used for actions that take place at discrete intervals.
-[f]<a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a> to habitually walk (na present iterative)
+[4]Habitual
+The habitual aspect is used for actions that take place at discrete intervals.
+[f]<a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a> to habitually walk (na present habitual)
 [e]<a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> to be red at intervals
 [e]<a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> to see (it) often
 [3]Continuous
@@ -675,7 +675,7 @@ The negative aspect is used for actions, attributes and perceptions which do not
 [f]<a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a> <a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a> to not take a step / to not be walking (<a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a> <em>present negative)</em>
 [e]<a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> to not turn red / to not be red
 [e]<a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> to not see (it) / to not be able to see (it)
-&date=20180225--------------------------------------------------3
+&date=20180301--------------------------------------------------3
 [1]Adverbs
 Adverbs are a closed class. Adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <a href="../syntax/adverbialphrases.html">Adverbial Phrases</a>
 [f]<a href="http://dictionary.tinellb.com/n/naru.html#highlulani">naru</a> <em>slowly</em>
