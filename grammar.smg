@@ -5,15 +5,15 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
   "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
-  "current position": "160.12", 
+  "current position": "130.24", 
   "links": [
     {
-      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
-      "type": "Glossary"
+      "type": "Glossary", 
+      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls"
     }, 
     {
-      "resource": "http://dictionary.tinellb.com", 
-      "type": "ExternalDictionary"
+      "type": "ExternalDictionary", 
+      "resource": "http://dictionary.tinellb.com"
     }
   ], 
   "current language": "hl", 
@@ -24,7 +24,7 @@
   "current page": [
     "High Lulani", 
     "Morphology", 
-    "Verbs", 
+    "Auxiliaries", 
     ""
   ]
 }

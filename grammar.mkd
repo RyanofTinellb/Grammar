@@ -15,6 +15,7 @@
 ' | &quot; | <br>
 " | &dblquot; | <br>
 &rsquo; | ' | <br>
+&lsquo; | ` | <br>
 &#x294; | '' | <br>
 &rdquo; | " | <br>
 &ldquo; | '" | <br>
