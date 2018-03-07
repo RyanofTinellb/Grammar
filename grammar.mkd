@@ -1,15 +1,6 @@
 <!DOCTYPE html>
-<high-lulani> | [hl] | <br>
-</high-lulani> | [/hl] | <br>
-<link> | {{ | <br>
-</link> | }} | <br>
 [e] | == | <br>
 [f] | === | <br>
-)</em> | </em>) | <br>
-<em> | (( | <br>
-</em> | )) | <br>
-<small-caps> | << | <br>
-</small-caps> | >> | <br>
 ' | &quot; | <br>
 " | &dblquot; | <br>
 &rsquo; | ' | <br>
