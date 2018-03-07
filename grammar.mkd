@@ -8,8 +8,6 @@
 )</em> | </em>) | <br>
 <em> | (( | <br>
 </em> | )) | <br>
-<strong> | [[ | <br>
-</strong> | ]] | <br>
 <small-caps> | << | <br>
 </small-caps> | >> | <br>
 ' | &quot; | <br>

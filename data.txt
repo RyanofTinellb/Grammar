@@ -612,7 +612,7 @@ When used with a dative object, this instead lacks that effort:
 [e]<a href="http://dictionary.tinellb.com/q/qacca.html#highlulani">qacca</a> <high-lulani>q;c</high-lulani> <em>to choose</em>
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <high-lulani>p</high-lulani> <em>to think</em>
 [e]<a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a> <high-lulani>m</high-lulani> <em>to consider</em>
-[e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a> <high-lulani>Q</high-lulani> <em>to experience</em></div>&date=20180228--------------------------------------------------3
+[e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a> <high-lulani>Q</high-lulani> <em>to experience</em></div>&date=20180306--------------------------------------------------3
 [1]Auxiliaries
 Auxiliaries are a type of <a href="verbs.html">verb</a>, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
 [t] | dynamic | stative | negative | habitual | gnomic
@@ -659,7 +659,7 @@ The dynamic aspect is used for changes of state:
 [e]<high-lulani>.ar / lI / M&gt;.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&#x294;ara</a> <a href="http://dictionary.tinellb.com/l/lanu.html#highlulani">lanu</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
 [e]<em>Face</em> <span class="tooltip"><small-caps>fut;dyn</small-caps><span class="tooltip-text">future dynamic</span></span> <em>red</em>.
-[e]&ldquo;They are about to blush.&rdquo;
+[e]&ldquo;They are about to blush.&rdquo; <em>lit.: The face will become red.</em>
 and actions that occupy one moment in time:
 [f]<strong>Qikanni qixa dasi da.</strong>
 [e]<high-lulani>.Qk;N / Qx / dS / d.</high-lulani>
@@ -673,80 +673,25 @@ For perceptive verbs, the action may be taking place over a period of time.
 [e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>see television</em> <span class="tooltip"><small-caps>prs;dyn</small-caps><span class="tooltip-text">present dynamic</span></span>?
 [e]&ldquo;Are you watching the TV?&rdquo;
 [3]Habitual
-[f]<strong>&#x294;ara hu miku.</strong>
-[e]<high-lulani>.ar / V / M&gt;.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&#x294;ara</a> <a href="http://dictionary.tinellb.com/h/hu.html#highlulani">hu</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
-[e]<em>Face</em> <span class="tooltip"><small-caps>fut;hab</small-caps><span class="tooltip-text">future habitual</span></span> <em>red</em>.
-[e]&ldquo;They&rsquo;re going to blush often.&rdquo;
-[f]<strong>Qikanni taku dasi da.</strong>
-[e]<high-lulani>.Qk;N / Qx / dS / d.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">Qikanni</a> <a href="http://dictionary.tinellb.com/q/qaxi.html#highlulani">qaxi</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/d/da.html#highlulani">da</a>.
-[e]<em>Dog</em> <span class="tooltip"><small-caps>pst;hab</small-caps><span class="tooltip-text">past habitual</span></span> <em>consume water</em>.
-[e]&ldquo;The dog used to drink water.&rdquo;
-[f]<strong>Filli &rsquo;usa bumakigufu&rsquo;iri na?</strong>
-[e]<high-lulani>.F;L / us / OmK&lt;viR / n.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <a href="http://dictionary.tinellb.com/b/bumakigufu'iri.html#highlulani">bumakigufu&rsquo;iri</a> <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a>?
-[e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>see television</em> <span class="tooltip"><small-caps>prs;hab</small-caps><span class="tooltip-text">present habitual</span></span>?
-[e]&ldquo;Do you watch TV?&rdquo;
 [3]Stative
 The stative aspect is used for temporary states and attributes:
-[f]<strong>&#x294;ara nagi miku.</strong>
-[e]<high-lulani>.ar / nG / M&gt;.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&#x294;ara</a> <a href="http://dictionary.tinellb.com/n/nagi.html#highlulani">nagi</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
-[e]<em>Face</em> <span class="tooltip"><small-caps>fut;sta</small-caps><span class="tooltip-text">future stative</span></span> <em>red</em>.
-[e]&ldquo;They&rsquo;re going to be blushing.&rdquo;
+[f]<strong>Daquhha ra&rsquo;u qirakunaqi.</strong>
+[e]<high-lulani>.dA;h / ru / Qr&gt;nQ.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/d/da.html#highlulani">Da</a>-<a href="http://dictionary.tinellb.com/q/quhha.html#highlulani">quhha</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/q/qirakunaqi.html#highlulani">qirakunaqi</a>.
+[e]<em>Water-river</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>dirty</em>.
+[e]&ldquo;The river-water is dirty.&rdquo;
 for continual actions taking place over a period of time:
-[f]<strong>Qikanni pi dasi da.</strong>
-[e]<high-lulani>.Qk;N / P / dS / d.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">Qikanni</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/d/da.html#highlulani">da</a>.
-[e]<em>Dog</em> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>consume water</em>.
-[e]&ldquo;The dog was drinking water.&rdquo;
 For perceptive verbs, this refers to an ability to perceive the stimulus:
-[f]<strong>Filli &rsquo;usa bumakigufu&rsquo;iri ra&rsquo;u?</strong>
-[e]<high-lulani>.F;L / us / OmK&lt;viR / ru.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <a href="http://dictionary.tinellb.com/b/bumakigufu'iri.html#highlulani">bumakigufu&rsquo;iri</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a>?
-[e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>see television</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>?
-[e]&ldquo;Can you see the TV?&rdquo;
 [3]Gnomic
 The gnomic aspect is used for permanent states and attributes:
-[f]<strong>&#x294;ara nagi miku.</strong>
-[e]<high-lulani>.ar / nG / M&gt;.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&#x294;ara</a> <a href="http://dictionary.tinellb.com/n/nagi.html#highlulani">nagi</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
-[e]<em>Face</em> <span class="tooltip"><small-caps>fut;sta</small-caps><span class="tooltip-text">future stative</span></span> <em>red</em>.
-[e]&ldquo;They&rsquo;re always going to be blushing.&rdquo;
 for continual actions:
-[f]<strong>Qikanni pi dasi da.</strong>
-[e]<high-lulani>.Qk;N / w&gt; / dS / d.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">Qikanni</a> <a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/d/da.html#highlulani">da</a>.
-[e]<em>Dog</em> <span class="tooltip"><small-caps>pst;gno</small-caps><span class="tooltip-text">past gnomic</span></span> <em>consume water</em>.
-[e]&ldquo;The dog was forever drinking water.&rdquo;
 For perceptive verbs, this refers to an ability to perceive the stimulus:
-[f]<strong>Filli &rsquo;usa bumakigufu&rsquo;iri ru?</strong>
-[e]<high-lulani>.F;L / us / OmK&lt;viR / w.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <a href="http://dictionary.tinellb.com/b/bumakigufu'iri.html#highlulani">bumakigufu&rsquo;iri</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a>?
-[e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>see television</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span>?
-[e]&ldquo;Are you usually able to see the TV?&rdquo;
 [3]Negative
 The negative aspect is used for actions, attributes and perceptions which do not occur. These act as the negation of any other aspectual marker. That is, while positive sentences can be classified by aspect, negative sentences all use the same auxiliaries.
-[f]<strong>&#x294;ara funi miku.</strong>
-[e]<high-lulani>.ar / vN / M&gt;.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&#x294;ara</a> <a href="http://dictionary.tinellb.com/f/funi.html#highlulani">funi</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
-[e]<em>Face</em> <span class="tooltip"><small-caps>fut;neg</small-caps><span class="tooltip-text">future negative</span></span> <em>red</em>.
-[e]&ldquo;They&rsquo;re not going to blush.&rdquo;
-[f]<strong>Qikanni qilu dasi da.</strong>
-[e]<high-lulani>.Qk;N / QW / dS / d.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">Qikanni</a> <a href="http://dictionary.tinellb.com/q/qilu.html#highlulani">qilu</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/d/da.html#highlulani">da</a>.
-[e]<em>Dog</em> <span class="tooltip"><small-caps>pst;neg</small-caps><span class="tooltip-text">past negative</span></span> <em>consume water</em>.
-[e]&ldquo;The dog doesn&rsquo;t drink water.&rdquo;
-[f]<strong>Filli &rsquo;usa bumakigufu&rsquo;iri ji?</strong>
-[e]<high-lulani>.F;L / us / OmK&lt;viR / J.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <a href="http://dictionary.tinellb.com/b/bumakigufu'iri.html#highlulani">bumakigufu&rsquo;iri</a> <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a>?
-[e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>see television</em> <span class="tooltip"><small-caps>prs;neg</small-caps><span class="tooltip-text">present negative</span></span>?
-[e]&ldquo;Can&rsquo;t you see the TV?&rdquo;
 [2]Tense
 The three tenses are past, present and future. In conversation, the tenses tend to mark the time at which the action began or occurred.
 On the other hand, narratives are mainly told in present tense. The other tenses are then used relatively, so that past tense is used for things that happened earlier than the narrative present, and the future tense for things that happened later.
-&date=20180301--------------------------------------------------3
+&date=20180304--------------------------------------------------3
 [1]Adverbs
 Adverbs are a closed class. Adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <a href="../syntax/adverbialphrases.html">Adverbial Phrases</a>
 [f]<a href="http://dictionary.tinellb.com/n/naru.html#highlulani">naru</a> <em>slowly</em>
