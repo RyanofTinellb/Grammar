@@ -194,6 +194,28 @@ body {
 	margin-top: 0;
 }
 
+.content div.folding p:last-child {
+  padding-left: 6%;
+}
+
+.content div.folding p:last-child::before {
+  content: '\2192 ';
+  margin-right: 1em;
+}
+
+.content div.folding:hover p:last-child::before {
+  content: '\2191  ';
+}
+
+.content div.folding p:not(:first-child):not(:last-child) {
+  display: none;
+}
+
+.content div.folding:hover p:not(:first-child):not(:last-child) {
+  display: block;
+}
+
+
 .nav-pane {
 	margin: 2em 1% 10%;
 	padding: 1% 2em 10%;
