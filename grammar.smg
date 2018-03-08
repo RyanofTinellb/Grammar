@@ -4,8 +4,22 @@
     "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.txt", 
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
-  "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
-  "current position": "2.187", 
+  "current": {
+    "position": "242.33", 
+    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
+    "fontsize": 17, 
+    "page": [
+      "High Lulani", 
+      "Morphology", 
+      "Verbs", 
+      ""
+    ], 
+    "language": "hl"
+  }, 
+  "site": {
+    "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar", 
+    "name": "Grammar"
+  }, 
   "links": [
     {
       "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
@@ -15,16 +29,5 @@
       "resource": "http://dictionary.tinellb.com", 
       "type": "ExternalDictionary"
     }
-  ], 
-  "current language": "hl", 
-  "site": {
-    "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar", 
-    "name": "Grammar"
-  }, 
-  "current page": [
-    "High Lulani", 
-    "Morphology", 
-    "Verbs", 
-    ""
   ]
 }

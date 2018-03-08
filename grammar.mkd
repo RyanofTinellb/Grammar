@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-[e] | == | <br>
-[f] | === | <br>
+[e] |           | <br>
+[f] | \n           | <br>
+</link><link> | </link>:<link> | <br>
 ' | &quot; | <br>
 " | &dblquot; | <br>
 &rsquo; | ' | <br>

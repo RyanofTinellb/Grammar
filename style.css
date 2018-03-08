@@ -275,6 +275,10 @@ body {
   text-align: right;
 }
 
+.no-breaks {
+  white-space: nowrap;
+}
+
 .toc a {
 	font-weight: bold;
 	color: black;
