@@ -437,7 +437,8 @@ Intransitive verbs only require a subject, not an object.
 [e]<em>World</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>change</em>.
 [e]&ldquo;The world is always changing.&rdquo;
 [/d]
-[d wordlist][f]<a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a> <high-lulani>yr</high-lulani> <em>to change; to be different</em>
+[d wordlist]
+[e]<a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a> <high-lulani>yr</high-lulani> <em>to change; to be different</em>
 [e]<a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a> <high-lulani>&lt;P</high-lulani> <em>to sit down; to wait</em>
 [e]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">huba</a> <high-lulani>Vb</high-lulani> <em>to breathe; to be alive</em>
 [e]<a href="http://dictionary.tinellb.com/g/giri.html#highlulani">giri</a> <high-lulani>GR</high-lulani> <em>to conceive; to be pregnant</em>
@@ -448,7 +449,8 @@ Intransitive verbs only require a subject, not an object.
 [/d]
 [3]Kinetic Verbs
 These verbs deal with motion of the subject.
-[d wordlist][f]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <high-lulani>j;N</high-lulani> <em>to accelerate; to move around</em>
+[d wordlist]
+[e]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <high-lulani>j;N</high-lulani> <em>to accelerate; to move around</em>
 [e]<a href="http://dictionary.tinellb.com/u/'ussa.html#highlulani">&rsquo;ussa</a> <high-lulani>u;s</high-lulani> <em>to follow</em>
 [e]<a href="http://dictionary.tinellb.com/n/nura.html#highlulani">nura</a> <high-lulani>Ir</high-lulani> <em>to leave; to be apart from</em>
 [e]<a href="http://dictionary.tinellb.com/m/madi.html#highlulani">madi</a> <high-lulani>mD</high-lulani> <em>to rise; to be high</em>
@@ -504,7 +506,7 @@ These are marked with an <a href="../syntax/case.html#obliquecases">oblique case
 [/d]
 or an <a href="adpositions.html">adposition</a>:
 [d folding][f]<strong>&#x294;aggami ni&#x294;irri&rsquo;a tihu.</strong>
-[e]<high-lulani>.a;gM / N;i;Ra / TV.</high-lulani>
+[e]<high-lulani>.a;gM / Ni;Ra / TV.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/a/'aggami.html#highlulani">&#x294;aggami</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a>.
 [e]<em>Police_officer</em> <em>in-Ir&igrave;a abide.</em>
 [e]&ldquo;The police officer lives in Ir&igrave;a.&rdquo;
