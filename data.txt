@@ -327,27 +327,32 @@ Personal pronouns are marked for case and person. Third person pronouns are mark
 [r]genitive | <a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> | <a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> | <a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a> | <a href="http://dictionary.tinellb.com/d/disi.html#highlulani">disi</a> | <a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a>
 [/t]
 <div class="mobile-table">
-first person:[e]intransitive: <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a>
+first person:
+[e]intransitive: <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a>
 [e]transitive: <a href="http://dictionary.tinellb.com/s/suma.html#highlulani">suma</a>
 [e]ablative: <a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a>
 [e]dative: <a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a>
 [e]genitive: <a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a>
-second person:[e]intransitive: <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a>
+second person:
+[e]intransitive: <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a>
 [e]transitive: <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>
 [e]ablative: <a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a>
 [e]dative: <a href="http://dictionary.tinellb.com/b/ba'u.html#highlulani">ba&rsquo;u</a>
 [e]genitive: <a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a>
-third person topic:[e]intransitive: (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>)
+third person topic:
+[e]intransitive: (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>)
 [e]transitive: (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>)
 [e]ablative: <a href="http://dictionary.tinellb.com/r/raja.html#highlulani">raja</a>
 [e]dative: <a href="http://dictionary.tinellb.com/d/datu.html#highlulani">datu</a>
 [e]genitive: <a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>
-third person animate:[e]intransitive: <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>
+third person animate:
+[e]intransitive: <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>
 [e]transitive: <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a>
 [e]ablative: <a href="http://dictionary.tinellb.com/k/kassi.html#highlulani">kassi</a>
 [e]dative: <a href="http://dictionary.tinellb.com/j/jusi.html#highlulani">jusi</a>
 [e]genitive: <a href="http://dictionary.tinellb.com/d/disi.html#highlulani">disi</a>
-third person inanimate:[e]intransitive: <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>
+third person inanimate:
+[e]intransitive: <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>
 [e]transitive: <a href="http://dictionary.tinellb.com/i/'iffa.html#highlulani">&rsquo;iffa</a>
 [e]ablative: <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>
 [e]dative: <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>
@@ -402,7 +407,8 @@ Alienable possession is used in a hierarchy when the possessor is of higher rank
 A verb is a necessary part of any sentence, except when making <a href="../syntax/matrixclauses.html#copularsentences">copular sentences</a>. The arguments of a verb are those nouns which accompany it in order to construct a sentence. The two main arguments are the subject and the object, and verbs can be categorised by which of these are obligatory.
 [2]Basic Verbs
 The class of basic verbs is semi-closed. Basic verbs consist of one stem.
-[d wordlist][f]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> <high-lulani>i</high-lulani> <em>to say</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> <high-lulani>i</high-lulani> <em>to say</em>
 [e]<a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a> <high-lulani>D;z</high-lulani> <em>to feel</em>
 [e]<a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <high-lulani>us</high-lulani> <em>to see</em>
 [e]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <high-lulani>j;N</high-lulani> <em>to move</em>
@@ -411,19 +417,22 @@ The class of basic verbs is semi-closed. Basic verbs consist of one stem.
 [/d]
 [2]Compound Verbs
 In order to extend or specify the meaning of many verbs, verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of basic verbs.
-[d folding][f]<strong>&rsquo;isinna</strong>
+[d folding]
+[f]<strong>&rsquo;isinna</strong>
 [e]<high-lulani>iS;n</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> + <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a>
 [e]<em>say</em>-<em>story</em>
 [e]&ldquo;to tell a story&rdquo;
 [/d]
-[d folding][f]<strong>dissu&rsquo;ahati</strong>
+[d folding]
+[f]<strong>dissu&rsquo;ahati</strong>
 [e]<high-lulani>D;zahT</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a> + <a href="http://dictionary.tinellb.com/a/'ahati.html#highlulani">&rsquo;ahati</a>
 [e]<em>feel</em>-<em>happiness</em>
 [e]&ldquo;to be happy&rdquo;
 [/d]
-[d folding][f]<strong>pamilami</strong>
+[d folding]
+[f]<strong>pamilami</strong>
 [e]<high-lulani>pMlM</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> + <a href="http://dictionary.tinellb.com/m/milami.html#highlulani">milami</a>
 [e]<em>think</em>-<em>surroundings</em>
@@ -431,7 +440,8 @@ In order to extend or specify the meaning of many verbs, verbs can be compounded
 [/d]
 [2]Intransitive Verbs
 Intransitive verbs only require a subject, not an object.
-[d folding][f]<strong>Badiri ru cura</strong>.
+[d folding]
+[f]<strong>Badiri ru cura</strong>.
 [e]<high-lulani>.bDR / w / yr.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/b/badiri.html#highlulani">Badiri</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/c/cura.html#highlulani">cura</a>.
 [e]<em>World</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>change</em>.
@@ -463,7 +473,8 @@ These verbs deal with motion of the subject.
 [/d]
 [3]Adjectival Verbs
 These verbs attribute a property to the subject.
-[d folding][f]<strong>Linu ra&rsquo;u ki. / Linu qixa ki.</strong>
+[d folding]
+[f]<strong>Linu ra&rsquo;u ki. / Linu qixa ki.</strong>
 [e]<high-lulani>.LI / ru / K .  / LI / Qx / K.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/l/linu.html#highlulani">Linu</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a>. / <a href="http://dictionary.tinellb.com/l/linu.html#highlulani">Linu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a>.
 [e]<em>Tree</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>big</em>. / <em>Tree</em> <span class="tooltip"><small-caps>prs;dyn</small-caps><span class="tooltip-text">present dynamic</span></span> <em>big</em>.
@@ -487,7 +498,8 @@ These verbs attribute a property to the subject.
 [/d]
 [4]Chromatic Verbs
 These are adjectival verbs specifically dealing with <a href="../apocrypha/colours.html">colour</a>.
-[d wordlist][f]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a> <high-lulani>K;a</high-lulani> <em>white</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a> <high-lulani>K;a</high-lulani> <em>white</em>
 [e]<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a> <high-lulani>g</high-lulani> <em>black</em>
 [e]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <high-lulani>M&gt;</high-lulani> <em>red</em>
 [e]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <high-lulani>bY</high-lulani> <em>blue</em>
@@ -498,21 +510,24 @@ These are adjectival verbs specifically dealing with <a href="../apocrypha/colou
 These are intransitive verbs in that they do not require a noun phrase in the object position. However, they act transitively by having a second noun phrase marked in a particular way.
 [4]Oblique and Adpositional Arguments
 These are marked with an <a href="../syntax/case.html#obliquecases">oblique case marker</a>:
-[d folding][f]<strong>Luna kalujifiru&rsquo;i mala; luna kalu&rsquo;ilupagu mala.</strong>
+[d folding]
+[f]<strong>Luna kalujifiru&rsquo;i mala; luna kalu&rsquo;ilupagu mala.</strong>
 [e]<high-lulani>.Wn / kWJFwi / ml , Wn / kWiWp&lt; / ml.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/l/luna.html#highlulani">Luna</a> <a href="http://dictionary.tinellb.com/k/kalu-jifiru'i.html#highlulani">kalu-jifiru&rsquo;i</a> <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a>; <a href="http://dictionary.tinellb.com/l/luna.html#highlulani">luna</a> <a href="http://dictionary.tinellb.com/k/kalu-'ilu-pagu.html#highlulani">kalu-&rsquo;ilu-pagu</a> <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a>.
 [e]<em>Moon</em> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>lake reflect; moon</em> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>heart</em>-<span class="tooltip"><small-caps>1gen</small-caps><span class="tooltip-text">first person genitive</span></span> reflect.
 [e]&ldquo;The moon is reflected in the lake; the moon is reflected in my heart.&rdquo;
 [/d]
 or an <a href="adpositions.html">adposition</a>:
-[d folding][f]<strong>&#x294;aggami ni&#x294;irri&rsquo;a tihu.</strong>
+[d folding]
+[f]<strong>&#x294;aggami ni&#x294;irri&rsquo;a tihu.</strong>
 [e]<high-lulani>.a;gM / Ni;Ra / TV.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/a/'aggami.html#highlulani">&#x294;aggami</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a>.
 [e]<em>Police_officer</em> <em>in-Ir&igrave;a abide.</em>
 [e]&ldquo;The police officer lives in Ir&igrave;a.&rdquo;
 [/d]
 The usual markers for each of these verbs is shown here:
-[d wordlist][f]<a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> <high-lulani>ml</high-lulani> <em>to reflect</em> &mdash; <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> <high-lulani>ml</high-lulani> <em>to reflect</em> &mdash; <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>
 [e]<a href="http://dictionary.tinellb.com/f/faxi.html#highlulani">faxi</a> <high-lulani>fX</high-lulani> <em>to survive</em> &mdash; <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>
 [e]<a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a> <high-lulani>TV</high-lulani> <em>to move to; to abide</em> &mdash; <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>, <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>
 [e]<a href="http://dictionary.tinellb.com/m/malu.html#highlulani">malu</a> <high-lulani>mW</high-lulani> <em>to move to; to be in a place</em> &mdash; <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>, <a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a>, or other adpositions.
@@ -521,35 +536,40 @@ The usual markers for each of these verbs is shown here:
 [4]Symmetric Relations<strong>
 </strong>The participants of these verbs are equivalent to each other, that is, if Alice acts on Bob, then Bob acts on Alice in the same way. When the subject is Alice, say, then Bob can:
 1. Be placed in the object position. Despite the structure, this is not transitive, as the verb has no <a href="../syntax/argumentpromotion.html#passive">passive</a>, and pronouns use the intransitive form:
-[d folding][f]<strong>&#x294;allisi sisa Bubu.</strong>
+[d folding]
+[f]<strong>&#x294;allisi sisa Bubu.</strong>
 [e]<high-lulani>.a;LS / Ss / OO.</high-lulani>
 [e]&#x294;allisi <a href="http://dictionary.tinellb.com/s/sisa.html#highlulani">sisa</a> Bubu.
 [e]<em>Alice contact Bob</em>.
 [e]&ldquo;Alice is touching Bob.&rdquo;
 [/d]
 2. Take dative marking:
-[d folding][f]<strong>&#x294;allisi kuBubu ju&rsquo;i.</strong>
+[d folding]
+[f]<strong>&#x294;allisi kuBubu ju&rsquo;i.</strong>
 [e]<high-lulani>.a;LS / &gt;OO / Yi.</high-lulani>
 [e]&#x294;allisi <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a>Bubu <a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a>.
 [e]<em>Alice</em> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-Bob link</em>.
 [e]&ldquo;Alice is married to Bob.&rdquo;
 [/d]
 3. Be conjoined with the subject:
-[d folding][f]<strong>&#x294;allisi Bubuta hulla</strong>.
+[d folding]
+[f]<strong>&#x294;allisi Bubuta hulla</strong>.
 [e]<high-lulani>.a;LS / OOt / V;l.</high-lulani>
 [e]&#x294;allisi Bubu<a href="http://dictionary.tinellb.com/t/-ta.html#highlulani">-ta</a> <a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a>.
 [e]<em>Alice Bob-and copulate.</em>
 [e]&ldquo;Alice and Bob are having sex.&rdquo;
 [/d]
 The basic meaning of these sentences is not changed when swapping the particpants or using the alternate structures.
-[d wordlist][f]<a href="http://dictionary.tinellb.com/s/sisa.html#highlulani">sisa</a> <high-lulani>Ss</high-lulani> <em>to touch</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/s/sisa.html#highlulani">sisa</a> <high-lulani>Ss</high-lulani> <em>to touch</em>
 [e]<a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a> <high-lulani>Yi</high-lulani> <em>to join</em>
 [e]<a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a> <high-lulani>V;l</high-lulani> <em>to copulate; to have consumated</em>
 [e]<a href="http://dictionary.tinellb.com/s/saki.html#highlulani">saki</a> <high-lulani>sK</high-lulani> <em>to share</em>
 [/d]
 [2]Transitive Verbs
 A transitive verb requires an object to complete its meaning. It is possible to elide this object if it is obvious or irrelevant.
-[d folding][f]<strong>Nimalu dasi (nukki).</strong>
+[d folding]
+[f]<strong>Nimalu dasi (nukki).</strong>
 [e]<high-lulani>.NmW / dS / I;K.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/n/nimalu.html#highlulani">Nimalu</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> (<a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a>).
 [e]<em>Bear eat (strawberry)</em>.
@@ -581,20 +601,23 @@ Unlike those above, these verbs involve a fundamental change to their patients.
 [/d]
 [3]Action Verbs
 The objects of these verbs are activities. These can take the form of pure nouns:
-[d folding][f]<strong>Hisutuba tara sinna.</strong>
+[d folding]
+[f]<strong>Hisutuba tara sinna.</strong>
 [e]<high-lulani>.Hzeb / tr / S;n.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/h/hisutuba.html#highlulani">hisutuba</a> <a href="http://dictionary.tinellb.com/t/tara.html#highlulani">tara</a> <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a>.
 [e]<em>Babysitter begin story</em>.
 [e]&ldquo;The babysitter started the story.&rdquo;
 [/d]
 They can also take <a href="../syntax/gerunds.html">gerunds</a>:
-[d folding][f]<strong>Kipu nu dasiruqa hafi.</strong>
+[d folding]
+[f]<strong>Kipu nu dasiruqa hafi.</strong>
 [e]<high-lulani>.Ko / I / dSwq / hF.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/k/kipu.html#highlulani">Kipu</a> <a href="http://dictionary.tinellb.com/n/nu.html#highlulani">nu</a> <a href="http://dictionary.tinellb.com/d/dasi-ru-qa.html#highlulani">dasi-ru-qa</a> <a href="http://dictionary.tinellb.com/h/hafi.html#highlulani">hafi</a>.
 [e]<em>Ox stop eat-</em><span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span>-<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span> <em>grass</em>.
 [e]&ldquo;The cow stopped its eating of the grass.&rdquo;
 [/d]
-[d wordlist][f]<a href="http://dictionary.tinellb.com/l/la.html#highlulani">la</a> <high-lulani>l</high-lulani> <em>to do</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/l/la.html#highlulani">la</a> <high-lulani>l</high-lulani> <em>to do</em>
 [e]<a href="http://dictionary.tinellb.com/t/tara.html#highlulani">tara</a> <high-lulani>tr</high-lulani> <em>to begin</em>
 [e]<a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <high-lulani>eN</high-lulani> <em>to repeat</em>
 [e]<a href="http://dictionary.tinellb.com/n/nu.html#highlulani">nu</a> <high-lulani>I</high-lulani> <em>to stop</em>
@@ -613,27 +636,31 @@ They can also take <a href="../syntax/gerunds.html">gerunds</a>:
 [2]Perceptive Verbs
 These verbs deal with the subject&rsquo;s ability to perceive stimuli. They are ambitransitive, that is, they can be used with or without an argument in the object position.
 When used purely intransitively, with no direct or dative object, they refer to a general ability to use that sense:
-[d folding][f]<strong>Guli ruku &rsquo;usa.</strong>
+[d folding]
+[f]<strong>Guli ruku &rsquo;usa.</strong>
 [e]<high-lulani>.&lt;L / w&gt; / us.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/g/guli.html#highlulani">Guli</a> <a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>.
 [e]<em>Blind_person</em> <span class="tooltip"><small-caps>fut;gno</small-caps><span class="tooltip-text">future gnomic</span></span> <em>see</em>.
 [e]&ldquo;The blind person can now see.&rdquo;
 [/d]
 When used with a direct object, this denotes a conscious effort at perception:
-[d folding][f]<strong>Ju&rsquo;ipu&rsquo;a &rsquo;usa bumaki.</strong>
+[d folding]
+[f]<strong>Ju&rsquo;ipu&rsquo;a &rsquo;usa bumaki.</strong>
 [e]<high-lulani>.Yioa / us / OmK.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/j/ju'ipu'a.html#highlulani">Ju&rsquo;ipu&rsquo;a</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <a href="http://dictionary.tinellb.com/b/bumaki.html#highlulani">bumaki</a>.
 [e]<em>Assembly see screen.</em>
 [e]&ldquo;The audience watched the screen.&rdquo;
 [/d]
 When used with a dative object, this instead lacks that effort:
-[d folding][f]<strong>Mihu kulasidaxi ju&rsquo;isataduru &rsquo;usa.</strong>
+[d folding]
+[f]<strong>Mihu kulasidaxi ju&rsquo;isataduru &rsquo;usa.</strong>
 [e]<high-lulani>.MV / &gt;lSdX / YistEw / us.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/k/ku-lasida.html#highlulani">ku-lasida</a>-<a href="http://dictionary.tinellb.com/x/xi.html#highlulani">xi</a> <a href="http://dictionary.tinellb.com/j/ju'isatadu-ru.html#highlulani">ju&rsquo;isatadu-ru</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>.
 [e]<span class="tooltip"><small-caps>3ani;int</small-caps><span class="tooltip-text">animate third person intransitive</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>secret-seem conversation-</em><span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span> <em>see</em>.
 [e]&ldquo;She saw the secret meeting.&rdquo;
 [/d]
-[d wordlist][f]<a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <high-lulani>us</high-lulani> <em>to see</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <high-lulani>us</high-lulani> <em>to see</em>
 [e]<a href="http://dictionary.tinellb.com/h/hulu.html#highlulani">hulu</a> <high-lulani>VW</high-lulani> <em>to hear</em>
 [e]<a href="http://dictionary.tinellb.com/c/cussi.html#highlulani">cussi</a> <high-lulani>y;S</high-lulani> <em>to feel</em>
 [e]<a href="http://dictionary.tinellb.com/j/ji'i.html#highlulani">ji&rsquo;i</a> <high-lulani>Ji</high-lulani> <em>to taste</em>
@@ -645,7 +672,7 @@ When used with a dative object, this instead lacks that effort:
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <high-lulani>p</high-lulani> <em>to think</em>
 [e]<a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a> <high-lulani>m</high-lulani> <em>to consider</em>
 [e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a> <high-lulani>Q</high-lulani> <em>to experience</em>
-[/d]&date=20180309--------------------------------------------------3
+[/d]&date=20180315--------------------------------------------------3
 [1]Auxiliaries
 Auxiliaries are a type of <a href="verbs.html">verb</a>, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
 [t] | dynamic | stative | negative | habitual | gnomic
@@ -654,17 +681,20 @@ Auxiliaries are a type of <a href="verbs.html">verb</a>, however, they are suffi
 [r]future | <a href="http://dictionary.tinellb.com/l/lanu.html#highlulani">lanu</a> | <a href="http://dictionary.tinellb.com/n/nagi.html#highlulani">nagi</a> | <a href="http://dictionary.tinellb.com/f/funi.html#highlulani">funi</a> | <a href="http://dictionary.tinellb.com/h/hu.html#highlulani">hu</a> | <a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a>
 [/t]
 <div class="mobile-table">
-past:[e]dynamic: <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>
+past:
+[e]dynamic: <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>
 [e]stative: <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a>
 [e]negative: <a href="http://dictionary.tinellb.com/q/qilu.html#highlulani">qilu</a>
 [e]habitual: <a href="http://dictionary.tinellb.com/t/taku.html#highlulani">taku</a>
 [e]gnomic: <a href="http://dictionary.tinellb.com/r/rusa.html#highlulani">rusa</a>
-present:[e]dynamic: <a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a>
+present:
+[e]dynamic: <a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a>
 [e]stative: <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a>
 [e]negative: <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a>
 [e]habitual: <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a>
 [e]gnomic: <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a>
-future:[e]dynamic: <a href="http://dictionary.tinellb.com/l/lanu.html#highlulani">lanu</a>
+future:
+[e]dynamic: <a href="http://dictionary.tinellb.com/l/lanu.html#highlulani">lanu</a>
 [e]stative: <a href="http://dictionary.tinellb.com/n/nagi.html#highlulani">nagi</a>
 [e]negative: <a href="http://dictionary.tinellb.com/f/funi.html#highlulani">funi</a>
 [e]habitual: <a href="http://dictionary.tinellb.com/h/hu.html#highlulani">hu</a>
@@ -680,9 +710,11 @@ There are four aspects with positive polarity:
 [r]discrete | dynamic | habitual
 [r]continuous | stative | gnomic[/t]
 <div class="mobile-table">
-<strong>discreet</strong>:[e]<strong>episodic</strong>: <em>dynamic</em>
+<strong>discreet</strong>:
+[e]<strong>episodic</strong>: <em>dynamic</em>
 [e]<strong>generic</strong>: <em>habitual</em>
-<strong>continuous:</strong>[e]<strong>episodic</strong>: <em>stative</em>
+<strong>continuous:</strong>
+[e]<strong>episodic</strong>: <em>stative</em>
 [e]<strong>generic</strong>: <em>gnomic</em>
 </div>
 There is a single category of auxiliaries with the opposite polarity &mdash; the <strong>negative</strong>.
