@@ -53,35 +53,34 @@ High Lulani is the language created by Loren, queen of the Ptokonoi. It features
 [1]Phonology
 High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word&#x268;nternal consonant can be geminated.
 This page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.
-[t] | Consonant | Example |  | Consonant | Example |  | Consonant | Example
-[r] | <ipa>b</ipa> | <strong>b</strong>a&rsquo;u |  | <ipa>h</ipa> | <strong>h</strong>isuba |  | <ipa>&#x272;</ipa> | ja<strong>nn</strong>i
-[r] | <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a |  | <ipa>j</ipa> | fa<strong>&#x294;</strong>a<sup>1</sup> |  | <ipa>&#x14b;</ipa> | <strong>q</strong>a
-[r] | <ipa>c</ipa> | qa<strong>cc</strong>a |  | <ipa>&#x25f;</ipa> | <strong>j</strong>usi |  | <ipa>p</ipa> | &rsquo;a<strong>pp</strong>u
-[r] | <ipa>c&#x2b0;</ipa> | <strong>c</strong>u&rsquo;i |  | <ipa>&#x25f;&#x2b1;</ipa> | ma<strong>jj</strong>a |  | <ipa>p&#x2b0;</ipa> | <strong>p</strong>uttu
-[r] | <ipa>&#x255;</ipa> | <strong>x</strong>u&rsquo;a |  | <ipa>k</ipa> | ta<strong>kk</strong>i |  | <ipa>r</ipa> | gu<strong>rr</strong>isu
-[r] | <ipa>d</ipa> | <strong>d</strong>aru |  | <ipa>k&#x2b0;</ipa> | <strong>k</strong>a&rsquo;u |  | <ipa>&#x27e;</ipa> | <strong>r</strong>usa
-[r] | <ipa>d&#x2b1;</ipa> | &rsquo;a<strong>dd</strong>a |  | <ipa>l</ipa> | <strong>l</strong>isa |  | <ipa>s</ipa> | <strong>s</strong>ippa
-[r] | <ipa>f</ipa> | <strong>f</strong>ara |  | <ipa>&#x28e;</ipa> | mu<strong>ll</strong>u |  | <ipa>t</ipa> | ni<strong>tt</strong>u
-[r] | <ipa>g</ipa> | <strong>g</strong>usu |  | <ipa>m</ipa> | <strong>m</strong>ullu |  | <ipa>t&#x2b0;</ipa> | <strong>t</strong>a&rsquo;i
-[r] | <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i |  | <ipa>n</ipa> | <strong>n</strong>isa |  | <ipa>&#x294;</ipa> | xu<strong>&rsquo;</strong>a
+[t]h Consonant |h Example |  |h Consonant |h Example |  |h Consonant |h Example
+ <ipa>b</ipa> | <strong>b</strong>a&rsquo;u |  | <ipa>h</ipa> | <strong>h</strong>isuba |  | <ipa>&#x272;</ipa> | ja<strong>nn</strong>i
+ <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a |  | <ipa>j</ipa> | fa<strong>&#x294;</strong>a<sup>1</sup> |  | <ipa>&#x14b;</ipa> | <strong>q</strong>a
+ <ipa>c</ipa> | qa<strong>cc</strong>a |  | <ipa>&#x25f;</ipa> | <strong>j</strong>usi |  | <ipa>p</ipa> | &rsquo;a<strong>pp</strong>u
+ <ipa>c&#x2b0;</ipa> | <strong>c</strong>u&rsquo;i |  | <ipa>&#x25f;&#x2b1;</ipa> | ma<strong>jj</strong>a |  | <ipa>p&#x2b0;</ipa> | <strong>p</strong>uttu
+ <ipa>&#x255;</ipa> | <strong>x</strong>u&rsquo;a |  | <ipa>k</ipa> | ta<strong>kk</strong>i |  | <ipa>r</ipa> | gu<strong>rr</strong>isu
+ <ipa>d</ipa> | <strong>d</strong>aru |  | <ipa>k&#x2b0;</ipa> | <strong>k</strong>a&rsquo;u |  | <ipa>&#x27e;</ipa> | <strong>r</strong>usa
+ <ipa>d&#x2b1;</ipa> | &rsquo;a<strong>dd</strong>a |  | <ipa>l</ipa> | <strong>l</strong>isa |  | <ipa>s</ipa> | <strong>s</strong>ippa
+ <ipa>f</ipa> | <strong>f</strong>ara |  | <ipa>&#x28e;</ipa> | mu<strong>ll</strong>u |  | <ipa>t</ipa> | ni<strong>tt</strong>u
+ <ipa>g</ipa> | <strong>g</strong>usu |  | <ipa>m</ipa> | <strong>m</strong>ullu |  | <ipa>t&#x2b0;</ipa> | <strong>t</strong>a&rsquo;i
+ <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i |  | <ipa>n</ipa> | <strong>n</strong>isa |  | <ipa>&#x294;</ipa> | xu<strong>&rsquo;</strong>a
 [/t]
 <sup>1</sup>The phone <ipa>/j/</ipa> only appears as the second segment of an allophonic variant of <ipa>/&#x294;/</ipa>, when that sound is geminated.
-[t] | Vowel | Example |  | Vowel | Example
-[r] | <ipa>a</ipa> | b<strong>a</strong>tu |  | <ipa>&#x259;</ipa> | su&rsquo;<strong>a</strong>
-[r] | <ipa>i</ipa> | b<strong>i</strong>tta |  | <ipa>&#x268;</ipa> | kas<strong>i</strong>
-[r] | <ipa>u</ipa> | c<strong>u</strong>ra |  | <ipa>&#x289;</ipa> | l<strong>u</strong>lani
+[t]h  Vowel |h Example |  |h Vowel |h Example
+ <ipa>a</ipa> | b<strong>a</strong>tu |  | <ipa>&#x259;</ipa> | su&rsquo;<strong>a</strong>
+ <ipa>i</ipa> | b<strong>i</strong>tta |  | <ipa>&#x268;</ipa> | kas<strong>i</strong>
+ <ipa>u</ipa> | c<strong>u</strong>ra |  | <ipa>&#x289;</ipa> | l<strong>u</strong>lani
 [/t]
 The suprasegmental symbols are all exemplified in <ipa>/&#x2cc;p&#x2b0;am.&#x268;.&#x2c8;lam.&#x268;/</ipa>.
-&date=20170729
---------------------------------------------------3
+&date=20180316--------------------------------------------------3
 [1]Consonants
 Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
-[t] | labial | alveolar | palatal | velar | glottal
-[r]stop | <ipa>p b</ipa> | <ipa>t d</ipa> | <ipa>c &#x25f;</ipa> &lt;j&gt; | <ipa>k g</ipa> | <ipa>&#x294;</ipa> &lt;&rsquo;&gt;
-[r]nasal | <ipa>m</ipa> | <ipa>n</ipa> |  | <ipa>&#x14b;</ipa> &lt;q&gt;
-[r]lateral |  | <ipa>l</ipa>
-[r]central |  | <ipa>&#x27e;</ipa> &lt;r&gt;
-[r]fricative | <ipa>f</ipa> | <ipa>s</ipa> | <ipa>&#x255;</ipa> &lt;x&gt; |  | <ipa>h</ipa>
+[t] |h labial |h alveolar |h palatal |h velar |h glottal
+h stop | <ipa>p b</ipa> | <ipa>t d</ipa> | <ipa>c &#x25f;</ipa> &lt;j&gt; | <ipa>k g</ipa> | <ipa>&#x294;</ipa> &lt;&rsquo;&gt;
+h nasal | <ipa>m</ipa> | <ipa>n</ipa> |  | <ipa>&#x14b;</ipa> &lt;q&gt;
+h lateral |  | <ipa>l</ipa>
+h central |  | <ipa>&#x27e;</ipa> &lt;r&gt;
+h fricative | <ipa>f</ipa> | <ipa>s</ipa> | <ipa>&#x255;</ipa> &lt;x&gt; |  | <ipa>h</ipa>
 [/t]
 This table shows the consonants phonemically, using the International Phonetic Alphabet. Where it differs from IPA, the transliteration is given in &lt;triangular brackets&gt;. Capital or geminate glottal stops are transliterated with &lt;&#x294;&gt;.
 [2]Stops
@@ -175,14 +174,13 @@ The fricative <ipa>/h/</ipa> is a voiceless sound. When geminate, it is pronounc
 [f]<a href="http://dictionary.tinellb.com/h/hannaku.html#highlulani">hannaku</a> <em>cat</em>
 [e]<a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a> <em>to dwell</em>
 [e]<a href="http://dictionary.tinellb.com/q/quhha.html#highlulani">quhha</a> <em>river</em>
-&date=20170730
---------------------------------------------------3
+&date=20180316--------------------------------------------------3
 [1]Vowels
 There are three phonemic vowels, with three main allophones for each. The vowels are distinguished by closeness and frontness.
-[t] | front | central | back
-[r]close | <ipa>i</ipa> | <ipa>(&#x268;) (&#x289;)</ipa> | <ipa>u</ipa>
-[r]mid |  | <ipa>(&#x259;)</ipa>
-[r]open | <ipa>a</ipa>
+[t] |h front |h central |h back
+h close | <ipa>i</ipa> | <ipa>(&#x268;) (&#x289;)</ipa> | <ipa>u</ipa>
+h mid |  | <ipa>(&#x259;)</ipa>
+h open | <ipa>a</ipa>
 [/t]
 There are three phonemic vowels: two close vowels and one open. These are given in the above chart, with the variant allophones in (round brackets). The central and mid vowels are considered the lax variants, while the lengthened vowels are long.
 [2]Front
@@ -200,8 +198,7 @@ The back close vowel is rounded. It can be realised as <ipa>/u/</ipa> or <ipa>/&
 [f]<a href="http://dictionary.tinellb.com/m/mulu.html#highlulani">mulu</a> <em>blood</em>
 [e]<a href="http://dictionary.tinellb.com/b/bunali.html#highlulani">bunali</a> <em>rhyme</em>
 [e]<a href="http://dictionary.tinellb.com/r/riccu.html#highlulani">riccu</a> <em>sphere</em>
-&date=20170729
---------------------------------------------------3
+&date=20180316--------------------------------------------------3
 [1]Phonotactics
 Phonemically, all syllables are CV, that is, one consonant followed by one vowel. Word-internal consonants can be geminated. The only consonant clusters are geminate consonants, and there are no vowel clusters or long vowels.
 &date=20170716
@@ -224,13 +221,45 @@ As well as the syllabary for most written use, there are also special-use syllab
 [1]Syllabary
 The Lulani syllabary was developed as a featural script, with similar sounds having similar symbols.
 It is written in horizontal rows, right-to-left, and top-to-bottom.
-[t] | stop | voiced | nasal | lateral | central | fricative
-[r]labial | <high-lulani>pPo</high-lulani> | <high-lulani>bBO</high-lulani> | <high-lulani>mMU</high-lulani> |  |  | <high-lulani>fFv</high-lulani>
-[r]alveolar | <high-lulani>tTe</high-lulani> | <high-lulani>dDE</high-lulani> | <high-lulani>nNI</high-lulani> | <high-lulani>lLW</high-lulani> | <high-lulani>rRw</high-lulani> | <high-lulani>sSz</high-lulani>
-[r]palatal | <high-lulani>cCy</high-lulani> | <high-lulani>jJY</high-lulani> |  |  |  | <high-lulani>xXZ</high-lulani>
-[r]velar | <high-lulani>kK&gt;</high-lulani> | <high-lulani>gG&lt;</high-lulani> | <high-lulani>qQA</high-lulani>
-[r]glottal | <high-lulani>aiu</high-lulani> |  |  |  |  | <high-lulani>hHV</high-lulani>
+[t] |h stop |h voiced |h nasal |h lateral |h central |h fricative
+hr3 labial | pa: <high-lulani>p</high-lulani> | ba: <high-lulani>b</high-lulani> | ma: <high-lulani>m</high-lulani> ||| fa: <high-lulani>f</high-lulani> 
+ pi: <high-lulani>P</high-lulani> | bi: <high-lulani>B</high-lulani> | mi: <high-lulani>M</high-lulani> ||| fi: <high-lulani>F</high-lulani>
+ pu: <high-lulani>o</high-lulani> | bu: <high-lulani>O</high-lulani> | mu: <high-lulani>U</high-lulani> ||| fu: <high-lulani>v</high-lulani> 
+hr3 alveolar | ta: <high-lulani>t</high-lulani> | da: <high-lulani>d</high-lulani> | na: <high-lulani>n</high-lulani> | la: <high-lulani>l</high-lulani> | ra: <high-lulani>r</high-lulani> | sa: <high-lulani>s</high-lulani>
+ ti: <high-lulani>T</high-lulani> | di: <high-lulani>D</high-lulani> | ni: <high-lulani>N</high-lulani> | li: <high-lulani>L</high-lulani> | ri: <high-lulani>R</high-lulani> | si: <high-lulani>S</high-lulani> 
+ tu: <high-lulani>e</high-lulani> | du: <high-lulani>E</high-lulani> | nu: <high-lulani>I</high-lulani> | lu: <high-lulani>W</high-lulani> | ru: <high-lulani>w</high-lulani> | su: <high-lulani>z</high-lulani> 
+hr3 palatal | ca: <high-lulani>c</high-lulani> | ja: <high-lulani>j</high-lulani> |||| xa: <high-lulani>x</high-lulani> 
+ ci: <high-lulani>C</high-lulani> | ji: <high-lulani>J</high-lulani> |||| xi: <high-lulani>X</high-lulani> 
+ cu: <high-lulani>y</high-lulani> | ju: <high-lulani>Y</high-lulani> |||| xu: <high-lulani>Z</high-lulani> 
+hr3 velar | ka: <high-lulani>k</high-lulani> | ga: <high-lulani>g</high-lulani> | qa: <high-lulani>q</high-lulani> 
+ ki: <high-lulani>K</high-lulani> | gi: <high-lulani>G</high-lulani> | qi: <high-lulani>Q</high-lulani> 
+ ku: <high-lulani>&gt;</high-lulani> | gu: <high-lulani>&lt;</high-lulani> | qu: <high-lulani>A</high-lulani> 
+hr3 glottal | &rsquo;a: <high-lulani>a</high-lulani> ||||| ha: <high-lulani>h</high-lulani>
+ &rsquo;i: <high-lulani>i</high-lulani> ||||| hi: <high-lulani>H</high-lulani> 
+ &rsquo;u: <high-lulani>u</high-lulani> ||||| hu: <high-lulani>V</high-lulani> 
 [/t]
+[d mobile-table]
+[d small-table]
+[t] pa: <high-lulani>p</high-lulani> | pi: <high-lulani>P</high-lulani> | pu: <high-lulani>o</high-lulani>
+ ba: <high-lulani>b</high-lulani> | bi: <high-lulani>B</high-lulani> | bu: <high-lulani>O</high-lulani>
+ ma: <high-lulani>m</high-lulani> | mi: <high-lulani>M</high-lulani> | mu: <high-lulani>U</high-lulani>
+ fa: <high-lulani>f</high-lulani> | fi: <high-lulani>F</high-lulani> | fu: <high-lulani>v</high-lulani>
+ ta: <high-lulani>t</high-lulani> | ti: <high-lulani>T</high-lulani> | tu: <high-lulani>e</high-lulani>
+ da: <high-lulani>d</high-lulani> | di: <high-lulani>D</high-lulani> | du: <high-lulani>E</high-lulani>
+ na: <high-lulani>n</high-lulani> | ni: <high-lulani>N</high-lulani> | nu: <high-lulani>I</high-lulani>
+ la: <high-lulani>l</high-lulani> | li: <high-lulani>L</high-lulani> | lu: <high-lulani>W</high-lulani>
+ ra: <high-lulani>r</high-lulani> | ri: <high-lulani>R</high-lulani> | ru: <high-lulani>w</high-lulani>
+ sa: <high-lulani>s</high-lulani> | si: <high-lulani>S</high-lulani> | su: <high-lulani>z</high-lulani>
+ ca: <high-lulani>c</high-lulani> | ci: <high-lulani>C</high-lulani> | cu: <high-lulani>y</high-lulani>
+ ja: <high-lulani>j</high-lulani> | ji: <high-lulani>J</high-lulani> | ju: <high-lulani>Y</high-lulani>
+ xa: <high-lulani>x</high-lulani> | xi: <high-lulani>X</high-lulani> | xu: <high-lulani>Z</high-lulani>
+ ka: <high-lulani>k</high-lulani> | ki: <high-lulani>K</high-lulani> | ku: <high-lulani>&gt;</high-lulani>
+ ga: <high-lulani>g</high-lulani> | gi: <high-lulani>G</high-lulani> | gu: <high-lulani>&lt;</high-lulani>
+ qa: <high-lulani>q</high-lulani> | qi: <high-lulani>Q</high-lulani> | qu: <high-lulani>A</high-lulani>
+ &rsquo;a: <high-lulani>a</high-lulani> | &rsquo;i: <high-lulani>i</high-lulani> | &rsquo;u: <high-lulani>u</high-lulani>
+ ha: <high-lulani>h</high-lulani> | hi: <high-lulani>H</high-lulani> | hu: <high-lulani>V</high-lulani>
+[/d]
+[/d]
 Geminate consonants are shown as <high-lulani>;</high-lulani>, placed before the geminated consonant.
 A central dot <high-lulani>/</high-lulani> is placed between words, and sentences begin and end with a <high-lulani>.</high-lulani> symbol.
 While their shapes have been modified over time, it is still fairly clear how each phonetic feature has been symbolised.
@@ -248,7 +277,7 @@ open vowel: (none)
 front vowel: vertical line
 back vowel: horizontal line
 [/l]
-&date=20180223--------------------------------------------------3
+&date=20180316--------------------------------------------------3
 [1]Spelling Syllabary
 There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol is represented by the word <a href="http://dictionary.tinellb.com/f/fa''a.html#highlulani">fa&#x294;a</a> <em>language</em>.
 <div class="glossary">&rsquo;a: <a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&rsquo;ara</a> <em>face</em>  | pa: <a href="http://dictionary.tinellb.com/p/pacca.html#highlulani">pacca</a> <em>number</em> | ba: <a href="http://dictionary.tinellb.com/b/bitta.html#highlulani">bitta</a> <em>time</em> | ta: <a href="http://dictionary.tinellb.com/t/tila.html#highlulani">tila</a> <em>shell</em> | da: <a href="http://dictionary.tinellb.com/d/diha.html#highlulani">diha</a> <em>bureaucrat</em>
@@ -404,9 +433,9 @@ Alienable possession is used in a hierarchy when the possessor is of higher rank
 [e]<a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <a href="http://dictionary.tinellb.com/m/mifasu.html#highlulani">mifasu</a> <em>my vassal</em>
 &date=20180227--------------------------------------------------3
 [1]Verbs
-A verb is a necessary part of any sentence, except when making <a href="../syntax/matrixclauses.html#copularsentences">copular sentences</a>. The arguments of a verb are those nouns which accompany it in order to construct a sentence. The two main arguments are the subject and the object, and verbs can be categorised by which of these are obligatory.
-[2]Basic Verbs
-The class of basic verbs is semi-closed. Basic verbs consist of one stem.
+A verb is a necessary part of any sentence, except when making <a href="../syntax/matrixclauses.html#copularsentences">copular sentences</a>. Verbs can be categorised on the basis of how many elements compose them.
+[2]Stem Verbs
+The class of stem verbs is semi-closed &mdash; there are only about 100 pure verbs in the entire language. Stem verbs consist of a single element.
 [d wordlist]
 [f]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> <high-lulani>i</high-lulani> <em>to say</em>
 [e]<a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a> <high-lulani>D;z</high-lulani> <em>to feel</em>
@@ -416,7 +445,7 @@ The class of basic verbs is semi-closed. Basic verbs consist of one stem.
 [e]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <high-lulani>M&gt;</high-lulani> <em>to be red</em>
 [/d]
 [2]Compound Verbs
-In order to extend or specify the meaning of many verbs, verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of basic verbs.
+In order to extend or specify meaning,  verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of stem verbs.
 [d folding]
 [f]<strong>&rsquo;isinna</strong>
 [e]<high-lulani>iS;n</high-lulani>
@@ -438,8 +467,10 @@ In order to extend or specify the meaning of many verbs, verbs can be compounded
 [e]<em>think</em>-<em>surroundings</em>
 [e]&ldquo;to be conscious&rdquo;
 [/d]
-[2]Intransitive Verbs
-Intransitive verbs only require a subject, not an object.
+[2]Valency
+The minimum number of obligatory nominal arguments that must appear with the verb to construct a grammatical sentence is called <strong>valency</strong>. These arguments usually consist of the subject and the object.
+[3]Intransitive Verbs
+Intransitive verbs only require a subject, not an object, and are therfore monovalent.
 [d folding]
 [f]<strong>Badiri ru cura</strong>.
 [e]<high-lulani>.bDR / w / yr.</high-lulani>
@@ -457,7 +488,7 @@ Intransitive verbs only require a subject, not an object.
 [e]<a href="http://dictionary.tinellb.com/n/nara.html#highlulani">nara</a> <high-lulani>nr</high-lulani> <em>to sleep; to be asleep</em>
 [e]<a href="http://dictionary.tinellb.com/n/nu'ifi.html#highlulani">nu&rsquo;ifi</a> <high-lulani>IiF</high-lulani> <em>to hide; to be hidden</em>
 [/d]
-[3]Kinetic Verbs
+[4]Kinetic Verbs
 These verbs deal with motion of the subject.
 [d wordlist]
 [e]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <high-lulani>j;N</high-lulani> <em>to accelerate; to move around</em>
@@ -471,7 +502,7 @@ These verbs deal with motion of the subject.
 [e]<a href="http://dictionary.tinellb.com/r/raca.html#highlulani">raca</a> <high-lulani>rc</high-lulani> <em>to be hung; to be hanging</em>
 [e]<a href="http://dictionary.tinellb.com/f/fiqu.html#highlulani">fiqu</a> <high-lulani>FA</high-lulani> <em>to float; to be floating</em>
 [/d]
-[3]Adjectival Verbs
+[4]Adjectival Verbs
 These verbs attribute a property to the subject.
 [d folding]
 [f]<strong>Linu ra&rsquo;u ki. / Linu qixa ki.</strong>
@@ -496,7 +527,7 @@ These verbs attribute a property to the subject.
 [e]<a href="http://dictionary.tinellb.com/s/suqa.html#highlulani">suqa</a> <high-lulani>zq</high-lulani> <em>ready</em>
 [e]<a href="http://dictionary.tinellb.com/b/bi'u.html#highlulani">bi&rsquo;u</a> <high-lulani>Bu</high-lulani> <em>sore</em>
 [/d]
-[4]Chromatic Verbs
+[5]Chromatic Verbs
 These are adjectival verbs specifically dealing with <a href="../apocrypha/colours.html">colour</a>.
 [d wordlist]
 [f]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a> <high-lulani>K;a</high-lulani> <em>white</em>
@@ -506,9 +537,9 @@ These are adjectival verbs specifically dealing with <a href="../apocrypha/colou
 [e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a> <high-lulani>s</high-lulani> <em>yellow</em>
 [e]<a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a> <high-lulani>M;W</high-lulani> <em>brown</em>
 [/d]
-[3]Quasi-Transitve Verbs
+[4]Quasi-Transitve Verbs
 These are intransitive verbs in that they do not require a noun phrase in the object position. However, they act transitively by having a second noun phrase marked in a particular way.
-[4]Oblique and Adpositional Arguments
+[5]Oblique and Adpositional Arguments
 These are marked with an <a href="../syntax/case.html#obliquecases">oblique case marker</a>:
 [d folding]
 [f]<strong>Luna kalujifiru&rsquo;i mala; luna kalu&rsquo;ilupagu mala.</strong>
@@ -518,8 +549,9 @@ These are marked with an <a href="../syntax/case.html#obliquecases">oblique case
 [e]&ldquo;The moon is reflected in the lake; the moon is reflected in my heart.&rdquo;
 [/d]
 or an <a href="adpositions.html">adposition</a>:
-[d folding]
-[f]<strong>&#x294;aggami ni&#x294;irri&rsquo;a tihu.</strong>
+[d folding]<link>
+</link>
+[e]<strong>&#x294;aggami ni&#x294;irri&rsquo;a tihu.</strong>
 [e]<high-lulani>.a;gM / Ni;Ra / TV.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/a/'aggami.html#highlulani">&#x294;aggami</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a>.
 [e]<em>Police_officer</em> <em>in-Ir&igrave;a abide.</em>
@@ -533,7 +565,7 @@ The usual markers for each of these verbs is shown here:
 [e]<a href="http://dictionary.tinellb.com/m/malu.html#highlulani">malu</a> <high-lulani>mW</high-lulani> <em>to move to; to be in a place</em> &mdash; <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>, <a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a>, or other adpositions.
 [e]<a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <high-lulani>n</high-lulani> <em>to turn towards; to face</em> &mdash; <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>
 [/d]
-[4]Symmetric Relations<strong>
+[5]Symmetric Relations<strong>
 </strong>The participants of these verbs are equivalent to each other, that is, if Alice acts on Bob, then Bob acts on Alice in the same way. When the subject is Alice, say, then Bob can:
 1. Be placed in the object position. Despite the structure, this is not transitive, as the verb has no <a href="../syntax/argumentpromotion.html#passive">passive</a>, and pronouns use the intransitive form:
 [d folding]
@@ -566,8 +598,8 @@ The basic meaning of these sentences is not changed when swapping the particpant
 [e]<a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a> <high-lulani>V;l</high-lulani> <em>to copulate; to have consumated</em>
 [e]<a href="http://dictionary.tinellb.com/s/saki.html#highlulani">saki</a> <high-lulani>sK</high-lulani> <em>to share</em>
 [/d]
-[2]Transitive Verbs
-A transitive verb requires an object to complete its meaning. It is possible to elide this object if it is obvious or irrelevant.
+[3]Transitive Verbs
+The divalent verbs are called transitive, and these require an object to complete its meaning. It is possible to elide this object if it is obvious or irrelevant.
 [d folding]
 [f]<strong>Nimalu dasi (nukki).</strong>
 [e]<high-lulani>.NmW / dS / I;K.</high-lulani>
@@ -588,7 +620,7 @@ A transitive verb requires an object to complete its meaning. It is possible to 
 [e]<a href="http://dictionary.tinellb.com/x/xu.html#highlulani">xu</a> <high-lulani>Z</high-lulani> <em>to radiate</em>
 [e]<a href="http://dictionary.tinellb.com/x/xi.html#highlulani">xi</a> <high-lulani>X</high-lulani> <em>to seem</em>
 [/d]
-[3]Verbs of Transformation
+[4]Verbs of Transformation
 Unlike those above, these verbs involve a fundamental change to their patients.
 [d wordlist]
 [e]<a href="http://dictionary.tinellb.com/i/'idu.html#highlulani">&rsquo;idu</a> <high-lulani>iE</high-lulani> <em>to make</em>
@@ -599,7 +631,7 @@ Unlike those above, these verbs involve a fundamental change to their patients.
 [e]<a href="http://dictionary.tinellb.com/q/qarri.html#highlulani">qarri</a> <high-lulani>q;R</high-lulani> <em>to open</em>
 [e]<a href="http://dictionary.tinellb.com/t/turu.html#highlulani">turu</a> <high-lulani>ew</high-lulani> <em>to close</em>
 [/d]
-[3]Action Verbs
+[4]Action Verbs
 The objects of these verbs are activities. These can take the form of pure nouns:
 [d folding]
 [f]<strong>Hisutuba tara sinna.</strong>
@@ -623,7 +655,7 @@ They can also take <a href="../syntax/gerunds.html">gerunds</a>:
 [e]<a href="http://dictionary.tinellb.com/n/nu.html#highlulani">nu</a> <high-lulani>I</high-lulani> <em>to stop</em>
 [e]<a href="http://dictionary.tinellb.com/n/naqa.html#highlulani">naqa</a> <high-lulani>nq</high-lulani> <em>to need</em>
 [/d]
-[3]Verbs Requiring Animate Objects
+[4]Verbs Requiring Animate Objects
 [d wordlist]
 [e]<a href="http://dictionary.tinellb.com/k/kuli.html#highlulani">kuli</a> <high-lulani>&gt;L</high-lulani> <em>to meet; to know</em>
 [e]<a href="http://dictionary.tinellb.com/c/ca.html#highlulani">ca</a> <high-lulani>c</high-lulani> <em>to help</em>
@@ -633,7 +665,7 @@ They can also take <a href="../syntax/gerunds.html">gerunds</a>:
 [e]<a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> <high-lulani>&gt;;f</high-lulani> <em>to give</em>
 [e]<a href="http://dictionary.tinellb.com/t/tali.html#highlulani">tali</a> <high-lulani>tL</high-lulani> <em>to take</em>
 [/d]
-[2]Perceptive Verbs
+[3]Perceptive Verbs
 These verbs deal with the subject&rsquo;s ability to perceive stimuli. They are ambitransitive, that is, they can be used with or without an argument in the object position.
 When used purely intransitively, with no direct or dative object, they refer to a general ability to use that sense:
 [d folding]
