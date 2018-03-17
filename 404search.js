@@ -1,5 +1,41 @@
 if (window.location.href.indexOf("?") != -1) {
   search();
+} else {
+  searchForTerm();
+}
+
+// This is a check comment
+
+function searchForTerm() {
+  document.getElementById("results").innerHTML = "<ul><li>Searching...</li></ul>";
+  var url = "/searching.json";
+  var xmlhttp = new XMLHttpRequest();
+  var andButton = document.getElementById("and");
+  xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      var text = JSON.parse(this.responseText);
+      var terms = getTermfrom404().split("%20");
+      if (terms.length == 1) {
+        arr = oneTermSearch(text, terms);
+      } else {
+        arr = andSearch(text, terms);
+      }
+      display(arr, text, "results", terms);
+    }
+  };
+  xmlhttp.open("GET", url, true);
+  xmlhttp.send();
+}
+
+function getTermfrom404() {
+  /* searches for the term after the final slash of the url, without the .html ending */
+  var url = window.location.href;
+  var terms = url.split("/");
+  var term = terms[terms.length - 1]
+  try {
+    term = term.split(".html")[0];
+  } catch (err) {}
+  return term
 }
 
 function search() {
@@ -29,13 +65,17 @@ function search() {
 
 // returns array of terms
 function getTerms() {
-  var markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%29", ")", "%c5%97", ",r", "%20", "+", "%24", "$", "%25", "%",
+  var markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%28", "(", "%29", ")", "%c5%97", ",r", "%20", "+", "%24", "$", "%25", "%",
     "%3b", " ", "%2cr", ",r"
   ];
   var url = window.location.href;
   url = url.split("?");
   var searchString = url[1].split("&");
-  var andOr = searchString[1].split("=")[1];
+  try {
+    andOr = searchString[1].split("=")[1];
+  } catch (err) {
+    andOr = "and"
+  }
   if (andOr == "or") {
     document.getElementById("or").checked = true
   }
@@ -153,7 +193,7 @@ function markdown(arr) {
 function display(arr, data, id, terms) {
   terms = markdown(terms);
   if (arr.length == 0) {
-    document.getElementById(id).innerHTML = "<ul><li>Search term(s) not found</li></ul>";
+    document.getElementById(id).innerHTML = "<ul><li>" + terms.join(" ") + " not found</li></ul>";
     return;
   }
   var text = "<ol>"
