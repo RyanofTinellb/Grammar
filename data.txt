@@ -42,16 +42,15 @@ MT: Modern Tsarin
 &date=20171017
 --------------------------------------------------3
 [1]External History
-I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <strong>mica</strong> <em>hello</em> dates from that time.
+I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <strong>mica</strong> <high-lulani>Mc</high-lulani> <em>hello</em> dates from that time.
 When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what was to be the Ptokan language, and the language of the Fezhel. The latter  was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhel have been forced to change somewhat to adapt.
-&date=20170716
---------------------------------------------------1
+&date=20180316--------------------------------------------------1
 [1]High Lulani
 High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.
 &date=20170716
 --------------------------------------------------2
 [1]Phonology
-High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word&#x268;nternal consonant can be geminated.
+High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated, which can palatalise or change the voicing of the original sound.
 This page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.
 [t]h Consonant |h Example |  |h Consonant |h Example |  |h Consonant |h Example
  <ipa>b</ipa> | <strong>b</strong>a&rsquo;u |  | <ipa>h</ipa> | <strong>h</strong>isuba |  | <ipa>&#x272;</ipa> | ja<strong>nn</strong>i
@@ -65,6 +64,41 @@ This page will show each of the International Phonetic Alphabet characters used 
  <ipa>g</ipa> | <strong>g</strong>usu |  | <ipa>m</ipa> | <strong>m</strong>ullu |  | <ipa>t&#x2b0;</ipa> | <strong>t</strong>a&rsquo;i
  <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i |  | <ipa>n</ipa> | <strong>n</strong>isa |  | <ipa>&#x294;</ipa> | xu<strong>&rsquo;</strong>a
 [/t]
+[d mobile-table]
+[d small-table]
+[t]h Consonant |h Example
+ <ipa>b</ipa> | <strong>b</strong>a&rsquo;u
+ <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a
+ <ipa>c</ipa> | qa<strong>cc</strong>a
+ <ipa>c&#x2b0;</ipa> | <strong>c</strong>u&rsquo;i
+ <ipa>&#x255;</ipa> | <strong>x</strong>u&rsquo;a
+ <ipa>d</ipa> | <strong>d</strong>aru
+ <ipa>d&#x2b1;</ipa> | &rsquo;a<strong>dd</strong>a
+ <ipa>f</ipa> | <strong>f</strong>ara
+ <ipa>g</ipa> | <strong>g</strong>usu
+ <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i
+ <ipa>h</ipa> | <strong>h</strong>isuba
+ <ipa>j</ipa> | fa<strong>&#x294;</strong>a<sup>1</sup>
+ <ipa>&#x25f;</ipa> | <strong>j</strong>usi
+ <ipa>&#x25f;&#x2b1;</ipa> | ma<strong>jj</strong>a
+ <ipa>k</ipa> | ta<strong>kk</strong>i
+ <ipa>k&#x2b0;</ipa> | <strong>k</strong>a&rsquo;u
+ <ipa>l</ipa> | <strong>l</strong>isa
+ <ipa>&#x28e;</ipa> | mu<strong>ll</strong>u
+ <ipa>m</ipa> | <strong>m</strong>ullu
+ <ipa>n</ipa> | <strong>n</strong>isa
+ <ipa>&#x272;</ipa> | ja<strong>nn</strong>i
+ <ipa>&#x14b;</ipa> | <strong>q</strong>a
+ <ipa>p</ipa> | &rsquo;a<strong>pp</strong>u
+ <ipa>p&#x2b0;</ipa> | <strong>p</strong>uttu
+ <ipa>r</ipa> | gu<strong>rr</strong>isu
+ <ipa>&#x27e;</ipa> | <strong>r</strong>usa
+ <ipa>s</ipa> | <strong>s</strong>ippa
+ <ipa>t</ipa> | ni<strong>tt</strong>u
+ <ipa>t&#x2b0;</ipa> | <strong>t</strong>a&rsquo;i
+ <ipa>&#x294;</ipa> | <strong>x</strong>u&rsquo;a
+[/d][/d]
+[e]
 <sup>1</sup>The phone <ipa>/j/</ipa> only appears as the second segment of an allophonic variant of <ipa>/&#x294;/</ipa>, when that sound is geminated.
 [t]h  Vowel |h Example |  |h Vowel |h Example
  <ipa>a</ipa> | b<strong>a</strong>tu |  | <ipa>&#x259;</ipa> | su&rsquo;<strong>a</strong>
@@ -258,8 +292,7 @@ hr3 glottal | &rsquo;a: <high-lulani>a</high-lulani> ||||| ha: <high-lulani>h</h
  qa: <high-lulani>q</high-lulani> | qi: <high-lulani>Q</high-lulani> | qu: <high-lulani>A</high-lulani>
  &rsquo;a: <high-lulani>a</high-lulani> | &rsquo;i: <high-lulani>i</high-lulani> | &rsquo;u: <high-lulani>u</high-lulani>
  ha: <high-lulani>h</high-lulani> | hi: <high-lulani>H</high-lulani> | hu: <high-lulani>V</high-lulani>
-[/d]
-[/d]
+[/d][/d]
 Geminate consonants are shown as <high-lulani>;</high-lulani>, placed before the geminated consonant.
 A central dot <high-lulani>/</high-lulani> is placed between words, and sentences begin and end with a <high-lulani>.</high-lulani> symbol.
 While their shapes have been modified over time, it is still fairly clear how each phonetic feature has been symbolised.
@@ -348,12 +381,13 @@ Proper nouns begin with a capital letter in the transliteration.
 Pronouns are a closed class.
 [2]Personal Pronouns
 Personal pronouns are marked for case and person. Third person pronouns are marked for animacy.
-[t] | 1st person | 2nd person | 3rd person<br>topic | 3rd person<br>animate | 3rd person<br>inanimate
-[r]intranstitive | <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> | <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a> | (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">mihu</a> | <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>
-[r]transitive | <a href="http://dictionary.tinellb.com/s/suma.html#highlulani">suma</a> | <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> | (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a> | <a href="http://dictionary.tinellb.com/i/'iffa.html#highlulani">&rsquo;iffa</a>
-[r]ablative | <a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a> | <a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a> | <a href="http://dictionary.tinellb.com/r/raja.html#highlulani">raja</a> | <a href="http://dictionary.tinellb.com/k/kassi.html#highlulani">kassi</a> | <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>
-[r]dative | <a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a> | <a href="http://dictionary.tinellb.com/b/ba'u.html#highlulani">ba&rsquo;u</a> | <a href="http://dictionary.tinellb.com/d/datu.html#highlulani">datu</a> | <a href="http://dictionary.tinellb.com/j/jusi.html#highlulani">jusi</a> | <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>
-[r]genitive | <a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> | <a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> | <a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a> | <a href="http://dictionary.tinellb.com/d/disi.html#highlulani">disi</a> | <a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a>
+[t]|||hc3 3rd person
+|h 1st person |h 2nd person |h topic |h animate |h inanimate
+h intranstitive | <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> | <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a> | (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">mihu</a> | <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>
+h transitive | <a href="http://dictionary.tinellb.com/s/suma.html#highlulani">suma</a> | <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> | (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a> | <a href="http://dictionary.tinellb.com/i/'iffa.html#highlulani">&rsquo;iffa</a>
+h ablative | <a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a> | <a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a> | <a href="http://dictionary.tinellb.com/r/raja.html#highlulani">raja</a> | <a href="http://dictionary.tinellb.com/k/kassi.html#highlulani">kassi</a> | <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>
+h dative | <a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a> | <a href="http://dictionary.tinellb.com/b/ba'u.html#highlulani">ba&rsquo;u</a> | <a href="http://dictionary.tinellb.com/d/datu.html#highlulani">datu</a> | <a href="http://dictionary.tinellb.com/j/jusi.html#highlulani">jusi</a> | <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>
+h genitive | <a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> | <a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> | <a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a> | <a href="http://dictionary.tinellb.com/d/disi.html#highlulani">disi</a> | <a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a>
 [/t]
 <div class="mobile-table">
 first person:
@@ -431,7 +465,7 @@ Because of the nature of alienability, some contrasts can be made between posses
 Alienable possession is used in a hierarchy when the possessor is of higher rank than the possessed, and inalienable possession when the relationship is the other way around.
 [f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a><a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <em>my queen</em>
 [e]<a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <a href="http://dictionary.tinellb.com/m/mifasu.html#highlulani">mifasu</a> <em>my vassal</em>
-&date=20180227--------------------------------------------------3
+&date=20180316--------------------------------------------------3
 [1]Verbs
 A verb is a necessary part of any sentence, except when making <a href="../syntax/matrixclauses.html#copularsentences">copular sentences</a>. Verbs can be categorised on the basis of how many elements compose them.
 [2]Stem Verbs

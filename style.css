@@ -8,10 +8,7 @@ ipa {
 }
 
 small-caps {
-  /* Remove italics from small-caps */
   font-variant: small-caps;
-  font-weight: normal;
-  font-style: normal;
 }
 
 overline {
