@@ -43,8 +43,9 @@ body {
   margin-left: 7%;
 }
 
-.content h2.language {
+.content h2 a {
   margin-left: 5%;
+  color: yellow;
 }
 
 .content h3 {
