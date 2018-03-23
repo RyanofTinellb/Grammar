@@ -1,39 +1,3 @@
-@font-face {
-  font-family: high-lulani;
-  src: local('../highlulani.ttf');
-}
-
-ipa {
-  font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
-}
-
-small-caps {
-  font-variant: small-caps;
-}
-
-overline {
-  text-decoration: overline;
-}
-
-high-lulani, vulgar-lulani {
-  font-family: lulani, high-lulani;
-  font-size: larger;
-}
-
-high-lulani:hover, vulgar-lulani:hover {
-  font-size: xx-large;
-  font-weight: normal;
-  padding: 0em 0.5em;
-}
-
-high-lulani::before, vulgar-lulani::before {
-  content: "\202e";
-}
-
-high-lulani::after, vulgar-lulani::after {
-  content: "\202c";
-}
-
 body {
   font-family: sans-serif;
 }
@@ -68,12 +32,15 @@ body {
 }
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
-  font-family: serif;
+  font-family: "Georgia", serif;
   text-align: left;
+  color: yellow;
+  background-color: purple;
+  padding-left: 5%;
 }
 
 .content h2 {
-  margin-left: 10%;
+  margin-left: 7%;
 }
 
 .content h2.language {
@@ -81,15 +48,18 @@ body {
 }
 
 .content h3 {
-  margin-left: 15%;
+  margin-left: 7%;
+  font-size: larger;
 }
 
 .content h4 {
-  margin-left: 20%;
+  margin-left: 12%;
+  font-size: larger;
 }
 
 .content h5 {
-  margin-left: 25%;
+  margin-left: 15%;
+  font-size: larger;
 }
 
 .content table {

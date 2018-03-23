@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-[e] |           | <br>
-\n[f] | \n\n          | <br>
 </link><link> | </link>:<link> | <br>
 ' | &quot; | <br>
 " | &dblquot; | <br>
