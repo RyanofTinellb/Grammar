@@ -501,6 +501,7 @@ Common nouns can refer to abstract or concrete items.
 [e]<a href="http://dictionary.tinellb.com/c/caga.html#highlulani">caga</a> <high-lulani>cg</high-lulani> <em>mouth</em>
 [e]<a href="http://dictionary.tinellb.com/p/purissiji.html#highlulani">purissiji</a> <high-lulani>oR;SJ</high-lulani> <em>circle</em>[/d]
 [3]Stem Nouns
+Stem nouns are those that are neither compounded nor derived.
 [4]Mass Nouns
 Mass nouns refer to an undifferentiated aggregation rather than separate units. These cannot take numbers, except for a postpended <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <em>one</em> to denote the smallest individual piece of that aggregate.
 [d wordlist]
@@ -510,10 +511,26 @@ Mass nouns refer to an undifferentiated aggregation rather than separate units. 
 This determines which derivational suffixes can be applied, and which pronouns are used as reference.
 [5]Animate Noun
 These refer to people and other multicellular organisms capable of independent movement.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a> <high-lulani>&lt;z</high-lulani> <em>person</em>
+[e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <high-lulani>WlN</high-lulani> <em>queen</em>
+[e]<a href="http://dictionary.tinellb.com/k/kitisu.html#highlulani">kitisu</a> <high-lulani>KTz</high-lulani> <em>father</em>
+[e]<a href="http://dictionary.tinellb.com/s/sula.html#highlulani">sula</a> <high-lulani>zl</high-lulani> <em>goat</em>
+[/d]
 [5]Inanimate Noun
 These refer to things such as natural phenomena, plants, fungi and unicellular life.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/t/tissa.html#highlulani">tissa</a> <high-lulani>T;s</high-lulani> <em>wind</em>
+[e]<a href="http://dictionary.tinellb.com/l/linu.html#highlulani">linu</a> <high-lulani>LI</high-lulani> <em>tree</em>
+[e]<a href="http://dictionary.tinellb.com/h/hurru.html#highlulani">hurru</a> <high-lulani>V;w</high-lulani> <em>yeast</em>[/d]
 [5]Abstract Noun
 This category encompasses concepts, ideas and other intangibles. They are referred to by inanimate pronouns.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/s/sutti.html#highlulani">sutti</a> <high-lulani>z;T</high-lulani> <em>fear</em>
+[e]<a href="http://dictionary.tinellb.com/a/'adda.html#highlulani">&rsquo;adda</a> <high-lulani>a;d</high-lulani> <em>past</em>
+[e]<a href="http://dictionary.tinellb.com/t/tuhhi.html#highlulani">tuhhi</a> <high-lulani>e;H</high-lulani> <em>agriculture</em>
+[e]<a href="http://dictionary.tinellb.com/l/laru.html#highlulani">laru</a> <high-lulani>lw</high-lulani> <em>year</em>
+[e]<a href="http://dictionary.tinellb.com/s/sajja.html#highlulani">sajja</a> <high-lulani>s;j</high-lulani> <em>silence</em>[/d]
 [3]Compound Nouns
 The first part of a compound noun must be a noun, and the subsequent parts specify the meaning of that noun. These parts can be nouns or verbs. The whole noun is usually written without spaces. The syllabification and stress of nonce words are determined on a stem-by-stem basis. However, a compound in common use will start being treated whole.
 [d wordlist][d folding]
@@ -529,7 +546,7 @@ The first part of a compound noun must be a noun, and the subsequent parts speci
 [e]<em>bird-blue</em>
 [e]&ldquo;bluebird&rdquo;[/d][/d]
 [2]Proper Nouns
-Proper nouns begin with a capital letter in the transliteration.
+Proper nouns begin with a capital letter in the transliteration. These are names that refer to individual people, places or things.
 [d wordlist]
 [f]<strong>Ra&rsquo;ani</strong> <high-lulani>raN</high-lulani> <em>Ryan</em> (name of a person)
 [e]<strong>&#x294;ikinnisa</strong> <high-lulani>iK;Ns</high-lulani> <em>Eakins</em> (name of a family)
@@ -537,11 +554,11 @@ Proper nouns begin with a capital letter in the transliteration.
 [e]<a href="http://dictionary.tinellb.com/t/tinalli.html#highlulani">Tinalli</a> <high-lulani>Tn;L</high-lulani> <em>Tinellb</em> (name of a universe)
 [e]<a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <high-lulani>i;Ra</high-lulani> <em>Ir&igrave;a</em> (name of a city)
 [e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <high-lulani>WlN</high-lulani> <em>Lulani</em> (name of a language)
-[e]<a href="http://dictionary.tinellb.com/x/xuci.html#highlulani">Xuci</a><a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">Cula</a> <high-lulani>ZCor / yl</high-lulani> <em>The Crackled Egg</em> (name of a story)[/d]&date=20180324--------------------------------------------------4
+[e]<a href="http://dictionary.tinellb.com/x/xuci.html#highlulani">Xuci</a><a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">Cula</a> <high-lulani>ZCor / yl</high-lulani> <em>The Crackled Egg</em> (name of a story)[/d]&date=20180325--------------------------------------------------4
 [1]Pronouns
 Pronouns are a closed class.
 [2]Personal Pronouns
-Personal pronouns are marked for case and person. Third person pronouns are marked for animacy.
+Personal pronouns are marked for case and person. Third person pronouns are marked for animacy and topic.
 [t]|||hc3 3rd person
 |h 1st person |h 2nd person |h topic |h animate |h inanimate
 h intranstitive | <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> | <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a> | (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">mihu</a> | <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>
@@ -626,7 +643,7 @@ Because of the nature of alienability, some contrasts can be made between posses
 Alienable possession is used in a hierarchy when the possessor is of higher rank than the possessed, and inalienable possession when the relationship is the other way around.
 [f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a><a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <em>my queen</em>
 [e]<a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <a href="http://dictionary.tinellb.com/m/mifasu.html#highlulani">mifasu</a> <em>my vassal</em>
-&date=20180316--------------------------------------------------3
+&date=20180325--------------------------------------------------3
 [1]Verbs
 A verb is a necessary part of any sentence, except when making <a href="../syntax/matrixclauses.html#copularsentences">copular sentences</a>. Verbs can be categorised on the basis of how many elements compose them.
 [2]Stem Verbs
