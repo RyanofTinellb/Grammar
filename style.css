@@ -2,10 +2,15 @@ body {
   font-family: sans-serif;
 }
 
-.flex {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
+.content .columns table {
+  table-layout: fixed;
+  width: 100%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.content .columns table td {
+  text-align: left;
 }
 
 .content {
