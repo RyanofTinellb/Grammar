@@ -324,11 +324,11 @@ As well as the syllabary for most written use, there are also special-use syllab
 [1]Syllabary
 The Lulani syllabary was developed as a featural script, with similar sounds having similar symbols.
 It is written in horizontal rows, right-to-left, and top-to-bottom.
-[t] |h stop |h voiced |h nasal |h lateral |h central |h fricative
+[t] |h stop |h voiced |h nasal |h lateral |h tap |h fricative
 hr3 labial | pa: <high-lulani>p</high-lulani> | ba: <high-lulani>b</high-lulani> | ma: <high-lulani>m</high-lulani> ||| fa: <high-lulani>f</high-lulani> 
  pi: <high-lulani>P</high-lulani> | bi: <high-lulani>B</high-lulani> | mi: <high-lulani>M</high-lulani> ||| fi: <high-lulani>F</high-lulani>
  pu: <high-lulani>o</high-lulani> | bu: <high-lulani>O</high-lulani> | mu: <high-lulani>U</high-lulani> ||| fu: <high-lulani>v</high-lulani> 
-hr3 alveolar | ta: <high-lulani>t</high-lulani> | da: <high-lulani>d</high-lulani> | na: <high-lulani>n</high-lulani> | la: <high-lulani>l</high-lulani> | ra: <high-lulani>r</high-lulani> | sa: <high-lulani>s</high-lulani>
+hr3 alveolar /<br>retroflex | ta: <high-lulani>t</high-lulani> | da: <high-lulani>d</high-lulani> | na: <high-lulani>n</high-lulani> | la: <high-lulani>l</high-lulani> | ra: <high-lulani>r</high-lulani> | sa: <high-lulani>s</high-lulani>
  ti: <high-lulani>T</high-lulani> | di: <high-lulani>D</high-lulani> | ni: <high-lulani>N</high-lulani> | li: <high-lulani>L</high-lulani> | ri: <high-lulani>R</high-lulani> | si: <high-lulani>S</high-lulani> 
  tu: <high-lulani>e</high-lulani> | du: <high-lulani>E</high-lulani> | nu: <high-lulani>I</high-lulani> | lu: <high-lulani>W</high-lulani> | ru: <high-lulani>w</high-lulani> | su: <high-lulani>z</high-lulani> 
 hr3 palatal | ca: <high-lulani>c</high-lulani> | ja: <high-lulani>j</high-lulani> |||| xa: <high-lulani>x</high-lulani> 
@@ -343,23 +343,23 @@ hr3 glottal | &rsquo;a: <high-lulani>a</high-lulani> ||||| ha: <high-lulani>h</h
 [/t]
 [d mobile-table]
 [d small-table]
-[t] pa: <high-lulani>p</high-lulani> | pi: <high-lulani>P</high-lulani> | pu: <high-lulani>o</high-lulani>
+[t]&rsquo;a: <high-lulani>a</high-lulani> | &rsquo;i: <high-lulani>i</high-lulani> | &rsquo;u: <high-lulani>u</high-lulani>
+ pa: <high-lulani>p</high-lulani> | pi: <high-lulani>P</high-lulani> | pu: <high-lulani>o</high-lulani>
  ba: <high-lulani>b</high-lulani> | bi: <high-lulani>B</high-lulani> | bu: <high-lulani>O</high-lulani>
- ma: <high-lulani>m</high-lulani> | mi: <high-lulani>M</high-lulani> | mu: <high-lulani>U</high-lulani>
- fa: <high-lulani>f</high-lulani> | fi: <high-lulani>F</high-lulani> | fu: <high-lulani>v</high-lulani>
  ta: <high-lulani>t</high-lulani> | ti: <high-lulani>T</high-lulani> | tu: <high-lulani>e</high-lulani>
  da: <high-lulani>d</high-lulani> | di: <high-lulani>D</high-lulani> | du: <high-lulani>E</high-lulani>
- na: <high-lulani>n</high-lulani> | ni: <high-lulani>N</high-lulani> | nu: <high-lulani>I</high-lulani>
- la: <high-lulani>l</high-lulani> | li: <high-lulani>L</high-lulani> | lu: <high-lulani>W</high-lulani>
- ra: <high-lulani>r</high-lulani> | ri: <high-lulani>R</high-lulani> | ru: <high-lulani>w</high-lulani>
- sa: <high-lulani>s</high-lulani> | si: <high-lulani>S</high-lulani> | su: <high-lulani>z</high-lulani>
  ca: <high-lulani>c</high-lulani> | ci: <high-lulani>C</high-lulani> | cu: <high-lulani>y</high-lulani>
  ja: <high-lulani>j</high-lulani> | ji: <high-lulani>J</high-lulani> | ju: <high-lulani>Y</high-lulani>
- xa: <high-lulani>x</high-lulani> | xi: <high-lulani>X</high-lulani> | xu: <high-lulani>Z</high-lulani>
  ka: <high-lulani>k</high-lulani> | ki: <high-lulani>K</high-lulani> | ku: <high-lulani>&gt;</high-lulani>
  ga: <high-lulani>g</high-lulani> | gi: <high-lulani>G</high-lulani> | gu: <high-lulani>&lt;</high-lulani>
+ ma: <high-lulani>m</high-lulani> | mi: <high-lulani>M</high-lulani> | mu: <high-lulani>U</high-lulani>
+ na: <high-lulani>n</high-lulani> | ni: <high-lulani>N</high-lulani> | nu: <high-lulani>I</high-lulani>
  qa: <high-lulani>q</high-lulani> | qi: <high-lulani>Q</high-lulani> | qu: <high-lulani>A</high-lulani>
- &rsquo;a: <high-lulani>a</high-lulani> | &rsquo;i: <high-lulani>i</high-lulani> | &rsquo;u: <high-lulani>u</high-lulani>
+ la: <high-lulani>l</high-lulani> | li: <high-lulani>L</high-lulani> | lu: <high-lulani>W</high-lulani>
+ ra: <high-lulani>r</high-lulani> | ri: <high-lulani>R</high-lulani> | ru: <high-lulani>w</high-lulani>
+ fa: <high-lulani>f</high-lulani> | fi: <high-lulani>F</high-lulani> | fu: <high-lulani>v</high-lulani>
+ sa: <high-lulani>s</high-lulani> | si: <high-lulani>S</high-lulani> | su: <high-lulani>z</high-lulani>
+ xa: <high-lulani>x</high-lulani> | xi: <high-lulani>X</high-lulani> | xu: <high-lulani>Z</high-lulani>
  ha: <high-lulani>h</high-lulani> | hi: <high-lulani>H</high-lulani> | hu: <high-lulani>V</high-lulani>
 [/d][/d]
 Geminate consonants are shown as <high-lulani>;</high-lulani>, placed before the geminated consonant.
@@ -369,9 +369,9 @@ While their shapes have been modified over time, it is still fairly clear how ea
 nasal: vertical stroke
 fricative: arc
 lateral: swish
-central: loop
+flap: loop
 labial: low circle
-alveolar: apex
+alveolar / retroflex: apex
 palatal: corner
 velar: semi-circle
 glottal: high circle
@@ -379,7 +379,7 @@ open vowel: (none)
 front vowel: vertical line
 back vowel: horizontal line
 [/l]
-&date=20180316--------------------------------------------------3
+&date=20180324--------------------------------------------------3
 [1]Spelling Syllabary
 There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol is represented by the word <a href="http://dictionary.tinellb.com/f/fa''a.html#highlulani">fa&#x294;a</a> <em>language</em>.
 [d columns][t] &rsquo;a: <a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&rsquo;ara</a> <em>face</em> | &rsquo;i: <a href="http://dictionary.tinellb.com/u/'ussi.html#highlulani">&rsquo;ussi</a> <em>gift</em> | &rsquo;u: <a href="http://dictionary.tinellb.com/i/'iku.html#highlulani">&rsquo;iku</a> <em>hunger</em>
@@ -459,33 +459,53 @@ There is a spelling syllabary, used for transmitting words across potentially no
 [/d][/d]&date=20180324--------------------------------------------------3
 [1]Tactile Syllabary
 There is a tactile syllabary for use by blind and visually-impaired language users.
-Each cell is three rows by two columns of raised dots. The upper four dots generally denote the consonant, with syllables beginning with b, d, j, g, f or x being the exceptions. The lowest pair generally denote the vowel.
-[t] | &#x294; | p | b | t | d | c | j | k | g | m | n | q | l | r | f | s | x | h
-[r]a | &#x2801; | &#x2803; | &#x2823; | &#x2809; | &#x2829; | &#x2812; | &#x2832; | &#x2811; | &#x2831; | &#x280B; | &#x2819; | &#x281A; | &#x280A; | &#x281B; | &#x280C; | &#x2813; | &#x2821; | &#x2802;
-[r]i | &#x2805; | &#x2807; | &#x282B; | &#x280D; | &#x2839; | &#x2816; | &#x2822; | &#x2815; | &#x283A; | &#x280F; | &#x281D; | &#x281E; | &#x280E; | &#x281F; | &#x281C; | &#x2817; | &#x2833; | &#x2806;
-[r]u | &#x2825; | &#x2827; | &#x282C; | &#x282D; | &#x283C; | &#x2836; | &#x2838; | &#x2835; | &#x2834; | &#x282F; | &#x283D; | &#x283E; | &#x282E; | &#x283F; | &#x282A; | &#x2837; | &#x283B; | &#x2826;
+Each cell is three rows by two columns of raised dots. The upper four dots generally denote the consonant, with syllables beginning with b, d, j, g, f, or x being the exceptions. The lowest pair generally denote the vowel.
+[t]|h &#x294; |h p |h b |h t |h d |h c |h j |h k |h g |h m |h n |h q |h l |h r |h f |h s |h x |h h
+h a | &#x2801; | &#x2803; | &#x2823; | &#x2809; | &#x2829; | &#x2812; | &#x2832; | &#x2811; | &#x2831; | &#x280B; | &#x2819; | &#x281A; | &#x280A; | &#x281B; | &#x280C; | &#x2813; | &#x2821; | &#x2802;
+h i | &#x2805; | &#x2807; | &#x282B; | &#x280D; | &#x2839; | &#x2816; | &#x2822; | &#x2815; | &#x283A; | &#x280F; | &#x281D; | &#x281E; | &#x280E; | &#x281F; | &#x281C; | &#x2817; | &#x2833; | &#x2806;
+h u | &#x2825; | &#x2827; | &#x282C; | &#x282D; | &#x283C; | &#x2836; | &#x2838; | &#x2835; | &#x2834; | &#x282F; | &#x283D; | &#x283E; | &#x282E; | &#x283F; | &#x282A; | &#x2837; | &#x283B; | &#x2826;
 [/t]
+[d mobile-table][d small-table]
+[t]|h a |h i |h u
+h &#x294; | &#x2801; | &#x2805; | &#x2825;
+h p | &#x2803; | &#x2807; | &#x2827;
+h b | &#x2823; | &#x282B; | &#x282C;
+h t | &#x2809; | &#x280D; | &#x282D;
+h d | &#x2829; | &#x2839; | &#x283C;
+h c | &#x2812; | &#x2816; | &#x2836;
+h j | &#x2832; | &#x2822; | &#x2838;
+h k | &#x2811; | &#x2815; | &#x2835;
+h g | &#x2831; | &#x283A; | &#x2834;
+h m | &#x280B; | &#x280F; | &#x282F;
+h n | &#x2819; | &#x281D; | &#x283D;
+h q | &#x281A; | &#x281E; | &#x283E;
+h l | &#x280A; | &#x280E; | &#x282E;
+h r | &#x281B; | &#x281F; | &#x283F;
+h f | &#x280C; | &#x281C; | &#x282A;
+h s | &#x2813; | &#x2817; | &#x2837;
+h x | &#x2821; | &#x2833; | &#x283B;
+h h | &#x2802; | &#x2806; | &#x2826;
+[/d][/d]
 Dot 5 (&#x2810;) by itself is the geminate. Word separation is shown by (&#x2800;) an empty space, clause separation by (&#x2824;) the comma, and sentence separation by (&#x2814;) the period. Numbers are prefixed with (&#x2828;) the number sign, and the first syllable of each number is used.
-&date=20170716
---------------------------------------------------2
+&date=20180324--------------------------------------------------2
 [1]Morphology
-High Lulani is an analytic agglutinative language, as morphemes tend to keep their own shape, even when forming words.
-&date=20170717
---------------------------------------------------3
+High Lulani is an analytic agglutinative language, as morphemes tend to keep their own shape, even when forming words.&date=20180324--------------------------------------------------3
 [1]Nouns
 Common and proper nouns are open classes; the pronouns are closed.
 [2]Common Nouns
 Common nouns can refer to abstract or concrete items.
-[f]<a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <em>love</em>
-[e]<a href="http://dictionary.tinellb.com/b/bata.html#highlulani">bata</a> <em>caution</em>
-[e]<a href="http://dictionary.tinellb.com/a/'ahati.html#highlulani">&rsquo;ahati</a> <em>happiness</em>
-[e]<a href="http://dictionary.tinellb.com/c/caga.html#highlulani">caga</a> <em>mouth</em>
-[e]<a href="http://dictionary.tinellb.com/p/purissiji.html#highlulani">purissiji</a> <em>circle</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <high-lulani>Wi</high-lulani> <em>love</em>
+[e]<a href="http://dictionary.tinellb.com/b/bata.html#highlulani">bata</a> <high-lulani>bt</high-lulani> <em>caution</em>
+[e]<a href="http://dictionary.tinellb.com/a/'ahati.html#highlulani">&rsquo;ahati</a> <high-lulani>ahT</high-lulani> <em>happiness</em>
+[e]<a href="http://dictionary.tinellb.com/c/caga.html#highlulani">caga</a> <high-lulani>cg</high-lulani> <em>mouth</em>
+[e]<a href="http://dictionary.tinellb.com/p/purissiji.html#highlulani">purissiji</a> <high-lulani>oR;SJ</high-lulani> <em>circle</em>[/d]
 [3]Stem Nouns
 [4]Mass Nouns
 Mass nouns refer to an undifferentiated aggregation rather than separate units. These cannot take numbers, except for a postpended <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <em>one</em> to denote the smallest individual piece of that aggregate.
-[f]<a href="http://dictionary.tinellb.com/i/'iti.html#highlulani">&rsquo;iti</a> <em>milk</em> / <a href="http://dictionary.tinellb.com/i/'iti.html#highlulani">&rsquo;iti</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <em>drop of milk</em>
-[e]<a href="http://dictionary.tinellb.com/m/marru.html#highlulani">marru</a> <em>flies</em> / <a href="http://dictionary.tinellb.com/m/marru.html#highlulani">marru</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <em>fly</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/i/'iti.html#highlulani">&rsquo;iti</a> <high-lulani>iT</high-lulani> <em>milk</em> / <a href="http://dictionary.tinellb.com/i/'iti.html#highlulani">&rsquo;iti</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <high-lulani>iTXt</high-lulani> <em>drop of milk</em>
+[e]<a href="http://dictionary.tinellb.com/m/marru.html#highlulani">marru</a> <high-lulani>m;w</high-lulani> <em>flies</em> / <a href="http://dictionary.tinellb.com/m/marru.html#highlulani">marru</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <high-lulani>m;wXt</high-lulani> <em>fly</em>[/d]
 [4]Animacy
 This determines which derivational suffixes can be applied, and which pronouns are used as reference.
 [5]Animate Noun
@@ -496,17 +516,28 @@ These refer to things such as natural phenomena, plants, fungi and unicellular l
 This category encompasses concepts, ideas and other intangibles. They are referred to by inanimate pronouns.
 [3]Compound Nouns
 The first part of a compound noun must be a noun, and the subsequent parts specify the meaning of that noun. These parts can be nouns or verbs. The whole noun is usually written without spaces. The syllabification and stress of nonce words are determined on a stem-by-stem basis. However, a compound in common use will start being treated whole.
-[f]<a href="http://dictionary.tinellb.com/j/jifiru'inulli.html#highlulani">jifiru&rsquo;inulli</a> <em>mountain lake</em> ( <a href="http://dictionary.tinellb.com/j/jifiru'i.html#highlulani">jifiru&rsquo;i</a> <em>lake</em> + <a href="http://dictionary.tinellb.com/n/nulli.html#highlulani">nulli</a> <em>mountain</em> )
-[e]<a href="http://dictionary.tinellb.com/x/xu'abaju.html#highlulani">xu&rsquo;abaju</a> <em>bluebird</em> (  <a href="http://dictionary.tinellb.com/x/xu'a.html#highlulani">xu&rsquo;a</a> <em>bird</em> + <a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <em>blue</em> )
+[d wordlist][d folding]
+[f]<strong>jifiru&rsquo;inulli</strong>
+[e]<high-lulani>JFwiI;L</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/j/jifiru'i.html#highlulani">jifiru&rsquo;i</a>-<a href="http://dictionary.tinellb.com/n/nulli.html#highlulani">nulli</a>
+[e]<em>lake-mountain</em>
+[e]&ldquo;mountain lake&rdquo;[/d]
+[d folding]
+[f]<strong>xu&rsquo;abaju</strong>
+[e]<high-lulani>ZabY</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/x/xu'a.html#highlulani">xu&rsquo;a</a>-<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a>
+[e]<em>bird-blue</em>
+[e]&ldquo;bluebird&rdquo;[/d][/d]
 [2]Proper Nouns
 Proper nouns begin with a capital letter in the transliteration.
-[f]<strong>Ra&rsquo;ani</strong> <em>Ryan</em> (name of a person)
-[e]<strong>&#x294;ikinnisa</strong> <em>Eakins</em> (name of a family)
-[e]<a href="http://dictionary.tinellb.com/s/sa'imi.html#highlulani">Sa&rsquo;imi</a> <em>Caemi</em> (name of a deity)
-[e]<a href="http://dictionary.tinellb.com/t/tinalli.html#highlulani">Tinalli</a> <em>Tinellb</em> (name of a universe)
-[e]<a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <em>Ir&igrave;a</em> (name of a city)
-[e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <em>Lulani</em> (name of a language)
-[e]<a href="http://dictionary.tinellb.com/x/xuci.html#highlulani">Xuci</a><a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">Cula</a> <em>The Crackled Egg</em> (name of a story)&date=20180227--------------------------------------------------4
+[d wordlist]
+[f]<strong>Ra&rsquo;ani</strong> <high-lulani>raN</high-lulani> <em>Ryan</em> (name of a person)
+[e]<strong>&#x294;ikinnisa</strong> <high-lulani>iK;Ns</high-lulani> <em>Eakins</em> (name of a family)
+[e]<a href="http://dictionary.tinellb.com/s/sa'imi.html#highlulani">Sa&rsquo;imi</a> <high-lulani>siM</high-lulani> <em>Caemi</em> (name of a deity)
+[e]<a href="http://dictionary.tinellb.com/t/tinalli.html#highlulani">Tinalli</a> <high-lulani>Tn;L</high-lulani> <em>Tinellb</em> (name of a universe)
+[e]<a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <high-lulani>i;Ra</high-lulani> <em>Ir&igrave;a</em> (name of a city)
+[e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <high-lulani>WlN</high-lulani> <em>Lulani</em> (name of a language)
+[e]<a href="http://dictionary.tinellb.com/x/xuci.html#highlulani">Xuci</a><a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">Cula</a> <high-lulani>ZCor / yl</high-lulani> <em>The Crackled Egg</em> (name of a story)[/d]&date=20180324--------------------------------------------------4
 [1]Pronouns
 Pronouns are a closed class.
 [2]Personal Pronouns
