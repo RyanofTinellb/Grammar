@@ -21,3 +21,6 @@
 <overline>5</overline> | &rive; | <br>
 <overline>6</overline> | &rix; | <br>
 <overline>7</overline> | &reven; | <br>
+[d wordlist] | [[w | <br>
+[d folding] | [[f | <br>
+[/d] | ]] | <br>
