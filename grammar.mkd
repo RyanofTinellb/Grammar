@@ -9,6 +9,7 @@
 &ldquo; | '" | <br>
 &quot; | `` | <br>
 &dblquot; | "" | <br>
+&middot; | (.) | <br>
 &mdash; | -- | <br>
 &igrave; | )i | <br>
 <a href= | href= | <br>

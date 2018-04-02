@@ -57,6 +57,16 @@ h6 {
     line-height: 1.5;
 }
 
+.content table {
+    margin-left: 15%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.content table td, .content table th {
+    padding: 0.5em;
+}
+
 .content div.wordlist {
     margin-top: 2em;
     margin-left: 5%;
