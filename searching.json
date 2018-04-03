@@ -1636,18 +1636,21 @@
       ]
     }, 
     "before": {
+      "25": [
+        1969
+      ], 
       "26": [
         2037, 
         2039
+      ], 
+      "12": [
+        567
       ], 
       "38": [
         2548
       ], 
       "31": [
         2170
-      ], 
-      "12": [
-        567
       ], 
       "40": [
         2673
@@ -2215,6 +2218,11 @@
       ], 
       "7": [
         242
+      ]
+    }, 
+    "infix": {
+      "25": [
+        1969
       ]
     }, 
     "chlorine": {
@@ -4333,6 +4341,7 @@
         1895, 
         1897, 
         1965, 
+        1969, 
         1974, 
         1980
       ], 
@@ -9029,6 +9038,11 @@
         1412
       ]
     }, 
+    "lanaru": {
+      "25": [
+        1970
+      ]
+    }, 
     "topic": {
       "24": [
         1752
@@ -11730,9 +11744,6 @@
       ], 
       "14": [
         861
-      ], 
-      "25": [
-        1969
       ]
     }, 
     "neatly": {
@@ -13605,7 +13616,8 @@
         2264
       ], 
       "25": [
-        1885
+        1885, 
+        1969
       ]
     }, 
     "changing": {
@@ -15608,6 +15620,11 @@
         361, 
         368, 
         375
+      ]
+    }, 
+    "ar": {
+      "25": [
+        1969
       ]
     }, 
     "at": {
@@ -18571,6 +18588,11 @@
         3053
       ]
     }, 
+    "actually": {
+      "25": [
+        1969
+      ]
+    }, 
     "late": {
       "3": [
         36
@@ -19583,11 +19605,6 @@
         3048
       ]
     }, 
-    "karu": {
-      "25": [
-        1969
-      ]
-    }, 
     "alongside": {
       "34": [
         2433
@@ -20082,6 +20099,11 @@
     "commas": {
       "34": [
         2365
+      ]
+    }, 
+    "nagari": {
+      "25": [
+        1971
       ]
     }, 
     "relation": {
@@ -21281,8 +21303,7 @@
     }, 
     "replaces": {
       "25": [
-        1885, 
-        1969
+        1885
       ]
     }, 
     "look": {
@@ -21910,11 +21931,6 @@
     "alternate": {
       "19": [
         1331
-      ]
-    }, 
-    "lakaru": {
-      "25": [
-        1970
       ]
     }, 
     "oganesson": {
@@ -22981,9 +22997,6 @@
       ]
     }, 
     "disyllabic": {
-      "25": [
-        1969
-      ], 
       "13": [
         587
       ]
@@ -23639,9 +23652,6 @@
       ], 
       "27": [
         2104
-      ], 
-      "25": [
-        1969
       ], 
       "23": [
         1730
@@ -25295,11 +25305,6 @@
       ], 
       "30": [
         2149
-      ]
-    }, 
-    "nakaru": {
-      "25": [
-        1971
       ]
     }, 
     "animacy": {
@@ -27353,6 +27358,9 @@
       ], 
       "22": [
         1697
+      ], 
+      "25": [
+        1969
       ], 
       "19": [
         1301
@@ -32361,9 +32369,9 @@
     " bi&rsquo;ussasu to really hurt", 
     "Other Parts of Speech", 
     "These suffixes are applied to words other than nouns and verbs", 
-    "-karu replaces the entire final syllable of disyllabic auxiliaries and denotes an end to the action described by the sentence", 
-    " lakaru will finish doing", 
-    " nakaru will finish being", 
+    "-ar- is actually an infix placed before the final vowel of auxiliaries and denotes an end to the action described by the sentence", 
+    " lanaru will finish doing", 
+    " nagari will finish being", 
     "-ma derives terminative adverbs", 
     " nufirama no longer wanting", 
     "-hita is used to negate adverbs", 

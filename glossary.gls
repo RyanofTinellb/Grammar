@@ -44,6 +44,8 @@
     "dat": "dative",
     "ger": "gerund",
     "gen": "genitive",
+    "inj": "interjection",
     "nmn": "nominaliser",
-    "psv": "passive"
+    "psv": "passive",
+    "trm": "terminative"
 }
