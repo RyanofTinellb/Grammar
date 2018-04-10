@@ -3,11 +3,12 @@ body {
 }
 
 .nav-pane {
-    line-height: 1.5;
+    line-height: 1.75;
 }
 
 .nav-pane ul {
     list-style: none;
+    padding-left: 1.2em;
 }
 
 .nav-pane li.normal {

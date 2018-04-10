@@ -2,14 +2,13 @@
 This is a grammar of the languages of Tinellb. All these languages descend from a single common ancestor, High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.
 [2]<a href="highlulani/index.html">High Lulani</a>
 <high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi.
-&date=20180203--------------------------------------------------1
+&date=20180403--------------------------------------------------1
 [1]Introduction
 The Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality.
 &date=20171023
 --------------------------------------------------2
 [1]History
-The internal history of the Guozu and their languages is written as if it were a chronicle of actual events. The external history is the more prosaic record: a description of the genesis and evolution of my ideas.
-&date=20180223--------------------------------------------------3
+The internal history of the Guozu and their languages is written as if it were a chronicle of actual events. The external history is the more prosaic record: a description of the genesis and evolution of my ideas.&date=20180403--------------------------------------------------3
 [1]Internal History
 Within the universe named Tinellb, there is a planet named Ptoko. There arose on this world a race of humanoids, the Ptokan. Over millions of years, their race evolved and became the dominant force on their planet.
 There had been many conflicts, small and large, throughout their history. One particularly bloody war had had much of the population brought into it: a World War. The survivors of this war were ruled by a single monarch.
@@ -557,8 +556,8 @@ Proper nouns begin with a capital letter in the transliteration. These are names
 [e]<a href="http://dictionary.tinellb.com/x/xuci.html#highlulani">Xuci</a><a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">Cula</a> <high-lulani>ZCor / yl</high-lulani> <em>The Crackled Egg</em> (name of a story)[/d]&date=20180325--------------------------------------------------4
 [1]Pronouns
 Pronouns are a closed class. They are marked for case and person. The third person pronouns are additionally marked for <a href="../deixis.html#topicality">topicality</a> or <a href="index.html#animacy">animacy</a>.
-[t]|||hc3 3rd person
-|h 1st person |h 2nd person |h topic |h animate |h inanimate
+[t]r2 |hr2 1st person |hr2 2nd person |hc3 3rd person
+h topic |h animate |h inanimate
 h intranstitive | <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> | <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a> | (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">mihu</a> | <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>
 h transitive | <a href="http://dictionary.tinellb.com/s/suma.html#highlulani">suma</a> | <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> | (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a> | <a href="http://dictionary.tinellb.com/i/'iffa.html#highlulani">&rsquo;iffa</a>
 h ablative | <a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a> | <a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a> | <a href="http://dictionary.tinellb.com/r/raja.html#highlulani">raja</a> | <a href="http://dictionary.tinellb.com/k/kassi.html#highlulani">kassi</a> | <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>
@@ -585,7 +584,7 @@ third person topic:
 [e]dative: <a href="http://dictionary.tinellb.com/d/datu.html#highlulani">datu</a>
 [e]genitive: <a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>
 third person animate:
-[e]intransitive: <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>
+[e]intransitive: <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">mihu</a>
 [e]transitive: <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a>
 [e]ablative: <a href="http://dictionary.tinellb.com/k/kassi.html#highlulani">kassi</a>
 [e]dative: <a href="http://dictionary.tinellb.com/j/jusi.html#highlulani">jusi</a>
@@ -901,8 +900,7 @@ The divalent verbs are called transitive, and these require an object to complet
 [e]&ldquo;The bear is eating (the strawberry).&rdquo;[/d]
 [d wordlist]
 [e]<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <high-lulani>dS</high-lulani> <em>to consume</em>
-[e]<a href="http://dictionary.tinellb.com/n/nidu.html#highlulani">nidu</a> <high-lulani>NE</high-lulani> <em>to use</em>
-[e]<a href="http://dictionary.tinellb.com/t/tapu.html#highlulani">tapu</a> <high-lulani>to</high-lulani> <em>to enjoy</em>[/d]
+[e]<a href="http://dictionary.tinellb.com/n/nidu.html#highlulani">nidu</a> <high-lulani>NE</high-lulani> <em>to use</em>[/d]
 [2]Transformative Verbs
 Unlike those above, these verbs involve a fundamental change to their <strong>objects</strong>.
 [d wordlist]
@@ -1030,7 +1028,8 @@ They can also take <a href="../../syntax/gerunds.html">gerunds</a>:
 [e]<a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <high-lulani>eN</high-lulani> <em>to repeat</em>
 [e]<a href="http://dictionary.tinellb.com/n/nu.html#highlulani">nu</a> <high-lulani>I</high-lulani> <em>to stop</em>
 [e]<a href="http://dictionary.tinellb.com/n/naqa.html#highlulani">naqa</a> <high-lulani>nq</high-lulani> <em>to need</em>
-[/d]&date=20180403--------------------------------------------------4
+[e]<a href="http://dictionary.tinellb.com/t/tapu.html#highlulani">tapu</a> <em>to look forward to; to enjoy</em>
+[/d]&date=20180405--------------------------------------------------4
 [1]Ambitransitivity
 Ambitransitive verbs can be used with or without an argument in the object position.
 [2]Perceptive Verbs
@@ -1215,7 +1214,7 @@ The indefinite pro-forms are sets of deictic words which can be placed into a ta
 h proximate | <a href="http://dictionary.tinellb.com/m/mari.html#highlulani">mari</a> | <a href="http://dictionary.tinellb.com/m/majja.html#highlulani">majja</a> | <a href="http://dictionary.tinellb.com/m/marila.html#highlulani">marila</a> | <a href="http://dictionary.tinellb.com/m/madusi.html#highlulani">madusi</a> | <a href="http://dictionary.tinellb.com/m/marika.html#highlulani">marika</a>
 h distal | <a href="http://dictionary.tinellb.com/k/kasi.html#highlulani">kasi</a> | <a href="http://dictionary.tinellb.com/k/kasuja.html#highlulani">kasuja</a> | <a href="http://dictionary.tinellb.com/k/kalisa.html#highlulani">kalisa</a> | <a href="http://dictionary.tinellb.com/k/kadusi.html#highlulani">kadusi</a> | <a href="http://dictionary.tinellb.com/k/kasika.html#highlulani">kasika</a>
 h interrogative | <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> | <a href="http://dictionary.tinellb.com/s/satta.html#highlulani">satta</a> | <a href="http://dictionary.tinellb.com/s/sulla.html#highlulani">sulla</a> | <a href="http://dictionary.tinellb.com/l/lara.html#highlulani">lara</a> | <a href="http://dictionary.tinellb.com/s/saqqa.html#highlulani">saqqa</a>
-h negative | <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a> | <a href="http://dictionary.tinellb.com/q/qa'i.html#highlulani">qa&rsquo;i</a> | <a href="http://dictionary.tinellb.com/b/buni.html#highlulani">buni</a>
+h negative | <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a> | <a href="http://dictionary.tinellb.com/q/qa'i.html#highlulani">qa&rsquo;i</a> | <a href="http://dictionary.tinellb.com/b/buni.html#highlulani">buni</a> |r2c2 -
 h universal | <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> | <a href="http://dictionary.tinellb.com/b/batuja.html#highlulani">batuja</a> | <a href="http://dictionary.tinellb.com/a/'abala.html#highlulani">&rsquo;abala</a>
 h existential | <a href="http://dictionary.tinellb.com/u/'umi.html#highlulani">&rsquo;umi</a> | <a href="http://dictionary.tinellb.com/m/mituja.html#highlulani">mituja</a> | <a href="http://dictionary.tinellb.com/a/'amila.html#highlulani">&rsquo;amila</a> |c2 <a href="http://dictionary.tinellb.com/f/fana.html#highlulani">fana</a>
 [/t]
