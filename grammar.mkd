@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<a href=" | {{ | <br>
+"> | || | <br>
+</a> | }} | <br>
 </link><link> | </link>:<link> | <br>
 ' | &quot; | <br>
 " | &dblquot; | <br>
@@ -12,7 +15,6 @@
 &middot; | (.) | <br>
 &mdash; | -- | <br>
 &igrave; | )i | <br>
-<a href= | href= | <br>
 &hellip; | ... | <br>
 &rarr; | => | <br>
 <overline>1</overline> | &rone; | <br>

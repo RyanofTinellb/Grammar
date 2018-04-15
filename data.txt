@@ -1290,12 +1290,15 @@ This last terms do not fit into any of the other categories.
 [e]<a href="http://dictionary.tinellb.com/s/sabufi.html#highlulani">sabufi</a> <em>different</em>
 &date=20170726--------------------------------------------------3
 [1]Deixis
-[2]Proforms
-There are two groups of proforms based on their semantic properties. <a href="definite.html">Definite proforms</a>
+Deixis encompasses words and phrases which rely on an external context to complete their meaning.
 [2]Topicality
-Once a topic is introduced in a discourse or narrative, it can be assumed to be the subject until changed.&date=20180413--------------------------------------------------4
-[1]Definite
-Pronouns are a closed class. They are marked for case and person. The third person pronouns are additionally marked for <a href="../deixis.html#topicality">topicality</a> or <a href="index.html#animacy">animacy</a>.
+Once a topic is introduced in a discourse or narrative, it can be assumed to be the subject until changed.
+[2]Pro-forms
+The two groups of pro-forms are classified on the basis of their semantic properties.
+<a href="definitepro-forms.html">Definite pro-forms</a> are those that encode case, person, animacy and topicality.  <a href="indefinitepro-forms.html">indefinite pro-forms</a> comprise the remaining deictic terms.&date=20180414
+--------------------------------------------------4
+[1]Personal Pronouns
+These are a closed class. They are marked for <a href="../../syntax/case.html">case</a> and <a href="https://en.wikipedia.org/wiki/Grammatical_person">person</a>. The third person pronouns are additionally marked for <a href="index.html#topicality">topicality</a> or <a href="../nouns.html#animacy">animacy</a>.
 [t]r2 |hr2 1st person |hr2 2nd person |hc3 3rd person
 h topic |h animate |h inanimate
 h intranstitive | <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> | <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a> | (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">mihu</a> | <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>
@@ -1342,13 +1345,13 @@ Second person refers to the listener or listeners, and any group the listener is
 Third person refers to any other party. It is not used for the subject of the sentence, whether present or implied.
 [2]Number
 Pronouns are not marked for number. However, if the pronoun refers to a group that includes more than one of these persons, then additional pronouns can be constructed as follows:
-The second person transitive pronoun <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <high-lulani>v</high-lulani> can be suffixed to the first person pronouns to form first person inclusive plural pronouns.
-The third person intransitive inanimate pronoun <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <high-lulani>p</high-lulani> can be suffixed to any first or second person pronouns, including those with <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>, to form other plural pronouns.
+The second person transitive pronoun <a href="http://dictionary.tinellb.com/f/-fu.html#highlulani">-fu</a> <high-lulani>v</high-lulani> <em>and you</em> can be suffixed to the first person pronouns to form first person inclusive plural pronouns.
+The third person intransitive inanimate pronoun <a href="http://dictionary.tinellb.com/p/-pa.html#highlulani">-pa</a> <high-lulani>p</high-lulani> <em>and them </em>can be suffixed to any first or second person pronouns, including those with <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>, to form other plural pronouns.
 [d wordlist]
 [f]<a href="http://dictionary.tinellb.com/s/suma.html#highlulani">suma</a><a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <high-lulani>zmv</high-lulani> <em>you and I</em>
 [e]<a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a><a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <high-lulani>PXv</high-lulani> <em>to you and me</em>
 [e]<a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <high-lulani>o;ep</high-lulani> <em>from them and me</em>
-[e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <high-lulani>F;Lp</high-lulani> <em>they and you</em>
+[e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <high-lulani>F;Lp</high-lulani> <em>you and them</em>
 [e]<a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a><a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <high-lulani>p&lt;vp</high-lulani> <em>of you, them and me</em>[/d]
 [2]The Genitive
 Four of the cases are used to mark a connection between the noun and the main verb of the clause. Contrariwise, the function of the genitive is to mark a connection between nouns, including one noun possessing another.
@@ -1435,8 +1438,8 @@ Because of the nature of alienability, some contrasts can be made between posses
 Alienable possession is used in a hierarchy when the possessor is of higher rank than the possessed, and inalienable possession when the relationship is the other way around.
 [f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a><a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <em>my queen</em>
 [e]<a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <a href="http://dictionary.tinellb.com/m/mifasu.html#highlulani">mifasu</a> <em>my vassal</em>
-&date=20180413--------------------------------------------------4
-[1]Indefinite
+&date=20180415--------------------------------------------------4
+[1]Indefinite Pro-forms
 The indefinite pro-forms are sets of deictic words which can be placed into a table.
 [t]|h object |h place |h action |h manner |h state
 h proximate | <a href="http://dictionary.tinellb.com/m/mari.html#highlulani">mari</a> | <a href="http://dictionary.tinellb.com/m/majja.html#highlulani">majja</a> | <a href="http://dictionary.tinellb.com/m/marila.html#highlulani">marila</a> | <a href="http://dictionary.tinellb.com/m/madusi.html#highlulani">madusi</a> | <a href="http://dictionary.tinellb.com/m/marika.html#highlulani">marika</a>

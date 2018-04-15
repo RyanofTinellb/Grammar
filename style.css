@@ -59,13 +59,13 @@ h6 {
 }
 
 .content table {
-    margin-left: 15%;
+    margin-left: 5%;
     margin-top: 2em;
     margin-bottom: 2em;
 }
 
 .content table td, .content table th {
-    padding: 0.5em;
+    padding: 2px 1em;
 }
 
 .content div.wordlist {
@@ -99,4 +99,28 @@ h6 {
 
 .content div.columns table td {
     text-align: left;
+}
+
+@media screen and (max-width: 800px) {
+    div.content {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    div.content p {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .content div.wordlist p.example, .content div.wordlist p.example_no_lines {
+        margin-left: 5%;
+    }
+
+    .content div.wordlist {
+        margin-left: 10%;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin-right: 0;
+    }
 }

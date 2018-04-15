@@ -5,13 +5,14 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
   "current": {
-    "position": "3.106", 
+    "position": "5.51", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
-    "fontsize": 19, 
+    "fontsize": 18, 
     "page": [
       "High Lulani", 
       "Morphology", 
       "Deixis", 
+      "Personal Pronouns", 
       ""
     ], 
     "language": "hl"
@@ -22,12 +23,12 @@
   }, 
   "links": [
     {
-      "type": "Glossary", 
-      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls"
+      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
+      "type": "Glossary"
     }, 
     {
-      "type": "ExternalDictionary", 
-      "resource": "http://dictionary.tinellb.com"
+      "resource": "http://dictionary.tinellb.com", 
+      "type": "ExternalDictionary"
     }
   ]
 }
