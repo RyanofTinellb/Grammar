@@ -743,11 +743,12 @@ The participants of these verbs are equivalent to each other, that is, if Alice 
 [/d]
 The basic meaning of these sentences is not changed when swapping the particpants or using the alternate structures.
 [d wordlist]
-[f]<a href="http://dictionary.tinellb.com/s/sisa.html#highlulani">sisa</a> <high-lulani>Ss</high-lulani> <em>to touch</em>
-[e]<a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a> <high-lulani>Yi</high-lulani> <em>to join</em>
+[f]<a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a> <high-lulani>Yi</high-lulani> <em>to join</em>
+[e]<a href="http://dictionary.tinellb.com/s/sisa.html#highlulani">sisa</a> <high-lulani>Ss</high-lulani> <em>to touch</em>
+[e]<a href="http://dictionary.tinellb.com/h/haru.html#highlulani">haru</a> <high-lulani>hw</high-lulani> <em>to accompany</em>
 [e]<a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a> <high-lulani>V;l</high-lulani> <em>to copulate; to have consumated</em>
 [/d]
-&date=20180403--------------------------------------------------4
+&date=20180416--------------------------------------------------4
 [1]Transitivity
 The divalent verbs are called transitive, and these require an object to complete its meaning. It is possible to elide this object if it is obvious or irrelevant. The <strong>subject</strong> is the agent, and the <strong>object</strong> is the patient.
 [d folding]
@@ -1298,7 +1299,7 @@ The two groups of pro-forms are classified on the basis of their semantic proper
 <a href="definitepro-forms.html">Definite pro-forms</a> are those that encode case, person, animacy and topicality.  <a href="indefinitepro-forms.html">indefinite pro-forms</a> comprise the remaining deictic terms.&date=20180414
 --------------------------------------------------4
 [1]Personal Pronouns
-These are a closed class. They are marked for <a href="../../syntax/case.html">case</a> and <a href="https://en.wikipedia.org/wiki/Grammatical_person">person</a>. The third person pronouns are additionally marked for <a href="index.html#topicality">topicality</a> or <a href="../nouns.html#animacy">animacy</a>. Apart from the genitive 
+These are a closed class. They are marked for <a href="../../syntax/case.html">case</a> and <a href="https://en.wikipedia.org/wiki/Grammatical_person">person</a>. The third person pronouns are additionally marked for <a href="index.html#topicality">topicality</a> or <a href="../nouns.html#animacy">animacy</a>. The genitive can act as a determiner, or as the nominal head of a possessive phrase. The other pronouns all act as nouns.
 [t]r2 |hr2 1st person |hr2 2nd person |hc3 3rd person
 h topic |h animate |h inanimate
 h intranstitive | <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> | <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a> | (<a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">mihu</a> | <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>
@@ -1376,6 +1377,12 @@ all persons:
 [e]ablative: <a href="http://dictionary.tinellb.com/p/puttufupa.html#highlulani">puttufupa</a>
 [e]dative: <a href="http://dictionary.tinellb.com/p/pixifupa.html#highlulani">pixifupa</a>
 [e]genitive: <a href="http://dictionary.tinellb.com/p/pagufupa.html#highlulani">pagufupa</a>[/d]
+[d folding]
+[f]<strong>Fillipa pixi guqqipullata!</strong>
+[e]<high-lulani>.F;Lp / PX / &lt;;Qo;lt.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/f/fillipa.html#highlulani">Fillipa</a> <a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a> <a href="http://dictionary.tinellb.com/g/guqqipullata.html#highlulani">guqqipullata</a>!
+[e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span>-<small-caps>3rd</small-caps> <span class="tooltip"><small-caps>1dat</small-caps><span class="tooltip-text">first person dative</span></span> <em>betray!</em>
+[e]&ldquo;You and he have betrayed me!&rdquo;[/d]
 [2]The Genitive
 Four of the cases are used to mark a connection between the noun and the main verb of the clause. Contrariwise, the function of the genitive is to mark a connection between nouns, including one noun possessing another.
 [3]Alienable Possession
@@ -1477,7 +1484,7 @@ The usual genitive markers refer to possession by some other party, not the subj
 [f]<a href="http://dictionary.tinellb.com/s/sabba.html#highlulani">Sabba</a> <a href="http://dictionary.tinellb.com/t/tu.html#highlulani">tu</a> <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/r/ranini.html#highlulani">ranini</a><a href="http://dictionary.tinellb.com/s/su'a.html#highlulani">su&rsquo;a</a> <a href="http://dictionary.tinellb.com/l/lanu.html#highlulani">lanu</a> <a href="http://dictionary.tinellb.com/h/hiqa.html#highlulani">hiqa</a>.
 [e]<em>Father offspring com eat potato-dim-own fut;dyn order.</em>
 [e]&ldquo;Dad asked my daughter to eat his chips.&rdquo;
-None of the above applies for first- and second-person subjects; these use their normal genitive markers.&date=20180415--------------------------------------------------4
+None of the above applies for first- and second-person subjects; these use their normal genitive markers.&date=20180416--------------------------------------------------4
 [1]Indefinite Pro-forms
 The indefinite pro-forms are sets of deictic words which can be placed into a table.
 [t]|hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
