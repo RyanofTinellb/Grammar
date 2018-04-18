@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <a href=" | {{ | <br>
-"> | || | <br>
+"> | :: | <br>
 </a> | }} | <br>
 </link><link> | </link>:<link> | <br>
 ' | &quot; | <br>

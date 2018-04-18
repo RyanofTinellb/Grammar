@@ -1,4 +1,6 @@
 {
+    "3rd": "third person",
+    "2nd": "second person",
     "1int": "first person intransitive",
     "2int": "second person intransitive",
     "3top;int": "third person topic intransitive",
