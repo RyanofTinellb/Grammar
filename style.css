@@ -23,13 +23,18 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: serif;
-    color: yellow;
+    color: yellow !important;
     padding-left: 2em;
     background-color: rebeccapurple;
 }
 
 h2 {
     margin-right: 10%;
+}
+
+h2 a {
+    color: yellow !important;
+    text-decoration: none !important;
 }
 
 h3 {
@@ -93,12 +98,17 @@ h6 {
 }
 
 .content div.columns table {
-    width: 80%;
+    /* width: 80%; */
     margin-left: 10%;
 }
 
-.content div.columns table td {
-    text-align: left;
+.content div.columns table th, .content div.columns table td {
+    border: none;
+    padding: 0.5em 0.5em;
+}
+
+.content div.columns table th:first-child {
+    text-align: center;
 }
 
 @media screen and (max-width: 800px) {

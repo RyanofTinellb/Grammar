@@ -51,6 +51,7 @@ High Lulani is the language created by Loren, queen of the Ptokonoi. It features
 [1]Phonology
 High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated, which can palatalise or change the voicing of the original sound.
 This page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.
+[d columns]
 [t]h Consonant |h Example |  |h Consonant |h Example |  |h Consonant |h Example
  <ipa>b</ipa> | <strong>b</strong>a&rsquo;u |  | <ipa>h</ipa> | <strong>h</strong>isuba |  | <ipa>&#x272;</ipa> | ja<strong>nn</strong>i
  <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a |  | <ipa>j</ipa> | fa<strong>&#x294;</strong>a<sup>1</sup> |  | <ipa>&#x14b;</ipa> | <strong>q</strong>a
@@ -62,7 +63,7 @@ This page will show each of the International Phonetic Alphabet characters used 
  <ipa>f</ipa> | <strong>f</strong>ara |  | <ipa>&#x28e;</ipa> | mu<strong>ll</strong>u |  | <ipa>t</ipa> | ni<strong>tt</strong>u
  <ipa>g</ipa> | <strong>g</strong>usu |  | <ipa>m</ipa> | <strong>m</strong>ullu |  | <ipa>t&#x2b0;</ipa> | <strong>t</strong>a&rsquo;i
  <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i |  | <ipa>n</ipa> | <strong>n</strong>isa |  | <ipa>&#x294;</ipa> | xu<strong>&rsquo;</strong>a
-[/t]
+[/t] [/d]
 [d mobile-table]
 [d small-table]
 [t]h Consonant |h Example
@@ -99,13 +100,14 @@ This page will show each of the International Phonetic Alphabet characters used 
 [/d][/d]
 [e]
 <sup>1</sup>The phone <ipa>/j/</ipa> only appears as the second segment of an allophonic variant of <ipa>/&#x294;/</ipa>, when that sound is geminated.
-[t]h  Vowel |h Example |  |h Vowel |h Example
+[d columns]
+[t]h Vowel |h Example |  |h Vowel |h Example
  <ipa>a</ipa> | b<strong>a</strong>tu |  | <ipa>&#x259;</ipa> | su&rsquo;<strong>a</strong>
  <ipa>i</ipa> | b<strong>i</strong>tta |  | <ipa>&#x268;</ipa> | kas<strong>i</strong>
  <ipa>u</ipa> | c<strong>u</strong>ra |  | <ipa>&#x289;</ipa> | l<strong>u</strong>lani
-[/t]
+[/t] [/d]
 The suprasegmental symbols are all exemplified in <ipa>/&#x2cc;p&#x2b0;am.&#x268;.&#x2c8;lam.&#x268;/</ipa>.
-&date=20180316--------------------------------------------------3
+&date=20180419--------------------------------------------------3
 [1]Consonants
 Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
 [t]|h labial |h alveolar |h retroflex |h palatal |h velar |h glottal
