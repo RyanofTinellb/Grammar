@@ -10,9 +10,8 @@
     "fontsize": 18, 
     "page": [
       "High Lulani", 
-      "Morphology", 
-      "Deixis", 
-      "Personal Pronouns", 
+      "Orthography", 
+      "Spelling Syllabary", 
       ""
     ], 
     "language": "hl"
@@ -23,12 +22,12 @@
   }, 
   "links": [
     {
-      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
-      "type": "Glossary"
+      "type": "Glossary", 
+      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls"
     }, 
     {
-      "resource": "http://dictionary.tinellb.com", 
-      "type": "ExternalDictionary"
+      "type": "ExternalDictionary", 
+      "resource": "http://dictionary.tinellb.com"
     }
   ]
 }

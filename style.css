@@ -97,17 +97,23 @@ h6 {
 	padding-right: 1em;
 }
 
-.content div.columns {
+.content div.columns, .content div.left-columns {
     display: flex;
     flex-flow: row wrap;
 }
 
-.content div.columns table th, .content div.columns table td {
+.content div.columns table th, .content div.columns table td,
+.content div.left-columns table th, .content div.left-columns table td {
     border: none;
     padding: 0.5em 0.5em;
 }
 
-.content div.columns table th:first-child {
+.content div.left-columns table th, .content div.left-columns table td {
+    text-align: left;
+}
+
+.content div.columns table th:first-child,
+.content div.left-columns table th:first-child {
     text-align: center;
 }
 

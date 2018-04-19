@@ -376,16 +376,16 @@ hr3 alveolar /<br>retroflex | ta: <high-lulani>t</high-lulani> | da: <high-lulan
 hr3 palatal | ca: <high-lulani>c</high-lulani> | ja: <high-lulani>j</high-lulani> |||| xa: <high-lulani>x</high-lulani>
  ci: <high-lulani>C</high-lulani> | ji: <high-lulani>J</high-lulani> |||| xi: <high-lulani>X</high-lulani>
  cu: <high-lulani>y</high-lulani> | ju: <high-lulani>Y</high-lulani> |||| xu: <high-lulani>Z</high-lulani>
-hr3 velar | ka: <high-lulani>k</high-lulani> | ga: <high-lulani>g</high-lulani> | qa: <high-lulani>q</high-lulani>
- ki: <high-lulani>K</high-lulani> | gi: <high-lulani>G</high-lulani> | qi: <high-lulani>Q</high-lulani>
- ku: <high-lulani>&gt;</high-lulani> | gu: <high-lulani>&lt;</high-lulani> | qu: <high-lulani>A</high-lulani>
+hr3 velar | ka: <high-lulani>k</high-lulani> | ga: <high-lulani>g</high-lulani> | qa: <high-lulani>q</high-lulani> |||
+ ki: <high-lulani>K</high-lulani> | gi: <high-lulani>G</high-lulani> | qi: <high-lulani>Q</high-lulani> |||
+ ku: <high-lulani>&gt;</high-lulani> | gu: <high-lulani>&lt;</high-lulani> | qu: <high-lulani>A</high-lulani> |||
 hr3 glottal | &rsquo;a: <high-lulani>a</high-lulani> ||||| ha: <high-lulani>h</high-lulani>
  &rsquo;i: <high-lulani>i</high-lulani> ||||| hi: <high-lulani>H</high-lulani>
  &rsquo;u: <high-lulani>u</high-lulani> ||||| hu: <high-lulani>V</high-lulani>
 [/t]
 [d mobile-table]
 [d small-table]
-[t]&rsquo;a: <high-lulani>a</high-lulani> | &rsquo;i: <high-lulani>i</high-lulani> | &rsquo;u: <high-lulani>u</high-lulani>
+[t] &rsquo;a: <high-lulani>a</high-lulani> | &rsquo;i: <high-lulani>i</high-lulani> | &rsquo;u: <high-lulani>u</high-lulani>
  pa: <high-lulani>p</high-lulani> | pi: <high-lulani>P</high-lulani> | pu: <high-lulani>o</high-lulani>
  ba: <high-lulani>b</high-lulani> | bi: <high-lulani>B</high-lulani> | bu: <high-lulani>O</high-lulani>
  ta: <high-lulani>t</high-lulani> | ti: <high-lulani>T</high-lulani> | tu: <high-lulani>e</high-lulani>
@@ -421,28 +421,67 @@ open vowel: (none)
 front vowel: vertical line
 back vowel: horizontal line
 [/l]
-&date=20180324--------------------------------------------------3
+&date=20180420--------------------------------------------------3
 [1]Spelling Syllabary
 There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol is represented by the word <a href="http://dictionary.tinellb.com/f/fa''a.html#highlulani">fa&#x294;a</a> <em>language</em>.
-[d columns][t] &rsquo;a: <a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&rsquo;ara</a> <em>face</em> | &rsquo;i: <a href="http://dictionary.tinellb.com/u/'ussi.html#highlulani">&rsquo;ussi</a> <em>gift</em> | &rsquo;u: <a href="http://dictionary.tinellb.com/i/'iku.html#highlulani">&rsquo;iku</a> <em>hunger</em>
- pa: <a href="http://dictionary.tinellb.com/p/pacca.html#highlulani">pacca</a> <em>number</em> | pi: <a href="http://dictionary.tinellb.com/p/paji.html#highlulani">paji</a> <em>fruit</em> | pu: <a href="http://dictionary.tinellb.com/p/pusu.html#highlulani">pusu</a> <em>zirconium</em>
- ba: <a href="http://dictionary.tinellb.com/b/bitta.html#highlulani">bitta</a> <em>time</em> | bi: <a href="http://dictionary.tinellb.com/b/basi.html#highlulani">basi</a> <em>lid</em> | bu: <a href="http://dictionary.tinellb.com/b/batu.html#highlulani">batu</a> <em>group</em>
- ta: <a href="http://dictionary.tinellb.com/t/tila.html#highlulani">tila</a> <em>shell</em> |  ti: <a href="http://dictionary.tinellb.com/t/tuhhi.html#highlulani">tuhhi</a> <em>farming</em> | tu: <a href="http://dictionary.tinellb.com/t/tadu.html#highlulani">tadu</a> <em>pig</em>
- da: <a href="http://dictionary.tinellb.com/d/diha.html#highlulani">diha</a> <em>bureaucrat</em> | di: <a href="http://dictionary.tinellb.com/d/dicci.html#highlulani">dicci</a> <em>cold</em> | du: <a href="http://dictionary.tinellb.com/d/diru.html#highlulani">diru</a> <em>money</em>
- ca: <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">cula</a> <em>egg</em> | ci: <a href="http://dictionary.tinellb.com/c/cadi.html#highlulani">cadi</a> <em>wall</em> | cu: <a href="http://dictionary.tinellb.com/c/ciqu.html#highlulani">ciqu</a> <em>mould</em>
- ja: <a href="http://dictionary.tinellb.com/j/jana.html#highlulani">jana</a> <em>elder</em> | ji: <a href="http://dictionary.tinellb.com/j/jakki.html#highlulani">jakki</a> <em>candle</em> | ju: <a href="http://dictionary.tinellb.com/j/jixu.html#highlulani">jixu</a> <em>dictionary</em>
- ka: <a href="http://dictionary.tinellb.com/k/kaqqa.html#highlulani">kaqqa</a> <em>brother</em>  | ki: <a href="http://dictionary.tinellb.com/k/kiri.html#highlulani">kiri</a> <em>marigold</em> | ku: <a href="http://dictionary.tinellb.com/k/kipu.html#highlulani">kipu</a> <em>horse</em>
- ga: <a href="http://dictionary.tinellb.com/g/gata.html#highlulani">gata</a> <em>pendulum</em> | gi: <a href="http://dictionary.tinellb.com/g/gapi.html#highlulani">gapi</a> <em>soup</em> | gu: <a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a> <em>person</em>
- ma: <a href="http://dictionary.tinellb.com/m/marru.html#highlulani">marru</a> <em>flies</em> |  mi: <a href="http://dictionary.tinellb.com/m/mixi.html#highlulani">mixi</a> <em>room</em> | mu: <a href="http://dictionary.tinellb.com/m/ma''u.html#highlulani">ma&#x294;u</a> <em>gingla</em>
- na: <a href="http://dictionary.tinellb.com/n/nassa.html#highlulani">nassa</a> <em>euphoria</em> | ni: <a href="http://dictionary.tinellb.com/n/niddi.html#highlulani">niddi</a> <em>alertness</em> | nu: <a href="http://dictionary.tinellb.com/n/nuku.html#highlulani">nuku</a> <em>world</em>
- qa: <a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a> <em>fish</em> | qi: <a href="http://dictionary.tinellb.com/q/quxi.html#highlulani">quxi</a> <em>mountain</em> | qu: <a href="http://dictionary.tinellb.com/q/qumu.html#highlulani">qumu</a> <em>woman</em>
- la: <a href="http://dictionary.tinellb.com/l/liffa.html#highlulani">liffa</a> <em>speech</em> | li: <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <em>love</em> | lu: <a href="http://dictionary.tinellb.com/l/laqqu.html#highlulani">laqqu</a> <em>wealth</em>
- ra: <a href="http://dictionary.tinellb.com/r/rippa.html#highlulani">rippa</a> <em>surprise</em> | ri: <a href="http://dictionary.tinellb.com/r/rali.html#highlulani">rali</a> <em>back</em> | ru: <a href="http://dictionary.tinellb.com/r/riccu.html#highlulani">riccu</a> <em>sphere</em>
- fa: <a href="http://dictionary.tinellb.com/f/fipa.html#highlulani">fipa</a> <em>storey</em> | fi: <a href="http://dictionary.tinellb.com/f/faxi.html#highlulani">faxi</a> <em>to survive</em> | fu: <a href="http://dictionary.tinellb.com/f/famu.html#highlulani">famu</a> <em>completely</em>
- sa: <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a> <em>story</em> | si: <a href="http://dictionary.tinellb.com/s/sutti.html#highlulani">sutti</a> <em>fear</em> | su: <a href="http://dictionary.tinellb.com/s/silu.html#highlulani">silu</a> <em>spouse</em>
- xa: <a href="http://dictionary.tinellb.com/x/xima.html#highlulani">xima</a> <em>morning</em> | xi: <a href="http://dictionary.tinellb.com/x/xalli.html#highlulani">xalli</a> <em>spouse </em> | xu: <a href="http://dictionary.tinellb.com/x/xa''u.html#highlulani">xa&#x294;u</a> <em>child</em>
- ha: <a href="http://dictionary.tinellb.com/h/hafa.html#highlulani">hafa</a> <em>race</em> | hi: <a href="http://dictionary.tinellb.com/h/huri.html#highlulani">huri</a> <em>ocean</em> | hu: <a href="http://dictionary.tinellb.com/h/halu.html#highlulani">halu</a> <em>algorithm</em>
-[/t][/d]
+[d left-columns]
+[t] &rsquo;a: <a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&rsquo;ara</a> <em>face</em>
+ pa: <a href="http://dictionary.tinellb.com/p/pacca.html#highlulani">pacca</a> <em>number</em>
+ ba: <a href="http://dictionary.tinellb.com/b/bitta.html#highlulani">bitta</a> <em>time</em>
+ ta: <a href="http://dictionary.tinellb.com/t/tila.html#highlulani">tila</a> <em>shell</em>
+ da: <a href="http://dictionary.tinellb.com/d/diha.html#highlulani">diha</a> <em>bureaucrat</em>
+ ca: <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">cula</a> <em>egg</em>
+ ja: <a href="http://dictionary.tinellb.com/j/jana.html#highlulani">jana</a> <em>elder</em>
+ ka: <a href="http://dictionary.tinellb.com/k/kaqqa.html#highlulani">kaqqa</a> <em>brother</em> 
+ ga: <a href="http://dictionary.tinellb.com/g/gata.html#highlulani">gata</a> <em>pendulum</em>
+ ma: <a href="http://dictionary.tinellb.com/m/marru.html#highlulani">marru</a> <em>flies</em>
+ na: <a href="http://dictionary.tinellb.com/n/nassa.html#highlulani">nassa</a> <em>euphoria</em>
+ qa: <a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a> <em>fish</em>
+ la: <a href="http://dictionary.tinellb.com/l/liffa.html#highlulani">liffa</a> <em>speech</em>
+ ra: <a href="http://dictionary.tinellb.com/r/rippa.html#highlulani">rippa</a> <em>surprise</em>
+ fa: <a href="http://dictionary.tinellb.com/f/fipa.html#highlulani">fipa</a> <em>storey</em>
+ sa: <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a> <em>story</em>
+ xa: <a href="http://dictionary.tinellb.com/x/xima.html#highlulani">xima</a> <em>morning</em>
+ ha: <a href="http://dictionary.tinellb.com/h/hafa.html#highlulani">hafa</a> <em>race</em>
+[/t]
+[t] &rsquo;i: <a href="http://dictionary.tinellb.com/u/'ussi.html#highlulani">&rsquo;ussi</a> <em>gift</em>
+ pi: <a href="http://dictionary.tinellb.com/p/paji.html#highlulani">paji</a> <em>fruit</em>
+ bi: <a href="http://dictionary.tinellb.com/b/basi.html#highlulani">basi</a> <em>lid</em>
+  ti: <a href="http://dictionary.tinellb.com/t/tuhhi.html#highlulani">tuhhi</a> <em>farming</em>
+ di: <a href="http://dictionary.tinellb.com/d/dicci.html#highlulani">dicci</a> <em>cold</em>
+ ci: <a href="http://dictionary.tinellb.com/c/cadi.html#highlulani">cadi</a> <em>wall</em>
+ ji: <a href="http://dictionary.tinellb.com/j/jakki.html#highlulani">jakki</a> <em>candle</em>
+ ki: <a href="http://dictionary.tinellb.com/k/kiri.html#highlulani">kiri</a> <em>marigold</em>
+ gi: <a href="http://dictionary.tinellb.com/g/gapi.html#highlulani">gapi</a> <em>soup</em>
+  mi: <a href="http://dictionary.tinellb.com/m/mixi.html#highlulani">mixi</a> <em>room</em>
+ ni: <a href="http://dictionary.tinellb.com/n/niddi.html#highlulani">niddi</a> <em>alertness</em>
+ qi: <a href="http://dictionary.tinellb.com/q/quxi.html#highlulani">quxi</a> <em>mountain</em>
+ li: <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <em>love</em>
+ ri: <a href="http://dictionary.tinellb.com/r/rali.html#highlulani">rali</a> <em>back</em>
+ fi: <a href="http://dictionary.tinellb.com/f/faxi.html#highlulani">faxi</a> <em>to survive</em>
+ si: <a href="http://dictionary.tinellb.com/s/sutti.html#highlulani">sutti</a> <em>fear</em>
+ xi: <a href="http://dictionary.tinellb.com/x/xalli.html#highlulani">xalli</a> <em>spouse </em>
+ hi: <a href="http://dictionary.tinellb.com/h/huri.html#highlulani">huri</a> <em>ocean</em>
+[/t]
+[t] &rsquo;u: <a href="http://dictionary.tinellb.com/i/'iku.html#highlulani">&rsquo;iku</a> <em>hunger</em>
+ pu: <a href="http://dictionary.tinellb.com/p/pusu.html#highlulani">pusu</a> <em>zirconium</em>
+ bu: <a href="http://dictionary.tinellb.com/b/batu.html#highlulani">batu</a> <em>group</em>
+ tu: <a href="http://dictionary.tinellb.com/t/tadu.html#highlulani">tadu</a> <em>pig</em>
+ du: <a href="http://dictionary.tinellb.com/d/diru.html#highlulani">diru</a> <em>money</em>
+ cu: <a href="http://dictionary.tinellb.com/c/ciqu.html#highlulani">ciqu</a> <em>mould</em>
+ ju: <a href="http://dictionary.tinellb.com/j/jixu.html#highlulani">jixu</a> <em>dictionary</em>
+ ku: <a href="http://dictionary.tinellb.com/k/kipu.html#highlulani">kipu</a> <em>horse</em>
+ gu: <a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a> <em>person</em>
+ mu: <a href="http://dictionary.tinellb.com/m/ma''u.html#highlulani">ma&#x294;u</a> <em>gingla</em>
+ nu: <a href="http://dictionary.tinellb.com/n/nuku.html#highlulani">nuku</a> <em>world</em>
+ qu: <a href="http://dictionary.tinellb.com/q/qumu.html#highlulani">qumu</a> <em>woman</em>
+ lu: <a href="http://dictionary.tinellb.com/l/laqqu.html#highlulani">laqqu</a> <em>wealth</em>
+ ru: <a href="http://dictionary.tinellb.com/r/riccu.html#highlulani">riccu</a> <em>sphere</em>
+ fu: <a href="http://dictionary.tinellb.com/f/famu.html#highlulani">famu</a> <em>completely</em>
+ su: <a href="http://dictionary.tinellb.com/s/silu.html#highlulani">silu</a> <em>spouse</em>
+ xu: <a href="http://dictionary.tinellb.com/x/xa''u.html#highlulani">xa&#x294;u</a> <em>child</em>
+ hu: <a href="http://dictionary.tinellb.com/h/halu.html#highlulani">halu</a>  <em>algorithm</em>
+[/t]  [/d]
 [d mobile-table][d wordlist]
 [e]&rsquo;a: <a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&rsquo;ara</a> <em>face</em>
 [e]pa: <a href="http://dictionary.tinellb.com/p/pacca.html#highlulani">pacca</a> <em>number</em>
@@ -498,14 +537,19 @@ There is a spelling syllabary, used for transmitting words across potentially no
 [e]su: <a href="http://dictionary.tinellb.com/s/silu.html#highlulani">silu</a> <em>spouse</em>
 [e]xu: <a href="http://dictionary.tinellb.com/x/xa''u.html#highlulani">xa&#x294;u</a> <em>child</em>
 [e]hu: <a href="http://dictionary.tinellb.com/h/halu.html#highlulani">halu</a> <em>algorithm</em>
-[/d][/d]&date=20180327--------------------------------------------------3
+[/d][/d]&date=20180420--------------------------------------------------3
 [1]Tactile Syllabary
 There is a tactile syllabary for use by blind and visually-impaired language users.
 Each cell is three rows by two columns of raised dots. The upper four dots generally denote the consonant, with syllables beginning with b, d, j, g, f, or x being the exceptions. The lowest pair generally denote the vowel.
-[t]|h &#x294; |h p |h b |h t |h d |h c |h j |h k |h g |h m |h n |h q |h l |h r |h f |h s |h x |h h
-h a | &#x2801; | &#x2803; | &#x2823; | &#x2809; | &#x2829; | &#x2812; | &#x2832; | &#x2811; | &#x2831; | &#x280B; | &#x2819; | &#x281A; | &#x280A; | &#x281B; | &#x280C; | &#x2813; | &#x2821; | &#x2802;
-h i | &#x2805; | &#x2807; | &#x282B; | &#x280D; | &#x2839; | &#x2816; | &#x2822; | &#x2815; | &#x283A; | &#x280F; | &#x281D; | &#x281E; | &#x280E; | &#x281F; | &#x281C; | &#x2817; | &#x2833; | &#x2806;
-h u | &#x2825; | &#x2827; | &#x282C; | &#x282D; | &#x283C; | &#x2836; | &#x2838; | &#x2835; | &#x2834; | &#x282F; | &#x283D; | &#x283E; | &#x282E; | &#x283F; | &#x282A; | &#x2837; | &#x283B; | &#x2826;
+[t]|h &#x294; |h p |h b |h t |h d |h c |h j |h k |h g
+h a | &#x2801; | &#x2803; | &#x2823; | &#x2809; | &#x2829; | &#x2812; | &#x2832; | &#x2811; | &#x2831;
+h i | &#x2805; | &#x2807; | &#x282B; | &#x280D; | &#x2839; | &#x2816; | &#x2822; | &#x2815; | &#x283A;
+h u | &#x2825; | &#x2827; | &#x282C; | &#x282D; | &#x283C; | &#x2836; | &#x2838; | &#x2835; | &#x2834;
+[/t]
+[t]|h m |h n |h q |h l |h r |h f |h s |h x |h h
+h a | &#x280B; | &#x2819; | &#x281A; | &#x280A; | &#x281B; | &#x280C; | &#x2813; | &#x2821; | &#x2802;
+h i | &#x280F; | &#x281D; | &#x281E; | &#x280E; | &#x281F; | &#x281C; | &#x2817; | &#x2833; | &#x2806;
+h u | &#x282F; | &#x283D; | &#x283E; | &#x282E; | &#x283F; | &#x282A; | &#x2837; | &#x283B; | &#x2826;
 [/t]
 [d mobile-table][d small-table]
 [t]|h a |h i |h u
@@ -529,7 +573,7 @@ h x | &#x2821; | &#x2833; | &#x283B;
 h h | &#x2802; | &#x2806; | &#x2826;
 [/d][/d]
 Dot 5 (&#x2810;) by itself is the geminate. Word separation is shown by (&#x2800;) an empty space, clause separation by (&#x2824;) the comma, and sentence separation by (&#x2814;) the period. Numbers are prefixed with (&#x2828;) the number sign, and the first syllable of each number is used.
-&date=20180324--------------------------------------------------2
+&date=20180420--------------------------------------------------2
 [1]Morphology
 High Lulani is an analytic agglutinative language, as morphemes tend to keep their own shape, even when forming words.&date=20180324--------------------------------------------------3
 [1]Nouns

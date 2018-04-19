@@ -70,6 +70,7 @@ high-lulani:hover {
 
 .content td, .content th {
 	border: 1px solid darkgrey;
+    white-space: nowrap;
 }
 
 .content th {
