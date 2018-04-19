@@ -5,12 +5,14 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
   "current": {
-    "position": "54.5", 
+    "position": "44.11", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
     "fontsize": 18, 
     "page": [
       "High Lulani", 
-      "Phonology", 
+      "Morphology", 
+      "Deixis", 
+      "Personal Pronouns", 
       ""
     ], 
     "language": "hl"

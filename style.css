@@ -97,9 +97,9 @@ h6 {
 	padding-right: 1em;
 }
 
-.content div.columns table {
-    /* width: 80%; */
-    margin-left: 10%;
+.content div.columns {
+    display: flex;
+    flex-flow: row wrap;
 }
 
 .content div.columns table th, .content div.columns table td {

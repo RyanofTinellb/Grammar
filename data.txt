@@ -52,20 +52,43 @@ High Lulani is the language created by Loren, queen of the Ptokonoi. It features
 High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated, which can palatalise or change the voicing of the original sound.
 This page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.
 [d columns]
-[t]h Consonant |h Example |  |h Consonant |h Example |  |h Consonant |h Example
- <ipa>b</ipa> | <strong>b</strong>a&rsquo;u |  | <ipa>h</ipa> | <strong>h</strong>isuba |  | <ipa>&#x272;</ipa> | ja<strong>nn</strong>i
- <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a |  | <ipa>j</ipa> | fa<strong>&#x294;</strong>a<sup>1</sup> |  | <ipa>&#x14b;</ipa> | <strong>q</strong>a
- <ipa>c</ipa> | qa<strong>cc</strong>a |  | <ipa>&#x25f;</ipa> | <strong>j</strong>usi |  | <ipa>p</ipa> | &rsquo;a<strong>pp</strong>u
- <ipa>c&#x2b0;</ipa> | <strong>c</strong>u&rsquo;i |  | <ipa>&#x25f;&#x2b1;</ipa> | ma<strong>jj</strong>a |  | <ipa>p&#x2b0;</ipa> | <strong>p</strong>uttu
- <ipa>&#x255;</ipa> | <strong>x</strong>u&rsquo;a |  | <ipa>k</ipa> | ta<strong>kk</strong>i |  | <ipa>r</ipa> | gu<strong>rr</strong>isu
- <ipa>d</ipa> | <strong>d</strong>aru |  | <ipa>k&#x2b0;</ipa> | <strong>k</strong>a&rsquo;u |  | <ipa>&#x27e;</ipa> | <strong>r</strong>usa
- <ipa>d&#x2b1;</ipa> | &rsquo;a<strong>dd</strong>a |  | <ipa>l</ipa> | <strong>l</strong>isa |  | <ipa>s</ipa> | <strong>s</strong>ippa
- <ipa>f</ipa> | <strong>f</strong>ara |  | <ipa>&#x28e;</ipa> | mu<strong>ll</strong>u |  | <ipa>t</ipa> | ni<strong>tt</strong>u
- <ipa>g</ipa> | <strong>g</strong>usu |  | <ipa>m</ipa> | <strong>m</strong>ullu |  | <ipa>t&#x2b0;</ipa> | <strong>t</strong>a&rsquo;i
- <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i |  | <ipa>n</ipa> | <strong>n</strong>isa |  | <ipa>&#x294;</ipa> | xu<strong>&rsquo;</strong>a
+[t]h Consonant |h Example
+ <ipa>b</ipa> | <strong>b</strong>a&rsquo;u 
+ <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a 
+ <ipa>c</ipa> | qa<strong>cc</strong>a 
+ <ipa>c&#x2b0;</ipa> | <strong>c</strong>u&rsquo;i 
+ <ipa>&#x255;</ipa> | <strong>x</strong>u&rsquo;a 
+ <ipa>d</ipa> | <strong>d</strong>aru 
+ <ipa>d&#x2b1;</ipa> | &rsquo;a<strong>dd</strong>a 
+ <ipa>f</ipa> | <strong>f</strong>ara 
+ <ipa>g</ipa> | <strong>g</strong>usu 
+ <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i 
+[/t] 
+[t]h Consonant |h Example
+ <ipa>h</ipa> | <strong>h</strong>isuba 
+ <ipa>j</ipa> | fa<strong>&#x294;</strong>a<sup>1</sup> 
+ <ipa>&#x25f;</ipa> | <strong>j</strong>usi 
+ <ipa>&#x25f;&#x2b1;</ipa> | ma<strong>jj</strong>a 
+ <ipa>k</ipa> | ta<strong>kk</strong>i 
+ <ipa>k&#x2b0;</ipa> | <strong>k</strong>a&rsquo;u 
+ <ipa>l</ipa> | <strong>l</strong>isa 
+ <ipa>&#x28e;</ipa> | mu<strong>ll</strong>u 
+ <ipa>m</ipa> | <strong>m</strong>ullu 
+ <ipa>n</ipa> | <strong>n</strong>isa 
+[/t]
+[t]h Consonant |h Example
+ <ipa>&#x272;</ipa> | ja<strong>nn</strong>i
+ <ipa>&#x14b;</ipa> | <strong>q</strong>a
+ <ipa>p</ipa> | &rsquo;a<strong>pp</strong>u
+ <ipa>p&#x2b0;</ipa> | <strong>p</strong>uttu
+ <ipa>r</ipa> | gu<strong>rr</strong>isu
+ <ipa>&#x27e;</ipa> | <strong>r</strong>usa
+ <ipa>s</ipa> | <strong>s</strong>ippa
+ <ipa>t</ipa> | ni<strong>tt</strong>u
+ <ipa>t&#x2b0;</ipa> | <strong>t</strong>a&rsquo;i
+ <ipa>&#x294;</ipa> | xu<strong>&rsquo;</strong>a
 [/t] [/d]
 [d mobile-table]
-[d small-table]
 [t]h Consonant |h Example
  <ipa>b</ipa> | <strong>b</strong>a&rsquo;u
  <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a
@@ -97,24 +120,31 @@ This page will show each of the International Phonetic Alphabet characters used 
  <ipa>t</ipa> | ni<strong>tt</strong>u
  <ipa>t&#x2b0;</ipa> | <strong>t</strong>a&rsquo;i
  <ipa>&#x294;</ipa> | <strong>x</strong>u&rsquo;a
-[/d][/d]
+[/t]
+[/d]
 [e]
 <sup>1</sup>The phone <ipa>/j/</ipa> only appears as the second segment of an allophonic variant of <ipa>/&#x294;/</ipa>, when that sound is geminated.
 [d columns]
-[t]h Vowel |h Example |  |h Vowel |h Example
- <ipa>a</ipa> | b<strong>a</strong>tu |  | <ipa>&#x259;</ipa> | su&rsquo;<strong>a</strong>
- <ipa>i</ipa> | b<strong>i</strong>tta |  | <ipa>&#x268;</ipa> | kas<strong>i</strong>
- <ipa>u</ipa> | c<strong>u</strong>ra |  | <ipa>&#x289;</ipa> | l<strong>u</strong>lani
-[/t] [/d]
+[t]h Vowel |h Example
+ <ipa>a</ipa> | b<strong>a</strong>tu
+ <ipa>i</ipa> | b<strong>i</strong>tta
+ <ipa>u</ipa> | c<strong>u</strong>ra
+[/t]
+[t]h Vowel |h Example
+ <ipa>&#x259;</ipa> | su&rsquo;<strong>a</strong>
+ <ipa>&#x268;</ipa> | kas<strong>i</strong>
+ <ipa>&#x289;</ipa> | l<strong>u</strong>lani
+[/t]
+[/d]
 The suprasegmental symbols are all exemplified in <ipa>/&#x2cc;p&#x2b0;am.&#x268;.&#x2c8;lam.&#x268;/</ipa>.
-&date=20180419--------------------------------------------------3
+&date=20180420--------------------------------------------------3
 [1]Consonants
 Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
 [t]|h labial |h alveolar |h retroflex |h palatal |h velar |h glottal
 h stop | <ipa>p b</ipa> | <ipa>t d</ipa> || <ipa>c &#x25f;</ipa> &lt;j&gt; | <ipa>k g</ipa> | <ipa>&#x294;</ipa> &lt;&rsquo;&gt;
-h nasal | <ipa>m</ipa> | <ipa>n</ipa> ||| <ipa>&#x14b;</ipa> &lt;q&gt;
-h lateral || <ipa>l</ipa>
-h tap ||| <ipa>&#x27d;</ipa> &lt;r&gt;
+h nasal | <ipa>m</ipa> | <ipa>n</ipa> ||| <ipa>&#x14b;</ipa> &lt;q&gt; |
+h lateral || <ipa>l</ipa> ||||
+h tap ||| <ipa>&#x27d;</ipa> &lt;r&gt; |||
 h fricative | <ipa>f</ipa> | <ipa>s</ipa> || <ipa>&#x255;</ipa> &lt;x&gt; || <ipa>h</ipa>
 [/t]
 [d mobile-table]
@@ -206,59 +236,67 @@ The glottal stop <ipa>/&#x294;/</ipa> is on<em>e</em> of the most common sounds.
 There are nasal consonants at each of the places of articulation of the plosives. However, the palatal nasal is only found when geminating the alveolar nasal. Nasals are prototypically voiced. Geminate nasals are held for 1 &frac12; times as long as non-geminates.
 [3]Labial
 The labial nasal <ipa>/m/</ipa> is bilabial.
+[d wordlist]
 [f]<a href="http://dictionary.tinellb.com/m/mana.html#highlulani">mana</a> <ipa>/&#x2c8;<strong>m</strong>an.&#x259;/</ipa> <high-lulani>mn</high-lulani> <em>bubble</em>
 [e]<a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <ipa>/s&#x259;.&#x2c8;lu<strong>m</strong>.&#x268;/</ipa> <high-lulani>sWM</high-lulani> <em>seven</em>
-[e]<a href="http://dictionary.tinellb.com/g/girammi.html#highlulani">girammi</a> <ipa>/g&#x268;.&#x2c8;&#x27d;a<strong>m.m</strong>&#x268;/</ipa> <high-lulani>Gr;M</high-lulani> <em>thunder</em>
+[e]<a href="http://dictionary.tinellb.com/g/girammi.html#highlulani">girammi</a> <ipa>/g&#x268;.&#x2c8;&#x27d;a<strong>m.m</strong>&#x268;/</ipa> <high-lulani>Gr;M</high-lulani> <em>thunder</em>[/d]
 [3]Alveolar
 The alveolar nasal <ipa>/n/</ipa> is apical. When geminated, this sound is palatal and laminal.
+[d wordlist]
 [f]<a href="http://dictionary.tinellb.com/n/nu.html#highlulani">nu</a> <ipa>/<strong>n</strong>u&#x2d0;/</ipa> <high-lulani>I</high-lulani> <em>to</em> <em>stop</em>
 [e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <ipa>/l&#x289;.&#x2c8;la<strong>n</strong>.&#x268;/</ipa> <high-lulani>WlN</high-lulani> <em>queen</em>
-[e]<a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a> <ipa>/&#x2c8;si<strong>&#x272;.&#x272;</strong>&#x259;/</ipa> <high-lulani>S;n</high-lulani> <em>story</em>
+[e]<a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a> <ipa>/&#x2c8;si<strong>&#x272;.&#x272;</strong>&#x259;/</ipa> <high-lulani>S;n</high-lulani> <em>story</em>[/d]
 [3]Velar
 The nasal <ipa>/&#x14b;/</ipa> is velar.
+[d wordlist]
 [f]<a href="http://dictionary.tinellb.com/q/quliru.html#highlulani">quliru</a> <ipa>/<strong>&#x14b;</strong>&#x289;.&#x2c8;li&#x27d;.&#x289;/</ipa> <high-lulani>ALw</high-lulani> <em>family</em>
 [e]<a href="http://dictionary.tinellb.com/k/kunaqi.html#highlulani">kunaqi</a> <ipa>/k&#x2b0;&#x289;.&#x2c8;na<strong>&#x14b;</strong>.&#x268;/</ipa> <high-lulani>&gt;nQ</high-lulani> <em>earth</em>
-[e]<a href="http://dictionary.tinellb.com/l/laqqu.html#highlulani">laqqu</a> <ipa>/&#x2c8;la<strong>&#x14b;.&#x14b;</strong>&#x289;/</ipa> <high-lulani>l;A</high-lulani> <em>wealth</em>
+[e]<a href="http://dictionary.tinellb.com/l/laqqu.html#highlulani">laqqu</a> <ipa>/&#x2c8;la<strong>&#x14b;.&#x14b;</strong>&#x289;/</ipa> <high-lulani>l;A</high-lulani> <em>wealth</em>[/d]
 [2]Liquids
 The liquids are mainly differentiated by laterality. This language lacks phonemic glides. Like nasals, approximants are prototypically voiced, and geminates are held for 1 &frac12; times as long as non-geminates.
 The consonant <ipa>/l/</ipa> is lateral and apical. When geminated, this sound is laminal and palatal.
 The consonant <ipa>/&#x27e;/</ipa> is central, retroflex and sub-apical. When geminated, this sound becomes a trill.
+[d wordlist]
 [f]<a href="http://dictionary.tinellb.com/l/lassi.html#highlulani">lassi</a> <ipa>/&#x2c8;<strong>l</strong>as.s&#x268;/</ipa> <high-lulani>l;S</high-lulani> <em>baby</em>
 [e]<a href="http://dictionary.tinellb.com/k/kulu.html#highlulani">kulu</a> <ipa>/&#x2c8;k&#x2b0;u<strong>l</strong>.&#x289;/</ipa> <high-lulani>&gt;W</high-lulani> <em>fork</em>
 [e]<a href="http://dictionary.tinellb.com/m/malliju.html#highlulani">malliju</a> <ipa>/&#x2c8;ma<strong>&#x28e;.&#x28e;</strong>&#x268;.&#x25f;&#x289;/</ipa> <high-lulani>m;LY</high-lulani> <em>happiness</em>
 [e]<a href="http://dictionary.tinellb.com/r/ru'iha.html#highlulani">ru&rsquo;iha</a> <ipa>/<strong>&#x27d;</strong>&#x289;.&#x2c8;&#x294;ih.&#x259;/</ipa> <high-lulani>wih</high-lulani> <em>history</em>
 [e]<a href="http://dictionary.tinellb.com/k/karafi.html#highlulani">karafi</a> <ipa>/k&#x2b0;&#x259;.&#x2c8;<strong>&#x27d;</strong>af.&#x268;/</ipa> <high-lulani>krF</high-lulani> <em>enlightenment</em>
-[e]<a href="http://dictionary.tinellb.com/q/qarri.html#highlulani">qarri</a> <ipa>/&#x2c8;&#x14b;a<strong>r.r</strong>&#x268;/</ipa> <high-lulani>q;R</high-lulani> <em>to open</em>
+[e]<a href="http://dictionary.tinellb.com/q/qarri.html#highlulani">qarri</a> <ipa>/&#x2c8;&#x14b;a<strong>r.r</strong>&#x268;/</ipa> <high-lulani>q;R</high-lulani> <em>to open</em>[/d]
 [2]Fricatives
 Fricatives do not have complete closure of the vocal tract, but are formed with enough constriction to bring turbulence to the airstream.
 Fricatives are prototypically voiceless. The lips remain unrounded for all fricatives unless followed or preceded by a rounded vowel. Geminate fricatives are held for 1 &frac12; times as long as non-geminates.
 [3]Labial
 The fricative <ipa>/f/</ipa> is realised as labiodental.
+[d wordlist]
 [f]<a href="http://dictionary.tinellb.com/f/faxi.html#highlulani">faxi</a> <ipa>/&#x2c8;<strong>f</strong>a&#x255;.&#x268;/</ipa> <high-lulani>fX</high-lulani> <em>to survive</em>
 [e]<a href="http://dictionary.tinellb.com/b/bufiqi.html#highlulani">bufiqi</a> <ipa>/b&#x289;.&#x2c8;<strong>f</strong>i&#x14b;.&#x268;/</ipa> <high-lulani>OFQ</high-lulani> <em>illness</em>
-[e]<a href="http://dictionary.tinellb.com/i/'iffa.html#highlulani">&rsquo;iffa</a> <ipa>/&#x2c8;&#x294;i<strong>f.f</strong>&#x259;/</ipa> <high-lulani>i;f</high-lulani> <em>it</em>
+[e]<a href="http://dictionary.tinellb.com/i/'iffa.html#highlulani">&rsquo;iffa</a> <ipa>/&#x2c8;&#x294;i<strong>f.f</strong>&#x259;/</ipa> <high-lulani>i;f</high-lulani> <em>it</em>[/d]
 [3]Alveolar
 The fricative <ipa>/s/</ipa> is apical.
+[d wordlist]
 [f]<a href="http://dictionary.tinellb.com/s/sikka.html#highlulani">sikka</a> <ipa>/&#x2c8;<strong>s</strong>ik.k&#x259;/</ipa> <high-lulani>S;k</high-lulani> <em>skin</em>
 [e]<a href="http://dictionary.tinellb.com/h/husabi.html#highlulani">husabi</a> <ipa>/hu.&#x2c8;<strong>s</strong>ab.&#x268;/</ipa> <high-lulani>VsB</high-lulani> <em>finger</em>
-[e]<a href="http://dictionary.tinellb.com/a/'alissa.html#highlulani">&rsquo;alissa</a> <ipa>/&#x294;&#x259;.&#x2c8;li<strong>s.s</strong>&#x259;/</ipa> <high-lulani>aL;s</high-lulani> <em>requirement</em>
+[e]<a href="http://dictionary.tinellb.com/a/'alissa.html#highlulani">&rsquo;alissa</a> <ipa>/&#x294;&#x259;.&#x2c8;li<strong>s.s</strong>&#x259;/</ipa> <high-lulani>aL;s</high-lulani> <em>requirement</em>[/d]
 [3]Palatal
 The palatal fricative <ipa>/&#x255;/</ipa> is laminal.
+[d wordlist]
 [f]<a href="http://dictionary.tinellb.com/x/xaha.html#highlulani">xaha</a> <ipa>/&#x2c8;<strong>&#x255;</strong>ah.&#x259;/</ipa> <high-lulani>xh</high-lulani> <em>name</em>
 [e]<a href="http://dictionary.tinellb.com/p/puxila.html#highlulani">puxila</a> <ipa>/p&#x2b0;&#x289;.&#x2c8;<strong>&#x255;</strong>il.&#x259;/</ipa> <high-lulani>oXl</high-lulani> <em>message</em>
-[e]<a href="http://dictionary.tinellb.com/d/dixxa.html#highlulani">dixxa</a> <ipa>/&#x2c8;di<strong>&#x255;.&#x255;</strong>&#x259;/</ipa> <high-lulani>D;x</high-lulani> <em>drink</em>
+[e]<a href="http://dictionary.tinellb.com/d/dixxa.html#highlulani">dixxa</a> <ipa>/&#x2c8;di<strong>&#x255;.&#x255;</strong>&#x259;/</ipa> <high-lulani>D;x</high-lulani> <em>drink</em>[/d]
 [3]Glottal
 The fricative <ipa>/h/</ipa> is a voiceless sound. When geminate, it is pronounced as a palatal fricative.
+[d wordlist]
 [f]<a href="http://dictionary.tinellb.com/h/hannaku.html#highlulani">hannaku</a> <ipa>/&#x2c8;<strong>h</strong>a&#x272;.&#x272;&#x259;.k&#x289;/</ipa> <high-lulani>h;n&gt;</high-lulani> <em>cat</em>
 [e]<a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a> <ipa>/&#x2c8;t&#x2b0;i<strong>h</strong>.&#x289;/</ipa> <high-lulani>TV</high-lulani> <em>to dwell</em>
-[e]<a href="http://dictionary.tinellb.com/q/quhha.html#highlulani">quhha</a> <ipa>/&#x2c8;&#x14b;u<strong>&ccedil;.&ccedil;</strong>&#x259;/</ipa> <high-lulani>A;h</high-lulani> <em>river</em>
-&date=20180327--------------------------------------------------3
+[e]<a href="http://dictionary.tinellb.com/q/quhha.html#highlulani">quhha</a> <ipa>/&#x2c8;&#x14b;u<strong>&ccedil;.&ccedil;</strong>&#x259;/</ipa> <high-lulani>A;h</high-lulani> <em>river</em>[/d]
+&date=20180420--------------------------------------------------3
 [1]Vowels
 There are three phonemic vowels, with three main allophones for each. The vowels are distinguished by closeness and frontness.
 [t]|h front |h central |h back
 h close | <ipa>i</ipa> | <ipa>(&#x268;) (&#x289;)</ipa> | <ipa>u</ipa>
-h mid || <ipa>(&#x259;)</ipa>
-h open | <ipa>a</ipa>
+h mid || <ipa>(&#x259;)</ipa> |
+h open | <ipa>a</ipa> ||
 [/t]
 [d mobile-table]
 <strong>close:</strong>
@@ -273,22 +311,25 @@ h open | <ipa>a</ipa>
 There are three phonemic vowels: two close vowels and one open. These are given in the above chart, with the variant allophones in (round brackets). The central and mid vowels are considered the lax variants, while the lengthened vowels are long.
 [2]Front
 The front close vowel is unrounded. It is realised as <ipa>/i/</ipa> or <ipa>/&#x268;/</ipa>.
+[d wordlist]
 [f]<a href="http://dictionary.tinellb.com/m/mici.html#highlulani">mici</a> <ipa>/&#x2c8;m<strong>i</strong>c.<strong>&#x268;</strong>/</ipa> <high-lulani>MC</high-lulani> <em>peace</em>
 [e]<a href="http://dictionary.tinellb.com/s/salilu.html#highlulani">salilu</a> <ipa>/s&#x259;.&#x2c8;l<strong>i</strong>l.&#x289;/</ipa> <high-lulani>sLW</high-lulani> <em>night sky</em>
 [e]<a href="http://dictionary.tinellb.com/d/dibada.html#highlulani">dibada</a> <ipa>/d<strong>&#x268;</strong>.&#x2c8;bad.&#x259;/</ipa> <high-lulani>Dbd</high-lulani> <em>life</em>
-[e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a><em> </em><ipa>/&#x14b;<strong>i&#x2d0;</strong>/</ipa> <high-lulani>Q</high-lulani> <em>to experience</em>
+[e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a><em> </em><ipa>/&#x14b;<strong>i&#x2d0;</strong>/</ipa> <high-lulani>Q</high-lulani> <em>to experience</em>[/d]
 [2]Open
 The open vowel is unrounded. It can be realised as <ipa>/a/</ipa> or <ipa>/&#x259;/</ipa>.
+[d wordlist]
 [f]<a href="http://dictionary.tinellb.com/k/kanama.html#highlulani">kanama</a> <ipa>/k&#x2b0;<strong>&#x259;</strong>.&#x2c8;n<strong>a</strong>m.<strong>&#x259;</strong>/</ipa> <high-lulani>knm</high-lulani> <em>to play</em>
 [e]<a href="http://dictionary.tinellb.com/n/naru.html#highlulani">naru</a> <ipa>/&#x2c8;n<strong>a</strong>&#x27d;.&#x289;/</ipa> <high-lulani>nw</high-lulani> <em>slowly</em>
 [e]<a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a> <ipa>/&#x294;&#x268;.&#x294;u&#x25f;.<strong>&#x259;</strong>/</ipa> <high-lulani>iuj</high-lulani> <em>table</em>
-[e]<a href="http://dictionary.tinellb.com/c/ca.html#highlulani">ca</a> <ipa>/c&#x2b0;<strong>a&#x2d0;</strong>/</ipa> <high-lulani>c</high-lulani> <em>help</em>
+[e]<a href="http://dictionary.tinellb.com/c/ca.html#highlulani">ca</a> <ipa>/c&#x2b0;<strong>a&#x2d0;</strong>/</ipa> <high-lulani>c</high-lulani> <em>help</em>[/d]
 [2]Back
 The back close vowel is rounded. It can be realised as <ipa>/u/</ipa> or <ipa>/&#x289;/</ipa>.
+[d wordlist]
 [f]<a href="http://dictionary.tinellb.com/m/mulu.html#highlulani">mulu</a> <ipa>/&#x2c8;m<strong>u</strong>l.<strong>&#x289;</strong>/</ipa> <high-lulani>UW</high-lulani> <em>blood</em>
 [e]<a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a> <ipa>/&#x2c8;h<strong>u</strong>&#x28e;.&#x28e;&#x259;/</ipa> <high-lulani>V;l</high-lulani> <em>to have sex</em>
 [e]<a href="http://dictionary.tinellb.com/r/riccu.html#highlulani">riccu</a> <ipa>/&#x2c8;&#x27d;ic.c<strong>&#x289;</strong>/</ipa><high-lulani>R;y</high-lulani> <em>sphere</em>
-[e]<a href="http://dictionary.tinellb.com/t/tu.html#highlulani">tu</a> <ipa>/t&#x2b0;<strong>u&#x2d0;</strong>/</ipa> <high-lulani>e</high-lulani> <em>child</em>&date=20180323--------------------------------------------------3
+[e]<a href="http://dictionary.tinellb.com/t/tu.html#highlulani">tu</a> <ipa>/t&#x2b0;<strong>u&#x2d0;</strong>/</ipa> <high-lulani>e</high-lulani> <em>child</em>[/d]&date=20180420--------------------------------------------------3
 [1]Phonotactics
 Phonemically, all syllables are CV, that is, one consonant followed by one vowel. Word-internal consonants can be geminated. The only consonant clusters are geminate consonants, and there are no vowel clusters or long vowels.&date=20180323--------------------------------------------------3
 [1]Suprasegmentals
@@ -1344,7 +1385,7 @@ third person inanimate:
 [e]transitive: <a href="http://dictionary.tinellb.com/i/'iffa.html#highlulani">&rsquo;iffa</a>
 [e]ablative: <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>
 [e]dative: <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>
-[e]inalienable genitive: <a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a>
+[e]inalienable genitive: <a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a>
 [/d]
 [2]Number
 Pronouns are not generally marked for number.
@@ -1482,7 +1523,7 @@ Items inalienably possessed by the topic appear without a genitive pronoun.
 [e]<a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&rsquo;ara</a>
 [e]<em>face</em>
 [e]&ldquo;the face&rdquo; / &ldquo;his face&rdquo;[/d]
-Some kinship terms have suppletive forms when used with a plain possessive pronoun. See <a href="../../apocrypha/kinship.html#nuclearfamily">that section</a> for details.&date=20180419--------------------------------------------------4
+Some kinship terms have suppletive forms when used with a plain possessive pronoun. See <a href="../../apocrypha/kinship.html#nuclearfamily">that section</a> for details.&date=20180420--------------------------------------------------4
 [1]Indefinite Pro-forms
 The indefinite pro-forms are sets of deictic words which can be placed into a table.
 [t]|hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
