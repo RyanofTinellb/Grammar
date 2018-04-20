@@ -673,27 +673,26 @@ The class of stem verbs is semi-closed &mdash; there are only about 100 pure ver
 [/d]
 [2]Compound Verbs
 In order to extend or specify meaning,  verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of stem verbs.
+[d wordlist]
 [d folding]
 [f]<strong>&rsquo;isinna</strong>
 [e]<high-lulani>iS;n</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> + <a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a>
 [e]<em>say</em>-<em>story</em>
-[e]&ldquo;to tell a story&rdquo;
-[/d]
+[e]&ldquo;to tell a story&rdquo;[/d]
 [d folding]
 [f]<strong>dissu&rsquo;ahati</strong>
 [e]<high-lulani>D;zahT</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a> + <a href="http://dictionary.tinellb.com/a/'ahati.html#highlulani">&rsquo;ahati</a>
 [e]<em>feel</em>-<em>happiness</em>
-[e]&ldquo;to be happy&rdquo;
-[/d]
+[e]&ldquo;to be happy&rdquo;[/d]
 [d folding]
 [f]<strong>pamilami</strong>
 [e]<high-lulani>pMlM</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> + <a href="http://dictionary.tinellb.com/m/milami.html#highlulani">milami</a>
 [e]<em>think</em>-<em>surroundings</em>
-[e]&ldquo;to be conscious&rdquo;
-[/d]&date=20180403--------------------------------------------------4
+[e]&ldquo;to be conscious&rdquo;[/d]
+[/d]&date=20180420--------------------------------------------------4
 [1]Intransitivity
 Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
 [d folding]
@@ -1150,30 +1149,79 @@ The negative aspect is used for actions, attributes and perceptions which do not
 &date=20180323
 --------------------------------------------------3
 [1]Adpositions
-Adpositions are a closed class.
-[2]Uses
-Adpositions can be used in three different ways.
-[3]Preposition
-The most basic use for an adposition is prefixed to a noun to signify where the action is taking place with relation to a reference.
-[f]<a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a><a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a> <em>atop the table</em> (<a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a> <em>up</em> ; <a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a> <em>table</em>)
-[e]<a href="http://dictionary.tinellb.com/h/haru.html#highlulani">haru</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <em>with the queen</em> (<a href="http://dictionary.tinellb.com/h/haru.html#highlulani">haru</a> <em>with</em> ; <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <em>queen</em>)
-[e]<a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a><a href="http://dictionary.tinellb.com/c/cula.html#highlulani">cula</a> <em>in an egg</em> (<a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a> <em>at</em> ; <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">cula</a> <em>egg</em>)
-[e]<a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a><a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/i/'ita'i.html#highlulani">&rsquo;ita&rsquo;i</a> <em>down from the cart</em> (<a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <em>down</em> ; <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a> <em>from</em> ; <a href="http://dictionary.tinellb.com/i/'ita'i.html#highlulani">&rsquo;ita&rsquo;i</a> <em>cart</em>)
-[3]Nominal and Verbal Modifier
-Adpositions can also be used in conjunction with nouns and verbs to make compounds.
-[f]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a><a href="http://dictionary.tinellb.com/g/gibi.html#highlulani">gibi</a> <em>to go east</em> (<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <em>to move</em> ; <a href="http://dictionary.tinellb.com/g/gibi.html#highlulani">gibi</a> <em>east</em>)
-[e]<a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a><a href="http://dictionary.tinellb.com/a/'adi.html#highlulani">&rsquo;adi</a> <em>nearby people</em> (<a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a> <em>person</em> ; <a href="http://dictionary.tinellb.com/a/'adi.html#highlulani">&rsquo;adi</a> <em>near</em>)
-[3]Adverb
-Adpositions can be used by themselves to show the position of the action relative to the speaker, or the direction in which the action proceeds. Unlike other adverbs, these are placed after the auxiliary.
-[f]<a href="http://dictionary.tinellb.com/a/'adi.html#highlulani">&rsquo;adi</a> <em>nearby</em>
-[e]<a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/h/hussu.html#highlulani">hussu</a> <em>drop down</em> (<a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <em>down</em> ; <a href="http://dictionary.tinellb.com/h/hussu.html#highlulani">hussu</a> <em>drop</em>)
-[2]List
-[3]Cardinal Directions
+Adpositions are a closed class. They can be used in three different ways.
+[2]As a Preposition
+The most basic use for an adposition is prefixed to a noun to signify where the action is taking place with relation to a reference. These act as prefixes.
+[d wordlist]
+[d folding]
+[f]<strong>di&rsquo;i&rsquo;uja</strong>
+[e]<high-lulani>Diuj</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a>-<a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a>
+[e]<em>up-table</em>
+[e]&ldquo;atop the table&rdquo;[/d]
+[d folding]
+[f]<strong>harul&middot;lani</strong>
+[e]<high-lulani>hwWlN</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/h/haru.html#highlulani">haru</a>-<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>
+[e]<em>with-queen</em>
+[e]&ldquo;with the queen&rdquo;[/d]
+[d folding]
+[f]<strong>nicula</strong>
+[e]<high-lulani>Nyl</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/c/cula.html#highlulani">cula</a>
+[e]<em>at-egg</em>
+[e]&ldquo;in an egg&rdquo;[/d]
+[/d]
+Their nature as a prefix continues to apply even when the noun is already case-marked
+[d folding]
+[f]<strong>qakalu&rsquo;ita&rsquo;i</strong>
+[e]<high-lulani>qkWiti</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a>-<a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/i/'ita'i.html#highlulani">&rsquo;ita&rsquo;i</a>
+[e]<em>down-</em><span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>car</em>
+[e]&ldquo;down from the cart&rdquo;[/d]
+[2]As a Nominal or Verbal Modifier
+Adpositions can be used to form compound nouns:
+[d folding]
+[f]<strong>gusu&rsquo;adi</strong>
+[e]<high-lulani> &lt;zaD</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a>-<a href="http://dictionary.tinellb.com/a/'adi.html#highlulani">&rsquo;adi</a>
+[e]<em>person</em>-<em>near</em>
+[e]&ldquo;nearby people&rdquo;[/d]
+and compound verbs:
+[d folding]
+[e]<strong>jannigibi</strong>
+[e]<high-lulani> j;NGB</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a>-<a href="http://dictionary.tinellb.com/g/gibi.html#highlulani">gibi</a>
+[e]<em>move-east</em>
+[e]&ldquo;to go east&rdquo;[/d]
+[2]As an Adverb
+Adpositions can be used independently to show the position of the action relative to the speaker, or the direction in which the action proceeds. Unlike other adverbs, these are placed before or instead of the auxiliary.
+[d folding]
+[f]<strong>Kuddu qa cani hussu</strong>.
+[e]<high-lulani>. &gt;;E / q / cN / V;z.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kuddu.html#highlulani">Kuddu</a> <a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a>  <a href="http://dictionary.tinellb.com/h/hussu.html#highlulani">hussu</a>.
+[e]<em>Rain down</em> <span class="tooltip"><small-caps>prs;dyn</small-caps><span class="tooltip-text">present dynamic</span></span> <em>fall.</em>
+[e]<em>lit:</em> &ldquo;Rain is falling down.&rdquo;
+[e]&ldquo;It&rsquo;s raining.&rdquo;[/d]
+The auxiliary must appear to support an adverbial adposition in copular clauses.
+[d folding]
+[f]<strong>Nimalu sani ra&rsquo;u.</strong>
+[e]<high-lulani>.NmW / sN / ru.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/n/nimalu.html#highlulani">Nimalu</a> <a href="http://dictionary.tinellb.com/s/sani.html#highlulani">sani</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a>.
+[e]<em>Bear north</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>.
+[e]&ldquo;The bear is to the north.&rdquo;[/d]
+[d folding]
+[f]<strong>Kuhisuba &rsquo;adi na cijja.</strong>
+[e]<high-lulani>.&gt;Hzb / aD / n / C;j.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">Ku-</a><a href="http://dictionary.tinellb.com/h/hisuba.html#highlulani">hisuba</a> <a href="http://dictionary.tinellb.com/a/'adi.html#highlulani">&rsquo;adi</a> <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/c/cijja.html#highlulani">cijja</a>.
+[e]<span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>administrator near</em> <span class="tooltip"><small-caps>prs;hab</small-caps><span class="tooltip-text">present habitual</span></span> <em>alcohol.</em>
+[e]&ldquo;The minister usually has a drink around now.&rdquo;[/d]
+[2]Cardinal Directions
 [f]<a href="http://dictionary.tinellb.com/k/ka.html#highlulani">ka</a> <em>south</em>
 [e]<a href="http://dictionary.tinellb.com/s/sumika.html#highlulani">sumika</a> <em>west</em>
 [e]<a href="http://dictionary.tinellb.com/s/sani.html#highlulani">sani</a> <em>north</em>
 [e]<a href="http://dictionary.tinellb.com/g/gibi.html#highlulani">gibi</a> <em>east</em>
-[3]Locations
+[2]Locations
 These can be used to refer to locations in either space or time
 [f]<a href="http://dictionary.tinellb.com/a/'adi.html#highlulani">&rsquo;adi</a> <em>near; now</em>
 [e]<a href="http://dictionary.tinellb.com/x/xidu.html#highlulani">xidu</a> <em>far</em>
@@ -1184,7 +1232,7 @@ These can be used to refer to locations in either space or time
 [f]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <em>towards; at</em>
 [e]<a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a> <em>at; in; during</em>
 [e]<a href="http://dictionary.tinellb.com/k/kika.html#highlulani">kika</a> <em>over</em>
-[3]Spatial Locations
+[2]Spatial Locations
 These can only be used to refer to locations in space.
 [f]<a href="http://dictionary.tinellb.com/j/jimuli.html#highlulani">jimuli</a> <em>outside</em>
 [e]<a href="http://dictionary.tinellb.com/q/qu'u.html#highlulani">qu&rsquo;u</a> <em>in; inside</em>
@@ -1194,7 +1242,7 @@ These can only be used to refer to locations in space.
 [e]<a href="http://dictionary.tinellb.com/d/du'i.html#highlulani">du&rsquo;i</a> <em>beyond; opposite</em>
 [e]<a href="http://dictionary.tinellb.com/l/la'a.html#highlulani">la&rsquo;a</a> <em>on a horizontal surface</em>
 [e]<a href="http://dictionary.tinellb.com/k/kadu.html#highlulani">kadu</a> <em>on a vertical surface</em>
-[3]Motion
+[2]Motion
 These refer to motion
 [f]<a href="http://dictionary.tinellb.com/d/data.html#highlulani">data</a> <em>backwards</em>
 [e]<a href="http://dictionary.tinellb.com/t/tirri.html#highlulani">tirri</a> <em>forwards</em>
@@ -1202,11 +1250,11 @@ These refer to motion
 [e]<a href="http://dictionary.tinellb.com/m/ma'iki.html#highlulani">ma&rsquo;iki</a> <em>across</em>
 [e]<a href="http://dictionary.tinellb.com/t/tiku.html#highlulani">tiku</a> <em>around</em>
 [e]<a href="http://dictionary.tinellb.com/b/bi.html#highlulani">bi</a> <em>out; out of; from</em>
-[3]Animates
+[2]Animates
 This group have animate objects.
 [f]<a href="http://dictionary.tinellb.com/h/haru.html#highlulani">haru</a> <em>with</em>
 [e]<a href="http://dictionary.tinellb.com/h/ha.html#highlulani">ha</a> <em>for the benefit of</em>
-[3]Inanimates
+[2]Inanimates
 This group have inanimate objects.
 [f]<a href="http://dictionary.tinellb.com/n/nidu.html#highlulani">nidu</a> <em>with; using</em>
 [e]<a href="http://dictionary.tinellb.com/s/sarru.html#highlulani">sarru</a> <em>without; instead of; rather than</em>
@@ -1214,8 +1262,7 @@ This group have inanimate objects.
 [e]<a href="http://dictionary.tinellb.com/n/nina.html#highlulani">nina</a> <em>used for a purpose</em>
 [e]<a href="http://dictionary.tinellb.com/s/sata.html#highlulani">sata</a> <em>in order to obtain</em>
 [e]<a href="http://dictionary.tinellb.com/a/'arri.html#highlulani">&rsquo;arri</a> <em>along with</em>
-&date=20170725
---------------------------------------------------3
+&date=20180420--------------------------------------------------3
 [1]Adverbs
 Adverbs are a closed class. Adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <a href="../syntax/adverbialphrases.html">Adverbial Phrases</a>
 [f]<a href="http://dictionary.tinellb.com/n/naru.html#highlulani">naru</a> <em>slowly</em>
