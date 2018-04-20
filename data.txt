@@ -292,7 +292,7 @@ The fricative <ipa>/h/</ipa> is a voiceless sound. When geminate, it is pronounc
 [e]<a href="http://dictionary.tinellb.com/q/quhha.html#highlulani">quhha</a> <ipa>/&#x2c8;&#x14b;u<strong>&ccedil;.&ccedil;</strong>&#x259;/</ipa> <high-lulani>A;h</high-lulani> <em>river</em>[/d]
 &date=20180420--------------------------------------------------3
 [1]Vowels
-There are three phonemic vowels, with three main allophones for each. The vowels are distinguished by closeness and frontness.
+There are three phonemic vowels, with two main allophones for each. The vowels are distinguished by closeness and frontness.
 [t]|h front |h central |h back
 h close | <ipa>i</ipa> | <ipa>(&#x268;) (&#x289;)</ipa> | <ipa>u</ipa>
 h mid || <ipa>(&#x259;)</ipa> |
@@ -308,30 +308,27 @@ h open | <ipa>a</ipa> ||
 <strong>open:</strong>
 [e]<strong>front:</strong> <ipa>a</ipa>
 [/d]
-There are three phonemic vowels: two close vowels and one open. These are given in the above chart, with the variant allophones in (round brackets). The central and mid vowels are considered the lax variants, while the lengthened vowels are long.
+There are three phonemic vowels: two close vowels and one open. These are given in the above chart, with the variant allophones in (round brackets). The central and mid vowels are considered the lax variants.
 [2]Front
 The front close vowel is unrounded. It is realised as <ipa>/i/</ipa> or <ipa>/&#x268;/</ipa>.
 [d wordlist]
 [f]<a href="http://dictionary.tinellb.com/m/mici.html#highlulani">mici</a> <ipa>/&#x2c8;m<strong>i</strong>c.<strong>&#x268;</strong>/</ipa> <high-lulani>MC</high-lulani> <em>peace</em>
 [e]<a href="http://dictionary.tinellb.com/s/salilu.html#highlulani">salilu</a> <ipa>/s&#x259;.&#x2c8;l<strong>i</strong>l.&#x289;/</ipa> <high-lulani>sLW</high-lulani> <em>night sky</em>
-[e]<a href="http://dictionary.tinellb.com/d/dibada.html#highlulani">dibada</a> <ipa>/d<strong>&#x268;</strong>.&#x2c8;bad.&#x259;/</ipa> <high-lulani>Dbd</high-lulani> <em>life</em>
-[e]<a href="http://dictionary.tinellb.com/q/qi.html#highlulani">qi</a><em> </em><ipa>/&#x14b;<strong>i&#x2d0;</strong>/</ipa> <high-lulani>Q</high-lulani> <em>to experience</em>[/d]
+[e]<a href="http://dictionary.tinellb.com/d/dibada.html#highlulani">dibada</a> <ipa>/d<strong>&#x268;</strong>.&#x2c8;bad.&#x259;/</ipa> <high-lulani>Dbd</high-lulani> <em>life</em>[/d]
 [2]Open
 The open vowel is unrounded. It can be realised as <ipa>/a/</ipa> or <ipa>/&#x259;/</ipa>.
 [d wordlist]
 [f]<a href="http://dictionary.tinellb.com/k/kanama.html#highlulani">kanama</a> <ipa>/k&#x2b0;<strong>&#x259;</strong>.&#x2c8;n<strong>a</strong>m.<strong>&#x259;</strong>/</ipa> <high-lulani>knm</high-lulani> <em>to play</em>
 [e]<a href="http://dictionary.tinellb.com/n/naru.html#highlulani">naru</a> <ipa>/&#x2c8;n<strong>a</strong>&#x27d;.&#x289;/</ipa> <high-lulani>nw</high-lulani> <em>slowly</em>
-[e]<a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a> <ipa>/&#x294;&#x268;.&#x294;u&#x25f;.<strong>&#x259;</strong>/</ipa> <high-lulani>iuj</high-lulani> <em>table</em>
-[e]<a href="http://dictionary.tinellb.com/c/ca.html#highlulani">ca</a> <ipa>/c&#x2b0;<strong>a&#x2d0;</strong>/</ipa> <high-lulani>c</high-lulani> <em>help</em>[/d]
+[e]<a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a> <ipa>/&#x294;&#x268;.&#x294;u&#x25f;.<strong>&#x259;</strong>/</ipa> <high-lulani>iuj</high-lulani> <em>table</em>[/d]
 [2]Back
 The back close vowel is rounded. It can be realised as <ipa>/u/</ipa> or <ipa>/&#x289;/</ipa>.
 [d wordlist]
 [f]<a href="http://dictionary.tinellb.com/m/mulu.html#highlulani">mulu</a> <ipa>/&#x2c8;m<strong>u</strong>l.<strong>&#x289;</strong>/</ipa> <high-lulani>UW</high-lulani> <em>blood</em>
 [e]<a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a> <ipa>/&#x2c8;h<strong>u</strong>&#x28e;.&#x28e;&#x259;/</ipa> <high-lulani>V;l</high-lulani> <em>to have sex</em>
-[e]<a href="http://dictionary.tinellb.com/r/riccu.html#highlulani">riccu</a> <ipa>/&#x2c8;&#x27d;ic.c<strong>&#x289;</strong>/</ipa><high-lulani>R;y</high-lulani> <em>sphere</em>
-[e]<a href="http://dictionary.tinellb.com/t/tu.html#highlulani">tu</a> <ipa>/t&#x2b0;<strong>u&#x2d0;</strong>/</ipa> <high-lulani>e</high-lulani> <em>child</em>[/d]&date=20180420--------------------------------------------------3
+[e]<a href="http://dictionary.tinellb.com/r/riccu.html#highlulani">riccu</a> <ipa>/&#x2c8;&#x27d;ic.c<strong>&#x289;</strong>/</ipa><high-lulani>R;y</high-lulani> <em>sphere</em>[/d]&date=20180420--------------------------------------------------3
 [1]Phonotactics
-Phonemically, all syllables are CV, that is, one consonant followed by one vowel. Word-internal consonants can be geminated. The only consonant clusters are geminate consonants, and there are no vowel clusters or long vowels.&date=20180323--------------------------------------------------3
+Phonemically, all syllables are CV, that is, one consonant followed by one vowel. Word-internal consonants can be geminated. The only consonant clusters are geminate consonants, and there are no phonemic vowel clusters or long vowels.&date=20180420--------------------------------------------------3
 [1]Suprasegmentals
 [2]Syllabication
 Syllable breaks are placed between two geminate consonants.
@@ -350,17 +347,38 @@ These two rules are in order of priority, and two closed syllables can only appe
 [e]rad.dil.la
 [/d]
 [2]Stress
-Primary stress falls on the last closed syllable, and secondary stress on the penultimate closed syllable. Stress is characterised by a slightly longer vowel and an altered pitch: high for primary, low for secondary.
-[e]b&aacute;t.ta
-[e]t&uacute;c.i
-[e]lu.l&aacute;n.i
-[e]p&agrave;m.i.l&aacute;m.i
-[e]j&aacute;n.ni.ga
-[e]rad.d&iacute;l.la
+There are four levels of stress which are assigned to particular forms of syllables. Stress effects the quality and pitch of vowels.
+[3]Primary Stress
+Primary stress is characterised by tense vowels with a high pitch. In polysyllabic words, primary stress falls on the last closed syllable. Monosyllabic content words also receive this stress, although this is not explicitly marked in the pronunciation guide.
+[d wordlist]
+[f]<ipa>/<strong>t&#x2b0;u</strong>/</ipa>
+[e]<ipa>/<strong>&#x2c8;bit</strong>.t&#x259;/</ipa>
+[e]<ipa>/<strong>&#x2c8;t&#x2b0;uc&#x2b0;</strong>.&#x268;/</ipa>
+[e]<ipa>/l&#x289;.<strong>&#x2c8;lan</strong>.&#x268;/</ipa>
+[e]<ipa>/&#x2cc;p&#x2b0;am.&#x268;.<strong>&#x2c8;lam</strong>.&#x268;/</ipa>
+[e]<ipa>/<strong>&#x2c8;&#x25f;a&#x272;</strong>.&#x272;&#x268;.&#x25f;a/</ipa>
+[e]<ipa>/&#x2cc;&#x27d;ad&#x2b1;.<strong>&#x2c8;d&#x2b1;i&#x28e;</strong>.&#x28e;&#x259;/</ipa>[/d]
+[3]Secondary Stress
+Secondary stress is also characterised by the use of the tense vowels, however, the pitch is lower than the average. This falls on any other closed syllables.
+[d wordlist]
+[f]<ipa>/<strong>&#x2cc;p&#x2b0;am</strong>.&#x268;.&#x2c8;lam.&#x268;/</ipa>
+[e]<ipa>/<strong>&#x2cc;&#x27d;ad&#x2b1;</strong>.&#x2c8;d&#x2b1;i&#x28e;.&#x28e;&#x259;/</ipa>[/d]
+[3]Tertiary Stress
+Tertiary stress is charateristed by use of tense vowels with a median pitch. This stress falls on any open syllable after one with quaternary stress. It is also the stress attracted by monosyllabic functional words. It is not explicitly marked; instead denoted by use of a tense vowel symbol with no stress mark.
+[d wordlist]
+[f]<ipa>/&#x2c8;la&#x272;.&#x272;&#x289;<strong>.hu</strong>/</ipa>
+[e]<ipa>/p&#x2b0;i/</ipa> (functional word)
+[e]<ipa>/k&#x2b0;&#x259;.<strong>lu</strong>/</ipa> (functional word)[/d]
+[3]Quaternary Stress
+Quaternary stress is characterised by a lax vowel with median pitch. It is not explicitly marked. This stress falls on any open syllable directly following one with primary or secondary stress, or an initial syllable that has not yet received a stress. This latter implies that quaternary stress is assigned before the tertiary, despite being of lower rank.
+[f]<ipa>/&#x2c8;na&#x27d;.<strong>&#x259;</strong>/</ipa>
+[e]<ipa>/<strong>&#x255;&#x259;</strong>.&#x2c8;nak&#x2b0;.<strong>&#x268;</strong>/</ipa>
+[2]Vowel Length
+Vowels in syllables with primary or secondary stress are slightly longer than other vowels. They are lengthened even further when the syllable coda is null, the consonant <ipa>/h/</ipa>, or a sonorant (<ipa>/mn&#x14b;l&#x27d;/).
 [2]Prosody
 Interrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (&#x1ce;) or a falling tone (&acirc;), placed on the syllable of the appropriate word which has the greatest stress.
 Falling tone can also be used to bring focus to a particular word.
-&date=20180323--------------------------------------------------2
+&date=20180420--------------------------------------------------2
 [1]Orthography
 As well as the syllabary for most written use, there are also special-use syllabaries. One of these encodes more redundancy for use with noisy channels. The other is a non-visual written code for blind and other visually impaired users.&date=20180323--------------------------------------------------3
 [1]Syllabary
