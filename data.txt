@@ -1288,9 +1288,9 @@ Adverbs are a closed class. Adverbs can be used either as a verbal suffix or ind
 [d wordlist]
 [e]<a href="http://dictionary.tinellb.com/p/piddi.html#highlulani">piddi</a> <high-lulani>P;D</high-lulani> <em>on purpose</em>
 [e]<a href="http://dictionary.tinellb.com/q/qiriji.html#highlulani">qiriji</a> <high-lulani>QRJ</high-lulani> <em>with effort</em>
-[e]<a href="http://dictionary.tinellb.com/h/hibu.html#highlulani">hibu</a> <high-lulani>HO</high-lulani> <em>allowing oneself</em>
-[e]<a href="http://dictionary.tinellb.com/d/dumi.html#highlulani">dumi</a> <high-lulani>EM</high-lulani> <em>trying</em>
-[e]<a href="http://dictionary.tinellb.com/d/danna.html#highlulani">danna</a> <high-lulani>d;n</high-lulani> <em>succeed</em>
+[e]<a href="http://dictionary.tinellb.com/h/hibu.html#highlulani">hibu</a> <high-lulani>HO</high-lulani> <em>allow oneself to</em>
+[e]<a href="http://dictionary.tinellb.com/d/dumi.html#highlulani">dumi</a> <high-lulani>EM</high-lulani> <em>try</em> <em>to</em>
+[e]<a href="http://dictionary.tinellb.com/d/danna.html#highlulani">danna</a> <high-lulani>d;n</high-lulani> <em>successfully</em>
 [e]<a href="http://dictionary.tinellb.com/c/ca'alla.html#highlulani">ca&rsquo;alla</a> <high-lulani>ca;l</high-lulani> <em>must</em>
 [e]<a href="http://dictionary.tinellb.com/f/fuca.html#highlulani">fuca</a> <high-lulani>vc</high-lulani> <em>can</em>
 [e]<a href="http://dictionary.tinellb.com/r/ritada.html#highlulani">ritada</a> <high-lulani>Rtd</high-lulani> <em>by fate</em>
@@ -1305,7 +1305,7 @@ Adverbs are a closed class. Adverbs can be used either as a verbal suffix or ind
 [e]<a href="http://dictionary.tinellb.com/k/kupira.html#highlulani">kupira</a> <high-lulani>&gt;Pr</high-lulani> <em>in many different ways</em>
 [e]<a href="http://dictionary.tinellb.com/t/ti'ici.html#highlulani">ti&rsquo;ici</a> <high-lulani>TiC</high-lulani> <em>to a certain extent</em>
 [e]<a href="http://dictionary.tinellb.com/c/cipati.html#highlulani">cipati</a> <high-lulani>CpT</high-lulani> <em>to that extent</em>
-[e]<a href="http://dictionary.tinellb.com/t/tuci.html#highlulani">tuci</a> <high-lulani>eC</high-lulani> <em>to barely do</em>
+[e]<a href="http://dictionary.tinellb.com/t/tuci.html#highlulani">tuci</a> <high-lulani>eC</high-lulani> <em>barely</em>
 [e]<a href="http://dictionary.tinellb.com/m/miru.html#highlulani">miru</a> <high-lulani>Mw</high-lulani> <em>about to</em>
 [e]<a href="http://dictionary.tinellb.com/x/xibbuti.html#highlulani">xibbuti</a> <high-lulani>X;OT</high-lulani> <em>never again</em>[/d]
 [3]Time
@@ -1339,7 +1339,7 @@ These give the means by which the speaker gained information with regards to the
 [f]<a href="http://dictionary.tinellb.com/r/raqa.html#highlulani">raqa</a> <high-lulani>rq</high-lulani> <em>obviously</em>
 [e]<a href="http://dictionary.tinellb.com/d/da.html#highlulani">da</a> <high-lulani>d</high-lulani> <em>clearly</em>
 [e]<a href="http://dictionary.tinellb.com/j/jami.html#highlulani">jami</a> <high-lulani>jM</high-lulani> <em>evidentially</em>
-[e]<a href="http://dictionary.tinellb.com/q/qaffi.html#highlulani">qaffi</a> <high-lulani>q;F</high-lulani> <em>seem</em>
+[e]<a href="http://dictionary.tinellb.com/q/qaffi.html#highlulani">qaffi</a> <high-lulani>q;F</high-lulani> <em>seemingly</em>
 [e]<a href="http://dictionary.tinellb.com/j/jati.html#highlulani">jati</a> <high-lulani>jT</high-lulani> <em>apparently</em>
 [e]<a href="http://dictionary.tinellb.com/x/xakila.html#highlulani">xakila</a> <high-lulani>xKl</high-lulani> <em>thought to be</em>
 [e]<a href="http://dictionary.tinellb.com/l/lisina.html#highlulani">lisina</a> <high-lulani>LSn</high-lulani> <em>by assumption</em>
@@ -1396,28 +1396,32 @@ On the other hand, the suffix <a href="http://dictionary.tinellb.com/m/-ma.html#
 Suffixes can be used to derive new word from existing vocabulary. A suffix beginning with a vowel replaces the final vowel of the base.
 [2]Derivational Suffixes
 These derive words within a class, <em>i.e.:</em> a noun from a noun, or a verb from a verb.
-<a href="http://dictionary.tinellb.com/a/-aku.html#highlulani">-aku</a> forms an augmentative. It is most often attached to nouns to reference something large or important. It is rarely used for people.
-[f]<a href="http://dictionary.tinellb.com/t/tissaku.html#highlulani">tissaku</a> <em>wind</em>
-[e]<a href="http://dictionary.tinellb.com/i/'isilaku.html#highlulani">&rsquo;isilaku</a> <em>depression</em>
-<a href="http://dictionary.tinellb.com/i/-ini.html#highlulani">-ini</a> is used to form diminutives, words referencing something small or unimportant. When used with animate nouns, it creates a word for the young of non-sapient creatures. However, with sapient creatures, this word is obscene.
-[f]<a href="http://dictionary.tinellb.com/a/'ahatini.html#highlulani">&rsquo;ahatini</a> <em>contentment</em>
-[e]<a href="http://dictionary.tinellb.com/t/tissini.html#highlulani">tissini</a> <em>breeze</em>
-[e]<a href="http://dictionary.tinellb.com/q/qikannini.html#highlulani">qikannini</a> <em>puppy</em>
-[e]<a href="http://dictionary.tinellb.com/r/ranini.html#highlulani">ranini</a> <em>potato chips</em>
-[f]<a href="http://dictionary.tinellb.com/b/bi'ini.html#highlulani">bi&rsquo;ini</a> <em>to itch</em>
-<a href="http://dictionary.tinellb.com/f/-fi.html#highlulani">-fi</a> confers a nuance of sacredness or honour upon a base word.
-[f]<a href="http://dictionary.tinellb.com/k/karafi.html#highlulani">karafi</a> <em>sacredness</em>
-[e]<strong>lulanifi</strong> <em>great queen</em>
-<a href="http://dictionary.tinellb.com/t/-tu'i.html#highlulani">-tu&rsquo;i</a> and <a href="http://dictionary.tinellb.com/d/da.html#highlulani">da</a> are used to highlight the positive and negative aspects of a word, respectively.
-[f]<a href="http://dictionary.tinellb.com/d/dasatu'i.html#highlulani">dasatu&rsquo;i</a> <em>passion</em> / <a href="http://dictionary.tinellb.com/d/dasada.html#highlulani">dasada</a> <em>anger</em>
-[e]<a href="http://dictionary.tinellb.com/t/ta'itu'i.html#highlulani">ta&rsquo;itu&rsquo;i</a> <em>aroma</em> / <a href="http://dictionary.tinellb.com/t/ta'ida.html#highlulani">ta&rsquo;ida</a> <em>stink</em>
+The augmentative suffix is <a href="http://dictionary.tinellb.com/a/-aku.html#highlulani">-aku</a> <high-lulani>/a&gt;</high-lulani> is most often attached to nouns to reference something large or important. It is rarely used for people.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/t/tissaku.html#highlulani">tissaku</a> <high-lulani>T;s&gt;</high-lulani> <em>wind</em>
+[e]<a href="http://dictionary.tinellb.com/i/'isilaku.html#highlulani">&rsquo;isilaku</a> <high-lulani>iSl&gt;</high-lulani> <em>depression</em>[/d]
+The diminutive suffix <a href="http://dictionary.tinellb.com/i/-ini.html#highlulani">-ini</a> <high-lulani>/iN</high-lulani> is used to form words which reference something small or unimportant. When used with animate nouns, it creates a word for the young of non-sapient creatures. However, with sapient creatures, this word is obscene.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/a/'ahatini.html#highlulani">&rsquo;ahatini</a> <high-lulani>ahTN</high-lulani> <em>contentment</em>
+[e]<a href="http://dictionary.tinellb.com/t/tissini.html#highlulani">tissini</a> <high-lulani>T;SN</high-lulani> <em>breeze</em>
+[e]<a href="http://dictionary.tinellb.com/q/qikannini.html#highlulani">qikannini</a> <high-lulani>Qk;NN</high-lulani> <em>puppy</em>
+[e]<a href="http://dictionary.tinellb.com/r/ranini.html#highlulani">ranini</a> <high-lulani>rNN</high-lulani> <em>potato chips</em>
+[f]<a href="http://dictionary.tinellb.com/b/bi'ini.html#highlulani">bi&rsquo;ini</a> <high-lulani>BiN</high-lulani> <em>to itch</em>[/d]
+<a href="http://dictionary.tinellb.com/f/-fi.html#highlulani">-fi</a> <high-lulani>F</high-lulani> confers a nuance of sacredness or honour upon a base word.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/k/karafi.html#highlulani">karafi</a> <high-lulani>krF</high-lulani> <em>sacredness</em>
+[e]<strong>lulanifi</strong> <high-lulani>WlNF</high-lulani> <em>great queen</em>[/d]
+The pair of suffixes <a href="http://dictionary.tinellb.com/t/-tu'i.html#highlulani">-tu&rsquo;i</a> <high-lulani>ei</high-lulani> and <a href="http://dictionary.tinellb.com/d/-da.html#highlulani">-da</a> <high-lulani>d</high-lulani> are used to highlight the positive and negative aspects of a word, respectively.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/d/dasatu'i.html#highlulani">dasatu&rsquo;i</a> <high-lulani>dsei</high-lulani> <em>passion</em> / <a href="http://dictionary.tinellb.com/d/dasada.html#highlulani">dasada</a> <high-lulani>dsd</high-lulani> <em>anger</em>
+[e]<a href="http://dictionary.tinellb.com/t/ta'itu'i.html#highlulani">ta&rsquo;itu&rsquo;i</a> <high-lulani>tiei</high-lulani> <em>aroma</em> / <a href="http://dictionary.tinellb.com/t/ta'ida.html#highlulani">ta&rsquo;ida</a> <high-lulani>tid</high-lulani> <em>stink</em>[/d]
 [3]Nominal suffixes
 These derive nouns from other nouns.
-[t] | Inanimate Base | Abstract Base
-[r]Animate | <a href="http://dictionary.tinellb.com/r/-rra.html#highlulani">-rra</a> | <a href="http://dictionary.tinellb.com/s/-sa.html#highlulani">-sa</a> / <a href="http://dictionary.tinellb.com/r/-ri.html#highlulani">-ri</a>
-[r]Inanimate |  | <a href="http://dictionary.tinellb.com/d/-di.html#highlulani">-di</a>
-[r]Abstract | <a href="http://dictionary.tinellb.com/j/-ja.html#highlulani">-ja</a>[/t]
-<div class="mobile-table">
+[t] | inanimate base | abstract base
+h animate | <a href="http://dictionary.tinellb.com/r/-rra.html#highlulani">-rra</a> | <a href="http://dictionary.tinellb.com/s/-sa.html#highlulani">-sa</a> / <a href="http://dictionary.tinellb.com/r/-ri.html#highlulani">-ri</a>
+h inanimate |  | <a href="http://dictionary.tinellb.com/d/-di.html#highlulani">-di</a>
+h abstract | <a href="http://dictionary.tinellb.com/j/-ja.html#highlulani">-ja</a> | [/t]
+[d mobile-table]
 inanimate
 [e] &rarr; animate: <a href="http://dictionary.tinellb.com/r/-rra.html#highlulani">-rra</a>
 [e] &rarr; abstract: <a href="http://dictionary.tinellb.com/j/-ja.html#highlulani">-ja</a>
@@ -1502,8 +1506,7 @@ Any
 Other Part of Speech changes
 -atinna: derivational suffix verb &rarr; adverb derives an adverb from a verb
 -niqqi: derivational suffix noun &rarr; adverb derives an adverb from a noun
-&date=20180403
---------------------------------------------------4
+&date=20180422--------------------------------------------------4
 [1]Determiners
 A determiner can be used to narrow the reference of a noun. They can only be used as noun suffixes.
 [2]List
