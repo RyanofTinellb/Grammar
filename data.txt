@@ -2288,9 +2288,9 @@ The basis colour terms are all verbs:
 [f]<a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a> <em>brown</em>
 [f]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a> <em>white</em>
 [e]<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a> <em>black</em>
-<img src="http://www.tinellb.com/images/colourwheel.png">
+<img src="/images/colourwheel.png">
 <a href="http://dictionary.tinellb.com/b/baju.html#highlulani">Baju</a> <em>blue</em> covers both light and dark blue, the darkest violets, and all but the lightest shades of green. <a href="http://dictionary.tinellb.com/s/sa.html#highlulani">Sa</a> <em>yellow</em> covers the lightest shades of orange and green, as well as standard yellow. <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">Miku</a> <em>red</em> refers to all of red and pink, light purples and most of the orange spectrum, however, dark orange is subsumed under <a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a> <em>brown</em>.
-<img src="http://www.tinellb.com/images/nineshadesofgrey.png">
+<img src="/images/nineshadesofgrey.png">
 The figure above shows which shades are referred to by which term. <a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">Ki&#x294;a</a> <em>white</em> is used to refer to very light greys, as well as the usual white. <a href="http://dictionary.tinellb.com/g/ga.html#highlulani">Ga</a> <em>black</em> is used to refer to the darker greys, tending towards the black.
 In continuous aspects, these denote the colour of an object. With discrete aspects, these refer to a change in colour.
 [f]<a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">Pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
