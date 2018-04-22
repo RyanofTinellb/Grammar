@@ -5,6 +5,7 @@
 </link><link> | </link>:<link> | <br>
 ' | &quot; | <br>
 " | &dblquot; | <br>
+&#x2248; | ~= | <br>
 &rsquo; | ' | <br>
 &lsquo; | ` | <br>
 &#x294; | '' | <br>
