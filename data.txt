@@ -2290,10 +2290,11 @@ The basis colour terms are all verbs:
 [e]<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a> <em>black</em>
 <img src="http://www.tinellb.com/images/colourwheel.png">
 <a href="http://dictionary.tinellb.com/b/baju.html#highlulani">Baju</a> <em>blue</em> covers both light and dark blue, the darkest violets, and all but the lightest shades of green. <a href="http://dictionary.tinellb.com/s/sa.html#highlulani">Sa</a> <em>yellow</em> covers the lightest shades of orange and green, as well as standard yellow. <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">Miku</a> <em>red</em> refers to all of red and pink, light purples and most of the orange spectrum, however, dark orange is subsumed under <a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a> <em>brown</em>.
+<img src="http://www.tinellb.com/images/nineshadesofgrey.png">
 The figure above shows which shades are referred to by which term. <a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">Ki&#x294;a</a> <em>white</em> is used to refer to very light greys, as well as the usual white. <a href="http://dictionary.tinellb.com/g/ga.html#highlulani">Ga</a> <em>black</em> is used to refer to the darker greys, tending towards the black.
 In continuous aspects, these denote the colour of an object. With discrete aspects, these refer to a change in colour.
 [f]<a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">Pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
-[e]<em>ball</em> <small-caps>prs;gno</small-caps> <em>red</em>.
+[e]<em>ball</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>red</em>.
 [e]&ldquo;The ball is red.&rdquo;
 [f]<a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&#x294;ara</a><a href="http://dictionary.tinellb.com/d/disi.html#highlulani">disi</a> <a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
 [e]<em>face</em>-<small-caps>3ani;gen prs;dyn</small-caps> <em>red</em>.
@@ -2301,9 +2302,7 @@ In continuous aspects, these denote the colour of an object. With discrete aspec
 Each of these terms can be compounded to refer to specific hues.
 [f]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a><a href="http://dictionary.tinellb.com/m/mulu.html#highlulani">mulu</a> <em>blood red</em>
 [e]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a><a href="http://dictionary.tinellb.com/k/kunubi.html#highlulani">kunubi</a> <em>sky blue</em>
-[e]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a><a href="http://dictionary.tinellb.com/m/masi.html#highlulani">masi</a> <em>snow white</em>
-&date=20170725
---------------------------------------------------3
+[e]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a><a href="http://dictionary.tinellb.com/m/masi.html#highlulani">masi</a> <em>snow white</em>&date=20180422--------------------------------------------------3
 [1]Kinship
 [2]Marriage
 <a href="http://dictionary.tinellb.com/j/ju'iduku.html#highlulani">Ju&rsquo;iduku</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <em>marriage</em> is the life-bonding of two people. It is intended to be eternal, but can be broken if requested by either partner. It is not an exclusive arrangement, and one can be involved in concurrent marriages.
