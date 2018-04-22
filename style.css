@@ -89,14 +89,6 @@ h6 {
     margin-bottom: 1em;
 }
 
-.content div.folding p:last-child {
-	margin-left: 5%;
-}
-
-.content div.folding p:last-child::before {
-	padding-right: 1em;
-}
-
 .content div.columns, .content div.left-columns {
     display: flex;
     flex-flow: row wrap;
