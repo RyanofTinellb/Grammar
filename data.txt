@@ -845,14 +845,14 @@ The participants of these verbs are equivalent to each other, that is, if Alice 
 [e]<em>Alice Bob-and copulate.</em>
 [e]&ldquo;Alice and Bob are having sex.&rdquo;
 [/d]
-The basic meaning of these sentences is not changed when swapping the particpants or using the alternate structures.
+The basic meaning of these sentences is not changed when swapping the participants or using the alternate structures.
 [d wordlist]
 [f]<a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a> <high-lulani>Yi</high-lulani> <em>to join</em>
 [e]<a href="http://dictionary.tinellb.com/s/sisa.html#highlulani">sisa</a> <high-lulani>Ss</high-lulani> <em>to touch</em>
 [e]<a href="http://dictionary.tinellb.com/h/haru.html#highlulani">haru</a> <high-lulani>hw</high-lulani> <em>to accompany</em>
 [e]<a href="http://dictionary.tinellb.com/h/hulla.html#highlulani">hulla</a> <high-lulani>V;l</high-lulani> <em>to copulate; to have consumated</em>
 [/d]
-&date=20180416--------------------------------------------------4
+&date=20180423--------------------------------------------------4
 [1]Transitivity
 The divalent verbs are called transitive, and these require an object to complete its meaning. It is possible to elide this object if it is obvious or irrelevant. The <strong>subject</strong> is the agent, and the <strong>object</strong> is the patient.
 [d folding]
@@ -2350,157 +2350,157 @@ The honorific can be a job title.
 [1]Elements
 The first 118 chemical elements have been named.
 [t]
-[r] | hydrogen<br><a href="http://dictionary.tinellb.com/l/la.html#highlulani">la</a> | lithium<br><a href="http://dictionary.tinellb.com/p/pini.html#highlulani">pini</a> | sodium<br><a href="http://dictionary.tinellb.com/l/lisu.html#highlulani">lisu</a> | potassium<br><a href="http://dictionary.tinellb.com/d/dina.html#highlulani">dina</a> | rubidium<br><a href="http://dictionary.tinellb.com/s/sadadu.html#highlulani">sadadu</a> | cesium<br><a href="http://dictionary.tinellb.com/n/nudda.html#highlulani">nudda</a> | francium<br><a href="http://dictionary.tinellb.com/g/guqqa.html#highlulani">guqqa</a>
-[r] |  | beryllium<br><a href="http://dictionary.tinellb.com/f/fiqqala.html#highlulani">fiqqala</a> | magnesium<br><a href="http://dictionary.tinellb.com/x/xaki.html#highlulani">xaki</a> | calcium<br><a href="http://dictionary.tinellb.com/q/qaxa.html#highlulani">qaxa</a> | strontium<br><a href="http://dictionary.tinellb.com/a/'aru'u.html#highlulani">&rsquo;aru&rsquo;u</a> | barium<br><a href="http://dictionary.tinellb.com/b/baca.html#highlulani">baca</a> | radium<br><a href="http://dictionary.tinellb.com/i/'ilasa.html#highlulani">&rsquo;ilasa</a>
-[r] |  |  |  | scandium<br><a href="http://dictionary.tinellb.com/c/cakina.html#highlulani">cakina</a> | yttrium<br><a href="http://dictionary.tinellb.com/a/'aqqixi.html#highlulani">&rsquo;aqqixi</a> | lanthanum<br><a href="http://dictionary.tinellb.com/x/xanaki.html#highlulani">xanaki</a> | actinium<br><a href="http://dictionary.tinellb.com/n/na'a.html#highlulani">na&rsquo;a</a>
-[r] |  |  |  |  |  | cerium<br><a href="http://dictionary.tinellb.com/a/'a'ami.html#highlulani">&rsquo;a&rsquo;ami</a> | thorium<br><a href="http://dictionary.tinellb.com/p/paraba.html#highlulani">paraba</a>
-[r] |  |  |  |  |  | praseodymium<br><a href="http://dictionary.tinellb.com/r/ra''asa.html#highlulani">ra&#x294;asa</a> | protactinium<br><a href="http://dictionary.tinellb.com/l/lakatti.html#highlulani">lakatti</a>
-[r] |  |  |  |  |  | neodymium<br><a href="http://dictionary.tinellb.com/f/fibaku.html#highlulani">fibaku</a> | uranium<br><a href="http://dictionary.tinellb.com/k/kari.html#highlulani">kari</a>
-[r] |  |  |  |  |  | prometheum<br><a href="http://dictionary.tinellb.com/u/'uccadama.html#highlulani">&rsquo;uccadama</a> | neptunium<br><a href="http://dictionary.tinellb.com/x/xasagi.html#highlulani">xasagi</a>
-[r] |  |  |  |  |  | samarium<br><a href="http://dictionary.tinellb.com/i/'i'isata.html#highlulani">&rsquo;i&rsquo;isata</a> | plutonium<br><a href="http://dictionary.tinellb.com/s/sussi.html#highlulani">sussi</a>
-[r] |  |  |  |  |  | europium<br><a href="http://dictionary.tinellb.com/s/siqi.html#highlulani">siqi</a> | americium<br><a href="http://dictionary.tinellb.com/d/dihiqa.html#highlulani">dihiqa</a>
-[r] |  |  |  |  |  | gadolinium<br><a href="http://dictionary.tinellb.com/t/tacala.html#highlulani">tacala</a> | curium<br><a href="http://dictionary.tinellb.com/f/farra.html#highlulani">farra</a>
-[r] |  |  |  |  |  | terbium<br><a href="http://dictionary.tinellb.com/r/rila.html#highlulani">rila</a> | berkelium<br><a href="http://dictionary.tinellb.com/s/saxxuru.html#highlulani">saxxuru</a>
-[r] |  |  |  |  |  | dysprosium<br><a href="http://dictionary.tinellb.com/b/bumissi.html#highlulani">bumissi</a> | californium<br><a href="http://dictionary.tinellb.com/i/'ikka.html#highlulani">&rsquo;ikka</a>
-[r] |  |  |  |  |  | holmium<br><a href="http://dictionary.tinellb.com/k/katiru.html#highlulani">katiru</a> | einsteinium<br><a href="http://dictionary.tinellb.com/b/banara.html#highlulani">banara</a>
-[r] |  |  |  |  |  | erbium<br><a href="http://dictionary.tinellb.com/c/calluna.html#highlulani">calluna</a> | fermium<br><a href="http://dictionary.tinellb.com/t/tika.html#highlulani">tika</a>
-[r] |  |  |  |  |  | thulium<br><a href="http://dictionary.tinellb.com/r/raddilla.html#highlulani">raddilla</a> | mendelevium<br><a href="http://dictionary.tinellb.com/l/laqura.html#highlulani">laqura</a>
-[r] |  |  |  |  |  | ytterbium<br><a href="http://dictionary.tinellb.com/t/tukaga.html#highlulani">tukaga</a> | nobelium<br><a href="http://dictionary.tinellb.com/q/qa''iku.html#highlulani">qa&#x294;iku</a>
-[r] |  |  |  |  |  | lutetium<br><a href="http://dictionary.tinellb.com/k/kixa.html#highlulani">kixa</a> | lawrencium<br><a href="http://dictionary.tinellb.com/n/nulina.html#highlulani">nulina</a>
-[r] |  |  |  | titanium<br><a href="http://dictionary.tinellb.com/k/ka'i.html#highlulani">ka&rsquo;i</a> | zirconium<br><a href="http://dictionary.tinellb.com/p/pusu.html#highlulani">pusu</a> | hafnium<br><a href="http://dictionary.tinellb.com/t/tacuca.html#highlulani">tacuca</a> | rutherfordium<br><a href="http://dictionary.tinellb.com/f/famati.html#highlulani">famati</a>
-[r] |  |  |  | vanadium<br><a href="http://dictionary.tinellb.com/n/nussa.html#highlulani">nussa</a> | niobium<br><a href="http://dictionary.tinellb.com/l/lakka.html#highlulani">lakka</a> | tantalum<br><a href="http://dictionary.tinellb.com/h/hila.html#highlulani">hila</a> | dubnium<br><a href="http://dictionary.tinellb.com/n/nullasu.html#highlulani">nullasu</a>
-[r] |  |  |  | chromium<br><a href="http://dictionary.tinellb.com/f/fada.html#highlulani">fada</a> | molybdenum<br><a href="http://dictionary.tinellb.com/s/sula.html#highlulani">sula</a> | tungsten<br><a href="http://dictionary.tinellb.com/m/mina''i.html#highlulani">mina&#x294;i</a> | seaborgium<br><a href="http://dictionary.tinellb.com/s/saniki.html#highlulani">saniki</a>
-[r] |  |  |  | manganese<br><a href="http://dictionary.tinellb.com/q/qumalli.html#highlulani">qumalli</a> | technetium<br><a href="http://dictionary.tinellb.com/n/nikili.html#highlulani">nikili</a> | rhenium<br><a href="http://dictionary.tinellb.com/h/hasuki.html#highlulani">hasuki</a> | bohrium<br><a href="http://dictionary.tinellb.com/c/cabahi.html#highlulani">cabahi</a>
-[r] |  |  |  | iron<br><a href="http://dictionary.tinellb.com/a/'a.html#highlulani">&rsquo;a</a> | ruthenium<br><a href="http://dictionary.tinellb.com/n/nasufi.html#highlulani">nasufi</a> | osmium<br><a href="http://dictionary.tinellb.com/s/supu.html#highlulani">supu</a> | hassium<br><a href="http://dictionary.tinellb.com/i/'i'ami.html#highlulani">&rsquo;i&rsquo;ami</a>
-[r] |  |  |  | cobalt<br><a href="http://dictionary.tinellb.com/g/gaxiki.html#highlulani">gaxiki</a> | rhodium<br><a href="http://dictionary.tinellb.com/f/fula.html#highlulani">fula</a> | iridium<br><a href="http://dictionary.tinellb.com/n/natu.html#highlulani">natu</a> | meitnerium<br><a href="http://dictionary.tinellb.com/n/nakaku.html#highlulani">nakaku</a>
-[r] |  |  |  | nickel<br><a href="http://dictionary.tinellb.com/t/tasa.html#highlulani">tasa</a> | paladium<br><a href="http://dictionary.tinellb.com/q/qala.html#highlulani">qala</a> | platinum<br><a href="http://dictionary.tinellb.com/j/jala.html#highlulani">jala</a> | darmstadtium<br><a href="http://dictionary.tinellb.com/n/na'ipa.html#highlulani">na&rsquo;ipa</a>
-[r] |  |  |  | copper<br><a href="http://dictionary.tinellb.com/s/suki.html#highlulani">suki</a> | silver<br><a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a> | gold<br><a href="http://dictionary.tinellb.com/f/fi.html#highlulani">fi</a> | roentgenium<br><a href="http://dictionary.tinellb.com/s/su'usi.html#highlulani">su&rsquo;usi</a>
-[r] |  |  |  | zinc<br><a href="http://dictionary.tinellb.com/h/hika.html#highlulani">hika</a> | cadmium<br><a href="http://dictionary.tinellb.com/k/kaca.html#highlulani">kaca</a> | mercury<br><a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> | copernicium<br><a href="http://dictionary.tinellb.com/h/hatanu.html#highlulani">hatanu</a>
-[r] |  | boron<br><a href="http://dictionary.tinellb.com/k/kuxxu.html#highlulani">kuxxu</a> | aluminium<br><a href="http://dictionary.tinellb.com/d/disa.html#highlulani">disa</a> | gallium<br><a href="http://dictionary.tinellb.com/a/'ali.html#highlulani">&rsquo;ali</a> | indium<br><a href="http://dictionary.tinellb.com/l/luka.html#highlulani">luka</a> | thallium<br><a href="http://dictionary.tinellb.com/s/silla.html#highlulani">silla</a> | nihonium<br><a href="http://dictionary.tinellb.com/r/rabaci.html#highlulani">rabaci</a>
-[r] |  | carbon<br><a href="http://dictionary.tinellb.com/x/xu.html#highlulani">xu</a> | silicon<br><a href="http://dictionary.tinellb.com/a/'ama.html#highlulani">&rsquo;ama</a> | germanium<br><a href="http://dictionary.tinellb.com/x/xuhhi.html#highlulani">xuhhi</a> | tin<br><a href="http://dictionary.tinellb.com/l/laji.html#highlulani">laji</a> | lead<br><a href="http://dictionary.tinellb.com/m/musaqu.html#highlulani">musaqu</a> | flerovium<br><a href="http://dictionary.tinellb.com/x/xa'a.html#highlulani">xa&rsquo;a</a>
-[r] |  | nitrogen<br><a href="http://dictionary.tinellb.com/s/sutta.html#highlulani">sutta</a> | phosphorus<br><a href="http://dictionary.tinellb.com/p/pibi.html#highlulani">pibi</a> | arsenic<br><a href="http://dictionary.tinellb.com/d/da'u.html#highlulani">da&rsquo;u</a> | antimony<br><a href="http://dictionary.tinellb.com/s/salari.html#highlulani">salari</a> | bismuth<br><a href="http://dictionary.tinellb.com/a/'aggini.html#highlulani">&rsquo;aggini</a> | moscovium<br><a href="http://dictionary.tinellb.com/r/rili.html#highlulani">rili</a>
-[r] |  | oxygen<br><a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a> | sulfur<br><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> | selenium<br><a href="http://dictionary.tinellb.com/m/matirra.html#highlulani">matirra</a> | tellurium<br><a href="http://dictionary.tinellb.com/l/lasu.html#highlulani">lasu</a> | polonium<br><a href="http://dictionary.tinellb.com/c/cakassu.html#highlulani">cakassu</a> | livermorium<br><a href="http://dictionary.tinellb.com/s/suda.html#highlulani">suda</a>
-[r] |  | fluorine<br><a href="http://dictionary.tinellb.com/c/ca'a.html#highlulani">ca&rsquo;a</a> | chlorine<br><a href="http://dictionary.tinellb.com/l/limma.html#highlulani">limma</a> | bromine<br><a href="http://dictionary.tinellb.com/b/bi.html#highlulani">bi</a> | iodine<br><a href="http://dictionary.tinellb.com/p/papa.html#highlulani">papa</a> | astatine<br><a href="http://dictionary.tinellb.com/s/sicu.html#highlulani">sicu</a> | tennessine<br><a href="http://dictionary.tinellb.com/b/buccata.html#highlulani">buccata</a>
-[r] | helium<br><a href="http://dictionary.tinellb.com/l/li'a.html#highlulani">li&rsquo;a</a> | neon<br><a href="http://dictionary.tinellb.com/k/kuxalu.html#highlulani">kuxalu</a> | argon<br><a href="http://dictionary.tinellb.com/l/laqa.html#highlulani">laqa</a> | krypton<br><a href="http://dictionary.tinellb.com/q/quffi.html#highlulani">quffi</a> | xenon<br><a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a> | radon<br><a href="http://dictionary.tinellb.com/f/fasami.html#highlulani">fasami</a> | oganesson<br><a href="http://dictionary.tinellb.com/i/'ittika.html#highlulani">&rsquo;ittika</a>
+ <a href="http://dictionary.tinellb.com/l/la.html#highlulani">la</a><br><high-lulani>l</high-lulani><br><em>hydrogen</em> | <a href="http://dictionary.tinellb.com/p/pini.html#highlulani">pini</a><br><high-lulani>PN</high-lulani><br><em>lithium</em> | <a href="http://dictionary.tinellb.com/l/lisu.html#highlulani">lisu</a><br><high-lulani>Lz</high-lulani><br><em>sodium</em> | <a href="http://dictionary.tinellb.com/d/dina.html#highlulani">dina</a><br><high-lulani>Dn</high-lulani><br><em>potassium</em> | <a href="http://dictionary.tinellb.com/s/sadadu.html#highlulani">sadadu</a><br><high-lulani>sdE</high-lulani><br><em>rubidium</em> | <a href="http://dictionary.tinellb.com/n/nudda.html#highlulani">nudda</a><br><high-lulani>I;d</high-lulani><br><em>cesium</em> | <a href="http://dictionary.tinellb.com/g/guqqa.html#highlulani">guqqa</a><br><high-lulani>&lt;;q</high-lulani><br><em>francium</em>
+ | <a href="http://dictionary.tinellb.com/f/fiqqala.html#highlulani">fiqqala</a><br><high-lulani>F;ql</high-lulani><br><em>beryllium</em> | <a href="http://dictionary.tinellb.com/x/xaki.html#highlulani">xaki</a><br><high-lulani>xK</high-lulani><br><em>magnesium</em> | <a href="http://dictionary.tinellb.com/q/qaxa.html#highlulani">qaxa</a><br><high-lulani>qx</high-lulani><br><em>calcium</em> | <a href="http://dictionary.tinellb.com/a/'aru'u.html#highlulani">&rsquo;aru&rsquo;u</a><br><high-lulani>awu</high-lulani><br><em>strontium</em> | <a href="http://dictionary.tinellb.com/b/baca.html#highlulani">baca</a><br><high-lulani>bc</high-lulani><br><em>barium</em> | <a href="http://dictionary.tinellb.com/i/'ilasa.html#highlulani">&rsquo;ilasa</a><br><high-lulani>ils</high-lulani><br><em>radium</em>
+ |  |  | <a href="http://dictionary.tinellb.com/c/cakina.html#highlulani">cakina</a><br><high-lulani>cKn</high-lulani><br><em>scandium</em> | <a href="http://dictionary.tinellb.com/a/'aqqixi.html#highlulani">&rsquo;aqqixi</a><br><high-lulani>a;QX</high-lulani><br><em>yttrium</em> | <a href="http://dictionary.tinellb.com/x/xanaki.html#highlulani">xanaki</a><br><high-lulani>xnK</high-lulani><br><em>lanthanum</em> | <a href="http://dictionary.tinellb.com/n/na'a.html#highlulani">na&rsquo;a</a><br><high-lulani>na</high-lulani><br><em>actinium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/a/'a'ami.html#highlulani">&rsquo;a&rsquo;ami</a><br><high-lulani>aaM</high-lulani><br><em>cerium</em> | <a href="http://dictionary.tinellb.com/p/paraba.html#highlulani">paraba</a><br><high-lulani>prb</high-lulani><br><em>thorium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/r/ra''asa.html#highlulani">ra&#x294;asa</a><br><high-lulani>r;as</high-lulani><br><em>praseodymium</em> | <a href="http://dictionary.tinellb.com/l/lakatti.html#highlulani">lakatti</a><br><high-lulani>lk;T</high-lulani><br><em>protactinium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/f/fibaku.html#highlulani">fibaku</a><br><high-lulani>Fb&gt;</high-lulani><br><em>neodymium</em> | <a href="http://dictionary.tinellb.com/k/kari.html#highlulani">kari</a><br><high-lulani>kR</high-lulani><br><em>uranium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/u/'uccadama.html#highlulani">&rsquo;uccadama</a><br><high-lulani>u;cdm</high-lulani><br><em>prometheum</em> | <a href="http://dictionary.tinellb.com/x/xasagi.html#highlulani">xasagi</a><br><high-lulani>xsG</high-lulani><br><em>neptunium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/i/'i'isata.html#highlulani">&rsquo;i&rsquo;isata</a><br><high-lulani>iist</high-lulani><br><em>samarium</em> | <a href="http://dictionary.tinellb.com/s/sussi.html#highlulani">sussi</a><br><high-lulani>z;S</high-lulani><br><em>plutonium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/s/siqi.html#highlulani">siqi</a><br><high-lulani>SQ</high-lulani><br><em>europium</em> | <a href="http://dictionary.tinellb.com/d/dihiqa.html#highlulani">dihiqa</a><br><high-lulani>DHq</high-lulani><br><em>americium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/t/tacala.html#highlulani">tacala</a><br><high-lulani>tcl</high-lulani><br><em>gadolinium</em> | <a href="http://dictionary.tinellb.com/f/farra.html#highlulani">farra</a><br><high-lulani>f;r</high-lulani><br><em>curium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/r/rila.html#highlulani">rila</a><br><high-lulani>Rl</high-lulani><br><em>terbium</em> | <a href="http://dictionary.tinellb.com/s/saxxuru.html#highlulani">saxxuru</a><br><high-lulani>s;Zw</high-lulani><br><em>berkelium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/b/bumissi.html#highlulani">bumissi</a><br><high-lulani>OM;S</high-lulani><br><em>dysprosium</em> | <a href="http://dictionary.tinellb.com/i/'ikka.html#highlulani">&rsquo;ikka</a><br><high-lulani>i;k</high-lulani><br><em>californium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/k/katiru.html#highlulani">katiru</a><br><high-lulani>kTw</high-lulani><br><em>holmium</em> | <a href="http://dictionary.tinellb.com/b/banara.html#highlulani">banara</a><br><high-lulani>bnr</high-lulani><br><em>einsteinium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/c/calluna.html#highlulani">calluna</a><br><high-lulani>c;Wn</high-lulani><br><em>erbium</em> | <a href="http://dictionary.tinellb.com/t/tika.html#highlulani">tika</a><br><high-lulani>Tk</high-lulani><br><em>fermium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/r/raddilla.html#highlulani">raddilla</a><br><high-lulani>r;D;l</high-lulani><br><em>thulium</em> | <a href="http://dictionary.tinellb.com/l/laqura.html#highlulani">laqura</a><br><high-lulani>lAr</high-lulani><br><em>mendelevium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/t/tukaga.html#highlulani">tukaga</a><br><high-lulani>ekg</high-lulani><br><em>ytterbium</em> | <a href="http://dictionary.tinellb.com/q/qa''iku.html#highlulani">qa&#x294;iku</a><br><high-lulani>q;i&gt;</high-lulani><br><em>nobelium</em>
+ |  |  |  |  | <a href="http://dictionary.tinellb.com/k/kixa.html#highlulani">kixa</a><br><high-lulani>Kx</high-lulani><br><em>lutetium</em> | <a href="http://dictionary.tinellb.com/n/nulina.html#highlulani">nulina</a><br><high-lulani>ILn</high-lulani><br><em>lawrencium</em>
+ |  |  | <a href="http://dictionary.tinellb.com/k/ka'i.html#highlulani">ka&rsquo;i</a><br><high-lulani>ki</high-lulani><br><em>titanium</em> | <a href="http://dictionary.tinellb.com/p/pusu.html#highlulani">pusu</a><br><high-lulani>oz</high-lulani><br><em>zirconium</em> | <a href="http://dictionary.tinellb.com/t/tacuca.html#highlulani">tacuca</a><br><high-lulani>tyc</high-lulani><br><em>hafnium</em> | <a href="http://dictionary.tinellb.com/f/famati.html#highlulani">famati</a><br><high-lulani>fmT</high-lulani><br><em>rutherfordium</em>
+ |  |  | <a href="http://dictionary.tinellb.com/n/nussa.html#highlulani">nussa</a><br><high-lulani>I;s</high-lulani><br><em>vanadium</em> | <a href="http://dictionary.tinellb.com/l/lakka.html#highlulani">lakka</a><br><high-lulani>l;k</high-lulani><br><em>niobium</em> | <a href="http://dictionary.tinellb.com/h/hila.html#highlulani">hila</a><br><high-lulani>Hl</high-lulani><br><em>tantalum</em> | <a href="http://dictionary.tinellb.com/n/nullasu.html#highlulani">nullasu</a><br><high-lulani>I;lz</high-lulani><br><em>dubnium</em>
+ |  |  | <a href="http://dictionary.tinellb.com/f/fada.html#highlulani">fada</a><br><high-lulani>fd</high-lulani><br><em>chromium</em> | <a href="http://dictionary.tinellb.com/s/sula.html#highlulani">sula</a><br><high-lulani>zl</high-lulani><br><em>molybdenum</em> | <a href="http://dictionary.tinellb.com/m/mina''i.html#highlulani">mina&#x294;i</a><br><high-lulani>Mn;i</high-lulani><br><em>tungsten</em> | <a href="http://dictionary.tinellb.com/s/saniki.html#highlulani">saniki</a><br><high-lulani>sNK</high-lulani><br><em>seaborgium</em>
+ |  |  | <a href="http://dictionary.tinellb.com/q/qumalli.html#highlulani">qumalli</a><br><high-lulani>Am;L</high-lulani><br><em>manganese</em> | <a href="http://dictionary.tinellb.com/n/nikili.html#highlulani">nikili</a><br><high-lulani>NKL</high-lulani><br><em>technetium</em> | <a href="http://dictionary.tinellb.com/h/hasuki.html#highlulani">hasuki</a><br><high-lulani>hzK</high-lulani><br><em>rhenium</em> | <a href="http://dictionary.tinellb.com/c/cabahi.html#highlulani">cabahi</a><br><high-lulani>cbH</high-lulani><br><em>bohrium</em>
+ |  |  | <a href="http://dictionary.tinellb.com/a/'a.html#highlulani">&rsquo;a</a><br><high-lulani>a</high-lulani><br><em>iron</em> | <a href="http://dictionary.tinellb.com/n/nasufi.html#highlulani">nasufi</a><br><high-lulani>nzF</high-lulani><br><em>ruthenium</em> | <a href="http://dictionary.tinellb.com/s/supu.html#highlulani">supu</a><br><high-lulani>zo</high-lulani><br><em>osmium</em> | <a href="http://dictionary.tinellb.com/i/'i'ami.html#highlulani">&rsquo;i&rsquo;ami</a><br><high-lulani>iaM</high-lulani><br><em>hassium</em>
+ |  |  | <a href="http://dictionary.tinellb.com/g/gaxiki.html#highlulani">gaxiki</a><br><high-lulani>gXK</high-lulani><br><em>cobalt</em> | <a href="http://dictionary.tinellb.com/f/fula.html#highlulani">fula</a><br><high-lulani>vl</high-lulani><br><em>rhodium</em> | <a href="http://dictionary.tinellb.com/n/natu.html#highlulani">natu</a><br><high-lulani>ne</high-lulani><br><em>iridium</em> | <a href="http://dictionary.tinellb.com/n/nakaku.html#highlulani">nakaku</a><br><high-lulani>nk&gt;</high-lulani><br><em>meitnerium</em>
+ |  |  | <a href="http://dictionary.tinellb.com/t/tasa.html#highlulani">tasa</a><br><high-lulani>ts</high-lulani><br><em>nickel</em> | <a href="http://dictionary.tinellb.com/q/qala.html#highlulani">qala</a><br><high-lulani>ql</high-lulani><br><em>paladium</em> | <a href="http://dictionary.tinellb.com/j/jala.html#highlulani">jala</a><br><high-lulani>jl</high-lulani><br><em>platinum</em> | <a href="http://dictionary.tinellb.com/n/na'ipa.html#highlulani">na&rsquo;ipa</a><br><high-lulani>nip</high-lulani><br><em>darmstadtium</em>
+ |  |  | <a href="http://dictionary.tinellb.com/s/suki.html#highlulani">suki</a><br><high-lulani>zK</high-lulani><br><em>copper</em> | <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a><br><high-lulani>N</high-lulani><br><em>silver</em> | <a href="http://dictionary.tinellb.com/f/fi.html#highlulani">fi</a><br><high-lulani>F</high-lulani><br><em>gold</em> | <a href="http://dictionary.tinellb.com/s/su'usi.html#highlulani">su&rsquo;usi</a><br><high-lulani>zuS</high-lulani><br><em>roentgenium</em>
+ |  |  | <a href="http://dictionary.tinellb.com/h/hika.html#highlulani">hika</a><br><high-lulani>Hk</high-lulani><br><em>zinc</em> | <a href="http://dictionary.tinellb.com/k/kaca.html#highlulani">kaca</a><br><high-lulani>kc</high-lulani><br><em>cadmium</em> | <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a><br><high-lulani>us</high-lulani><br><em>mercury</em> | <a href="http://dictionary.tinellb.com/h/hatanu.html#highlulani">hatanu</a><br><high-lulani>htI</high-lulani><br><em>copernicium</em>
+ | <a href="http://dictionary.tinellb.com/k/kuxxu.html#highlulani">kuxxu</a><br><high-lulani>&gt;;Z</high-lulani><br><em>boron</em> | <a href="http://dictionary.tinellb.com/d/disa.html#highlulani">disa</a><br><high-lulani>Ds</high-lulani><br><em>aluminium</em> | <a href="http://dictionary.tinellb.com/a/'ali.html#highlulani">&rsquo;ali</a><br><high-lulani>aL</high-lulani><br><em>gallium</em> | <a href="http://dictionary.tinellb.com/l/luka.html#highlulani">luka</a><br><high-lulani>Wk</high-lulani><br><em>indium</em> | <a href="http://dictionary.tinellb.com/s/silla.html#highlulani">silla</a><br><high-lulani>S;l</high-lulani><br><em>thallium</em> | <a href="http://dictionary.tinellb.com/r/rabaci.html#highlulani">rabaci</a><br><high-lulani>rbC</high-lulani><br><em>nihonium</em>
+ | <a href="http://dictionary.tinellb.com/x/xu.html#highlulani">xu</a><br><high-lulani>Z</high-lulani><br><em>carbon</em> | <a href="http://dictionary.tinellb.com/a/'ama.html#highlulani">&rsquo;ama</a><br><high-lulani>am</high-lulani><br><em>silicon</em> | <a href="http://dictionary.tinellb.com/x/xuhhi.html#highlulani">xuhhi</a><br><high-lulani>Z;H</high-lulani><br><em>germanium</em> | <a href="http://dictionary.tinellb.com/l/laji.html#highlulani">laji</a><br><high-lulani>lJ</high-lulani><br><em>tin</em> | <a href="http://dictionary.tinellb.com/m/musaqu.html#highlulani">musaqu</a><br><high-lulani>UsA</high-lulani><br><em>lead</em> | <a href="http://dictionary.tinellb.com/x/xa'a.html#highlulani">xa&rsquo;a</a><br><high-lulani>xa</high-lulani><br><em>flerovium</em>
+ | <a href="http://dictionary.tinellb.com/s/sutta.html#highlulani">sutta</a><br><high-lulani>z;t</high-lulani><br><em>nitrogen</em> | <a href="http://dictionary.tinellb.com/p/pibi.html#highlulani">pibi</a><br><high-lulani>PB</high-lulani><br><em>phosphorus</em> | <a href="http://dictionary.tinellb.com/d/da'u.html#highlulani">da&rsquo;u</a><br><high-lulani>du</high-lulani><br><em>arsenic</em> | <a href="http://dictionary.tinellb.com/s/salari.html#highlulani">salari</a><br><high-lulani>slR</high-lulani><br><em>antimony</em> | <a href="http://dictionary.tinellb.com/a/'aggini.html#highlulani">&rsquo;aggini</a><br><high-lulani>a;GN</high-lulani><br><em>bismuth</em> | <a href="http://dictionary.tinellb.com/r/rili.html#highlulani">rili</a><br><high-lulani>RL</high-lulani><br><em>muscovium</em>
+ | <a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a><br><high-lulani>s</high-lulani><br><em>oxygen</em> | <a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a><br><high-lulani>t</high-lulani><br><em>sulfur</em> | <a href="http://dictionary.tinellb.com/m/matirra.html#highlulani">matirra</a><br><high-lulani>mT;r</high-lulani><br><em>selenium</em> | <a href="http://dictionary.tinellb.com/l/lasu.html#highlulani">lasu</a><br><high-lulani>lz</high-lulani><br><em>tellurium</em> | <a href="http://dictionary.tinellb.com/c/cakassu.html#highlulani">cakassu</a><br><high-lulani>ck;z</high-lulani><br><em>polonium</em> | <a href="http://dictionary.tinellb.com/s/suda.html#highlulani">suda</a><br><high-lulani>zd</high-lulani><br><em>livermorium</em>
+ | <a href="http://dictionary.tinellb.com/c/ca'a.html#highlulani">ca&rsquo;a</a><br><high-lulani>ca</high-lulani><br><em>fluorine</em> | <a href="http://dictionary.tinellb.com/l/limma.html#highlulani">limma</a><br><high-lulani>L;m</high-lulani><br><em>chlorine</em> | <a href="http://dictionary.tinellb.com/b/bi.html#highlulani">bi</a><br><high-lulani>B</high-lulani><br><em>bromine</em> | <a href="http://dictionary.tinellb.com/p/papa.html#highlulani">papa</a><br><high-lulani>pp</high-lulani><br><em>iodine</em> | <a href="http://dictionary.tinellb.com/s/sicu.html#highlulani">sicu</a><br><high-lulani>Sy</high-lulani><br><em>astatine</em> | <a href="http://dictionary.tinellb.com/b/buccata.html#highlulani">buccata</a><br><high-lulani>O;ct</high-lulani><br><em>tennessine</em>
+ <a href="http://dictionary.tinellb.com/l/li'a.html#highlulani">li&rsquo;a</a><br><high-lulani>La</high-lulani><br><em>helium</em> | <a href="http://dictionary.tinellb.com/k/kuxalu.html#highlulani">kuxalu</a><br><high-lulani>&gt;xW</high-lulani><br><em>neon</em> | <a href="http://dictionary.tinellb.com/l/laqa.html#highlulani">laqa</a><br><high-lulani>lq</high-lulani><br><em>argon</em> | <a href="http://dictionary.tinellb.com/q/quffi.html#highlulani">quffi</a><br><high-lulani>A;F</high-lulani><br>krypton | <a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a><br><high-lulani>s;h</high-lulani><br>xenon | <a href="http://dictionary.tinellb.com/f/fasami.html#highlulani">fasami</a><br><high-lulani>fsM</high-lulani><br>radon | <a href="http://dictionary.tinellb.com/i/'ittika.html#highlulani">&rsquo;ittika</a><br><high-lulani>i;Tk</high-lulani><br><em>oganesson</em>
 [/t]
-<div class="mobile-table">
-[e]actinium: <a href="http://dictionary.tinellb.com/n/na'a.html#highlulani">na&rsquo;a</a>
-[e]aluminium: <a href="http://dictionary.tinellb.com/d/disa.html#highlulani">disa</a>
-[e]americium: <a href="http://dictionary.tinellb.com/d/dihiqa.html#highlulani">dihiqa</a>
-[e]antimony: <a href="http://dictionary.tinellb.com/s/salari.html#highlulani">salari</a>
-[e]argon: <a href="http://dictionary.tinellb.com/l/laqa.html#highlulani">laqa</a>
-[e]arsenic: <a href="http://dictionary.tinellb.com/d/da'u.html#highlulani">da&rsquo;u</a>
-[e]astatine: <a href="http://dictionary.tinellb.com/s/sicu.html#highlulani">sicu</a>
-[e]barium: <a href="http://dictionary.tinellb.com/b/baca.html#highlulani">baca</a>
-[e]berkelium: <a href="http://dictionary.tinellb.com/s/saxxuru.html#highlulani">saxxuru</a>
-[e]beryllium: <a href="http://dictionary.tinellb.com/f/fiqqala.html#highlulani">fiqqala</a>
-[e]bismuth: <a href="http://dictionary.tinellb.com/a/'aggini.html#highlulani">&rsquo;aggini</a>
-[e]bohrium: <a href="http://dictionary.tinellb.com/c/cabahi.html#highlulani">cabahi</a>
-[e]boron: <a href="http://dictionary.tinellb.com/k/kuxxu.html#highlulani">kuxxu</a>
-[e]bromine: <a href="http://dictionary.tinellb.com/b/bi.html#highlulani">bi</a>
-[e]cadmium: <a href="http://dictionary.tinellb.com/k/kaca.html#highlulani">kaca</a>
-[e]calcium: <a href="http://dictionary.tinellb.com/q/qaxa.html#highlulani">qaxa</a>
-[e]californium: <a href="http://dictionary.tinellb.com/i/'ikka.html#highlulani">&rsquo;ikka</a>
-[e]carbon: <a href="http://dictionary.tinellb.com/x/xu.html#highlulani">xu</a>
-[e]cerium: <a href="http://dictionary.tinellb.com/a/'a'ami.html#highlulani">&rsquo;a&rsquo;ami</a>
-[e]cesium: <a href="http://dictionary.tinellb.com/n/nudda.html#highlulani">nudda</a>
-[e]chlorine: <a href="http://dictionary.tinellb.com/l/limma.html#highlulani">limma</a>
-[e]chromium: <a href="http://dictionary.tinellb.com/f/fada.html#highlulani">fada</a>
-[e]cobalt: <a href="http://dictionary.tinellb.com/g/gaxiki.html#highlulani">gaxiki</a>
-[e]copernicium: <a href="http://dictionary.tinellb.com/h/hatanu.html#highlulani">hatanu</a>
-[e]copper: <a href="http://dictionary.tinellb.com/s/suki.html#highlulani">suki</a>
-[e]curium: <a href="http://dictionary.tinellb.com/f/farra.html#highlulani">farra</a>
-[e]darmstadtium: <a href="http://dictionary.tinellb.com/n/na'ipa.html#highlulani">na&rsquo;ipa</a>
-[e]dubnium: <a href="http://dictionary.tinellb.com/n/nullasu.html#highlulani">nullasu</a>
-[e]dysprosium: <a href="http://dictionary.tinellb.com/b/bumissi.html#highlulani">bumissi</a>
-[e]einsteinium: <a href="http://dictionary.tinellb.com/b/banara.html#highlulani">banara</a>
-[e]erbium: <a href="http://dictionary.tinellb.com/c/calluna.html#highlulani">calluna</a>
-[e]europium: <a href="http://dictionary.tinellb.com/s/siqi.html#highlulani">siqi</a>
-[e]fermium: <a href="http://dictionary.tinellb.com/t/tika.html#highlulani">tika</a>
-[e]flerovium: <a href="http://dictionary.tinellb.com/x/xa'a.html#highlulani">xa&rsquo;a</a>
-[e]fluorine: <a href="http://dictionary.tinellb.com/c/ca'a.html#highlulani">ca&rsquo;a</a>
-[e]francium: <a href="http://dictionary.tinellb.com/g/guqqa.html#highlulani">guqqa</a>
-[e]gadolinium: <a href="http://dictionary.tinellb.com/t/tacala.html#highlulani">tacala</a>
-[e]gallium: <a href="http://dictionary.tinellb.com/a/'ali.html#highlulani">&rsquo;ali</a>
-[e]germanium: <a href="http://dictionary.tinellb.com/x/xuhhi.html#highlulani">xuhhi</a>
-[e]gold: <a href="http://dictionary.tinellb.com/f/fi.html#highlulani">fi</a>
-[e]hafnium: <a href="http://dictionary.tinellb.com/t/tacuca.html#highlulani">tacuca</a>
-[e]hassium: <a href="http://dictionary.tinellb.com/i/'i'ami.html#highlulani">&rsquo;i&rsquo;ami</a>
-[e]helium: <a href="http://dictionary.tinellb.com/l/li'a.html#highlulani">li&rsquo;a</a>
-[e]holmium: <a href="http://dictionary.tinellb.com/k/katiru.html#highlulani">katiru</a>
-[e]hydrogen: <a href="http://dictionary.tinellb.com/l/la.html#highlulani">la</a>
-[e]indium: <a href="http://dictionary.tinellb.com/l/luka.html#highlulani">luka</a>
-[e]iodine: <a href="http://dictionary.tinellb.com/p/papa.html#highlulani">papa</a>
-[e]iridium: <a href="http://dictionary.tinellb.com/n/natu.html#highlulani">natu</a>
-[e]iron: <a href="http://dictionary.tinellb.com/a/'a.html#highlulani">&rsquo;a</a>
-[e]krypton: <a href="http://dictionary.tinellb.com/q/quffi.html#highlulani">quffi</a>
-[e]lanthanum: <a href="http://dictionary.tinellb.com/x/xanaki.html#highlulani">xanaki</a>
-[e]lawrencium: <a href="http://dictionary.tinellb.com/n/nulina.html#highlulani">nulina</a>
-[e]lead: <a href="http://dictionary.tinellb.com/m/musaqu.html#highlulani">musaqu</a>
-[e]lithium: <a href="http://dictionary.tinellb.com/p/pini.html#highlulani">pini</a>
-[e]livermorium: <a href="http://dictionary.tinellb.com/s/suda.html#highlulani">suda</a>
-[e]lutetium: <a href="http://dictionary.tinellb.com/k/kixa.html#highlulani">kixa</a>
-[e]magnesium: <a href="http://dictionary.tinellb.com/x/xaki.html#highlulani">xaki</a>
-[e]manganese: <a href="http://dictionary.tinellb.com/q/qumalli.html#highlulani">qumalli</a>
-[e]meitnerium: <a href="http://dictionary.tinellb.com/n/nakaku.html#highlulani">nakaku</a>
-[e]mendelevium: <a href="http://dictionary.tinellb.com/l/laqura.html#highlulani">laqura</a>
-[e]mercury: <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>
-[e]molybdenum: <a href="http://dictionary.tinellb.com/s/sula.html#highlulani">sula</a>
-[e]moscovium: <a href="http://dictionary.tinellb.com/r/rili.html#highlulani">rili</a>
-[e]neodymium: <a href="http://dictionary.tinellb.com/f/fibaku.html#highlulani">fibaku</a>
-[e]neon: <a href="http://dictionary.tinellb.com/k/kuxalu.html#highlulani">kuxalu</a>
-[e]neptunium: <a href="http://dictionary.tinellb.com/x/xasagi.html#highlulani">xasagi</a>
-[e]nickel: <a href="http://dictionary.tinellb.com/t/tasa.html#highlulani">tasa</a>
-[e]nihonium: <a href="http://dictionary.tinellb.com/r/rabaci.html#highlulani">rabaci</a>
-[e]niobium: <a href="http://dictionary.tinellb.com/l/lakka.html#highlulani">lakka</a>
-[e]nitrogen: <a href="http://dictionary.tinellb.com/s/sutta.html#highlulani">sutta</a>
-[e]nobelium: <a href="http://dictionary.tinellb.com/q/qa''iku.html#highlulani">qa&#x294;iku</a>
-[e]oganesson: <a href="http://dictionary.tinellb.com/i/'ittika.html#highlulani">&rsquo;ittika</a>
-[e]osmium: <a href="http://dictionary.tinellb.com/s/supu.html#highlulani">supu</a>
-[e]oxygen: <a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a>
-[e]paladium: <a href="http://dictionary.tinellb.com/q/qala.html#highlulani">qala</a>
-[e]phosphorus: <a href="http://dictionary.tinellb.com/p/pibi.html#highlulani">pibi</a>
-[e]platinum: <a href="http://dictionary.tinellb.com/j/jala.html#highlulani">jala</a>
-[e]plutonium: <a href="http://dictionary.tinellb.com/s/sussi.html#highlulani">sussi</a>
-[e]polonium: <a href="http://dictionary.tinellb.com/c/cakassu.html#highlulani">cakassu</a>
-[e]potassium: <a href="http://dictionary.tinellb.com/d/dina.html#highlulani">dina</a>
-[e]praseodymium: <a href="http://dictionary.tinellb.com/r/ra''asa.html#highlulani">ra&#x294;asa</a>
-[e]prometheum: <a href="http://dictionary.tinellb.com/u/'uccadama.html#highlulani">&rsquo;uccadama</a>
-[e]protactinium: <a href="http://dictionary.tinellb.com/l/lakatti.html#highlulani">lakatti</a>
-[e]radium: <a href="http://dictionary.tinellb.com/i/'ilasa.html#highlulani">&rsquo;ilasa</a>
-[e]radon: <a href="http://dictionary.tinellb.com/f/fasami.html#highlulani">fasami</a>
-[e]rhenium: <a href="http://dictionary.tinellb.com/h/hasuki.html#highlulani">hasuki</a>
-[e]rhodium: <a href="http://dictionary.tinellb.com/f/fula.html#highlulani">fula</a>
-[e]roentgenium: <a href="http://dictionary.tinellb.com/s/su'usi.html#highlulani">su&rsquo;usi</a>
-[e]rubidium: <a href="http://dictionary.tinellb.com/s/sadadu.html#highlulani">sadadu</a>
-[e]ruthenium: <a href="http://dictionary.tinellb.com/n/nasufi.html#highlulani">nasufi</a>
-[e]rutherfordium: <a href="http://dictionary.tinellb.com/f/famati.html#highlulani">famati</a>
-[e]samarium: <a href="http://dictionary.tinellb.com/i/'i'isata.html#highlulani">&rsquo;i&rsquo;isata</a>
-[e]scandium: <a href="http://dictionary.tinellb.com/c/cakina.html#highlulani">cakina</a>
-[e]seaborgium: <a href="http://dictionary.tinellb.com/s/saniki.html#highlulani">saniki</a>
-[e]selenium: <a href="http://dictionary.tinellb.com/m/matirra.html#highlulani">matirra</a>
-[e]silicon: <a href="http://dictionary.tinellb.com/a/'ama.html#highlulani">&rsquo;ama</a>
-[e]silver: <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>
-[e]sodium: <a href="http://dictionary.tinellb.com/l/lisu.html#highlulani">lisu</a>
-[e]strontium: <a href="http://dictionary.tinellb.com/a/'aru'u.html#highlulani">&rsquo;aru&rsquo;u</a>
-[e]sulfur: <a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a>
-[e]tantalum: <a href="http://dictionary.tinellb.com/h/hila.html#highlulani">hila</a>
-[e]technetium: <a href="http://dictionary.tinellb.com/n/nikili.html#highlulani">nikili</a>
-[e]tellurium: <a href="http://dictionary.tinellb.com/l/lasu.html#highlulani">lasu</a>
-[e]tennessine: <a href="http://dictionary.tinellb.com/b/buccata.html#highlulani">buccata</a>
-[e]terbium: <a href="http://dictionary.tinellb.com/r/rila.html#highlulani">rila</a>
-[e]thallium: <a href="http://dictionary.tinellb.com/s/silla.html#highlulani">silla</a>
-[e]thorium: <a href="http://dictionary.tinellb.com/p/paraba.html#highlulani">paraba</a>
-[e]thulium: <a href="http://dictionary.tinellb.com/r/raddilla.html#highlulani">raddilla</a>
-[e]tin: <a href="http://dictionary.tinellb.com/l/laji.html#highlulani">laji</a>
-[e]titanium: <a href="http://dictionary.tinellb.com/k/ka'i.html#highlulani">ka&rsquo;i</a>
-[e]tungsten: <a href="http://dictionary.tinellb.com/m/mina''i.html#highlulani">mina&#x294;i</a>
-[e]uranium: <a href="http://dictionary.tinellb.com/k/kari.html#highlulani">kari</a>
-[e]vanadium: <a href="http://dictionary.tinellb.com/n/nussa.html#highlulani">nussa</a>
-[e]xenon: <a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a>
-[e]ytterbium: <a href="http://dictionary.tinellb.com/t/tukaga.html#highlulani">tukaga</a>
-[e]yttrium: <a href="http://dictionary.tinellb.com/a/'aqqixi.html#highlulani">&rsquo;aqqixi</a>
-[e]zinc: <a href="http://dictionary.tinellb.com/h/hika.html#highlulani">hika</a>
-[e]zirconium: <a href="http://dictionary.tinellb.com/p/pusu.html#highlulani">pusu</a>
-</div>
-&date=20180227
+[d mobile-table]
+[d wordlist]
+[e]<a href="http://dictionary.tinellb.com/n/na'a.html#highlulani">na&rsquo;a</a> <high-lulani>na</high-lulani> <em>actinium</em>
+[e]<a href="http://dictionary.tinellb.com/d/disa.html#highlulani">disa</a> <high-lulani>Ds</high-lulani> <em>aluminium</em>
+[e]<a href="http://dictionary.tinellb.com/d/dihiqa.html#highlulani">dihiqa</a> <high-lulani>DHq</high-lulani> <em>americium</em>
+[e]<a href="http://dictionary.tinellb.com/s/salari.html#highlulani">salari</a> <high-lulani>slR</high-lulani> <em>antimony</em>
+[e]<a href="http://dictionary.tinellb.com/l/laqa.html#highlulani">laqa</a> <high-lulani>lq</high-lulani> <em>argon</em>
+[e]<a href="http://dictionary.tinellb.com/d/da'u.html#highlulani">da&rsquo;u</a> <high-lulani>du</high-lulani> <em>arsenic</em>
+[e]<a href="http://dictionary.tinellb.com/s/sicu.html#highlulani">sicu</a> <high-lulani>Sy</high-lulani> <em>astatine</em>
+[e]<a href="http://dictionary.tinellb.com/b/baca.html#highlulani">baca</a> <high-lulani>bc</high-lulani> <em>barium</em>
+[e]<a href="http://dictionary.tinellb.com/s/saxxuru.html#highlulani">saxxuru</a> <high-lulani>s;Zw</high-lulani> <em>berkelium</em>
+[e]<a href="http://dictionary.tinellb.com/f/fiqqala.html#highlulani">fiqqala</a> <high-lulani>F;ql</high-lulani> <em>beryllium</em>
+[e]<a href="http://dictionary.tinellb.com/a/'aggini.html#highlulani">&rsquo;aggini</a> <high-lulani>a;GN</high-lulani> <em>bismuth</em>
+[e]<a href="http://dictionary.tinellb.com/c/cabahi.html#highlulani">cabahi</a> <high-lulani>cbH</high-lulani> <em>bohrium</em>
+[e]<a href="http://dictionary.tinellb.com/k/kuxxu.html#highlulani">kuxxu</a> <high-lulani>&gt;;Z</high-lulani> <em>boron</em>
+[e]<a href="http://dictionary.tinellb.com/b/bi.html#highlulani">bi</a> <high-lulani>B</high-lulani> <em>bromine</em>
+[e]<a href="http://dictionary.tinellb.com/k/kaca.html#highlulani">kaca</a> <high-lulani>kc</high-lulani> <em>cadmium</em>
+[e]<a href="http://dictionary.tinellb.com/q/qaxa.html#highlulani">qaxa</a> <high-lulani>qx</high-lulani> <em>calcium</em>
+[e]<a href="http://dictionary.tinellb.com/i/'ikka.html#highlulani">&rsquo;ikka</a> <high-lulani>i;k</high-lulani> <em>californium</em>
+[e]<a href="http://dictionary.tinellb.com/x/xu.html#highlulani">xu</a> <high-lulani>Z</high-lulani> <em>carbon</em>
+[e]<a href="http://dictionary.tinellb.com/a/'a'ami.html#highlulani">&rsquo;a&rsquo;ami</a> <high-lulani>aaM</high-lulani> <em>cerium</em>
+[e]<a href="http://dictionary.tinellb.com/n/nudda.html#highlulani">nudda</a> <high-lulani>I;d</high-lulani> <em>cesium</em>
+[e]<a href="http://dictionary.tinellb.com/l/limma.html#highlulani">limma</a> <high-lulani>L;m</high-lulani> <em>chlorine</em>
+[e]<a href="http://dictionary.tinellb.com/f/fada.html#highlulani">fada</a> <high-lulani>fd</high-lulani> <em>chromium</em>
+[e]<a href="http://dictionary.tinellb.com/g/gaxiki.html#highlulani">gaxiki</a> <high-lulani>gXK</high-lulani> <em>cobalt</em>
+[e]<a href="http://dictionary.tinellb.com/h/hatanu.html#highlulani">hatanu</a> <high-lulani>htI</high-lulani> <em>copernicium</em>
+[e]<a href="http://dictionary.tinellb.com/s/suki.html#highlulani">suki</a> <high-lulani>zK</high-lulani> <em>copper</em>
+[e]<a href="http://dictionary.tinellb.com/f/farra.html#highlulani">farra</a> <high-lulani>f;r</high-lulani> <em>curium</em>
+[e]<a href="http://dictionary.tinellb.com/n/na'ipa.html#highlulani">na&rsquo;ipa</a> <high-lulani>nip</high-lulani> <em>darmstadtium</em>
+[e]<a href="http://dictionary.tinellb.com/n/nullasu.html#highlulani">nullasu</a> <high-lulani>I;lz</high-lulani> <em>dubnium</em>
+[e]<a href="http://dictionary.tinellb.com/b/bumissi.html#highlulani">bumissi</a> <high-lulani>OM;S</high-lulani> <em>dysprosium</em>
+[e]<a href="http://dictionary.tinellb.com/b/banara.html#highlulani">banara</a> <high-lulani>bnr</high-lulani> <em>einsteinium</em>
+[e]<a href="http://dictionary.tinellb.com/c/calluna.html#highlulani">calluna</a> <high-lulani>c;Wn</high-lulani> <em>erbium</em>
+[e]<a href="http://dictionary.tinellb.com/s/siqi.html#highlulani">siqi</a> <high-lulani>SQ</high-lulani> <em>europium</em>
+[e]<a href="http://dictionary.tinellb.com/t/tika.html#highlulani">tika</a> <high-lulani>Tk</high-lulani> <em>fermium</em>
+[e]<a href="http://dictionary.tinellb.com/x/xa'a.html#highlulani">xa&rsquo;a</a> <high-lulani>xa</high-lulani> <em>flerovium</em>
+[e]<a href="http://dictionary.tinellb.com/c/ca'a.html#highlulani">ca&rsquo;a</a> <high-lulani>ca</high-lulani> <em>fluorine</em>
+[e]<a href="http://dictionary.tinellb.com/g/guqqa.html#highlulani">guqqa</a> <high-lulani>&lt;;q</high-lulani> <em>francium</em>
+[e]<a href="http://dictionary.tinellb.com/t/tacala.html#highlulani">tacala</a> <high-lulani>tcl</high-lulani> <em>gadolinium</em>
+[e]<a href="http://dictionary.tinellb.com/a/'ali.html#highlulani">&rsquo;ali</a> <high-lulani>aL</high-lulani> <em>gallium</em>
+[e]<a href="http://dictionary.tinellb.com/x/xuhhi.html#highlulani">xuhhi</a> <high-lulani>Z;H</high-lulani> <em>germanium</em>
+[e]<a href="http://dictionary.tinellb.com/f/fi.html#highlulani">fi</a> <high-lulani>F</high-lulani> <em>gold</em>
+[e]<a href="http://dictionary.tinellb.com/t/tacuca.html#highlulani">tacuca</a> <high-lulani>tyc</high-lulani> <em>hafnium</em>
+[e]<a href="http://dictionary.tinellb.com/i/'i'ami.html#highlulani">&rsquo;i&rsquo;ami</a> <high-lulani>iaM</high-lulani> <em>hassium</em>
+[e]<a href="http://dictionary.tinellb.com/l/li'a.html#highlulani">li&rsquo;a</a> <high-lulani>La</high-lulani> <em>helium</em>
+[e]<a href="http://dictionary.tinellb.com/k/katiru.html#highlulani">katiru</a> <high-lulani>kTw</high-lulani> <em>holmium</em>
+[e]<a href="http://dictionary.tinellb.com/l/la.html#highlulani">la</a> <high-lulani>l</high-lulani> <em>hydrogen</em>
+[e]<a href="http://dictionary.tinellb.com/l/luka.html#highlulani">luka</a> <high-lulani>Wk</high-lulani> <em>indium</em>
+[e]<a href="http://dictionary.tinellb.com/p/papa.html#highlulani">papa</a> <high-lulani>pp</high-lulani> <em>iodine</em>
+[e]<a href="http://dictionary.tinellb.com/n/natu.html#highlulani">natu</a> <high-lulani>ne</high-lulani> <em>iridium</em>
+[e]<a href="http://dictionary.tinellb.com/a/'a.html#highlulani">&rsquo;a</a> <high-lulani>a</high-lulani> <em>iron</em>
+[e]<a href="http://dictionary.tinellb.com/q/quffi.html#highlulani">quffi</a> <high-lulani>A;F</high-lulani> <em>krypton</em>
+[e]<a href="http://dictionary.tinellb.com/x/xanaki.html#highlulani">xanaki</a> <high-lulani>xnK</high-lulani> <em>lanthanum</em>
+[e]<a href="http://dictionary.tinellb.com/n/nulina.html#highlulani">nulina</a> <high-lulani>ILn</high-lulani> <em>lawrencium</em>
+[e]<a href="http://dictionary.tinellb.com/m/musaqu.html#highlulani">musaqu</a> <high-lulani>UsA</high-lulani> <em>lead</em>
+[e]<a href="http://dictionary.tinellb.com/p/pini.html#highlulani">pini</a> <high-lulani>PN</high-lulani> <em>lithium</em>
+[e]<a href="http://dictionary.tinellb.com/s/suda.html#highlulani">suda</a> <high-lulani>zd</high-lulani> <em>livermorium</em>
+[e]<a href="http://dictionary.tinellb.com/k/kixa.html#highlulani">kixa</a> <high-lulani>Kx</high-lulani> <em>lutetium</em>
+[e]<a href="http://dictionary.tinellb.com/x/xaki.html#highlulani">xaki</a> <high-lulani>xK</high-lulani> <em>magnesium</em>
+[e]<a href="http://dictionary.tinellb.com/q/qumalli.html#highlulani">qumalli</a> <high-lulani>Am;L</high-lulani> <em>manganese</em>
+[e]<a href="http://dictionary.tinellb.com/n/nakaku.html#highlulani">nakaku</a> <high-lulani>nk&gt;</high-lulani> <em>meitnerium</em>
+[e]<a href="http://dictionary.tinellb.com/l/laqura.html#highlulani">laqura</a> <high-lulani>lAr</high-lulani> <em>mendelevium</em>
+[e]<a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <high-lulani>us</high-lulani> <em>mercury</em>
+[e]<a href="http://dictionary.tinellb.com/s/sula.html#highlulani">sula</a> <high-lulani>zl</high-lulani> <em>molybdenum</em>
+[e]<a href="http://dictionary.tinellb.com/r/rili.html#highlulani">rili</a> <high-lulani>RL</high-lulani> <em>moscovium</em>
+[e]<a href="http://dictionary.tinellb.com/f/fibaku.html#highlulani">fibaku</a> <high-lulani>Fb&gt;</high-lulani> <em>neodymium</em>
+[e]<a href="http://dictionary.tinellb.com/k/kuxalu.html#highlulani">kuxalu</a> <high-lulani>&gt;xW</high-lulani> <em>neon</em>
+[e]<a href="http://dictionary.tinellb.com/x/xasagi.html#highlulani">xasagi</a> <high-lulani>xsG</high-lulani> <em>neptunium</em>
+[e]<a href="http://dictionary.tinellb.com/t/tasa.html#highlulani">tasa</a> <high-lulani>ts</high-lulani> <em>nickel</em>
+[e]<a href="http://dictionary.tinellb.com/r/rabaci.html#highlulani">rabaci</a> <high-lulani>rbC</high-lulani> <em>nihonium</em>
+[e]<a href="http://dictionary.tinellb.com/l/lakka.html#highlulani">lakka</a> <high-lulani>l;k</high-lulani> <em>niobium</em>
+[e]<a href="http://dictionary.tinellb.com/s/sutta.html#highlulani">sutta</a> <high-lulani>z;t</high-lulani> <em>nitrogen</em>
+[e]<a href="http://dictionary.tinellb.com/q/qa''iku.html#highlulani">qa&#x294;iku</a> <high-lulani>q;i&gt;</high-lulani> <em>nobelium</em>
+[e]<a href="http://dictionary.tinellb.com/i/'ittika.html#highlulani">&rsquo;ittika</a> <high-lulani>i;Tk</high-lulani> <em>oganesson</em>
+[e]<a href="http://dictionary.tinellb.com/s/supu.html#highlulani">supu</a> <high-lulani>zo</high-lulani> <em>osmium</em>
+[e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a> <high-lulani>s</high-lulani> <em>oxygen</em>
+[e]<a href="http://dictionary.tinellb.com/q/qala.html#highlulani">qala</a> <high-lulani>ql</high-lulani> <em>paladium</em>
+[e]<a href="http://dictionary.tinellb.com/p/pibi.html#highlulani">pibi</a> <high-lulani>PB</high-lulani> <em>phosphorus</em>
+[e]<a href="http://dictionary.tinellb.com/j/jala.html#highlulani">jala</a> <high-lulani>jl</high-lulani> <em>platinum</em>
+[e]<a href="http://dictionary.tinellb.com/s/sussi.html#highlulani">sussi</a> <high-lulani>z;S</high-lulani> <em>plutonium</em>
+[e]<a href="http://dictionary.tinellb.com/c/cakassu.html#highlulani">cakassu</a> <high-lulani>ck;z</high-lulani> <em>polonium</em>
+[e]<a href="http://dictionary.tinellb.com/d/dina.html#highlulani">dina</a> <high-lulani>Dn</high-lulani> <em>potassium</em>
+[e]<a href="http://dictionary.tinellb.com/r/ra''asa.html#highlulani">ra&#x294;asa</a> <high-lulani>r;as</high-lulani> <em>praseodymium</em>
+[e]<a href="http://dictionary.tinellb.com/u/'uccadama.html#highlulani">&rsquo;uccadama</a> <high-lulani>u;cdm</high-lulani> <em>prometheum</em>
+[e]<a href="http://dictionary.tinellb.com/l/lakatti.html#highlulani">lakatti</a> <high-lulani>lk;T</high-lulani> <em>protactinium</em>
+[e]<a href="http://dictionary.tinellb.com/i/'ilasa.html#highlulani">&rsquo;ilasa</a> <high-lulani>ils</high-lulani> <em>radium</em>
+[e]<a href="http://dictionary.tinellb.com/f/fasami.html#highlulani">fasami</a> <high-lulani>fsM</high-lulani> <em>radon</em>
+[e]<a href="http://dictionary.tinellb.com/h/hasuki.html#highlulani">hasuki</a> <high-lulani>hzK</high-lulani> <em>rhenium</em>
+[e]<a href="http://dictionary.tinellb.com/f/fula.html#highlulani">fula</a> <high-lulani>vl</high-lulani> <em>rhodium</em>
+[e]<a href="http://dictionary.tinellb.com/s/su'usi.html#highlulani">su&rsquo;usi</a> <high-lulani>zuS</high-lulani> <em>roentgenium</em>
+[e]<a href="http://dictionary.tinellb.com/s/sadadu.html#highlulani">sadadu</a> <high-lulani>sdE</high-lulani> <em>rubidium</em>
+[e]<a href="http://dictionary.tinellb.com/n/nasufi.html#highlulani">nasufi</a> <high-lulani>nzF</high-lulani> <em>ruthenium</em>
+[e]<a href="http://dictionary.tinellb.com/f/famati.html#highlulani">famati</a> <high-lulani>fmT</high-lulani> <em>rutherfordium</em>
+[e]<a href="http://dictionary.tinellb.com/i/'i'isata.html#highlulani">&rsquo;i&rsquo;isata</a> <high-lulani>iist</high-lulani> <em>samarium</em>
+[e]<a href="http://dictionary.tinellb.com/c/cakina.html#highlulani">cakina</a> <high-lulani>cKn</high-lulani> <em>scandium</em>
+[e]<a href="http://dictionary.tinellb.com/s/saniki.html#highlulani">saniki</a> <high-lulani>sNK</high-lulani> <em>seaborgium</em>
+[e]<a href="http://dictionary.tinellb.com/m/matirra.html#highlulani">matirra</a> <high-lulani>mT;r</high-lulani> <em>selenium</em>
+[e]<a href="http://dictionary.tinellb.com/a/'ama.html#highlulani">&rsquo;ama</a> <high-lulani>am</high-lulani> <em>silicon</em>
+[e]<a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a> <high-lulani>N</high-lulani> <em>silver</em>
+[e]<a href="http://dictionary.tinellb.com/l/lisu.html#highlulani">lisu</a> <high-lulani>Lz</high-lulani> <em>sodium</em>
+[e]<a href="http://dictionary.tinellb.com/a/'aru'u.html#highlulani">&rsquo;aru&rsquo;u</a> <high-lulani>awu</high-lulani> <em>strontium</em>
+[e]<a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <high-lulani>t</high-lulani> <em>sulfur</em>
+[e]<a href="http://dictionary.tinellb.com/h/hila.html#highlulani">hila</a> <high-lulani>Hl</high-lulani> <em>tantalum</em>
+[e]<a href="http://dictionary.tinellb.com/n/nikili.html#highlulani">nikili</a> <high-lulani>NKL</high-lulani> <em>technetium</em>
+[e]<a href="http://dictionary.tinellb.com/l/lasu.html#highlulani">lasu</a> <high-lulani>lz</high-lulani> <em>tellurium</em>
+[e]<a href="http://dictionary.tinellb.com/b/buccata.html#highlulani">buccata</a> <high-lulani>O;ct</high-lulani> <em>tennessine</em>
+[e]<a href="http://dictionary.tinellb.com/r/rila.html#highlulani">rila</a> <high-lulani>Rl</high-lulani> <em>terbium</em>
+[e]<a href="http://dictionary.tinellb.com/s/silla.html#highlulani">silla</a> <high-lulani>S;l</high-lulani> <em>thallium</em>
+[e]<a href="http://dictionary.tinellb.com/p/paraba.html#highlulani">paraba</a> <high-lulani>prb</high-lulani> <em>thorium</em>
+[e]<a href="http://dictionary.tinellb.com/r/raddilla.html#highlulani">raddilla</a> <high-lulani>r;D;l</high-lulani> <em>thulium</em>
+[e]<a href="http://dictionary.tinellb.com/l/laji.html#highlulani">laji</a> <high-lulani>lJ</high-lulani> <em>tin</em>
+[e]<a href="http://dictionary.tinellb.com/k/ka'i.html#highlulani">ka&rsquo;i</a> <high-lulani>ki</high-lulani> <em>titanium</em>
+[e]<a href="http://dictionary.tinellb.com/m/mina''i.html#highlulani">mina&#x294;i</a> <high-lulani>Mn;i</high-lulani> <em>tungsten</em>
+[e]<a href="http://dictionary.tinellb.com/k/kari.html#highlulani">kari</a> <high-lulani>kR</high-lulani> <em>uranium</em>
+[e]<a href="http://dictionary.tinellb.com/n/nussa.html#highlulani">nussa</a> <high-lulani>I;s</high-lulani> <em>vanadium</em>
+[e]<a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a> <high-lulani>s;h</high-lulani> <em>xenon</em>
+[e]<a href="http://dictionary.tinellb.com/t/tukaga.html#highlulani">tukaga</a> <high-lulani>ekg</high-lulani> <em>ytterbium</em>
+[e]<a href="http://dictionary.tinellb.com/a/'aqqixi.html#highlulani">&rsquo;aqqixi</a> <high-lulani>a;QX</high-lulani> <em>yttrium</em>
+[e]<a href="http://dictionary.tinellb.com/h/hika.html#highlulani">hika</a> <high-lulani>Hk</high-lulani> <em>zinc</em>
+[e]<a href="http://dictionary.tinellb.com/p/pusu.html#highlulani">pusu</a> <high-lulani>oz</high-lulani> <em>zirconium</em>[/d]
+[/d]&date=20180423
