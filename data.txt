@@ -347,7 +347,7 @@ These two rules are in order of priority, and two closed syllables can only appe
 [e]rad.dil.la
 [/d]
 [2]Stress
-There are four levels of stress which are assigned to particular forms of syllables. Stress effects the quality and pitch of vowels.
+There are four levels of stress which are assigned to particular forms of syllables. Stress effects the quality and pitch of vowels. The top two levels are grouped together as &lsquo;stressed&rsquo;, leaving the other two levels as &lsquo;unstressed&rsquo;.
 [3]Primary Stress
 Primary stress is characterised by tense vowels with a high pitch. In polysyllabic words, primary stress falls on the last closed syllable. Monosyllabic content words also receive this stress, although this is not explicitly marked in the pronunciation guide.
 [d wordlist]
@@ -374,11 +374,11 @@ Quaternary stress is characterised by a lax vowel with median pitch. It is not e
 [f]<ipa>/&#x2c8;na&#x27d;.<strong>&#x259;</strong>/</ipa>
 [e]<ipa>/<strong>&#x255;&#x259;</strong>.&#x2c8;nak&#x2b0;.<strong>&#x268;</strong>/</ipa>
 [2]Vowel Length
-Vowels in syllables with primary or secondary stress are slightly longer than other vowels. They are lengthened even further when the syllable coda is null, the consonant <ipa>/h/</ipa>, or a sonorant (<ipa>/mn&#x14b;l&#x27d;/).
+Stressed vowels are slightly longer than other vowels. They are lengthened even further when the syllable coda is null, the consonant <ipa>/h/</ipa>, or a sonorant (<ipa>/mn&#x14b;l&#x27d;/</ipa>). An unstressed vowel between two identical consonants is elided. This elided vowel is replaced with a central dot (&middot;) in the transliteration. This dot also appears in the compound word <a href="http://dictionary.tinellb.com/k/ku.li.html#highlulani">ku&middot;li</a> to distinguish it from the stem word <a href="http://dictionary.tinellb.com/k/kuli.html#highlulani">kuli</a>.
 [2]Prosody
 Interrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (&#x1ce;) or a falling tone (&acirc;), placed on the syllable of the appropriate word which has the greatest stress.
 Falling tone can also be used to bring focus to a particular word.
-&date=20180420--------------------------------------------------2
+&date=20180424--------------------------------------------------2
 [1]Orthography
 As well as the syllabary for most written use, there are also special-use syllabaries. One of these encodes more redundancy for use with noisy channels. The other is a non-visual written code for blind and other visually impaired users.&date=20180323--------------------------------------------------3
 [1]Syllabary
@@ -1508,51 +1508,41 @@ Other Part of Speech changes
 -niqqi: derivational suffix noun &rarr; adverb derives an adverb from a noun
 &date=20180422--------------------------------------------------4
 [1]Determiners
-A determiner can be used to narrow the reference of a noun. They can only be used as noun suffixes.
-[2]List
+A determiner can be used to narrow the reference of a noun. They appear at the end of a noun phrase.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/c/cama.html#highlulani">cama</a> <em>usual</em>
+[e]<a href="http://dictionary.tinellb.com/n/nisa.html#highlulani">nisa</a> <em>only</em>
+[e]<a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <em>other</em>
+[e]<a href="http://dictionary.tinellb.com/s/sabufi.html#highlulani">sabufi</a> <em>different</em>[/d]
 [3]Quantity
 These are used to answer &rdquo;how many?&rdquo;
-[f]<a href="http://dictionary.tinellb.com/c/cu.html#highlulani">cu</a> <em>no; zero</em>
-[e]<a href="http://dictionary.tinellb.com/m/mimu'i.html#highlulani">mimu&rsquo;i</a> <em>some; more than one</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/m/mimu'i.html#highlulani">mimu&rsquo;i</a> <em>some</em>
 [e]<a href="http://dictionary.tinellb.com/l/lumi.html#highlulani">lumi</a> <em>several</em>
+[e]<a href="http://dictionary.tinellb.com/r/raqi.html#highlulani">raqi</a> <em>more</em>
 [e]<a href="http://dictionary.tinellb.com/u/'uhu.html#highlulani">&rsquo;uhu</a> <em>many</em>
-[e]<a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <em>many</em>
-[e]<a href="http://dictionary.tinellb.com/r/raqi.html#highlulani">raqi</a> <em>more; additional</em>
+[e]<a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <em>many</em>[/d]
 [3]Choice
-There are two sets of determiners, both used to select a part from the whole. One group is used with count nouns, the other with mass nouns.
+There are two sets of determiners that are both used to select a part from the whole. One group is used with count nouns, the other with mass nouns.
 [4]Count Nouns
 These refer to particular members of a group.
-[f]<a href="http://dictionary.tinellb.com/c/cu.html#highlulani">cu</a> <em>none</em>
-[e]<a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <em>which</em>
-[e]<a href="http://dictionary.tinellb.com/c/ca.html#highlulani">ca</a> <em>only</em>
-[e]<a href="http://dictionary.tinellb.com/f/fi'atu.html#highlulani">fi&rsquo;atu</a> <em>certain; particular</em>
-[e]<a href="http://dictionary.tinellb.com/m/mi.html#highlulani">mi</a> <em>any; some</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/c/ca.html#highlulani">ca</a> <em>only</em>
+[e]<a href="http://dictionary.tinellb.com/f/fi'atu.html#highlulani">fi&rsquo;atu</a> <em>certain</em>
 [e]<a href="http://dictionary.tinellb.com/t/tapa.html#highlulani">tapa</a> <em>next</em>
-[e]<a href="http://dictionary.tinellb.com/c/cari.html#highlulani">cari</a> <em>remaining; rest</em>
-[e]<a href="http://dictionary.tinellb.com/q/qafa.html#highlulani">qafa</a> <em>last; final</em>
-[e]<a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <em>all</em>
+[e]<a href="http://dictionary.tinellb.com/c/cari.html#highlulani">cari</a> <em>remaining</em>
+[e]<a href="http://dictionary.tinellb.com/q/qafa.html#highlulani">qafa</a> <em>last</em>[/d]
 [4]Mass Nouns
 These refer to sections of a substance.
-[f]<a href="http://dictionary.tinellb.com/c/cari.html#highlulani">cari</a> <em>remaining; rest</em>
-[e]<a href="http://dictionary.tinellb.com/s/sukki.html#highlulani">sukki</a> <em>entire; whole; all</em>
-[3]Directional
-These refer to particular objects, based on their direction.
-[f]<a href="http://dictionary.tinellb.com/m/mari.html#highlulani">mari</a> <em>this</em>
-[e]<a href="http://dictionary.tinellb.com/k/kasi.html#highlulani">kasi</a> <em>that</em>
-[e]<a href="http://dictionary.tinellb.com/g/gi.html#highlulani">gi</a> <em>left; on the left-hand side</em>
-[e]<a href="http://dictionary.tinellb.com/s/saqa.html#highlulani">saqa</a> <em>right; on the right-hand side</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/c/cari.html#highlulani">cari</a> <em>remaining</em>
+[e]<a href="http://dictionary.tinellb.com/s/sukki.html#highlulani">sukki</a> <em>entire</em>[/d]
 [3]Degree
 These mark the degree to which the noun matches its referent.
-[f]<a href="http://dictionary.tinellb.com/j/ji'a.html#highlulani">ji&rsquo;a</a> <em>not; not a</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/n/nata.html#highlulani">nata</a> <em>complete</em>
 [e]<a href="http://dictionary.tinellb.com/n/naci.html#highlulani">naci</a> <em>somewhat</em>
-[e]<a href="http://dictionary.tinellb.com/n/nata.html#highlulani">nata</a> <em>complete; utter</em>
-[3]Miscellaneous
-This last terms do not fit into any of the other categories.
-[f]<a href="http://dictionary.tinellb.com/c/cama.html#highlulani">cama</a> <em>usual; old; familiar; customary</em>
-[e]<a href="http://dictionary.tinellb.com/n/nisa.html#highlulani">nisa</a> <em>only; sole; one</em>
-[e]<a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <em>other</em>
-[e]<a href="http://dictionary.tinellb.com/s/sabufi.html#highlulani">sabufi</a> <em>different</em>
-&date=20170726--------------------------------------------------3
+[e]<a href="http://dictionary.tinellb.com/j/ji'a.html#highlulani">ji&rsquo;a</a> <em>not</em>[/d]&date=20180424--------------------------------------------------3
 [1]Deixis
 Deixis encompasses words and phrases which rely on an external context to complete their meaning.
 [2]Topicality
