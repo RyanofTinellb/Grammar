@@ -53,28 +53,28 @@ High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the onl
 This page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.
 [d columns]
 [t]h Consonant |h Example
- <ipa>b</ipa> | <strong>b</strong>a&rsquo;u 
- <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a 
- <ipa>c</ipa> | qa<strong>cc</strong>a 
- <ipa>c&#x2b0;</ipa> | <strong>c</strong>u&rsquo;i 
- <ipa>&#x255;</ipa> | <strong>x</strong>u&rsquo;a 
- <ipa>d</ipa> | <strong>d</strong>aru 
- <ipa>d&#x2b1;</ipa> | &rsquo;a<strong>dd</strong>a 
- <ipa>f</ipa> | <strong>f</strong>ara 
- <ipa>g</ipa> | <strong>g</strong>usu 
- <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i 
-[/t] 
+ <ipa>b</ipa> | <strong>b</strong>a&rsquo;u
+ <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a
+ <ipa>c</ipa> | qa<strong>cc</strong>a
+ <ipa>c&#x2b0;</ipa> | <strong>c</strong>u&rsquo;i
+ <ipa>&#x255;</ipa> | <strong>x</strong>u&rsquo;a
+ <ipa>d</ipa> | <strong>d</strong>aru
+ <ipa>d&#x2b1;</ipa> | &rsquo;a<strong>dd</strong>a
+ <ipa>f</ipa> | <strong>f</strong>ara
+ <ipa>g</ipa> | <strong>g</strong>usu
+ <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i
+[/t]
 [t]h Consonant |h Example
- <ipa>h</ipa> | <strong>h</strong>isuba 
- <ipa>j</ipa> | fa<strong>&#x294;</strong>a<sup>1</sup> 
- <ipa>&#x25f;</ipa> | <strong>j</strong>usi 
- <ipa>&#x25f;&#x2b1;</ipa> | ma<strong>jj</strong>a 
- <ipa>k</ipa> | ta<strong>kk</strong>i 
- <ipa>k&#x2b0;</ipa> | <strong>k</strong>a&rsquo;u 
- <ipa>l</ipa> | <strong>l</strong>isa 
- <ipa>&#x28e;</ipa> | mu<strong>ll</strong>u 
- <ipa>m</ipa> | <strong>m</strong>ullu 
- <ipa>n</ipa> | <strong>n</strong>isa 
+ <ipa>h</ipa> | <strong>h</strong>isuba
+ <ipa>j</ipa> | fa<strong>&#x294;</strong>a<sup>1</sup>
+ <ipa>&#x25f;</ipa> | <strong>j</strong>usi
+ <ipa>&#x25f;&#x2b1;</ipa> | ma<strong>jj</strong>a
+ <ipa>k</ipa> | ta<strong>kk</strong>i
+ <ipa>k&#x2b0;</ipa> | <strong>k</strong>a&rsquo;u
+ <ipa>l</ipa> | <strong>l</strong>isa
+ <ipa>&#x28e;</ipa> | mu<strong>ll</strong>u
+ <ipa>m</ipa> | <strong>m</strong>ullu
+ <ipa>n</ipa> | <strong>n</strong>isa
 [/t]
 [t]h Consonant |h Example
  <ipa>&#x272;</ipa> | ja<strong>nn</strong>i
@@ -450,7 +450,7 @@ There is a spelling syllabary, used for transmitting words across potentially no
  da: <a href="http://dictionary.tinellb.com/d/diha.html#highlulani">diha</a> <em>bureaucrat</em>
  ca: <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">cula</a> <em>egg</em>
  ja: <a href="http://dictionary.tinellb.com/j/jana.html#highlulani">jana</a> <em>elder</em>
- ka: <a href="http://dictionary.tinellb.com/k/kaqqa.html#highlulani">kaqqa</a> <em>brother</em> 
+ ka: <a href="http://dictionary.tinellb.com/k/kaqqa.html#highlulani">kaqqa</a> <em>brother</em>
  ga: <a href="http://dictionary.tinellb.com/g/gata.html#highlulani">gata</a> <em>pendulum</em>
  ma: <a href="http://dictionary.tinellb.com/m/marru.html#highlulani">marru</a> <em>flies</em>
  na: <a href="http://dictionary.tinellb.com/n/nassa.html#highlulani">nassa</a> <em>euphoria</em>
@@ -1064,7 +1064,7 @@ h past | <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>
 h present | <a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a><br><high-lulani>cN</high-lulani> | <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a><br><high-lulani>ru</high-lulani> | <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a><br><high-lulani>J</high-lulani> | <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a><br><high-lulani>n</high-lulani> | <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a><br><high-lulani>w</high-lulani>
 h future | <a href="http://dictionary.tinellb.com/l/lanu.html#highlulani">lanu</a><br><high-lulani>lI</high-lulani> | <a href="http://dictionary.tinellb.com/n/nagi.html#highlulani">nagi</a><br><high-lulani>nG</high-lulani> | <a href="http://dictionary.tinellb.com/f/funi.html#highlulani">funi</a><br><high-lulani>vN</high-lulani> | <a href="http://dictionary.tinellb.com/h/hu.html#highlulani">hu</a><br><high-lulani>V</high-lulani> | <a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a><br><high-lulani>w&gt;</high-lulani>
 [/t]
-[d mobile-table] <high-lulani>Bt</high-lulani>
+[d mobile-table]
 past:
 [e]dynamic: <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <high-lulani>Qx</high-lulani>
 [e]stative: <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <high-lulani>P</high-lulani>
@@ -1425,7 +1425,7 @@ inanimate
 [e] &rarr; animate: <a href="http://dictionary.tinellb.com/r/-rra.html#highlulani">-rra</a> <high-lulani>;r</high-lulani>
 [e] &rarr; abstract: <a href="http://dictionary.tinellb.com/j/-ja.html#highlulani">-ja</a> <high-lulani>j</high-lulani>
 abstract
-[e] &rarr; animate: <a href="http://dictionary.tinellb.com/s/-sa.html#highlulani">-sa</a> <high-lulani>s</high-lulani> / <a href="http://dictionary.tinellb.com/r/-ri.html#highlulani">-ri</a> <high-lulani>R</high-lulani> 
+[e] &rarr; animate: <a href="http://dictionary.tinellb.com/s/-sa.html#highlulani">-sa</a> <high-lulani>s</high-lulani> / <a href="http://dictionary.tinellb.com/r/-ri.html#highlulani">-ri</a> <high-lulani>R</high-lulani>
 [e] &rarr; inanimate: <a href="http://dictionary.tinellb.com/d/-di.html#highlulani">-di</a> <high-lulani>D</high-lulani>[/d]
 The above table shows the suffixes used for deriving nouns between different animacy classes.
 An animate noun is derived from an inanimate noun by the suffix  <a href="http://dictionary.tinellb.com/r/-rra.html#highlulani">-rra</a> <high-lulani>;r</high-lulani>.
@@ -1563,14 +1563,14 @@ hr2 genitive |h (alienable) | <a href="http://dictionary.tinellb.com/p/pagu.html
 h (inalienable) | <a href="http://dictionary.tinellb.com/p/-pahi.html#highlulani">-pahi</a><br><high-lulani>pH</high-lulani> | <a href="http://dictionary.tinellb.com/b/-ba.html#highlulani">-ba</a><br><high-lulani>b</high-lulani> | -<br> | <a href="http://dictionary.tinellb.com/d/-disi.html#highlulani">-disi</a><br><high-lulani>DS</high-lulani> | <a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a><br><high-lulani>q</high-lulani>
 [/t]
 [d mobile-table] <high-lulani>Bt</high-lulani>
-first person: 
+first person:
 [e]intransitive: <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <high-lulani>uz</high-lulani>
 [e]transitive: <a href="http://dictionary.tinellb.com/s/suma.html#highlulani">suma</a> <high-lulani>zm</high-lulani>
 [e]ablative: <a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a> <high-lulani>o;e</high-lulani>
 [e]dative: <a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a> <high-lulani>PX</high-lulani>
 [e]alienable genitive: <a href="http://dictionary.tinellb.com/p/pagu.html#highlulani">pagu</a> <high-lulani> p&lt;</high-lulani>
 [e]inalienable genitive: <a href="http://dictionary.tinellb.com/p/-pahi.html#highlulani">-pahi</a> <high-lulani>pH</high-lulani>
-second person: 
+second person:
 [e]intransitive: <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a> <high-lulani>F;L</high-lulani>
 [e]transitive: <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <high-lulani>v</high-lulani>
 [e]ablative: <a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a> <high-lulani>sy</high-lulani>
@@ -1633,7 +1633,7 @@ second person inclusive:
 [e]ablative: <a href="http://dictionary.tinellb.com/s/sacupa.html#highlulani">sacupa</a> <high-lulani>syp</high-lulani>
 [e]dative: <a href="http://dictionary.tinellb.com/b/ba'upa.html#highlulani">ba&rsquo;upa</a> <high-lulani>bup</high-lulani>
 [e]alienable genitive: <a href="http://dictionary.tinellb.com/b/bapa.html#highlulani">bapa</a> <high-lulani>NT , bp</high-lulani>
-all persons: 
+all persons:
 [e]intransitive: <a href="http://dictionary.tinellb.com/u/'usufupa.html#highlulani">&rsquo;usufupa</a> <high-lulani>uzvp</high-lulani>
 [e]transitive: <a href="http://dictionary.tinellb.com/s/sumafupa.html#highlulani">sumafupa</a> <high-lulani>zmvp</high-lulani>
 [e]ablative: <a href="http://dictionary.tinellb.com/p/puttufupa.html#highlulani">puttufupa</a> <high-lulani>o;evp</high-lulani>

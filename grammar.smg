@@ -1,33 +1,33 @@
 {
-    "files": {
-        "searchjson": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json",
-        "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.txt",
-        "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
-    },
-    "current": {
-        "position": "64.16",
-        "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd",
-        "fontsize": 18,
-        "page": [
-            "High Lulani",
-            "Morphology",
-            "Deixis",
-            "Personal Pronouns",
-            ""
-        ],
-        "language": "hl"
-    },
-    "site": {
-        "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar",
-        "name": "Grammar"
-    },
-    "links": [{
-            "type": "Glossary",
-            "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls"
-        },
-        {
-            "type": "ExternalDictionary",
-            "resource": "http://dictionary.tinellb.com"
-        }
-    ]
+  "files": {
+    "searchjson": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json", 
+    "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.txt", 
+    "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
+  }, 
+  "current": {
+    "position": "14.5", 
+    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
+    "fontsize": 18, 
+    "page": [
+      "High Lulani", 
+      "Morphology", 
+      "Auxiliaries", 
+      ""
+    ], 
+    "language": "hl"
+  }, 
+  "site": {
+    "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar", 
+    "name": "Grammar"
+  }, 
+  "links": [
+    {
+      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
+      "type": "Glossary"
+    }, 
+    {
+      "resource": "http://dictionary.tinellb.com", 
+      "type": "ExternalDictionary"
+    }
+  ]
 }
