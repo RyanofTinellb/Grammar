@@ -83,8 +83,9 @@ h6 {
 }
 
 .content div.wordlist {
-    margin-top: 2em;
+    margin-top: 1em;
     margin-left: 5%;
+    margin-bottom: 3em;
     padding-top: 0;
     padding-bottom: 1em;
 }

@@ -5,7 +5,7 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
   "current": {
-    "position": "113.17", 
+    "position": "166.26", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
     "fontsize": 18, 
     "page": [
@@ -22,12 +22,12 @@
   }, 
   "links": [
     {
-      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
-      "type": "Glossary"
+      "type": "Glossary", 
+      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls"
     }, 
     {
-      "resource": "http://dictionary.tinellb.com", 
-      "type": "ExternalDictionary"
+      "type": "ExternalDictionary", 
+      "resource": "http://dictionary.tinellb.com"
     }
   ]
 }
