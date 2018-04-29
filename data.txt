@@ -1683,7 +1683,7 @@ second person inclusive:
 [e]transitive: <a href="http://dictionary.tinellb.com/f/fupa.html#highlulani">fupa</a> <high-lulani>vp</high-lulani>
 [e]ablative: <a href="http://dictionary.tinellb.com/s/sacupa.html#highlulani">sacupa</a> <high-lulani>syp</high-lulani>
 [e]dative: <a href="http://dictionary.tinellb.com/b/ba'upa.html#highlulani">ba&rsquo;upa</a> <high-lulani>bup</high-lulani>
-[e]alienable genitive: <a href="http://dictionary.tinellb.com/b/bapa.html#highlulani">bapa</a> <high-lulani>NT</high-lulani>
+[e]alienable genitive: <a href="http://dictionary.tinellb.com/b/bapa.html#highlulani">bapa</a> <high-lulani>bp</high-lulani>
 all persons:
 [e]intransitive: <a href="http://dictionary.tinellb.com/u/'usufupa.html#highlulani">&rsquo;usufupa</a> <high-lulani>uzvp</high-lulani>
 [e]transitive: <a href="http://dictionary.tinellb.com/s/sumafupa.html#highlulani">sumafupa</a> <high-lulani>zmvp</high-lulani>
@@ -1789,81 +1789,133 @@ Some kinship terms have suppletive forms when used with a plain possessive prono
 The indefinite pro-forms are sets of deictic words which can be placed into a table.
 [t]hr2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
 h noun |h determiner
-h proximate | <a href="http://dictionary.tinellb.com/m/mari.html#highlulani">mari</a><br><high-lulani>mR</high-lulani> | <a href="http://dictionary.tinellb.com/m/-mari.html#highlulani">-mari</a><br><high-lulani>mR</high-lulani> | <a href="http://dictionary.tinellb.com/m/majja.html#highlulani">majja</a><br><high-lulani>m;j</high-lulani> | <a href="http://dictionary.tinellb.com/m/marila.html#highlulani">marila</a><br><high-lulani>mRl</high-lulani> | <a href="http://dictionary.tinellb.com/m/madusi.html#highlulani">madusi</a><br><high-lulani>mES</high-lulani> | <a href="http://dictionary.tinellb.com/m/marika.html#highlulani">marika</a><br><high-lulani>mRk</high-lulani>
-h distal | <a href="http://dictionary.tinellb.com/k/kasi.html#highlulani">kasi</a><br><high-lulani>kS</high-lulani> | <a href="http://dictionary.tinellb.com/k/-kasi.html#highlulani">-kasi</a>| <a href="http://dictionary.tinellb.com/k/kasuja.html#highlulani">kasuja</a><br><high-lulani>kS / kzj</high-lulani> | <a href="http://dictionary.tinellb.com/k/kalisa.html#highlulani">kalisa</a><br><high-lulani>kLs</high-lulani> | <a href="http://dictionary.tinellb.com/k/kadusi.html#highlulani">kadusi</a><br><high-lulani>kES</high-lulani> | <a href="http://dictionary.tinellb.com/k/kasika.html#highlulani">kasika</a><br><high-lulani>kSk</high-lulani>
+h proximate | <a href="http://dictionary.tinellb.com/m/mari.html#highlulani">mari</a><br><high-lulani>mR</high-lulani> | <a href="http://dictionary.tinellb.com/m/-mari.html#highlulani">-mari</a><br><high-lulani>mR</high-lulani> | <a href="http://dictionary.tinellb.com/m/majja.html#highlulani">majja</a> / <a href="http://dictionary.tinellb.com/m/miru.html#highlulani">miru</a><br><high-lulani>Mw . m;j</high-lulani> | <a href="http://dictionary.tinellb.com/m/marila.html#highlulani">marila</a><br><high-lulani>mRl</high-lulani> | <a href="http://dictionary.tinellb.com/m/madusi.html#highlulani">madusi</a><br><high-lulani>mES</high-lulani> | <a href="http://dictionary.tinellb.com/m/marika.html#highlulani">marika</a><br><high-lulani>mRk</high-lulani>
+h distal | <a href="http://dictionary.tinellb.com/k/kasi.html#highlulani">kasi</a><br><high-lulani>kS</high-lulani> | <a href="http://dictionary.tinellb.com/k/-kasi.html#highlulani">-kasi</a><br><high-lulani>kS</high-lulani> | <a href="http://dictionary.tinellb.com/k/kasuja.html#highlulani">kasuja</a><br><high-lulani> kzj</high-lulani> | <a href="http://dictionary.tinellb.com/k/kalisa.html#highlulani">kalisa</a><br><high-lulani>kLs</high-lulani> | <a href="http://dictionary.tinellb.com/k/kadusi.html#highlulani">kadusi</a><br><high-lulani>kES</high-lulani> | <a href="http://dictionary.tinellb.com/k/kasika.html#highlulani">kasika</a><br><high-lulani>kSk</high-lulani>
 h interrogative | <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a><br><high-lulani>sm</high-lulani> | <a href="http://dictionary.tinellb.com/d/-diku.html#highlulani">-diku</a><br><high-lulani>D&gt;</high-lulani> | <a href="http://dictionary.tinellb.com/s/satta.html#highlulani">satta</a><br><high-lulani>s;t</high-lulani> | <a href="http://dictionary.tinellb.com/s/sulla.html#highlulani">sulla</a><br><high-lulani>z;l</high-lulani> | <a href="http://dictionary.tinellb.com/l/lara.html#highlulani">lara</a><br><high-lulani>lr</high-lulani> | <a href="http://dictionary.tinellb.com/s/saqqa.html#highlulani">saqqa</a><br><high-lulani>s;q</high-lulani>
 h negative | <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a><br><high-lulani>yi</high-lulani> | <a href="http://dictionary.tinellb.com/c/-cu.html#highlulani">-cu</a><br><high-lulani>y</high-lulani> | <a href="http://dictionary.tinellb.com/q/qa'i.html#highlulani">qa&rsquo;i</a><br><high-lulani>qi</high-lulani> | <a href="http://dictionary.tinellb.com/b/buni.html#highlulani">buni</a><br><high-lulani>ON</high-lulani> |r2c2 -<br>
 h universal | <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a><br><high-lulani>ab</high-lulani> | <a href="http://dictionary.tinellb.com/a/-'aba.html#highlulani">-&rsquo;aba</a><br><high-lulani>ab</high-lulani> | <a href="http://dictionary.tinellb.com/b/batuja.html#highlulani">batuja</a><br><high-lulani>bej</high-lulani> | <a href="http://dictionary.tinellb.com/a/'abala.html#highlulani">&rsquo;abala</a><br><high-lulani>abl</high-lulani>
 h existential | <a href="http://dictionary.tinellb.com/u/'umi.html#highlulani">&rsquo;umi</a><br><high-lulani>uM</high-lulani> | <a href="http://dictionary.tinellb.com/m/-mi.html#highlulani">-mi</a><br><high-lulani>M</high-lulani> | <a href="http://dictionary.tinellb.com/m/mituja.html#highlulani">mituja</a><br><high-lulani>Mej</high-lulani> | <a href="http://dictionary.tinellb.com/a/'amila.html#highlulani">&rsquo;amila</a><br><high-lulani>aMl</high-lulani> |c2 <a href="http://dictionary.tinellb.com/f/fana.html#highlulani">fana</a><br><high-lulani>fn</high-lulani>
 [/t]
-[d mobile-table] <high-lulani>Bt</high-lulani>
+[d mobile-table]
 proximate:
-[e]object noun: <a href="http://dictionary.tinellb.com/m/mari.html#highlulani">mari</a> <high-lulani>V , mR</high-lulani>
-[e]object determiner: <a href="http://dictionary.tinellb.com/m/-mari.html#highlulani">-mari</a> <high-lulani>M , mR</high-lulani>
-[e]place: <a href="http://dictionary.tinellb.com/m/majja.html#highlulani">majja</a> <high-lulani>m;j</high-lulani>
+[e]object noun: <a href="http://dictionary.tinellb.com/m/mari.html#highlulani">mari</a> <high-lulani> mR</high-lulani>
+[e]object determiner: <a href="http://dictionary.tinellb.com/m/-mari.html#highlulani">-mari</a> <high-lulani>mR</high-lulani>
+[e]place: <a href="http://dictionary.tinellb.com/m/majja.html#highlulani">majja</a> <high-lulani>m;j</high-lulani> / <a href="http://dictionary.tinellb.com/m/miru.html#highlulani">miru</a> <high-lulani>Mw</high-lulani>
 [e]action: <a href="http://dictionary.tinellb.com/m/marila.html#highlulani">marila</a> <high-lulani>mRl</high-lulani>
 [e]manner: <a href="http://dictionary.tinellb.com/m/madusi.html#highlulani">madusi</a> <high-lulani>mES</high-lulani>
 [e]state: <a href="http://dictionary.tinellb.com/m/marika.html#highlulani">marika</a> <high-lulani>mRk</high-lulani>
 distal:
-[e]object noun: <a href="http://dictionary.tinellb.com/k/kasi.html#highlulani">kasi</a> <high-lulani>V , kS</high-lulani>
-[e]object determiner: <a href="http://dictionary.tinellb.com/k/-kasi.html#highlulani">-kasi</a> <high-lulani>M , kS</high-lulani>
+[e]object noun: <a href="http://dictionary.tinellb.com/k/kasi.html#highlulani">kasi</a> <high-lulani>kS</high-lulani>
+[e]object determiner: <a href="http://dictionary.tinellb.com/k/-kasi.html#highlulani">-kasi</a> <high-lulani>kS</high-lulani>
 [e]place: <a href="http://dictionary.tinellb.com/k/kasuja.html#highlulani">kasuja</a> <high-lulani>kzj</high-lulani>
 [e]action: <a href="http://dictionary.tinellb.com/k/kalisa.html#highlulani">kalisa</a> <high-lulani>kLs</high-lulani>
 [e]manner: <a href="http://dictionary.tinellb.com/k/kadusi.html#highlulani">kadusi</a> <high-lulani>kES</high-lulani>
 [e]state: <a href="http://dictionary.tinellb.com/k/kasika.html#highlulani">kasika</a> <high-lulani>kSk</high-lulani>
 interrogative:
-[e]object noun: <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <high-lulani>V , sm</high-lulani>
-[e]object determiner: <a href="http://dictionary.tinellb.com/d/-diku.html#highlulani">-diku</a> <high-lulani>M , D&gt;</high-lulani>
+[e]object noun: <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <high-lulani>sm</high-lulani>
+[e]object determiner: <a href="http://dictionary.tinellb.com/d/-diku.html#highlulani">-diku</a> <high-lulani>D&gt;</high-lulani>
 [e]place: <a href="http://dictionary.tinellb.com/s/satta.html#highlulani">satta</a> <high-lulani>s;t</high-lulani>
 [e]action: <a href="http://dictionary.tinellb.com/s/sulla.html#highlulani">sulla</a> <high-lulani>z;l</high-lulani>
 [e]manner: <a href="http://dictionary.tinellb.com/l/lara.html#highlulani">lara</a> <high-lulani>lr</high-lulani>
 [e]state: <a href="http://dictionary.tinellb.com/s/saqqa.html#highlulani">saqqa</a> <high-lulani>s;q</high-lulani>
 negative:
-[e]object noun: <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a> <high-lulani>V , yi</high-lulani>
-[e]object determiner: <a href="http://dictionary.tinellb.com/c/-cu.html#highlulani">-cu</a> <high-lulani>M , y</high-lulani>
+[e]object noun: <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a> <high-lulani>yi</high-lulani>
+[e]object determiner: <a href="http://dictionary.tinellb.com/c/-cu.html#highlulani">-cu</a> <high-lulani>y</high-lulani>
 [e]place: <a href="http://dictionary.tinellb.com/q/qa'i.html#highlulani">qa&rsquo;i</a> <high-lulani>qi</high-lulani>
 [e]action: <a href="http://dictionary.tinellb.com/b/buni.html#highlulani">buni</a> <high-lulani>ON</high-lulani>
 universal:
-[e]object noun: <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <high-lulani>V , ab</high-lulani>
-[e]object determiner: <a href="http://dictionary.tinellb.com/a/-'aba.html#highlulani">-&rsquo;aba</a> <high-lulani>M , ab</high-lulani>
+[e]object noun: <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <high-lulani>ab</high-lulani>
+[e]object determiner: <a href="http://dictionary.tinellb.com/a/-'aba.html#highlulani">-&rsquo;aba</a> <high-lulani>ab</high-lulani>
 [e]place: <a href="http://dictionary.tinellb.com/b/batuja.html#highlulani">batuja</a> <high-lulani>bej</high-lulani>
 [e]action: <a href="http://dictionary.tinellb.com/a/'abala.html#highlulani">&rsquo;abala</a> <high-lulani>abl</high-lulani>
 existential:
-[e]object noun: <a href="http://dictionary.tinellb.com/u/'umi.html#highlulani">&rsquo;umi</a> <high-lulani>V , uM</high-lulani>
-[e]object determiner: <a href="http://dictionary.tinellb.com/m/-mi.html#highlulani">-mi</a> <high-lulani>M , M</high-lulani>
+[e]object noun: <a href="http://dictionary.tinellb.com/u/'umi.html#highlulani">&rsquo;umi</a> <high-lulani>uM</high-lulani>
+[e]object determiner: <a href="http://dictionary.tinellb.com/m/-mi.html#highlulani">-mi</a> <high-lulani>M</high-lulani>
 [e]place: <a href="http://dictionary.tinellb.com/m/mituja.html#highlulani">mituja</a> <high-lulani>Mej</high-lulani>
 [e]action: <a href="http://dictionary.tinellb.com/a/'amila.html#highlulani">&rsquo;amila</a> <high-lulani>aMl</high-lulani>
-[e]manner / state: <a href="http://dictionary.tinellb.com/f/fana.html#highlulani">fana</a> <high-lulani> / t , fn</high-lulani>
+[e]manner / state: <a href="http://dictionary.tinellb.com/f/fana.html#highlulani">fana</a> <high-lulani>fn</high-lulani>
 [/d]
 Proximate forms have referents physically or psychologically near the speaker, whereas distal forms are used when the referent is far away. Interrogative forms are used in questions, and negative forms are used in negative sentences. Universal means &ldquo;all&rdquo; or &ldquo;every&rdquo;, and existential means &ldquo;some&rdquo; or &ldquo;any&rdquo;.
-[3]Indefinite Pronouns
-Unlike some personal pronouns, indefinite pronouns are not marked for animacy.
-The pronouns in the object column are used for people and things.
-The place column pronouns are used for locations in both space and time.
-The &lsquo;object&rsquo; indefinite pronouns can modify a noun when used as a suffix. When <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a> <em>nothing</em> is used as a suffix, it loses its last syllable. When <a href="http://dictionary.tinellb.com/u/'umi.html#highlulani">&rsquo;umi</a> <em>something</em> is used as a suffix, it loses its first syllable.
-[f]<a href="http://dictionary.tinellb.com/t/taka.html#highlulani">taka</a><a href="http://dictionary.tinellb.com/c/cu.html#highlulani">cu</a> <em>no sound</em>
-[e]<a href="http://dictionary.tinellb.com/m/manafa.html#highlulani">manafa</a><a href="http://dictionary.tinellb.com/m/mari.html#highlulani">mari</a> <em>this country</em>
-[e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a><a href="http://dictionary.tinellb.com/m/mi.html#highlulani">mi</a> <em>some monarch</em>
-[e]<a href="http://dictionary.tinellb.com/k/kulu.html#highlulani">kulu</a><a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <em>every fork</em>
-[e]<a href="http://dictionary.tinellb.com/n/nulli.html#highlulani">nulli</a><a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <em>which mountain?</em>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a><a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a><a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a>-<a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>every me and every you</em>
-The existential markers are used in complements.
-[f]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <a href="http://dictionary.tinellb.com/x/xaha.html#highlulani">xaha</a>-<a href="http://dictionary.tinellb.com/d/disi.html#highlulani">disi</a> <a href="http://dictionary.tinellb.com/u/'umi.html#highlulani">&rsquo;umi</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/p/padissu.html#highlulani">padissu</a>.
-[e]<em>1int com name-3ani;gen something prs;gno learn.</em>
-[e]&ldquo;I learned what her name is.&rdquo;
+The existential markers are also used in complements.
+[d folding]
+[f]<strong>&#x294;usu li xaha &rsquo;umi ru padissu.</strong>
+[e]<high-lulani>.uz / L / xh / uM / w / pD;z.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <a href="http://dictionary.tinellb.com/x/xaha.html#highlulani">xaha</a> <a href="http://dictionary.tinellb.com/u/'umi.html#highlulani">&rsquo;umi</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/p/padissu.html#highlulani">padissu</a>.
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span> <em>name</em> <em>something</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>learn.</em>
+[e]&ldquo;I learned what her name is.&rdquo;[/d]
+[2]Object Noun
+Object nouns are pronouns. Unlike some personal pronouns, these are not marked for animacy, and are thus used to represent people, animals or things.
+[d folding]
+[f]<strong>Mari ra&rsquo;u &rsquo;aggami. / Mari ra&rsquo;u linu.</strong>
+[e]<high-lulani>. mR / ru / LI.mR / ru / a;gM.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mari.html#highlulani">Mari</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/a/'aggami.html#highlulani">&rsquo;aggami</a>. / <a href="http://dictionary.tinellb.com/m/mari.html#highlulani">Mari</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/l/linu.html#highlulani">linu</a>.
+[e]<em>This</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>police.</em> / <em>This</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>tree</em>.
+[e]&ldquo;This (person) is a police officer.&rdquo; / &ldquo;This (object) is a tree.&rdquo;
+[/d]
+[d folding]
+[e]<strong>Fu kusama kuffa diru? / Fu kusama kuffa qikanni?</strong>
+[e]<high-lulani>.v / &gt;sm / &gt;;f / Qk;N .v / &gt;sm / &gt;;f / Dw.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> <a href="http://dictionary.tinellb.com/d/diru.html#highlulani">diru</a>? / <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> <a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">qikanni</a>?
+[e]<span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>what give money?</em> / <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>what give dog?</em>
+[e]&ldquo;To whom did you give the money?&rdquo; / &ldquo;What did you give the dog&rdquo;
+[/d]
+This latter example exploits the ability to swap dative and object for <a href="../verbs/transitivity.html#motiveverbs">motive verbs</a>.
+[2]Object Determiner
+Object determiners act as determiners. In most cases, derivations from the object noun forms are obvious.
+[d wordlist]
+[d folding]
+[f]<strong>takacu</strong>
+[e]<high-lulani>tky</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/t/taka.html#highlulani">taka</a><a href="http://dictionary.tinellb.com/c/-cu.html#highlulani">-cu</a>
+[e]<em>sound-nothing</em>
+[e]&ldquo;no sound&rdquo;[/d]
+[d folding]
+[f]<strong>manafamari</strong>
+[e]<high-lulani>mnfmR</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/manafa.html#highlulani">manafa</a><a href="http://dictionary.tinellb.com/m/-mari.html#highlulani">-mari</a>
+[e]<em>country-this</em>
+[e]&ldquo;this country&rdquo;[/d]
+[d folding]
+[f]<strong>lulanimi</strong>
+[e]<high-lulani>WlNM</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a><a href="http://dictionary.tinellb.com/m/-mi.html#highlulani">-mi</a>
+[e]<em>queen-some</em>
+[e]&ldquo;some monarch&rdquo;[/d]
+[d folding]
+[f]<strong>kulu&rsquo;aba</strong>
+[e]<high-lulani>&gt;Wab</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kulu.html#highlulani">kulu</a><a href="http://dictionary.tinellb.com/a/-'aba.html#highlulani">-&rsquo;aba</a>
+[e]<em>fork-every</em>
+[e]&ldquo;every fork&rdquo;[/d]
+[d folding]
+[f]<strong>nullidiku</strong>
+[e]<high-lulani>I;LD&gt;</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/n/nulli.html#highlulani">nulli</a><a href="http://dictionary.tinellb.com/d/-diku.html#highlulani">-diku</a>
+[e]<em>mountain-what</em>
+[e]&ldquo;which mountain?&rdquo;[/d]
+[d folding]
+[f]<strong>&rsquo;usu&rsquo;aba filli&rsquo;abata</strong>
+[e]<high-lulani>uzab / F;Labt</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a><a href="http://dictionary.tinellb.com/a/-'aba.html#highlulani">-&rsquo;aba</a> <a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a><a href="http://dictionary.tinellb.com/a/-'aba.html#highlulani">-&rsquo;aba</a><a href="http://dictionary.tinellb.com/t/-ta.html#highlulani">-ta</a>
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span>-<em>every</em> <span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span><em>-every-and</em>
+[e]&ldquo;every me and every you&rdquo;[/d]
+[/d]
 The dative marker is not applied to distal pronouns.
 Reduplicated indefinite pronouns with suffixed -<a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>and</em> are used for emphasis.
 [f]<a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>what the hell?</em>
 [e]<a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a> <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>nothing and no one</em>
 [e]<a href="http://dictionary.tinellb.com/q/qa'i.html#highlulani">qa&rsquo;i</a> <a href="http://dictionary.tinellb.com/q/qa'i.html#highlulani">qa&rsquo;i</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>never ever</em>
 [e]<a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>absolutely everything</em>
-[2]Pro-verbs
+[2]Place
+The place column pronouns are used for locations in any, some or all of: space, time, reality and <a href="http://dictionary.tinellb.com/g/gingla.html#highlulani">gingla</a>. The exception to this is for proximate place, where <a href="http://dictionary.tinellb.com/m/miru.html#highlulani">miru</a> <high-lulani>Mw</high-lulani> is used for a specific point.
+[2]Action
 The action terms are pro-verbs, which can be used to replace ordinary verbs in sentences.
 [f]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/s/sulla.html#highlulani">sulla</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>?
 [e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span><em> do_what pst;dyn?</em>
 [e]&ldquo;What did you do?&rdquo;
-[2]Pro-modals
-The manner column is used to refer to the way in which an action is undertaken, and the state column refers to the condition of a thing. These are used as modal adverbs.&date=20180427--------------------------------------------------3
+[2]Manner
+[2]State
+The manner column is used to refer to the way in which an action is undertaken, and the state column refers to the condition of a thing. These are used as modal adverbs.&date=20180430--------------------------------------------------3
 [1]Conjunctions
 Conjunctions are a closed class of words which are used to join phrases or clauses together.
 [2]Phrase-level Conjunctions
