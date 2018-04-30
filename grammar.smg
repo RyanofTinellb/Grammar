@@ -5,14 +5,15 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
   "current": {
-    "position": "117.0", 
+    "position": "107.0", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
     "fontsize": 18, 
     "page": [
       "High Lulani", 
       "Morphology", 
       "Deixis", 
-      "Indefinite Pro-forms"
+      "Indefinite Pro-forms", 
+      ""
     ], 
     "language": "hl"
   }, 
@@ -22,12 +23,12 @@
   }, 
   "links": [
     {
-      "type": "Glossary", 
-      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls"
+      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
+      "type": "Glossary"
     }, 
     {
-      "type": "ExternalDictionary", 
-      "resource": "http://dictionary.tinellb.com"
+      "resource": "http://dictionary.tinellb.com", 
+      "type": "ExternalDictionary"
     }
   ]
 }

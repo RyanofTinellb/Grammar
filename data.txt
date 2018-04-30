@@ -1559,41 +1559,41 @@ The pair of suffixes <a href="http://dictionary.tinellb.com/a/-atinna.html#highl
 [e]<a href="http://dictionary.tinellb.com/g/ga'iniqqi.html#highlulani">ga&rsquo;iniqqi</a> <high-lulani>giN;Q</high-lulani> <em>in time</em>[/d]
 &date=20180429--------------------------------------------------4
 [1]Determiners
-A determiner can be used to narrow the reference of a noun. They appear at the end of a noun phrase.
+A determiner can be used to narrow the reference of a noun. They appear at the end of a noun phrase, after any normal suffixes. They do not move the stress of the noun, and can only receive up to secondary stress themselves.
 [d wordlist]
-[f]<a href="http://dictionary.tinellb.com/c/cama.html#highlulani">cama</a> <em>usual</em>
-[e]<a href="http://dictionary.tinellb.com/n/nisa.html#highlulani">nisa</a> <em>only</em>
-[e]<a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <em>other</em>
-[e]<a href="http://dictionary.tinellb.com/s/sabufi.html#highlulani">sabufi</a> <em>different</em>[/d]
+[f]<a href="http://dictionary.tinellb.com/c/cama.html#highlulani">cama</a> <high-lulani>cm</high-lulani> <em>usual</em>
+[e]<a href="http://dictionary.tinellb.com/n/nisa.html#highlulani">nisa</a> <high-lulani>Ns</high-lulani> <em>only</em>
+[e]<a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <high-lulani>L</high-lulani> <em>other</em>
+[e]<a href="http://dictionary.tinellb.com/s/sabufi.html#highlulani">sabufi</a> <high-lulani>sOF</high-lulani> <em>different</em>[/d]
 [3]Quantity
 These are used to answer &rdquo;how many?&rdquo;
 [d wordlist]
-[f]<a href="http://dictionary.tinellb.com/m/mimu'i.html#highlulani">mimu&rsquo;i</a> <em>some</em>
-[e]<a href="http://dictionary.tinellb.com/l/lumi.html#highlulani">lumi</a> <em>several</em>
-[e]<a href="http://dictionary.tinellb.com/r/raqi.html#highlulani">raqi</a> <em>more</em>
-[e]<a href="http://dictionary.tinellb.com/u/'uhu.html#highlulani">&rsquo;uhu</a> <em>many</em>
-[e]<a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <em>many</em>[/d]
+[f]<a href="http://dictionary.tinellb.com/m/mimu'i.html#highlulani">mimu&rsquo;i</a> <high-lulani>MUi</high-lulani> <em>some</em>
+[e]<a href="http://dictionary.tinellb.com/l/lumi.html#highlulani">lumi</a> <high-lulani>WM</high-lulani> <em>several</em>
+[e]<a href="http://dictionary.tinellb.com/r/raqi.html#highlulani">raqi</a> <high-lulani>rQ</high-lulani> <em>more</em>
+[e]<a href="http://dictionary.tinellb.com/u/'uhu.html#highlulani">&rsquo;uhu</a> <high-lulani>uV</high-lulani> <em>many</em>
+[e]<a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <high-lulani>t;K</high-lulani> <em>many</em>[/d]
 [3]Choice
 There are two sets of determiners that are both used to select a part from the whole. One group is used with count nouns, the other with mass nouns.
 [4]Count Nouns
 These refer to particular members of a group.
 [d wordlist]
-[f]<a href="http://dictionary.tinellb.com/c/ca.html#highlulani">ca</a> <em>only</em>
-[e]<a href="http://dictionary.tinellb.com/f/fi'atu.html#highlulani">fi&rsquo;atu</a> <em>certain</em>
-[e]<a href="http://dictionary.tinellb.com/t/tapa.html#highlulani">tapa</a> <em>next</em>
-[e]<a href="http://dictionary.tinellb.com/c/cari.html#highlulani">cari</a> <em>remaining</em>
-[e]<a href="http://dictionary.tinellb.com/q/qafa.html#highlulani">qafa</a> <em>last</em>[/d]
+[f]<a href="http://dictionary.tinellb.com/c/ca.html#highlulani">ca</a> <high-lulani>c</high-lulani> <em>only</em>
+[e]<a href="http://dictionary.tinellb.com/f/fi'atu.html#highlulani">fi&rsquo;atu</a> <high-lulani>Fae</high-lulani> <em>certain</em>
+[e]<a href="http://dictionary.tinellb.com/t/tapa.html#highlulani">tapa</a> <high-lulani>tp</high-lulani> <em>next</em>
+[e]<a href="http://dictionary.tinellb.com/c/cari.html#highlulani">cari</a> <high-lulani>cR</high-lulani> <em>remaining</em>
+[e]<a href="http://dictionary.tinellb.com/q/qafa.html#highlulani">qafa</a> <high-lulani>qf</high-lulani> <em>last</em>[/d]
 [4]Mass Nouns
 These refer to sections of a substance.
 [d wordlist]
-[f]<a href="http://dictionary.tinellb.com/c/cari.html#highlulani">cari</a> <em>remaining</em>
-[e]<a href="http://dictionary.tinellb.com/s/sukki.html#highlulani">sukki</a> <em>entire</em>[/d]
+[f]<a href="http://dictionary.tinellb.com/c/cari.html#highlulani">cari</a> <high-lulani>cR</high-lulani> <em>remaining</em>
+[e]<a href="http://dictionary.tinellb.com/s/sukki.html#highlulani">sukki</a> <high-lulani>z;K</high-lulani> <em>entire</em>[/d]
 [3]Degree
 These mark the degree to which the noun matches its referent.
 [d wordlist]
-[f]<a href="http://dictionary.tinellb.com/n/nata.html#highlulani">nata</a> <em>complete</em>
-[e]<a href="http://dictionary.tinellb.com/n/naci.html#highlulani">naci</a> <em>somewhat</em>
-[e]<a href="http://dictionary.tinellb.com/j/ji'a.html#highlulani">ji&rsquo;a</a> <em>not</em>[/d]&date=20180424--------------------------------------------------3
+[f]<a href="http://dictionary.tinellb.com/n/nata.html#highlulani">nata</a> <high-lulani>nt</high-lulani> <em>complete</em>
+[e]<a href="http://dictionary.tinellb.com/n/naci.html#highlulani">naci</a> <high-lulani>nC</high-lulani> <em>somewhat</em>
+[e]<a href="http://dictionary.tinellb.com/j/ji'a.html#highlulani">ji&rsquo;a</a> <high-lulani>Ja</high-lulani> <em>not</em>[/d]&date=20180430--------------------------------------------------3
 [1]Deixis
 Deixis encompasses words and phrases which rely on an external context to complete their meaning.
 [2]Topicality
@@ -1860,6 +1860,37 @@ Object nouns are pronouns. Unlike some personal pronouns, these are not marked f
 [e]&ldquo;To whom did you give the money?&rdquo; / &ldquo;What did you give the dog&rdquo;
 [/d]
 This latter example exploits the ability to swap dative and object for <a href="../verbs/transitivity.html#motiveverbs">motive verbs</a>.
+Reduplicated indefinite pronouns with suffixed -<a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <high-lulani>t</high-lulani> <em>and</em> are used for emphasis.
+[d wordlist]
+[d folding]
+[f]<strong>sama samata?</strong>
+[e]<high-lulani>sm / smt</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a><a href="http://dictionary.tinellb.com/t/-ta.html#highlulani">-ta</a>?
+[e]<em>what what-and?</em>
+[e]<em>lit.:</em> &ldquo;what and what?&rdquo;
+[e]&ldquo;what the&hellip;?&rdquo;[/d]
+[d folding]
+[f]<strong>cu&rsquo;i cu&rsquo;ita</strong>
+[e]<high-lulani>yi / yit</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a> <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a><a href="http://dictionary.tinellb.com/t/-ta.html#highlulani">-ta</a>
+[e]<em>nothing nothing-and</em>
+[e]<em>lit.:</em> &ldquo;nothing and nothing&rdquo;
+[e]&ldquo;nothing and no one&rdquo;[/d]
+[d folding]
+[f]<strong>qa&rsquo;i qa&rsquo;ita</strong>
+[e]<high-lulani>qi / qit</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/q/qa'i.html#highlulani">qa&rsquo;i</a> <a href="http://dictionary.tinellb.com/q/qa'ita.html#highlulani">qa&rsquo;ita</a>
+[e]<em>nowhere nowhere-and</em>
+[e]<em>lit.:</em> &ldquo;never and nowhere&rdquo;
+[e]&ldquo;never ever&rdquo;[/d]
+[d folding]
+[f]<strong>&rsquo;aba &rsquo;abata</strong>
+[e]<high-lulani>ab / abt</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a><a href="http://dictionary.tinellb.com/t/-ta.html#highlulani">-ta</a>
+[e]<em>everything everything-and</em>
+[e]<em>lit.:</em> &ldquo;everything and everything&rdquo;
+[e]&ldquo;absolutely everybody&rdquo;[/d]
+[/d]
 [2]Object Determiner
 Object determiners act as determiners. In most cases, derivations from the object noun forms are obvious.
 [d wordlist]
@@ -1900,12 +1931,6 @@ Object determiners act as determiners. In most cases, derivations from the objec
 [e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span>-<em>every</em> <span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span><em>-every-and</em>
 [e]&ldquo;every me and every you&rdquo;[/d]
 [/d]
-The dative marker is not applied to distal pronouns.
-Reduplicated indefinite pronouns with suffixed -<a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>and</em> are used for emphasis.
-[f]<a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>what the hell?</em>
-[e]<a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a> <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">cu&rsquo;i</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>nothing and no one</em>
-[e]<a href="http://dictionary.tinellb.com/q/qa'i.html#highlulani">qa&rsquo;i</a> <a href="http://dictionary.tinellb.com/q/qa'i.html#highlulani">qa&rsquo;i</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>never ever</em>
-[e]<a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a> <em>absolutely everything</em>
 [2]Place
 The place column pronouns are used for locations in any, some or all of: space, time, reality and <a href="http://dictionary.tinellb.com/g/gingla.html#highlulani">gingla</a>. The exception to this is for proximate place, where <a href="http://dictionary.tinellb.com/m/miru.html#highlulani">miru</a> <high-lulani>Mw</high-lulani> is used for a specific point.
 [2]Action
