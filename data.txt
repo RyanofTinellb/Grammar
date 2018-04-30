@@ -1932,15 +1932,40 @@ Object determiners act as determiners. In most cases, derivations from the objec
 [e]&ldquo;every me and every you&rdquo;[/d]
 [/d]
 [2]Place
-The place column pronouns are used for locations in any, some or all of: space, time, reality and <a href="http://dictionary.tinellb.com/g/gingla.html#highlulani">gingla</a>. The exception to this is for proximate place, where <a href="http://dictionary.tinellb.com/m/miru.html#highlulani">miru</a> <high-lulani>Mw</high-lulani> is used for a specific point.
+Place pronouns are used for locations in any, some or all of: space, time, reality and <a href="http://dictionary.tinellb.com/g/gingla.html#highlulani">gingla</a>. They can function as <a href="../adpositions.html#asanadverb">adverbial adpositions</a>,
+[d folding]
+[f]<strong>Xudda majja dasi da.</strong>
+[e]<high-lulani>.Z;d / m;j / dS / d.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/x/xudda.html#highlulani">Xudda</a> <a href="http://dictionary.tinellb.com/m/majja.html#highlulani">majja</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/d/da.html#highlulani">da</a>.
+[e]<em>Elephant here consume water</em>.
+[e]&ldquo;The elephant drank water here&rdquo; / &ldquo;The elephant is drinking water now.&rdquo;[/d]
+or as nouns.
+[d folding]
+[f]<strong>Filli kalusatta tihu?</strong>
+[e]<high-lulani>.F;L / kWs;t / TV.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/s/satta.html#highlulani">satta</a> <a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a>?
+[e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>where</em> <em>move?</em>
+[e]&ldquo;Whence came you?&rdquo;[/d]
+As opposed to <a href="http://dictionary.tinellb.com/m/majja.html#highlulani">majja</a> <high-lulani>m;j</high-lulani><em> here or now,</em> the word <a href="http://dictionary.tinellb.com/m/miru.html#highlulani">miru</a> <high-lulani>Mw</high-lulani><em> here and now</em> is used for a specific point in all four categories of dimension.
+[d folding]
+[f]<strong>Gaca miru ji dissu&rsquo;ahati</strong>.
+[e]<high-lulani>.gc / Mw / J / D;zahT.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/g/gaca.html#highlulani">Gaca</a> <a href="http://dictionary.tinellb.com/m/miru.html#highlulani">miru</a> <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a> <a href="http://dictionary.tinellb.com/d/dissu'ahati.html#highlulani">dissu&rsquo;ahati</a>.
+[e]<em>Minister now </em><span class="tooltip"><small-caps>prs;neg</small-caps><span class="tooltip-text">present negative</span></span> <em>feel_happy</em>
+[e]<em>lit.:</em> &ldquo;The minister is not happy here, now, on this plane, or in this reality.&rdquo;
+[e]&ldquo;The minister is not happy under these circumstances.&rdquo;[/d]
 [2]Action
 The action terms are pro-verbs, which can be used to replace ordinary verbs in sentences.
-[f]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/s/sulla.html#highlulani">sulla</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>?
-[e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span><em> do_what pst;dyn?</em>
-[e]&ldquo;What did you do?&rdquo;
+[d folding]
+[f]<strong>Filli sulla qixa?</strong>
+[e]<high-lulani>.F;L / z;l / Qx.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/s/sulla.html#highlulani">sulla</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>?
+[e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>do_what</em> <small-caps>prs;Dyn</small-caps>?
+[e]&ldquo;What did you do?&rdquo;[/d]
 [2]Manner
+The manner column is used to refer to the way in which an action is undertaken. They function as modal adverbs.
 [2]State
-The manner column is used to refer to the way in which an action is undertaken, and the state column refers to the condition of a thing. These are used as modal adverbs.&date=20180430--------------------------------------------------3
+State pro-forms refer to the condition of a thing. These are used as modal adverbs or determiners.&date=20180430--------------------------------------------------3
 [1]Conjunctions
 Conjunctions are a closed class of words which are used to join phrases or clauses together.
 [2]Phrase-level Conjunctions
