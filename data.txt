@@ -1957,15 +1957,34 @@ As opposed to <a href="http://dictionary.tinellb.com/m/majja.html#highlulani">ma
 [2]Action
 The action terms are pro-verbs, which can be used to replace ordinary verbs in sentences.
 [d folding]
-[f]<strong>Filli sulla qixa?</strong>
-[e]<high-lulani>.F;L / z;l / Qx.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/s/sulla.html#highlulani">sulla</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>?
-[e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>do_what</em> <small-caps>prs;Dyn</small-caps>?
-[e]&ldquo;What did you do?&rdquo;[/d]
+[f]<strong>Sabba sulla qixa?</strong>
+[e]<high-lulani>.s;b/ z;l / Qx.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/s/sabba.html#highlulani">Sabba</a> <a href="http://dictionary.tinellb.com/s/sulla.html#highlulani">sulla</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>?
+[e]<em>father;2gen do_what</em> <small-caps>prs;Dyn</small-caps>?
+[e]&ldquo;What does your father do?&rdquo;[/d]
 [2]Manner
-The manner column is used to refer to the way in which an action is undertaken. They function as modal adverbs.
+Manner pro-forms are used to refer to the way in which an action is undertaken. They function as modal adverbs in active sentences, <em>i.e.:</em> sentences with overt or implied auxiliaries of <a href="../auxiliaries.html#activityversusstate">activity</a>.
+[d folding]
+[f]<strong>Kimilli jannikiluqu kadusi &rsquo;ili cani?</strong>
+[e]<high-lulani>.KM;L / j;NKWA / kES / iL / cN.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> <a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a>-<a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a> <a href="http://dictionary.tinellb.com/k/kadusi.html#highlulani">kadusi</a> <a href="http://dictionary.tinellb.com/i/'ili.html#highlulani">&rsquo;ili</a> <a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a>?
+[e]<em>King move-walk that_way really</em> <span class="tooltip"><small-caps>prs;dyn</small-caps><span class="tooltip-text">present dynamic</span></span>?
+[e]&ldquo;Does the king really walk that way?&rdquo;[/d]
 [2]State
-State pro-forms refer to the condition of a thing. These are used as modal adverbs or determiners.&date=20180430--------------------------------------------------3
+State pro-forms are used as modal adverbs in stative sentences, <em>i.e.:</em> sentences with overt or implied auxiliaries of <a href="../auxiliaries.html#activityversusstate">state</a>.
+[d folding]
+[e]<strong>Filli (ra&rsquo;u) saqqa?</strong>
+[e]<high-lulani>.F;L / ru / s;q.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/s/saqqa.html#highlulani">saqqa</a>.
+[e]<em>lit.:</em> &ldquo;What state are you in?&rdquo;
+[e]&ldquo;How are you?&rdquo;[/d]
+They can also function as deteminers.
+[d folding]
+[f]<strong>Mari ra&rsquo;u gajitafana.</strong>
+[e]<high-lulani>. mR / ru / gJtfn.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mari.html#highlulani">Mari</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/g/gajita.html#highlulani">gajita</a>-f<a href="http://dictionary.tinellb.com/a/ana.html#highlulani">ana</a>.
+[e]<em>This</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>treasure-somehow</em>
+[e]&ldquo;This is some kind of treasure.&rdquo;[/d]&date=20180502--------------------------------------------------3
 [1]Conjunctions
 Conjunctions are a closed class of words which are used to join phrases or clauses together.
 [2]Phrase-level Conjunctions
