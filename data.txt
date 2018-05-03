@@ -2044,180 +2044,332 @@ The transitive case is used for the marked argument of transitive sentences, tha
 The two oblique cases are marked on the pronouns. For common and proper nouns, a clitic with the same form as the appropriate third person inanimate pronoun is placed before the noun phrase.
 Sometimes the verb requires an oblique rather than a traditional object. In these cases, the subject is usually in intransitive case, although it is not incorrect to use transitive case with dynamic and iterative auxiliaries.
 [3]Ablative
-The ablative case is used to mark the proximate cause or the instigator of an action. With verbs of transfer or motion, it is also used to mark the source of a movement. The clitic is <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>.
-[f]<a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a> because of you / from you
-[e]<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/t/tinalli.html#highlulani">Tinalli</a> <a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> come from Tinellb (<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> to move)
-[e]<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> given by the king (<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> king ; <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> to give)
+The ablative case is used to mark the proximate cause or the instigator of an action. With verbs of transfer or motion, it is also used to mark the source of a movement.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a> <high-lulani>sy</high-lulani> <em>because of you</em> / <em>from you</em>[/d]
+The clitic is <a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a> <high-lulani>kW</high-lulani>.
+[d folding]
+[f]<strong>kaluTinalli janni</strong>
+[e]<high-lulani> kWTn;L / j;N</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/t/tinalli.html#highlulani">Tinalli</a> <a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a>
+[e]<span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>Tinellb move</em>
+[e]&ldquo;come from Tinellb&rdquo;[/d]
+[d folding]
+[f]<strong>kalukimilli kuffa</strong>
+[e]<high-lulani>kWKM;L / &gt;;f</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a>
+[e]<span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>king give</em>
+[e]&ldquo;given by the king&rdquo;[/d]
 [3]Dative
-The dative case was originally only used to mark the receiver with verbs of giving and transfer. The meaning has since broadened to show indirectness on the part of the patient for a number of verbs, including verbs of perception and emotion. The clitic is <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>.
-[f]<a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a> to me
-[e]<a href="http://dictionary.tinellb.com/j/jusi.html#highlulani">jusi</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> to see him (<a href="http://dictionary.tinellb.com/j/jusi.html#highlulani">jusi</a> to him ; <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <em>see</em>)
-[e]<a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> go to Ir&igrave;a (<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <em>to move</em>)
-[e]<a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> give to the queen (<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> queen ; <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> to give)
-&date=20170725
---------------------------------------------------3
+The dative case was originally only used to mark the receiver with verbs of giving and transfer. The meaning has since broadened to show indirectness on the part of the patient for a number of verbs, including verbs of perception and emotion.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a> <high-lulani>PX</high-lulani> <em>to me</em>
+[d folding]
+[f]<strong>ku&#x294;irri&rsquo;a janni</strong>
+[e]<high-lulani>&gt;;i;Ra / j;N</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a>
+[e]<span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>Ir&igrave;a move</em>
+[e]&ldquo;go to Ir&igrave;a&rdquo;[/d]
+[/d]
+The clitic is <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a> <high-lulani>&gt;</high-lulani> .
+[d folding]
+[f]<strong>kululani kuffa</strong>
+[e]<high-lulani>&gt;WlN / &gt;;f</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a>
+[e]<span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>queen give</em>
+[e]&ldquo;give to the queen&rdquo;[/d]&date=20180503--------------------------------------------------3
 [1]Matrix Clauses
 The standard word order for matrix clauses is:
 Subject &dash; Auxiliary &dash; Adposition - Oblique &dash; Verb &dash; Object &dash; Adverb.
 None of these slots are compulsorily filled. If a subject is obvious from context, or is the same as that of the immediately prior sentence, it can be dropped. The adverb can act as a pro-sentence.
 [2]Intransitive Clauses
 As already discussed, intransitive clauses do not have objects.
-[f]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/n/nara.html#highlulani">nara</a>.
-[e]<small-caps>3int</small-caps> <small-caps>prs;sta</small-caps> <em>sleep</em>
-[e]&ldquo;He is asleep.&rdquo;
+[d folding]
+[f]<strong>Mihu ra&rsquo;u nara.</strong>
+[e]<high-lulani>.MV / ru / nr.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/n/nara.html#highlulani">nara</a>.
+[e]<small-caps>3int</small-caps> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>sleep</em>
+[e]&ldquo;He is asleep.&rdquo;[/d]
 [2]Transitive Clauses
 Transitive clauses do require an object.
-[f]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>.
-[e]<small-caps>1int</small-caps> <small-caps>prs;gno</small-caps> <em>love</em><small-caps>2tra</small-caps>
-[e]&ldquo;I love you.&rdquo;
+[d folding]
+[f]<strong>&#x294;usu ru lu&rsquo;i fu.</strong>
+[e]<high-lulani>.uz / w / Wi / v.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>.
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>love</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span>.
+[e]&ldquo;I love you.&rdquo;[/d]
 Sometimes the object is in an oblique case.
-[f]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">qikanni</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>.
-[e]<small-caps>3ani;int</small-caps> <small-caps>prs;sta</small-caps> <small-caps>dat</small-caps><em>-dog see</em>.
-[e]&ldquo;She can see the dog.&rdquo;
+[d folding]
+[f]<strong>Mihu ra&rsquo;u kuqikanni &rsquo;usa.</strong>
+[e]<high-lulani>.MV / ru / &gt;Qk;N / us.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">qikanni</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>.
+[e]<span class="tooltip"><small-caps>3ani;int</small-caps><span class="tooltip-text">animate third person intransitive</span></span> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-dog see</em>.
+[e]&ldquo;She can see the dog.&rdquo;[/d]
 [2]Copular Sentences
 Copular sentences do not have a main verb. These sentences are used to show an equivalence relationship between two nouns, or to show that one noun is an element of the set described by the other noun. They are transitive sentences.
-[f]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/l/lanu.html#highlulani">lanu</a> <a href="http://dictionary.tinellb.com/j/julliga.html#highlulani">julliga</a>.
-[e]<small-caps>3ani;int</small-caps> <small-caps>fut;dyn</small-caps> <em>married_woman</em>
-[e]&ldquo;She will become a married woman.&rdquo;
+[d folding]
+[e]<strong>Mihu lanu julliga.</strong>
+[e]<high-lulani>.MV / lI / Y;Lg.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/l/lanu.html#highlulani">lanu</a> <a href="http://dictionary.tinellb.com/j/julliga.html#highlulani">julliga</a>.
+[e]<span class="tooltip"><small-caps>3ani;int</small-caps><span class="tooltip-text">animate third person intransitive</span></span> <span class="tooltip"><small-caps>fut;dyn</small-caps><span class="tooltip-text">future dynamic</span></span> <em>married_woman</em>
+[e]&ldquo;She will become a married woman.&rdquo;[/d]
 Another use of copular sentences is to tell the location of something in relation to something else.
-[f]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">Pa</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a><a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a>.
-[e]<small-caps>3ina;int</small-caps> <small-caps>prs;gno</small-caps> <em>down-table</em>
-[e]&ldquo;It&rsquo;s under the table.&rdquo;
+[d folding]
+[f]<strong>Pa ra&rsquo;u di&rsquo;i&rsquo;uja.</strong>
+[e]<high-lulani>.p / ru / Diuj.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">Pa</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a><a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a>.
+[e]<span class="tooltip"><small-caps>3ina;int</small-caps><span class="tooltip-text">inanimate third person intransitive</span></span> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>down-table</em>
+[e]&ldquo;It&rsquo;s under the table.&rdquo;[/d]
 The copular sentence structure for ownership is as follows. It has the possessor in the dative case, and the possessum as the subject.
-[f]<a href="http://dictionary.tinellb.com/s/sunu.html#highlulani">Sunu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a>.
+[d folding]
+[f]<strong>Sunu ru pixi.</strong>
+[e]<high-lulani>.zI / w / PX.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/s/sunu.html#highlulani">Sunu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a>.
 [e]<em>Cloak</em> <small-caps>prs;gno 1dat</small-caps>
-[e]I have a cloak.
+[e]I have a cloak.[/d]
 The arguments may be swapped without a change in meaning.
-[f]<a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">Pixi</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/s/sunu.html#highlulani">sunu</a>.
-[e]<em><small-caps>1dat prs;gno</small-caps> cloak.</em>
-[e]I have a cloak.
+[d folding]
+[e]<strong>Pixi ru sunu.</strong>
+[e]<high-lulani>.PX / w / zI.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">Pixi</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/s/sunu.html#highlulani">sunu</a>.
+[e]<small-caps>1dat prs;gno</small-caps><em> cloak.</em>
+[e]I have a cloak.[/d]
 [2]Contrasting Pronouns
 These example sentences have been given to clarify alignment and the correct use of pronouns with different auxiliaries.
-[f]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
+[d folding]
+[f]<strong>Mihu qixa miku.</strong>
+[e]<high-lulani>.MV / Qx / M&gt;.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
 [e]<small-caps>3ani.int pst;dyn</small-caps> <em>red</em>
-[e]&ldquo;She turned red.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
+[e]&ldquo;She turned red.&rdquo;[/d]
+[d folding]
+[f]<strong>Mihu pi miku.</strong>
+[e]<high-lulani>.MV / P / M&gt;.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
 [e]<small-caps>3ani.int pst;sta</small-caps> <em>red</em>
-[e]&ldquo;She was red.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">Quhu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>.
+[e]&ldquo;She was red.&rdquo;[/d]
+[d folding]
+[f]<strong>Quhu qixa dasi pa.</strong>
+[e]<high-lulani>.AV / Qx / dS / p.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">Quhu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>.
 [e]<small-caps>3ani.tra pst;dyn</small-caps> <em>eat</em><small-caps> 3ina.int</small-caps>
-[e]&ldquo;She ate it.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/i/'iffa.html#highlulani">&rsquo;iffa</a>.
+[e]&ldquo;She ate it.&rdquo;[/d]
+[d folding]
+[f]<strong>Mihu pi dasi &rsquo;iffa.</strong>
+[e]<high-lulani>.MV / P / dS / i;f.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/i/'iffa.html#highlulani">&rsquo;iffa</a>.
 [e]<small-caps>3ani.int pst;sta</small-caps> <em>eat</em><small-caps> 3ina.tra</small-caps>
-[e]&ldquo;She was eating it.&rdquo;
+[e]&ldquo;She was eating it.&rdquo;[/d]
 As can be seen, the only time the transitive case is used for the subject of a clause is in transitive (as well as copular) sentences using dynamic or iterative auxiliaries.
-&date=20170730
---------------------------------------------------3
+&date=20180503--------------------------------------------------3
 [1]Argument Promotion
 The first noun in a clause is the subject, which is prototypically the agent in transitive sentences and the patient in intransitive sentences. However, suffixes can be added to the verb to promote other nouns in the clause, other than the genitive.
 There are three such verbal suffixes, which can be stacked, however, once something has been shifted from the subject position, it can&rsquo;t be promoted again.
 [2]Passive
-The passive suffix promotes the object. This suffix has the form <a href="http://dictionary.tinellb.com/i/-'illu.html#highlulani">-&rsquo;illu</a> when the last element of a verb is monosyllabic, has <a href="http://dictionary.tinellb.com/i/-ilu.html#highlulani">-ilu</a> replacing the final vowel if the final consonant is geminated, and has <a href="http://dictionary.tinellb.com/i/-illu.html#highlulani">-illu</a> replacing the final vowel of the verb elsewise. The old subject is then marked with the ablative case. A sentence with this marker is intransitive. The demoted item is not compulsory, but if it is put in, it is the first ablative-marked noun in the new sentence.
+The passive suffix promotes the object. This suffix has the forms:
+[l] <a href="http://dictionary.tinellb.com/i/-'illu.html#highlulani">-&rsquo;illu</a> <high-lulani>i;W</high-lulani> when the last element of a verb is monosyllabic,
+<a href="http://dictionary.tinellb.com/i/-ilu.html#highlulani">-ilu</a> <high-lulani>/iW</high-lulani> replacing the final vowel if the final consonant is geminated, and
+<a href="http://dictionary.tinellb.com/i/-illu.html#highlulani">-illu</a> <high-lulani>/i;W</high-lulani> replacing the final vowel of the verb elsewise.[/l]
+The old subject is then marked with the ablative case. A sentence with this marker is intransitive. The demoted item is not compulsory, but if it is put in, it is the first ablative-marked noun in the new sentence.
+[d folding]
 [f]<strong>Fu qixa kissa kilatu&rsquo;i!</strong>
 [e]<high-lulani>.v / Qx / K;s / Klei.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a> <a href="http://dictionary.tinellb.com/k/kilatu'i.html#highlulani">kilatu&rsquo;i</a>!
 [e]<small-caps>2tra pst;dyn</small-caps> <em>fight deer</em>
-[e]&ldquo;You fought a deer!&rdquo;
+[e]&ldquo;You fought a deer!&rdquo;[/d]
+[d folding]
 [f]<strong>Kilatu&rsquo;i qixa (sacu) kissilu.</strong>
 [e]<high-lulani>.Klei / Qx / sy / K;SW.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/k/kilatu'i.html#highlulani">Kilatu&rsquo;i</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> (<a href="http://dictionary.tinellb.com/s/sacu.html#highlulani">sacu</a>) <a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a><a href="http://dictionary.tinellb.com/i/-ilu.html#highlulani">-ilu</a>.
 [e]<em>deer</em> <small-caps>pst;dyn (2abl)</small-caps> <em>fight</em><small-caps>-psv</small-caps>
-[e]&ldquo;A deer was fought (by you).&rdquo;
+[e]&ldquo;A deer was fought (by you).&rdquo;[/d]
 [2]Ablative
-When the final consonant of a verb is geminate, the ablative suffix takes the form <a href="http://dictionary.tinellb.com/k/-ka.html#highlulani">-ka</a>, elsewise it is <a href="http://dictionary.tinellb.com/k/-kka.html#highlulani">-kka</a>. The old subject is demoted to object, and the old object is demoted to dative. A sentence with this marker is transitive. The first dative-marked noun in the new sentence is the demoted item.
-[f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a>.
-[e]<em>queen</em><small-caps> pst;dyn abl-</small-caps><em>king</em><small-caps></small-caps> <em>eat</em><small-caps></small-caps> <em>fish</em>
-[e]&ldquo;The queen ate a fish because of the king.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a> <a href="http://dictionary.tinellb.com/d/dasikka.html#highlulani">dasikka</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>.
-[e]<em>king</em><small-caps> pst;dyn dat-</small-caps><em>fish</em><small-caps></small-caps> <em>eat</em><small-caps>-abp</small-caps> <em>queen</em><small-caps>.</small-caps>
-[e]&ldquo;The king made the queen eat fish.&rdquo;
+The ablative suffix promotes the ablative. It has the form:
+[l] <a href="http://dictionary.tinellb.com/k/-ka.html#highlulani">-ka</a> <high-lulani>k</high-lulani> when the final consonant of a verb is geminate, or
+<a href="http://dictionary.tinellb.com/k/-kka.html#highlulani">-kka</a> <high-lulani>;k</high-lulani> elsewise.[/l]
+The old subject is demoted to object, and the old object is demoted to dative. A sentence with this marker is transitive. The first dative-marked noun in the new sentence is the demoted item.
+[d folding]
+[f]<strong>Lulani qixa kalukimilli dasi qasa.</strong>
+[e]<high-lulani>.WlN / Qx / kWKM;L / dS / qs.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a>.
+[e]<em>queen pst;dyn abl-king</em> <em>eat</em> <em>fish</em>
+[e]&ldquo;The queen ate a fish because of the king.&rdquo;[/d]
+[d folding]
+[f]<strong>Kimilli qixa kuqasa dasikka lulani.</strong>
+[e]<high-lulani>.KM;L / Qx / &gt;qs / dS;k / WlN.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a><a href="http://dictionary.tinellb.com/k/-kka.html#highlulani">-kka</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>.
+[e]<em>king pst;dyn dat-fish</em> <em>eat</em><small-caps>-abp</small-caps> <em>queen</em><small-caps>.</small-caps>
+[e]&ldquo;The king made the queen eat fish.&rdquo;[/d]
+[d folding]
 [f]<strong>Kimilli qixa (kal&middot;lani) dasilluka qasa.</strong>
-[e]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a>-<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a><a href="http://dictionary.tinellb.com/i/-illu.html#highlulani">-illu</a><a href="http://dictionary.tinellb.com/k/-ka.html#highlulani">-ka</a> <a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a>.
-[e]<em>king</em> <small-caps>pst;dyn</small-caps> (abl-</small-caps><em>queen</em><small-caps>)</small-caps> <em>eat</em><small-caps>-psv-abp</small-caps> <em>fish</em>
-[e]&ldquo;The king made the fish get eaten (by the queen).&rdquo;
+[e]<high-lulani>.KM;L / Qx / kWWlN / dS;Wk / qs.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a><a href="http://dictionary.tinellb.com/i/-illu.html#highlulani">-illu</a><a href="http://dictionary.tinellb.com/k/-ka.html#highlulani">-ka</a> <a href="http://dictionary.tinellb.com/q/qasa.html#highlulani">qasa</a>.
+[e]<em>king</em> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> (<small-caps>abl-queen)</small-caps> <em>eat</em><small-caps>-psv-abp</small-caps> <em>fish</em>
+[e]&ldquo;The king made the fish get eaten (by the queen).&rdquo;[/d]
 [2]Dative
-The suffix <a href="http://dictionary.tinellb.com/x/xa.html#highlulani">xa</a> promotes a dative. The old subject is demoted to object, and the old object (if any) is demoted to dative. A sentence with this marker is transitive.
-[f]<a href="http://dictionary.tinellb.com/m/mulisa.html#highlulani">Mulisa</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/q/quxi.html#highlulani">quxi</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> <a href="http://dictionary.tinellb.com/l/laqqu.html#highlulani">laqqu</a>.
+The suffix <a href="http://dictionary.tinellb.com/x/-xa.html#highlulani">-xa</a> promotes a dative. The old subject is demoted to object, and the old object (if any) is demoted to dative. A sentence with this marker is transitive.
+[d folding]
+[f]<strong>Mulisa ru kuquxi kuffa laqqu.</strong>
+[e]<high-lulani>.ULs / w / &gt;AX / &gt;;f / l;A.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mulisa.html#highlulani">Mulisa</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/q/quxi.html#highlulani">quxi</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> <a href="http://dictionary.tinellb.com/l/laqqu.html#highlulani">laqqu</a>.
 [e]<em>fool</em> <small-caps>prs;gno dat</small-caps>-<em>mountain give money</em>.
-[e]&ldquo;A fool gives money to the mountain.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/q/quxi.html#highlulani">Quxi</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/laqqu.html#highlulani">laqqu</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a><a href="http://dictionary.tinellb.com/x/xa.html#highlulani">xa</a> <a href="http://dictionary.tinellb.com/m/mulisa.html#highlulani">mulisa</a>.
-[e]<em>mountain</em><small-caps> prs;gno dat-</small-caps><em>money</em><small-caps> give-dtv</small-caps> <em>fool</em>
-[e]&ldquo;It is to the mountain that fools give money.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/q/quxi.html#highlulani">Quxi</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> (<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/m/mulisa.html#highlulani">mulisa</a>) <a href="http://dictionary.tinellb.com/k/kuffiluxa.html#highlulani">kuffiluxa</a> <a href="http://dictionary.tinellb.com/l/laqqu.html#highlulani">laqqu</a>.
-[e]<em>mountain</em> <small-caps>prs;gno (abl-</small-caps><em>fool</em><small-caps>)</small-caps> <em>give</em><small-caps>-psv-dtv</small-caps> <em>money</em>.
-[e]&ldquo;It is to the mountain that money is given (by fools).&rdquo;
+[e]&ldquo;A fool gives money to the mountain.&rdquo;[/d]
+[d folding]
+[e]<strong>Quxi ru kulaqqu kuffaxa mulisa.</strong>
+[e]<high-lulani>.AX / w / &gt;l;A / &gt;;fx / ULs.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/q/quxi.html#highlulani">Quxi</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/laqqu.html#highlulani">laqqu</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a><a href="http://dictionary.tinellb.com/x/xa.html#highlulani">xa</a> <a href="http://dictionary.tinellb.com/m/mulisa.html#highlulani">mulisa</a>.
+[e]<em>mountain</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-money</em> give-<small-caps>dtv</small-caps> <em>fool</em>
+[e]&ldquo;It is to the mountain that fools give money.&rdquo;[/d]
+[d folding]
+[f]<strong>Quxi ru (kalumulisa) kuffiluxa laqqu.</strong>
+[e]<high-lulani>.AX / w / kWULs / &gt;;FWx / l;A.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/q/quxi.html#highlulani">Quxi</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> (<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/m/mulisa.html#highlulani">mulisa</a>) <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a><a href="http://dictionary.tinellb.com/i/-ilu.html#highlulani">-ilu</a><a href="http://dictionary.tinellb.com/x/-xa.html#highlulani">-xa</a> <a href="http://dictionary.tinellb.com/l/laqqu.html#highlulani">laqqu</a>.
+[e]<em>mountain</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> (<span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>fool</em>) <em>give</em>-<span class="tooltip"><small-caps>psv</small-caps><span class="tooltip-text">passive</span></span>-<small-caps>dtv</small-caps> <em>money</em>.
+[e]&ldquo;It is to the mountain that money is given (by fools).&rdquo;[/d]
 [2]Adposition
 To promote a adpositional phrase to subject, prefix the verb with the adposition. The old subject is demoted to object. The old object, if any, is demoted to dative.
-[f]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a><a href="http://dictionary.tinellb.com/j/jagaru.html#highlulani">jagaru</a> <a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a>.
-[e]<small-caps>3ani;int pst;sta at-</small-caps><em>sand</em><small-caps></small-caps> <em>sit</em>
-[e]&ldquo;She sat in the sand.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/j/jagaru.html#highlulani">Jagaru</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a><a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a> <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a>.
-[e]<em>sand</em><small-caps> pst;sta at-</small-caps><em>sit</em><small-caps> 3ani.tra</small-caps>
-[e]&ldquo;It was the sand that she sat in.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a><a href="http://dictionary.tinellb.com/j/jagaru.html#highlulani">jagaru</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a>.
-[e]<small-caps>3ani;int pst;sta at-</small-caps><em>sand</em><small-caps></small-caps> <em>eat</em><small-caps></small-caps> <em>strawberry</em>
-[e]&ldquo;He was eating a strawberry in the sand.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/j/jagaru.html#highlulani">Jagaru</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a><a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a>.
-[e]<em>sand</em><small-caps> pst;sta dat-</small-caps><em>strawberry</em><small-caps></small-caps> <em>in-eat</em> <small-caps>3ani;tra</small-caps>.
-[e]&ldquo;It was in the sand that he was eating the strawberry.&rdquo;
-&date=20180202--------------------------------------------------3
+[d folding]
+[f]<strong>Mihu pi nijagaru gupi.</strong>
+[e]<high-lulani>.MV / P / Njgw / &lt;P.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/j/jagaru.html#highlulani">jagaru</a> <a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a>.
+[e]<span class="tooltip"><small-caps>3ani;int</small-caps><span class="tooltip-text">animate third person intransitive</span></span> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>at-sand</em> <em>sit</em>
+[e]&ldquo;She sat in the sand.&rdquo;[/d]
+[d folding]
+[f]<strong>Jagaru pi nigupu quhu.</strong>
+[e]<high-lulani>.jgw / P / N&lt;o / AV.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/j/jagaru.html#highlulani">Jagaru</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a> <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a>.
+[e]<em>sand </em><span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>at</em>-<em>sit</em> <span class="tooltip"><small-caps>3ani;tra</small-caps><span class="tooltip-text">animate third person transitive</span></span>
+[e]&ldquo;It was the sand that she sat in.&rdquo;[/d]
+[d folding]
+[f]<strong>Mihu pi nijagaru dasi nukki.</strong>
+[e]<high-lulani>.MV / P / Njgw / dS / I;K.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/j/jagaru.html#highlulani">jagaru</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a>.
+[e]<span class="tooltip"><small-caps>3ani;int</small-caps><span class="tooltip-text">animate third person intransitive</span></span> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span><em> at-sand</em> <em>eat</em> <em>strawberry</em>
+[e]&ldquo;He was eating a strawberry in the sand.&rdquo;[/d]
+[d folding]
+[f]<strong>Jagaru pi kunukki nidasi quhu.</strong>
+[e]<high-lulani>.jgw / P / &gt;I;K / NdS / AV.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/j/jagaru.html#highlulani">Jagaru</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a>.
+[e]<em>sand </em><span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-strawberry</em> <em>in-eat</em> <span class="tooltip"><small-caps>3ani;tra</small-caps><span class="tooltip-text">animate third person transitive</span></span>.
+[e]&ldquo;It was in the sand that he was eating the strawberry.&rdquo;[/d]&date=20180503--------------------------------------------------3
 [1]Dependent Clauses
 A dependent clause is a clause that is unable to stand meaningfully by itself.
 They are marked by having the auxiliary at the end.
 [2]Subordinate Clauses
 A subordinate clause is one introduced by a subordinating conjunction in the matrix clause. A comma is used to separate a subordinate from its matrix. The conjunction is placed on the side of the main clause that is closest to the subordinate. The clauses can be put in either order.
+[d folding]
 [f]<strong>&#x294;usu ru lu&rsquo;i fu daru&rsquo;i, <u>ba pu&rsquo;iba miku ra&rsquo;u</u>.</strong>
+[e]<high-lulani>.uz / w / Wi / v / dwi , b / oib / M&gt; / ru.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <a href="http://dictionary.tinellb.com/d/daru'i.html#highlulani">daru&rsquo;i</a>, <u><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a></u>.
-[e]<small-caps>1int prs;gno</small-caps> <em>love</em><small-caps> 2tra</small-caps> <em>because</em><small-caps>, 2gen</small-caps> <em>ball</em> <em>red</em><small-caps> prs;sta</small-caps>
-[e]&ldquo;I love you because your ball is red.&rdquo;
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>love</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span> <em>because</em>, <span class="tooltip"><small-caps>2gen</small-caps><span class="tooltip-text">second person genitive</span></span> <em>ball</em> <em>red</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>
+[e]&ldquo;I love you because your ball is red.&rdquo;[/d]
+[d folding]
 [f]<strong><u>Ba pu&rsquo;iba miku ra&rsquo;u</u>, daru&rsquo;i &rsquo;usu ru lu&rsquo;i fu.</strong>
+[e]<high-lulani>.b / oib / M&gt; / ru , dwi / uz / w / Wi / v.</high-lulani>
 [e]<u><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">Ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a></u>, <a href="http://dictionary.tinellb.com/d/daru'i.html#highlulani">daru&rsquo;i</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>.
-[e]<span class="tooltip"><small-caps>2gen</small-caps><span class="tooltip-text">second person genitive</span></span> <em>ball</em> <em>red</em><small-caps> prs;sta,</small-caps> <em>because</em><small-caps> 1int prs;gno</small-caps> <em>love</em><small-caps> 2tra</small-caps>
-[e]&ldquo;I love you because your ball is red.&rdquo;
+[e]<span class="tooltip"><small-caps>2gen</small-caps><span class="tooltip-text">second person genitive</span></span> <em>ball</em> <em>red</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>, <em>because</em> <span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>love</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span>
+[e]&ldquo;I love you because your ball is red.&rdquo;[/d]
 Here the subordinate clauses are underlined. The cause is subordinate to the effect.
 [3]Adverbial Clauses
 An adverbial clause is one which acts as an adverb.
 [4]Location Adverbial Clauses
-The word <a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a> <em>where</em> is often used as a prefix for adpositions used as clausal conjunctions.
-[f]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <a href="http://dictionary.tinellb.com/m/madi.html#highlulani">madi</a>, <a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>.
-[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>love</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span> <em>where-up,</em> <span class="tooltip"><small-caps>2gen</small-caps><span class="tooltip-text">second person genitive</span></span> <em>ball red</em> <small-caps>pst;dyn.</small-caps>
-[e]&ldquo;I loved you before your ball turned red.&rdquo;
+The word <a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a> <high-lulani>m</high-lulani> <em>where</em> is often used as a prefix for adpositions used as clausal conjunctions.
+[d folding]
+[f]<strong>&#x294;usu lu&rsquo;i fu madi, ba pu&rsquo;iba miku qixa.</strong>
+[e]<high-lulani>.uz / Wi / v / mD , b / oib / M&gt; / Qx.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a>-<a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a>, <a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>.
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>love</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span> <em>where-up,</em> <span class="tooltip"><small-caps>2gen</small-caps><span class="tooltip-text">second person genitive</span></span> <em>ball red</em> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span>.
+[e]&ldquo;I loved you before your ball turned red.&rdquo;[/d]
 [2]Content Clauses
-A content clause is one that takes the place of a noun. They begin with the complementiser <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> and are separated from the matrix clause by commas. The auxiliary is not optional, and is given a low tone. Quote marks are used around reported speech, replacing the complementiser.
-[f]<a href="http://dictionary.tinellb.com/l/li.html#highlulani">Li</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a><a href="http://dictionary.tinellb.com/j/jisuka.html#highlulani">jisuka</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/g/gibi.html#highlulani">gibi</a><strong>&#x294;asi&rsquo;a</strong> <a href="http://dictionary.tinellb.com/r/rusa.html#highlulani">rusa</a>, <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a> <a href="http://dictionary.tinellb.com/p/pa'illu.html#highlulani">pa&rsquo;illu</a>.
-[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>fight-ideology</em> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-east-Asia</em> <span class="tooltip"><small-caps>pst;gno</small-caps><span class="tooltip-text">past gnomic</span></span><em>,</em> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <span class="tooltip"><small-caps>1abl</small-caps><span class="tooltip-text">first person ablative</span></span> <em>think-</em><span class="tooltip"><small-caps>psv</small-caps><span class="tooltip-text">passive</span></span>
-[e]&ldquo;That we&rsquo;ve always been at war with Eastasia, is what I think.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/s/suma.html#highlulani">Suma</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/i/'icipu.html#highlulani">&rsquo;icipu</a>, <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a> <a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> <a href="http://dictionary.tinellb.com/d/dissudanagi.html#highlulani">dissudanagi</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>.
-[e]<span class="tooltip"><small-caps>1tra</small-caps><span class="tooltip-text">first person transitive</span></span> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-queen speak-question,</em> <span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span> <span class="tooltip"><small-caps>3ani;tra</small-caps><span class="tooltip-text">animate third person transitive</span></span> <span class="tooltip"><small-caps>1dat</small-caps><span class="tooltip-text">first person dative</span></span> <em>give new-decree</em> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span>
-[e]&ldquo;I asked the queen if she had pardoned me.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a>, &ldquo;<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/m/mulisa.html#highlulani">mulisa</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a>?&rdquo;
-[e]<small-caps>3ani.int</small-caps> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <em>speak &ldquo;</em><span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>fool</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span><em>?&rdquo;</em>
-[e]&ldquo;He said, &lsquo;Are you a fool?&ldquo;
+A content clause is one that takes the place of a noun. They begin with the complementiser <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <high-lulani>L</high-lulani> and are separated from the matrix clause by commas. The auxiliary is not optional, and is given a low tone. Quote marks are used around reported speech, replacing the complementiser.
+[d folding]
+[f]<strong>Li &rsquo;usu kissajisuka kugibi&#x294;asi&rsquo;a rusa, qixa puttu pa&rsquo;illu.</strong>
+[e]<high-lulani>.L / uz / K;sJzk / &gt;GB;aSa / ws , Qx / o;e / pi;W.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/l/li.html#highlulani">Li</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a>-<a href="http://dictionary.tinellb.com/j/jisuka.html#highlulani">jisuka</a> <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/g/gibi.html#highlulani">gibi</a><strong>&#x294;asi&rsquo;a</strong> <a href="http://dictionary.tinellb.com/r/rusa.html#highlulani">rusa</a>, <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/p/puttu.html#highlulani">puttu</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>-<a href="http://dictionary.tinellb.com/i/'illu.html#highlulani">&rsquo;illu</a>.
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>fight-ideology</em> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-east-Asia</em> <span class="tooltip"><small-caps>pst;gno</small-caps><span class="tooltip-text">past gnomic</span></span>, <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <span class="tooltip"><small-caps>1abl</small-caps><span class="tooltip-text">first person ablative</span></span> <em>think-</em><span class="tooltip"><small-caps>psv</small-caps><span class="tooltip-text">passive</span></span>
+[e]&ldquo;That we&rsquo;ve always been at war with Eastasia, is what I think.&rdquo;[/d]
+[d folding]
+[f]<strong>Suma qixa kul&middot;lani &rsquo;icipu, li quhu pixi kuffa dissudanagi qixa.</strong>
+[e]<high-lulani>.zm / Qx / &gt;M;lN / iCo , L / AV / PX / &gt;;f / D;zdnG / Qx.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/s/suma.html#highlulani">Suma</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/i/'icipu.html#highlulani">&rsquo;icipu</a>, <a href="http://dictionary.tinellb.com/l/li.html#highlulani">li</a> <a href="http://dictionary.tinellb.com/q/quhu.html#highlulani">quhu</a> <a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a> <a href="http://dictionary.tinellb.com/d/dissu.html#highlulani">dissu</a>-<a href="http://dictionary.tinellb.com/d/danagi.html#highlulani">danagi</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>.
+[e]<span class="tooltip"><small-caps>1tra</small-caps><span class="tooltip-text">first person transitive</span></span> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-queen ask</em>, <span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span> <span class="tooltip"><small-caps>3ani;tra</small-caps><span class="tooltip-text">animate third person transitive</span></span> <span class="tooltip"><small-caps>1dat</small-caps><span class="tooltip-text">first person dative</span></span> <em>give new-decree</em> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span>
+[e]&ldquo;I asked the queen if she had pardoned me.&rdquo;[/d]
+[d folding]
+[f]<strong>Mihu qixa &rsquo;i, &ldquo;Filli mulisa ra&rsquo;u?&rdquo;</strong>
+[e]<high-lulani>.MV / Qx / i , AF;L / ULs / ruA.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a>, &ldquo;<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/m/mulisa.html#highlulani">mulisa</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a>?&rdquo;
+[e]<span class="tooltip"><small-caps>3ani;int</small-caps><span class="tooltip-text">animate third person intransitive</span></span> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <em>speak &ldquo;</em><span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>fool</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span><em>?&rdquo;</em>
+[e]&ldquo;He said, &lsquo;Are you a fool?&rsquo;&rdquo;[/d]
 [2]Relative Clauses
-Relative clauses specify the noun by describing it. They are placed before the modified noun, beginning with the relativiser <a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a>. The auxiliary is not optional, and is given a rising tone. Only subjects can be relativised. Other cases must be promoted to subject.
-[f]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>.
-[e]<small-caps>rel</small-caps> <em>love king</em> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>queen</em>
-[e]&ldquo;The queen who loved the king.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/l/lu'illu.html#highlulani">lu&rsquo;illu</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>.
-[e]<small-caps>rel</small-caps> <small-caps>abl-king love-psv</small-caps> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>queen</em>
-[e]&ldquo;The queen whom the king loved.&rdquo;
+Relative clauses specify the noun by describing it. They begin with the relativiser <a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <high-lulani>X&gt;</high-lulani> and are placed before the modified noun, The auxiliary is not optional, and is given a rising tone. Only subjects can be relativised. Other cases must be promoted to subject.
+[d folding]
+[f]<strong>Xiku lu&rsquo;i kimilli pi lulani.</strong>
+[e]<high-lulani>.X&gt; / Wi / KM;L / P / WlN.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>.
+[e]<span class="tooltip"><small-caps>rel</small-caps><span class="tooltip-text">relativiser</span></span> <em>love king</em> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>queen</em>
+[e]&ldquo;The queen who loved the king.&rdquo;[/d]
+[d folding]
+[f]<strong>Xiku kalukimilli lu&rsquo;illu pi lulani.</strong>
+[e]<high-lulani>.X&gt; / kWKM;L / Wi;W / P / WlN.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a><a href="http://dictionary.tinellb.com/i/-illu.html#highlulani">-illu</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>.
+[e]<span class="tooltip"><small-caps>rel</small-caps><span class="tooltip-text">relativiser</span></span> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>king love</em>-<span class="tooltip"><small-caps>psv</small-caps><span class="tooltip-text">passive</span></span> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>queen</em>.
+[e]&ldquo;The queen whom the king loved.&rdquo;[/d]
 Any noun can be modified by relative clauses, including pronouns and proper nouns.
-[f]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">mihu</a>.
-[e]<small-caps>rel</small-caps> <em>love king</em> <small-caps>pst;sta 3ani.int</small-caps>
-[e]&ldquo;The one who loved the king.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/s/sa'imi.html#highlulani">Sa&rsquo;imi</a>.
-[e]<small-caps>rel</small-caps> <em>love king</em> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>Caemi</em>
-[e]&ldquo;Caemi, who loved the king.&rdquo;
+[d folding]
+[f]<strong>Xiku lu&rsquo;i kimilli pi mihu.</strong>
+[e]<high-lulani>.X&gt; / Wi / KM;L / P / MV.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">mihu</a>.
+[e]<span class="tooltip"><small-caps>rel</small-caps><span class="tooltip-text">relativiser</span></span> <em>love king</em> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <span class="tooltip"><small-caps>3ani;int</small-caps><span class="tooltip-text">animate third person intransitive</span></span>
+[e]&ldquo;The one who loved the king.&rdquo;[/d]
+[d folding]
+[f]<strong>Xiku lu&rsquo;i kimilli pi Sa&rsquo;imi.</strong>
+[e]<high-lulani>.X&gt; / Wi / KM;L / P / siM.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">Xiku</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/s/sa'imi.html#highlulani">Sa&rsquo;imi</a>.
+[e]<span class="tooltip"><small-caps>rel</small-caps><span class="tooltip-text">relativiser</span></span> <em>love king</em> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>Caemi</em>
+[e]&ldquo;Caemi, who loved the king.&rdquo;[/d]
 [3]Intransitives
 If the only argument of the relative verb is the modified noun, the auxiliary is appended to the verb, and the relativiser is dropped. This auxiliary is given a mid-tone.
-[f]<a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a><a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> the walking king
-[e]<a href="http://dictionary.tinellb.com/d/dissu'ahati.html#highlulani">dissu&rsquo;ahati</a><a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/m/mulisa.html#highlulani">mulisa</a> the happy fool
-[e]<a href="http://dictionary.tinellb.com/b/bibu.html#highlulani">bibu</a><a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/s/suma.html#highlulani">suma</a> the occasionally complaining me
-[e]<a href="http://dictionary.tinellb.com/k/ka'u.html#highlulani">ka&rsquo;u</a><a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a> <a href="http://dictionary.tinellb.com/r/ra'ani.html#highlulani">Ra&rsquo;ani</a> the jumping Ryan
+[d wordlist]
+[d folding]
+[f]<strong>dissu&rsquo;ahatira&rsquo;u mulisa.</strong>
+[e]<high-lulani>.D;zahTru / ULs.</high-lulani>
+[e]<em>feel_happy-</em><span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>fool</em>
+[e]<a href="http://dictionary.tinellb.com/d/dissu'ahati.html#highlulani">dissu&rsquo;ahati</a><a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/m/mulisa.html#highlulani">mulisa</a>
+[e]&ldquo;the happy fool&rdquo;[/d]
+[d folding]
+[f]<strong>&rsquo;ibibuna suma</strong>
+[e]<high-lulani>iBOn / zm</high-lulani>
+[e]<em>complain</em>-<span class="tooltip"><small-caps>prs;hab</small-caps><span class="tooltip-text">present habitual</span></span> <span class="tooltip"><small-caps>1tra</small-caps><span class="tooltip-text">first person transitive</span></span>
+[e]<a href="http://dictionary.tinellb.com/i/'ibibu.html#highlulani">&rsquo;ibibu</a><a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/s/suma.html#highlulani">suma</a>
+[e]&ldquo;the occasionally complaining me&rdquo;[/d]
+[d folding]
+[f]<strong>ka&rsquo;ucani Ra&rsquo;ani</strong>
+[e]<high-lulani>kucN / raN</high-lulani>
+[e]<em>jump-</em><span class="tooltip"><small-caps>prs;dyn</small-caps><span class="tooltip-text">present dynamic</span></span> Ryan
+[e]<a href="http://dictionary.tinellb.com/k/ka'u.html#highlulani">ka&rsquo;u</a><a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a> <a href="http://dictionary.tinellb.com/r/ra'ani.html#highlulani">Ra&rsquo;ani</a>
+[e]<em>the jumping Ryan</em>[/d]
+[/d]
 Similar are intransitives utilising the case markers and other adpositions.
-[f]<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/n/nuhu.html#highlulani">nuhu</a> <em>the letter from the king</em>
-[e]<a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a> <em>the strawberry for the queen</em>
-[e]<a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a><a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <em>the thing under the table</em>
+[d wordlist]
+[d folding]
+[f]<strong>kalukimilli nuhu.</strong>
+[e]<high-lulani>.kWKM;L / IV.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a> <a href="http://dictionary.tinellb.com/n/nuhu.html#highlulani">nuhu</a>
+[e]<span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>king folding_paper</em>
+[e]&ldquo;the letter from the king&rdquo;[/d]
+[d folding]
+[f]<strong>kul&middot;lani nukki</strong>.
+[e]<high-lulani>.&gt;WWlN / I;K.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a>
+[e]<span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>queen strawberry</em>
+[e]&rdquo;the strawberry for the queen&ldquo;[/d]
+[d folding]
+[f]<strong>di&rsquo;i&rsquo;uja pa</strong>
+[e]<high-lulani>Diuj / p</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a><a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>
+[e]<em>up-table</em> <span class="tooltip"><small-caps>3ina;int</small-caps><span class="tooltip-text">inanimate third person intransitive</span></span>
+[e]&ldquo;the thing atop the table&rdquo;[/d]
+[/d]
 [3]Transitives
 If the only arguments of the relative verb are the modified noun and a direct object, the verb is appended to the object, with or without the auxiliary, and the relativiser is dropped.
 [f]<strong>xucipura cula</strong>

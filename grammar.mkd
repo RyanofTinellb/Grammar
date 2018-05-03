@@ -10,11 +10,13 @@
 &lsquo; | ` | <br>
 &#x294; | '' | <br>
 &rdquo; | " | <br>
+'" | ' " | <br>
 &ldquo; | '" | <br>
 &quot; | `` | <br>
 &dblquot; | "" | <br>
 &middot; | (.) | <br>
-&mdash; | -- | <br>
+&dash; | -- | <br>
+&mdash; | --- | <br>
 &igrave; | )i | <br>
 &hellip; | ... | <br>
 &rarr; | => | <br>
