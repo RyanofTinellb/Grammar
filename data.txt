@@ -374,11 +374,11 @@ Quaternary stress is characterised by a lax vowel with median pitch. It is not e
 [f]<ipa>/&#x2c8;na&#x27d;.<strong>&#x259;</strong>/</ipa>
 [e]<ipa>/<strong>&#x255;&#x259;</strong>.&#x2c8;nak&#x2b0;.<strong>&#x268;</strong>/</ipa>
 [2]Vowel Length
-Stressed vowels are slightly longer than other vowels. They are lengthened even further when the syllable coda is null, the consonant <ipa>/h/</ipa>, or a sonorant (<ipa>/mn&#x14b;l&#x27d;/</ipa>). An unstressed vowel between two identical consonants is elided. This elided vowel is replaced with a central dot (&middot;) in the transliteration. This dot also appears in the compound word <a href="http://dictionary.tinellb.com/k/ku.li.html#highlulani">ku&middot;li</a> to distinguish it from the stem word <a href="http://dictionary.tinellb.com/k/kuli.html#highlulani">kuli</a>.
+Stressed vowels are slightly longer than other vowels. WIth this proviso, long and short vowels are in free variation. An unstressed vowel between two identical consonants is elided. This elided vowel is replaced with a central dot (&middot;) in the transliteration. This dot also appears in the compound word <a href="http://dictionary.tinellb.com/k/ku.li.html#highlulani">ku&middot;li</a> to distinguish it from the stem word <a href="http://dictionary.tinellb.com/k/kuli.html#highlulani">kuli</a>.
 [2]Prosody
 Interrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (&#x1ce;) or a falling tone (&acirc;), placed on the syllable of the appropriate word which has the greatest stress.
 Falling tone can also be used to bring focus to a particular word.
-&date=20180424--------------------------------------------------2
+&date=20180504--------------------------------------------------2
 [1]Orthography
 As well as the syllabary for most written use, there are also special-use syllabaries. One of these encodes more redundancy for use with noisy channels. The other is a non-visual written code for blind and other visually impaired users.&date=20180323--------------------------------------------------3
 [1]Syllabary
@@ -2359,7 +2359,7 @@ Similar are intransitives utilising the case markers and other adpositions.
 [e]&ldquo;the letter from the king&rdquo;[/d]
 [d folding]
 [f]<strong>kul&middot;lani nukki</strong>.
-[e]<high-lulani>.&gt;WWlN / I;K.</high-lulani>
+[e]<high-lulani>.&gt;WlN / I;K.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a>
 [e]<span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>queen strawberry</em>
 [e]&rdquo;the strawberry for the queen&ldquo;[/d]
@@ -2372,67 +2372,70 @@ Similar are intransitives utilising the case markers and other adpositions.
 [/d]
 [3]Transitives
 If the only arguments of the relative verb are the modified noun and a direct object, the verb is appended to the object, with or without the auxiliary, and the relativiser is dropped.
+[d folding]
 [f]<strong>xucipura cula</strong>
 [e]<high-lulani>ZCor / yl</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/x/xuci.html#highlulani">xuci</a>-<a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">cula</a>
 [e]<em>feather-change egg</em>
-[e]&ldquo;hatching egg.&rdquo;
+[e]&ldquo;hatching egg&rdquo;[/d]
+[d folding]
 [f]<strong>hafidasira&rsquo;u kipu</strong>
 [e]<high-lulani>hFdSru / Ko</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/h/hafi.html#highlulani">hafi</a>-<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a>-<a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/k/kipu.html#highlulani">kipu</a>
 [e]<em>grass-eat-</em><span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>ox</em>
-[e]&ldquo;the grass-eating cow.&rdquo;
+[e]&ldquo;the grass-eating cow.&rdquo;[/d]
 [2]Questions and Requests
 Questions and requests are main clauses, but have the same auxiliary movement as dependent clauses, and thus are treated alongside them here.
 [3]Interrogatives
 An interrogative is a question sentence. There are two main types, polar questions and content questions.
 Polar questions are one in which the answer is &ldquo;yes&rdquo; or &ldquo;no&rdquo;. They are spoken with a rising tone on the last word. The auxiliaries are used to answer.
-[f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/s/suma.html#highlulani">suma</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a>?
-[e]<em>queen love</em> <small-caps>1tra prs;sta</small-caps>
-[e]&ldquo;Does the queen love me?&rdquo;
-[f]<a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">Ra&rsquo;u</a>. / <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">Ji</a>. / <a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">Ruku</a>. / <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">Pi</a>.
-[e]<small-caps>prs;sta  prs;neg  fut;gno  pst;sta</small-caps>
-[e]&ldquo;Yes.&rdquo; / &ldquo;No.&rdquo; / &ldquo;She will.&rdquo; / &ldquo;She did.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/n/nimalu.html#highlulani">nimalu</a> <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a>?
-[e]<em>queen bear</em> <span class="tooltip"><small-caps>prs;neg</small-caps><span class="tooltip-text">present negative</span></span>
-[e]&ldquo;Is the queen not a bear?&rdquo;
+[d folding]
+[f]<strong>Lulani lu&rsquo;i suma ra&rsquo;u?</strong>
+[e]<high-lulani>.WlN / Wi / zm / ru.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/s/suma.html#highlulani">suma</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a>?
+[e]<em>queen love</em> <span class="tooltip"><small-caps>1tra</small-caps><span class="tooltip-text">first person transitive</span></span> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>?
+[e]&ldquo;Does the queen love me?&rdquo;[/d]
+[d folding]
+[f]<strong>Ra&rsquo;u. / Ji. / Ruku. / Pi.</strong>
+[e]<high-lulani>.P.w&gt;.J.ru.</high-lulani> 
+[e]<a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">Ra&rsquo;u</a>. / <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">Ji</a>. / <a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">Ruku</a>. / <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">Pi</a>.
+[e]<span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>. / <span class="tooltip"><small-caps>prs;neg</small-caps><span class="tooltip-text">present negative</span></span>. /  <span class="tooltip"><small-caps>fut;gno</small-caps><span class="tooltip-text">future gnomic</span></span>. /  <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span>.
+[e]&ldquo;Yes.&rdquo; / &ldquo;No.&rdquo; / &ldquo;She will.&rdquo; / &ldquo;She did.&rdquo;[/d]
+[d folding]
+[f]<strong>Lulani nimalu ji?</strong>
+[e]<high-lulani>.WlN / NmW / J.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/n/nimalu.html#highlulani">nimalu</a> <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">ji</a>?
+[e]<em>queen bear</em> <span class="tooltip"><small-caps>prs;neg</small-caps><span class="tooltip-text">present negative</span></span>?
+[e]&ldquo;Is the queen not a bear?&rdquo;[/d]
+[d folding]
+[f]<strong>Ji. / Ra&rsquo;u. / Na.</strong>
+[e]<high-lulani>n.ru.J</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/j/ji.html#highlulani">Ji</a>. / <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">Ra&rsquo;u</a>. / <a href="http://dictionary.tinellb.com/n/na.html#highlulani">Na</a>.
-[e]<small-caps>prs;neg  prs;sta  prs;itr</small-caps>
-[e]&ldquo;Yes, she&rsquo;s not.&rdquo; / &ldquo;No, she is.&rdquo; / &ldquo;Sometimes.&rdquo;
+[e]<span class="tooltip"><small-caps>prs;neg</small-caps><span class="tooltip-text">present negative</span></span>. / <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>. / <span class="tooltip"><small-caps>prs;hab</small-caps><span class="tooltip-text">present habitual</span></span>.
+[e]&ldquo;Yes, she&rsquo;s not.&rdquo; / &ldquo;No, she is.&rdquo; / &ldquo;Usually.&rdquo;[/d]
 If the focus of the question is on a particular noun, that noun receives a falling tone.
 Content questions are ones in which the expected answer is more than just &ldquo;yes&rdquo; or &ldquo;no&rdquo;. These questions have a rising tone on the main question word itself.
-[f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/r/ra'u%3F.html#highlulani">ra&rsquo;u?</a>
-[e]<em>queen love what</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>
-[e]&ldquo;Whom does the queen love?&rdquo;
-[f]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a> / <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> / <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">Cu&rsquo;i</a>
-[e]<em>king</em> / <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span> / <em>nothing</em>
-[e]&ldquo;The king.&rdquo; / &ldquo;You.&rdquo; / &ldquo;No one.&rdquo;
-[4]Quantities
-Lulani questions regarding quantity or measurement are phrased thus:
-[f]<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">Filli</a> <a href="http://dictionary.tinellb.com/k/kika.html#highlulani">kika</a><a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/h/huba.html#highlulani">huba</a> <a href="http://dictionary.tinellb.com/r/rusa.html#highlulani">rusa</a>?
-[e]<span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>interval-what breathe</em> <span class="tooltip"><small-caps>pst;gno</small-caps><span class="tooltip-text">past gnomic</span></span><em>?</em>
-[e]&ldquo;How old are you?&rdquo;
-[f]<a href="http://dictionary.tinellb.com/k/kika.html#highlulani">Kika</a><a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> (<a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a>) <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a>?
-[e]<em>over-what</em> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span><em>-Ir&igrave;a (walk)</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span><em>?</em>
-[e]&ldquo;How far is it (to walk) to Ir&igrave;a?&rdquo;
+[d folding]
+[f]<strong>Lulani lu&rsquo;i sama ra&rsquo;u?</strong>
+[e]<high-lulani>.WlN / Wi / sm / ru.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/s/sama.html#highlulani">sama</a> <a href="http://dictionary.tinellb.com/r/ra'u%3F.html#highlulani">ra&rsquo;u?</a>
+[e]<em>Queen love what</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>?
+[e]&ldquo;Whom does the queen love?&rdquo;[/d]
+[d folding]
+[f]<strong>Kimilli. / Fu. / Cu&rsquo;i.</strong>
+[e]<high-lulani>.yi.v.KM;L.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">Kimilli</a>. / <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a>. / <a href="http://dictionary.tinellb.com/c/cu'i.html#highlulani">Cu&rsquo;i</a>.
+[e]<em>King</em>. / <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span>. / <em>Nothing</em>.
+[e]&ldquo;The king.&rdquo; / &ldquo;You.&rdquo; / &ldquo;No one.&rdquo;[/d]
 [3]Imperatives
 An imperative statement is an order.
 Second person imperatives are directed to the listener. In these, the subject is dropped, a future auxiliary in the appropriate aspect is suffixed to the verb, and this verb complex is moved to the end of the sentence. These are spoken with a falling tone on the auxiliary.
-[f]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a><a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a>!
-[e]<em>queen love-</em><span class="tooltip"><small-caps>fut;gno</small-caps><span class="tooltip-text">future gnomic</span></span>
-[e]&ldquo;Love the queen!&rdquo;
-&date=20180503--------------------------------------------------3
-[1]Particular Clauses
-[2]Experiences
-The modal <a href="http://dictionary.tinellb.com/d/da'aru.html#highlulani">da&rsquo;aru</a> <em>experience</em> can be used to show experiences.
-[f]<a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a> <a href="http://dictionary.tinellb.com/k/kuddu.html#highlulani">kuddu</a> <a href="http://dictionary.tinellb.com/d/da'aru.html#highlulani">da&rsquo;aru</a> <a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a>?
-[e]<small-caps>2tra</small-caps> <em>see rain experience</em> <small-caps>pst;dyn?</small-caps>
-[e]&ldquo;Have you ever seen the rain?&rdquo;
-[f]<a href="http://dictionary.tinellb.com/f/fu.html#highlulani">Fu</a> <a href="http://dictionary.tinellb.com/l/lu'isamma.html#highlulani">lu&rsquo;isamma</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/d/da'aru.html#highlulani">da&rsquo;aru</a> <a href="http://dictionary.tinellb.com/l/lanu.html#highlulani">lanu</a>?
-[e]2<small-caps>tra</small-caps> <em>love-true_love</em> <small-caps>1int</small-caps> <em>experience</em> <small-caps>fut;dyn</small-caps>
-[e]&ldquo;Could you ever love me?&rdquo;
-&date=20170725
---------------------------------------------------3
+[d folding]
+[f]<strong>Lulani lu&rsquo;iruku!</strong>
+[e]<high-lulani>.WlN / Wiw&gt;.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a>-<a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a>!
+[e]<em>Queen love-</em><span class="tooltip"><small-caps>fut;gno</small-caps><span class="tooltip-text">future gnomic</span></span>!
+[e]&ldquo;Love the queen!&rdquo;[/d]&date=20180504--------------------------------------------------3
 [1]Noun Phrases
 The full noun phrase is made up of these components in the following order:
 [n]adposition-
@@ -2441,24 +2444,34 @@ number
 superlative
 relative clause
 main noun
--adjective
+-determiner
 -conjunction
 -genitive marker
 [/n]
 Hyphens in this list are used to mark where a space is not used to separate components.
 Relative clauses include intransitives.
 The only compulsory component of a noun phrase is the noun itself.
-[f]<a href="http://dictionary.tinellb.com/f/faluki.html#highlulani">faluki</a> (vii) <em>journey</em>
-[e]<a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> (ii-vii) <em>to the queen</em>
-[e]<a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a><a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a> (i-ii-vii) <em>onto the table</em>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/f/faluki.html#highlulani">faluki</a> <high-lulani>fWK</high-lulani> (vi) <em>journey</em>
+[d folding]
+[f]<strong>kukimilli</strong> (ii-vii)
+[e]<high-lulani>&gt;KM;L</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a>
+[e]<span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>king</em>
+[e]&ldquo;to the king&rdquo;[/d]
+[d folding]
+[f]<strong>diku&rsquo;i&rsquo;uja</strong> (i-ii-vii)
+[e]<high-lulani>D&gt;iuj</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a>-<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a>
+[e]<em>up</em>-<span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>table</em>
+[e]&ldquo;onto the table&rdquo;[/d]
 [e]<a href="http://dictionary.tinellb.com/h/haru.html#highlulani">haru</a><a href="http://dictionary.tinellb.com/b/bijju.html#highlulani">bijju</a> <a href="http://dictionary.tinellb.com/n/nimalu.html#highlulani">nimalu</a> (i-iii vii) <em>with the first bear</em>
-[e]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/g/gusuli.html#highlulani">gusuli</a><a href="http://dictionary.tinellb.com/l/lumi.html#highlulani">lumi</a> (v vii-viii) <em>several people who eat strawberries</em>
+[e]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a><a href="http://dictionary.tinellb.com/l/lumi.html#highlulani">lumi</a> (v vii-viii) <em>several people who eat strawberries</em>
 [e]<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/luna.html#highlulani">luna</a> <a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a> <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> (ii-v vii) <em>because of everyone who looks at the moon</em>
 [e]<a href="http://dictionary.tinellb.com/a/'adi.html#highlulani">&rsquo;adi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">qikanni</a> <a href="http://dictionary.tinellb.com/t/tura.html#highlulani">tura</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/x/xa''u.html#highlulani">xa&#x294;u</a> (i-iii v vii) <em>near the two children who looked after dogs</em>
 [e]<a href="http://dictionary.tinellb.com/j/julliga.html#highlulani">julliga</a> <a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a><a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a><a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <a href="http://dictionary.tinellb.com/k/kasa.html#highlulani">kasa</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a><a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&rsquo;ara</a> (v vi vii-viii-ix-x)
-[e]<em>the faces of the married women <u>and the walker men who are going to Ir&igrave;a</u></em>.
-&date=20170729
---------------------------------------------------3
+[e]<em>the faces of the married women <u>and the walker men who are going to Ir&igrave;a</u></em>.[/d]
+&date=20180504--------------------------------------------------3
 [1]Gerunds
 Some verb phrases can be changed into nouns describing the activity.
 [f]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">Huba</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/n/naqa.html#highlulani">naqa</a>.
