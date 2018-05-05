@@ -72,6 +72,14 @@ h6 {
     line-height: 1.5;
 }
 
+.content ul, .content ol {
+    margin-left: 10%;
+}
+
+.content ol {
+    list-style: lower-roman;
+}
+
 .content table {
     margin-left: 5%;
     margin-top: 2em;

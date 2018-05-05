@@ -1485,7 +1485,7 @@ On the other hand, <a href="http://dictionary.tinellb.com/m/-ma.html#highlulani"
 [f]<strong>nufirama</strong> <em>no longer wanting</em>
 [e]<strong>dumima</strong> <em>no longer trying</em>[/d]
 [2]Nominalisation
-These derive a noun from another part of speech, most often a verb. 
+These derive a noun from another part of speech, most often a verb.
 The suffix <a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a> <high-lulani>q</high-lulani> derives generic nouns from numerals or alienable genitive pronouns.
 [d wordlist]
 [f]<a href="http://dictionary.tinellb.com/d/disiqa.html#highlulani">disiqa</a> <high-lulani>DSq</high-lulani> <em>hers</em>
@@ -1596,8 +1596,8 @@ Deixis encompasses words and phrases which rely on an external context to comple
 Once a topic is introduced in a discourse or narrative, it can be assumed to be the subject until changed.
 [2]Pro-forms
 The two groups of pro-forms are classified on the basis of their semantic properties.
-<a href="definitepro-forms.html">Definite pro-forms</a> are those that encode case, person, animacy and topicality.  <a href="indefinitepro-forms.html">indefinite pro-forms</a> comprise the remaining deictic terms.&date=20180414
---------------------------------------------------4
+<a href="definitepro-forms.html">Definite pro-forms</a> are those that encode case, person, animacy and topicality.  <a href="indefinitepro-forms.html">Indefinite pro-forms</a> comprise the remaining deictic terms.
+&date=20180505--------------------------------------------------4
 [1]Personal Pronouns
 These are a closed class. They are marked for <a href="../../syntax/case.html">case</a> and <a href="https://en.wikipedia.org/wiki/Grammatical_person">person</a>. The third person pronouns are additionally marked for topicality or <a href="../nouns.html#animacy">animacy</a>. The alienable genitive acts as the nominal head of a possessive phrase, the inalienable genitive is a determiner, and the other pronouns all act as nouns.
 [t]r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
@@ -2258,21 +2258,19 @@ They are marked by having the auxiliary at the end.
 [2]Subordinate Clauses
 A subordinate clause is one introduced by a subordinating conjunction in the matrix clause. A comma is used to separate a subordinate from its matrix. The conjunction is placed on the side of the main clause that is closest to the subordinate. The clauses can be put in either order.
 [d folding]
-[f]<strong>&#x294;usu ru lu&rsquo;i fu daru&rsquo;i, <u>ba pu&rsquo;iba miku ra&rsquo;u</u>.</strong>
+[f]<strong>&#x294;usu ru lu&rsquo;i fu daru&rsquo;i, <highlight>ba pu&rsquo;iba miku ra&rsquo;u</highlight>.</strong>
 [e]<high-lulani>.uz / w / Wi / v / dwi , b / oib / M&gt; / ru.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <a href="http://dictionary.tinellb.com/d/daru'i.html#highlulani">daru&rsquo;i</a>, <u><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a></u>.
+[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a> <a href="http://dictionary.tinellb.com/d/daru'i.html#highlulani">daru&rsquo;i</a>, <a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a>.
 [e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>love</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span> <em>because</em>, <span class="tooltip"><small-caps>2gen</small-caps><span class="tooltip-text">second person genitive</span></span> <em>ball</em> <em>red</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>
 [e]&ldquo;I love you because your ball is red.&rdquo;[/d]
 [d folding]
-[f]<strong><u>Ba pu&rsquo;iba miku ra&rsquo;u</u>, daru&rsquo;i &rsquo;usu ru lu&rsquo;i fu.</strong>
+[f]<strong><highlight>Ba pu&rsquo;iba miku ra&rsquo;u</highlight>, daru&rsquo;i &rsquo;usu ru lu&rsquo;i fu.</strong>
 [e]<high-lulani>.b / oib / M&gt; / ru , dwi / uz / w / Wi / v.</high-lulani>
-[e]<u><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">Ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a></u>, <a href="http://dictionary.tinellb.com/d/daru'i.html#highlulani">daru&rsquo;i</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>.
+[e]<a href="http://dictionary.tinellb.com/b/ba.html#highlulani">Ba</a> <a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a>, <a href="http://dictionary.tinellb.com/d/daru'i.html#highlulani">daru&rsquo;i</a> <a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&rsquo;usu</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="http://dictionary.tinellb.com/f/fu.html#highlulani">fu</a>.
 [e]<span class="tooltip"><small-caps>2gen</small-caps><span class="tooltip-text">second person genitive</span></span> <em>ball</em> <em>red</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>, <em>because</em> <span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>love</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span>
 [e]&ldquo;I love you because your ball is red.&rdquo;[/d]
-Here the subordinate clauses are underlined. The cause is subordinate to the effect.
-[3]Adverbial Clauses
-An adverbial clause is one which acts as an adverb.
-[4]Location Adverbial Clauses
+Here the subordinate clauses are hightlighted. The cause is subordinate to the effect.
+[3]Location Adverbial Clauses
 The word <a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a> <high-lulani>m</high-lulani> <em>where</em> is often used as a prefix for adpositions used as clausal conjunctions.
 [d folding]
 [f]<strong>&#x294;usu lu&rsquo;i fu madi, ba pu&rsquo;iba miku qixa.</strong>
@@ -2397,7 +2395,7 @@ Polar questions are one in which the answer is &ldquo;yes&rdquo; or &ldquo;no&rd
 [e]&ldquo;Does the queen love me?&rdquo;[/d]
 [d folding]
 [f]<strong>Ra&rsquo;u. / Ji. / Ruku. / Pi.</strong>
-[e]<high-lulani>.P.w&gt;.J.ru.</high-lulani> 
+[e]<high-lulani>.P.w&gt;.J.ru.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">Ra&rsquo;u</a>. / <a href="http://dictionary.tinellb.com/j/ji.html#highlulani">Ji</a>. / <a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">Ruku</a>. / <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">Pi</a>.
 [e]<span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>. / <span class="tooltip"><small-caps>prs;neg</small-caps><span class="tooltip-text">present negative</span></span>. /  <span class="tooltip"><small-caps>fut;gno</small-caps><span class="tooltip-text">future gnomic</span></span>. /  <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span>.
 [e]&ldquo;Yes.&rdquo; / &ldquo;No.&rdquo; / &ldquo;She will.&rdquo; / &ldquo;She did.&rdquo;[/d]
@@ -2435,62 +2433,77 @@ Second person imperatives are directed to the listener. In these, the subject is
 [e]<high-lulani>.WlN / Wiw&gt;.</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">Lulani</a> <a href="http://dictionary.tinellb.com/l/lu'i.html#highlulani">lu&rsquo;i</a>-<a href="http://dictionary.tinellb.com/r/ruku.html#highlulani">ruku</a>!
 [e]<em>Queen love-</em><span class="tooltip"><small-caps>fut;gno</small-caps><span class="tooltip-text">future gnomic</span></span>!
-[e]&ldquo;Love the queen!&rdquo;[/d]&date=20180504--------------------------------------------------3
+[e]&ldquo;Love the queen!&rdquo;[/d]&date=20180505--------------------------------------------------3
 [1]Noun Phrases
 The full noun phrase is made up of these components in the following order:
 [n]adposition-
 case marker-
 number
-superlative
 relative clause
-main noun
+<highlight>main noun</highlight>
 -determiner
 -conjunction
 -genitive marker
 [/n]
-Hyphens in this list are used to mark where a space is not used to separate components.
-Relative clauses include intransitives.
-The only compulsory component of a noun phrase is the noun itself.
+The highlighted component denotes the only one that is compulsory, <em>i.e.</em>: the main noun itself. The hyphens represent the lack of a word space in both the Tinellbian script and the transcription.
 [d wordlist]
-[f]<a href="http://dictionary.tinellb.com/f/faluki.html#highlulani">faluki</a> <high-lulani>fWK</high-lulani> (vi) <em>journey</em>
+[f]<a href="http://dictionary.tinellb.com/f/faluki.html#highlulani">faluki</a> <high-lulani>fWK</high-lulani> (v) <em>journey</em>
 [d folding]
-[f]<strong>kukimilli</strong> (ii-vii)
+[f]<strong>kukimilli</strong> (ii-v)
 [e]<high-lulani>&gt;KM;L</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a>
 [e]<span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<em>king</em>
 [e]&ldquo;to the king&rdquo;[/d]
 [d folding]
-[f]<strong>diku&rsquo;i&rsquo;uja</strong> (i-ii-vii)
+[f]<strong>diku&rsquo;i&rsquo;uja</strong> (i-ii-v)
 [e]<high-lulani>D&gt;iuj</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/d/di.html#highlulani">di</a>-<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/i/'i'uja.html#highlulani">&rsquo;i&rsquo;uja</a>
 [e]<em>up</em>-<span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>table</em>
 [e]&ldquo;onto the table&rdquo;[/d]
-[e]<a href="http://dictionary.tinellb.com/h/haru.html#highlulani">haru</a><a href="http://dictionary.tinellb.com/b/bijju.html#highlulani">bijju</a> <a href="http://dictionary.tinellb.com/n/nimalu.html#highlulani">nimalu</a> (i-iii vii) <em>with the first bear</em>
-[e]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a><a href="http://dictionary.tinellb.com/l/lumi.html#highlulani">lumi</a> (v vii-viii) <em>several people who eat strawberries</em>
-[e]<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a><a href="http://dictionary.tinellb.com/l/luna.html#highlulani">luna</a> <a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a> <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a> (ii-v vii) <em>because of everyone who looks at the moon</em>
-[e]<a href="http://dictionary.tinellb.com/a/'adi.html#highlulani">&rsquo;adi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">qikanni</a> <a href="http://dictionary.tinellb.com/t/tura.html#highlulani">tura</a> <a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/x/xa''u.html#highlulani">xa&#x294;u</a> (i-iii v vii) <em>near the two children who looked after dogs</em>
-[e]<a href="http://dictionary.tinellb.com/j/julliga.html#highlulani">julliga</a> <a href="http://dictionary.tinellb.com/k/kiluqu.html#highlulani">kiluqu</a><a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a><a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a> <a href="http://dictionary.tinellb.com/k/kasa.html#highlulani">kasa</a><a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a><a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&rsquo;ara</a> (v vi vii-viii-ix-x)
-[e]<em>the faces of the married women <u>and the walker men who are going to Ir&igrave;a</u></em>.[/d]
-&date=20180504--------------------------------------------------3
+[d folding]
+[f]<strong>harubijju nimalu </strong>(i-iii v)
+[e]<high-lulani> hwB;Y / NmW </high-lulani>
+[e]<a href="http://dictionary.tinellb.com/h/haru.html#highlulani">haru</a>-<a href="http://dictionary.tinellb.com/b/bijju.html#highlulani">bijju</a> <a href="http://dictionary.tinellb.com/n/nimalu.html#highlulani">nimalu</a>
+[e]<em>with-first bear</em>
+[e]&ldquo;with the first bear&rdquo;[/d]
+[d folding]
+[f]<strong>xiku dasi nukki na gusulumi</strong> (iv v-vi)
+[e]<high-lulani>X&gt; / dS / I;K / n / &lt;zWM</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a> <a href="http://dictionary.tinellb.com/n/nukki.html#highlulani">nukki</a> <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a>-<a href="http://dictionary.tinellb.com/l/lumi.html#highlulani">lumi</a>
+[e]<span class="tooltip"><small-caps>rel</small-caps><span class="tooltip-text">relativiser</span></span> <em>eat strawberry </em><span class="tooltip"><small-caps>prs;hab</small-caps><span class="tooltip-text">present habitual</span></span> <em>person-several</em>
+[e]&ldquo;several people who eat strawberries&rdquo;[/d]
+[d folding]
+[f]<strong>kaluxiku kuluna &rsquo;usi na &rsquo;aba</strong> (ii-iv v)
+[e]<high-lulani>kWX&gt; / &gt;Wn / uS / n / ab</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/x/xiku.html#highlulani">xiku</a> <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/l/luna.html#highlulani">luna</a> <a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a> <a href="http://dictionary.tinellb.com/n/na.html#highlulani">na</a> <a href="http://dictionary.tinellb.com/a/'aba.html#highlulani">&rsquo;aba</a>
+[e]<span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<span class="tooltip"><small-caps>rel</small-caps><span class="tooltip-text">relativiser</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>moon see</em> <span class="tooltip"><small-caps>prs;hab</small-caps><span class="tooltip-text">present habitual</span></span> <em>all</em>
+[e]&ldquo;because of everyone who looks at the moon&rdquo;[/d]
+[d folding]
+[f]<strong>&rsquo;adira qikannihisupi xa&#x294;u</strong> (i-iii iv v)
+[e]<high-lulani>aDr /Qk;NHzP / x;u</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/a/'adi.html#highlulani">&rsquo;adi</a>-<a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">qikanni</a>-<a href="http://dictionary.tinellb.com/h/hisu.html#highlulani">hisu</a>-<a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/x/xa''u.html#highlulani">xa&#x294;u</a>
+[e]<em>near-two</em> <em>dog-administer</em>-<span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>child</em>
+[e]&ldquo;near the two children who had looked after dogs&rdquo;[/d]
+[d folding]
+[e]<strong>julliga <highlight>nuraqixa kasataqa</highlight> &rsquo;ara</strong> (iv v-vii-viii)
+[e]<high-lulani>Y;Lg / IrQx / kstq / ar</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/j/julliga.html#highlulani">julliga</a> <a href="http://dictionary.tinellb.com/n/nura.html#highlulani">nura</a>-<a href="http://dictionary.tinellb.com/q/qixa.html#highlulani">qixa</a> <a href="http://dictionary.tinellb.com/k/kasa.html#highlulani">kasa</a><a href="http://dictionary.tinellb.com/t/-ta.html#highlulani">-ta</a><a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a> <a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&rsquo;ara</a>
+[e]<em>mother leave-</em><span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <em>man-and-</em><span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span> <em>face</em>
+[e]the faces of the mothers <highlight>and the men who left</highlight>.[/d]
+[/d]&date=20180505--------------------------------------------------3
 [1]Gerunds
 Some verb phrases can be changed into nouns describing the activity.
-[f]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">Huba</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/n/naqa.html#highlulani">naqa</a>.
-[e]<em>breathe</em>-<small-caps>ger</small-caps> <em>necessary</em>
-[e]Breathing is necessary.
-[f]<a href="http://dictionary.tinellb.com/m/mika.html#highlulani">Mika</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>-<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a>-<a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a>-<a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/d/dasu.html#highlulani">dasu</a> <a href="http://dictionary.tinellb.com/j/jaha.html#highlulani">jaha</a>.
-[e]<em>some_group</em> <small-caps>prs;gno</small-caps> <small-caps>dat</small-caps><em>-eat-</em><small-caps>ger</small-caps><em>-</em><small-caps>gen</small-caps> <em>meat offend</em>
-[e]Eating meat offends some people.
-&date=20170725
---------------------------------------------------3
-[1]Comparatives
-[2]Comparatives
-The comparative marker is an adposition <a href="http://dictionary.tinellb.com/s/su.html#highlulani">su</a> <em>than</em> placed on the noun being compared against. For &ldquo;little more&rdquo;, the qualifier <a href="http://dictionary.tinellb.com/t/tuci.html#highlulani">tuci</a> <em>half-do</em> is affixed to the verb, for &ldquo;a lot more&rdquo;, the qualifier is <a href="http://dictionary.tinellb.com/r/rali.html#highlulani">rali</a> <em>intensely</em>.
-[2]Equalatives
-The equalative marker is <a href="http://dictionary.tinellb.com/k/ka.html#highlulani">ka</a> <em>as</em>, an adposition.
-[2]Superlative
-The superlative marker, contrary to the other two, is a particle <a href="http://dictionary.tinellb.com/p/piba.html#highlulani">piba</a> placed before the verb.
-&date=20170725
---------------------------------------------------2
+[d folding]
+[f]<strong>Hubaru naqa.</strong>[e]<high-lulani>.Vbw / nq.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">Huba</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/n/naqa.html#highlulani">naqa</a>.
+[e]<em>breathe</em>-<span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span> <em>necessary</em>
+[e]&ldquo;Breathing is necessary&rdquo;.[/d]
+[d folding]
+[f]<strong>Mika ru pajaha kudasiruqa dasu.</strong>
+[e]<high-lulani>.Mk / w / pjh / &gt;dSwq / dz . </high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/mika.html#highlulani">Mika</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>j<a href="http://dictionary.tinellb.com/a/aha.html#highlulani">aha</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>-<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a>-<a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a>-<a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/d/dasu.html#highlulani">dasu</a>.
+[e]<em>Some_group</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>eat</em>-<span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span>-<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span> <em>meat offend</em>
+[e]&rdquo;Eating meat offends some people.&rdquo;[/d]&date=20180505--------------------------------------------------2
 [1]Apocrypha
 This section details particular categories of vocabulary items.
 &date=20170716
@@ -2647,6 +2660,12 @@ Each of these terms can be compounded to refer to specific hues.
 [f]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a><a href="http://dictionary.tinellb.com/m/mulu.html#highlulani">mulu</a> <em>blood red</em>
 [e]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a><a href="http://dictionary.tinellb.com/k/kunubi.html#highlulani">kunubi</a> <em>sky blue</em>
 [e]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a><a href="http://dictionary.tinellb.com/m/masi.html#highlulani">masi</a> <em>snow white</em>&date=20180422--------------------------------------------------3
+[1]Comparatives
+The comparative marker is an adposition <a href="http://dictionary.tinellb.com/s/su.html#highlulani">su</a> <em>than</em> placed on the noun being compared against. For &ldquo;little more&rdquo;, the qualifier <a href="http://dictionary.tinellb.com/t/tuci.html#highlulani">tuci</a> <em>half-do</em> is affixed to the verb, for &ldquo;a lot more&rdquo;, the qualifier is <a href="http://dictionary.tinellb.com/r/rali.html#highlulani">rali</a> <em>intensely</em>.
+[2]Equalatives
+The equalative marker is <a href="http://dictionary.tinellb.com/k/ka.html#highlulani">ka</a> <em>as</em>, an adposition.
+[2]Superlative
+The superlative marker, contrary to the other two, is a particle <a href="http://dictionary.tinellb.com/p/piba.html#highlulani">piba</a> placed before the verb.&date=20180505--------------------------------------------------3
 [1]Kinship
 [2]Marriage
 <a href="http://dictionary.tinellb.com/j/ju'iduku.html#highlulani">Ju&rsquo;iduku</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <em>marriage</em> is the life-bonding of two people. It is intended to be eternal, but can be broken if requested by either partner. It is not an exclusive arrangement, and one can be involved in concurrent marriages.
