@@ -97,6 +97,11 @@ table high-lulani:hover {
   padding: 0 1em;
 }
 
+.content th a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
 .content th:first-child {
   text-align: right;
 }

@@ -661,7 +661,7 @@ Proper nouns begin with a capital letter in the transliteration. These are names
 [e]<a href="http://dictionary.tinellb.com/x/xuci.html#highlulani">Xuci</a><a href="http://dictionary.tinellb.com/p/pura.html#highlulani">pura</a> <a href="http://dictionary.tinellb.com/c/cula.html#highlulani">Cula</a> <high-lulani>ZCor / yl</high-lulani> <em>The Crackled Egg</em> (name of a story)[/d]&date=20180325--------------------------------------------------3
 [1]Verbs
 A verb is a necessary part of any sentence, except when making <a href="../syntax/matrixclauses.html#copularsentences">copular sentences</a>. Verbs can be categorised on the basis of how many elements compose them.
-[2]Stem Verbs
+[3]Stem Verbs
 The class of stem verbs is semi-closed &mdash; there are only about 100 pure verbs in the entire language. Stem verbs consist of a single element.
 [d wordlist]
 [f]<a href="http://dictionary.tinellb.com/i/'i.html#highlulani">&rsquo;i</a> <high-lulani>i</high-lulani> <em>to say</em>
@@ -671,7 +671,7 @@ The class of stem verbs is semi-closed &mdash; there are only about 100 pure ver
 [e]<a href="http://dictionary.tinellb.com/k/kissa.html#highlulani">kissa</a> <high-lulani>K;s</high-lulani> <em>to fight</em>
 [e]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <high-lulani>M&gt;</high-lulani> <em>to be red</em>
 [/d]
-[2]Compound Verbs
+[3]Compound Verbs
 In order to extend or specify meaning,  verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of stem verbs.
 [d wordlist]
 [d folding]
@@ -692,7 +692,92 @@ In order to extend or specify meaning,  verbs can be compounded much as a noun c
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> + <a href="http://dictionary.tinellb.com/m/milami.html#highlulani">milami</a>
 [e]<em>think</em>-<em>surroundings</em>
 [e]&ldquo;to be conscious&rdquo;[/d]
-[/d]&date=20180420--------------------------------------------------4
+[/d]
+[2]Thematic Relations
+Verbs can also be categorised on the basis of how many arguments they can have, and how these are distributed among the four <a href="../../syntax/case.html">cases</a>.
+[t]|h subject |h object |h dative |h ablative
+h <a href="intransitivity.html">basic intransitive</a> | patient |c3 -
+h <a href="intransitivity.html#obliquearguments">oblique</a> |r3 theme |r3 - |c2 force
+h <a href="intransitivity.html#comparatives">comparative</a> |c2 measure
+h <a href="intransitivity.html#kineticverbs">kinetic</a> |r2 destination |r2 origin
+h <a href="transitivity.html#motiveverbs">motive</a> | agent | theme
+h <a href="intransitivity.html#symmetricrelations">symmetric</a> |c3 theme | -
+h <a href="intransitivity.html#adjectivalverbs">adjectival</a> |r3  stimulus |r2 - |r3 experiencer |r3 cause
+h <a href="intransitivity.html#chromaticverbs">chromatic</a>
+h <a href="transitivity.html#apparentverbs">apparent</a> | attribute
+h <a href="ambitransitivity.html#perceptiveverbs">perceptive</a> | experiencer |c2 stimulus |r5 -
+h <a href="ambitransitivity.html#communicativeverbs">communicative</a> | source | message | recipient
+h <a href="transitivity.html">basic transitive</a> |r4 agent | theme |r4 -
+h <a href="transitivity.html#vitalverbs">vital</a> | experiencer
+h <a href="transitivity.html#actionverbs">action</a> | activity
+h <a href="transitivity.html#transformativeverbs">transformative</a> | patient | material
+[/t]
+[d mobile-table]
+<strong>basic intransitive:</strong>
+[e]subject &rarr; patient
+<strong>oblique:</strong>
+[e]subject &rarr; theme
+[e]dative/ablative &rarr; force
+<strong>comparative:</strong>
+[e]subject &rarr; theme
+[e]dative/ablative &rarr;  measure
+<strong>kinetic:</strong>
+[e]subject &rarr; theme
+[e]dative &rarr; destination
+[e]ablative &rarr; origin
+<strong>motive:</strong>
+[e]subject &rarr; agent
+[e]object &rarr; theme
+[e]dative &rarr; destination
+[e]ablative &rarr; origin
+<strong>symmetric:</strong>
+[e]subject/object/dative &rarr; theme
+<strong>adjectival/chromatic:</strong>
+[e]subject &rarr; stimulus
+[e]dative &rarr; experiencer
+[e]ablative &rarr; cause
+<strong>apparent:</strong>
+[e]subject &rarr; stimulus
+[e]object &rarr; attribute
+[e]dative &rarr; experiencer
+[e]ablative &rarr; cause
+<strong>perceptive:</strong>
+[e]subject &rarr; experiencer
+[e]object/dative &rarr; stimulus
+<strong>communicative:</strong>
+[e]subject &rarr; source
+[e]object &rarr; message
+[e]dative &rarr; recipient
+<strong>basic transitive:</strong>
+[e]subject &rarr; agent
+[e]object &rarr; theme
+<strong>vital</strong>:
+[e]subject &rarr; agent
+[e]object &rarr; experiencer
+<strong>action:</strong>
+[e]subject &rarr; agent
+[e]object &rarr; activity
+<strong>transformative:</strong>
+[e]subject &rarr; agent
+[e]object &rarr; patient
+[e]ablative &rarr; material
+[/d]
+<dl>
+<dt>theme</dt>
+<dd>undergoes an action without being fundamentally changed</dd>
+<dt>patient</dt>
+<dd>undergoes an action and is changed in the process</dd>
+<dt>agent</dt>
+<dd>chooses to act upon a theme or patient</dd>
+<dt>force</dt>
+<dd>acts upon a theme or patient without conscious direction</dd>
+<dt>experiencer</dt>
+<dd>perceives a sensory or emotional stimulus</dd>
+<dt>stimulus</dt>
+<dd>creates a sensory or emotional effect on an experiencer</dd>
+<dt>attribute</dt>
+<dd>
+</dl>&date=20180506--------------------------------------------------4
 [1]Intransitivity
 Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
 [d folding]
@@ -2492,18 +2577,52 @@ The highlighted component denotes the only one that is compulsory, <em>i.e.</em>
 [e]the faces of the mothers <highlight>and the men who left</highlight>.[/d]
 [/d]&date=20180505--------------------------------------------------3
 [1]Gerunds
-Some verb phrases can be changed into nouns describing the activity.
+The gerund suffix <a href="http://dictionary.tinellb.com/r/-ru.html#highlulani">-ru</a> <high-lulani>w</high-lulani> changes basic verbs into nouns describing the activity.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">huba</a>ru <high-lulani>Vbw</high-lulani> <em>breathing</em>
+[e]<a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a>ru <high-lulani>mlw</high-lulani><em> reflecting</em>
+[e]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>ru <high-lulani>M&gt;w</high-lulani> <em>being red</em>[/d]
+Compound verbs, as well as those involving noun incorporation, can also be changed like this.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/d/dissu'ahati.html#highlulani">dissu&rsquo;ahati</a>ru <high-lulani>D;zahTw</high-lulani> <em>feeling happy</em>
+[e]<a href="http://dictionary.tinellb.com/p/pakicu.html#highlulani">pakicu</a>ru<strong> </strong><high-lulani>pKyw</high-lulani> <em>believing to be true</em>
+[e]<a href="http://dictionary.tinellb.com/i/'i'issi.html#highlulani">&rsquo;i&rsquo;issi</a>ru <high-lulani>ii;Sw</high-lulani> <em>singing</em>[/d]
+The genitive determiners, including <a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a> <high-lulani>q</high-lulani>, allow for (only) the subject of the verb to be mentioned.
+[d wordlist]
 [d folding]
-[f]<strong>Hubaru naqa.</strong>[e]<high-lulani>.Vbw / nq.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">Huba</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/n/naqa.html#highlulani">naqa</a>.
-[e]<em>breathe</em>-<span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span> <em>necessary</em>
-[e]&ldquo;Breathing is necessary&rdquo;.[/d]
+[f]<strong>jannikiluquruqa nimalu</strong>
+[e]<high-lulani>j;NKWAwq / NmW</high-lulani>
+[e][f]<a href="http://dictionary.tinellb.com/j/jannikiluqu.html#highlulani">jannikiluqu</a><a href="http://dictionary.tinellb.com/r/-ru.html#highlulani">-ru</a><a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a> <a href="http://dictionary.tinellb.com/n/nimalu.html#highlulani">nimalu</a>
+[e]<em>walk-</em><span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span>-<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span> <em>bear</em>
+[e]&ldquo;the bear&rsquo;s walking&rdquo;[/d]
 [d folding]
-[f]<strong>Mika ru pajaha kudasiruqa dasu.</strong>
-[e]<high-lulani>.Mk / w / pjh / &gt;dSwq / dz . </high-lulani>
-[e]<a href="http://dictionary.tinellb.com/m/mika.html#highlulani">Mika</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>j<a href="http://dictionary.tinellb.com/a/aha.html#highlulani">aha</a> <a href="http://dictionary.tinellb.com/k/ku.html#highlulani">ku</a>-<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a>-<a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a>-<a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/d/dasu.html#highlulani">dasu</a>.
-[e]<em>Some_group</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>eat</em>-<span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span>-<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span> <em>meat offend</em>
-[e]&rdquo;Eating meat offends some people.&rdquo;[/d]&date=20180505--------------------------------------------------2
+[f]<strong>guqqirupahi</strong>
+[e]<high-lulani>&lt;;QwpH</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/g/guqqi.html#highlulani">guqqi</a><a href="http://dictionary.tinellb.com/r/-ru.html#highlulani">-ru</a><a href="http://dictionary.tinellb.com/p/-pahi.html#highlulani">-pahi</a>
+[e]<em>bad</em>-<span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span>-<span class="tooltip"><small-caps>1gen</small-caps><span class="tooltip-text">first person genitive</span></span>
+[e]&ldquo;my being bad&rdquo;[/d]
+[/d]
+This continues to apply in instances using argument promotion.
+[d wordlist]
+[d folding]
+[f]<strong>dasilluruqa dasu</strong>
+[e]<high-lulani>dS;Wwq / dz</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a><a href="http://dictionary.tinellb.com/i/-illu.html#highlulani">-illu</a><a href="http://dictionary.tinellb.com/r/-ru.html#highlulani">-ru</a><a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a> <a href="http://dictionary.tinellb.com/d/dasu.html#highlulani">dasu</a>
+[e]<em>eat-</em><span class="tooltip"><small-caps>psv</small-caps><span class="tooltip-text">passive</span></span>-<span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span>-<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span> <em>meat</em>
+[e]&ldquo;the eating of meat&rdquo;[/d]
+[d folding]
+[e]<strong>sikukkarudisi</strong>
+[e]<high-lulani>S&gt;;kwDS</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/s/siku.html#highlulani">siku</a><a href="http://dictionary.tinellb.com/k/-kka.html#highlulani">-kka</a><a href="http://dictionary.tinellb.com/r/-ru.html#highlulani">-ru</a><a href="http://dictionary.tinellb.com/d/-disi.html#highlulani">-disi</a>
+[e]<em>die</em>-<small-caps>abV</small-caps>-<span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span>-<span class="tooltip"><small-caps>3ani;gen</small-caps><span class="tooltip-text">animate third person genitive</span></span>
+[e]&ldquo;his murdering of another&rdquo;[/d]
+[d folding]
+[f]<strong>&rsquo;usaxaruqa luna</strong>
+[e]<high-lulani>usxwq / Wn</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a><a href="http://dictionary.tinellb.com/x/-xa.html#highlulani">-xa</a><a href="http://dictionary.tinellb.com/r/-ru.html#highlulani">-ru</a><a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a> <a href="http://dictionary.tinellb.com/l/luna.html#highlulani">luna</a>
+[e]<em>look-</em><span class="tooltip"><small-caps>dtv</small-caps><span class="tooltip-text">dative promotion</span></span>-<span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span>-<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span><em> moon</em>
+[e]&ldquo;looking at the moon&rdquo;[/d]
+[/d]&date=20180506--------------------------------------------------2
 [1]Apocrypha
 This section details particular categories of vocabulary items.
 &date=20170716
