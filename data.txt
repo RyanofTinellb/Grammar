@@ -424,22 +424,7 @@ hr3 glottal | &rsquo;a: <high-lulani>a</high-lulani> ||||| ha: <high-lulani>h</h
 [/d][/d]
 Geminate consonants are shown as <high-lulani>;</high-lulani>, placed before the geminated consonant.
 A central dot <high-lulani>/</high-lulani> is placed between words, and sentences begin and end with a <high-lulani>.</high-lulani> symbol.
-While their shapes have been modified over time, it is still fairly clear how each phonetic feature has been symbolised.
-[l]stop: (none)
-nasal: vertical stroke
-fricative: arc
-lateral: swish
-flap: loop
-labial: low circle
-alveolar / retroflex: apex
-palatal: corner
-velar: semi-circle
-glottal: high circle
-open vowel: (none)
-front vowel: vertical line
-back vowel: horizontal line
-[/l]
-&date=20180420--------------------------------------------------3
+&date=20180507--------------------------------------------------3
 [1]Spelling Syllabary
 There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol is represented by the word <a href="http://dictionary.tinellb.com/f/fa''a.html#highlulani">fa&#x294;a</a> <em>language</em>.
 [d left-columns]
@@ -692,92 +677,7 @@ In order to extend or specify meaning,  verbs can be compounded much as a noun c
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> + <a href="http://dictionary.tinellb.com/m/milami.html#highlulani">milami</a>
 [e]<em>think</em>-<em>surroundings</em>
 [e]&ldquo;to be conscious&rdquo;[/d]
-[/d]
-[2]Thematic Relations
-Verbs can also be categorised on the basis of how many arguments they can have, and how these are distributed among the four <a href="../../syntax/case.html">cases</a>.
-[t]|h subject |h object |h dative |h ablative
-h <a href="intransitivity.html">basic intransitive</a> | patient |c3 -
-h <a href="intransitivity.html#obliquearguments">oblique</a> |r3 theme |r3 - |c2 force
-h <a href="intransitivity.html#comparatives">comparative</a> |c2 measure
-h <a href="intransitivity.html#kineticverbs">kinetic</a> |r2 destination |r2 origin
-h <a href="transitivity.html#motiveverbs">motive</a> | agent | theme
-h <a href="intransitivity.html#symmetricrelations">symmetric</a> |c3 theme | -
-h <a href="intransitivity.html#adjectivalverbs">adjectival</a> |r3  stimulus |r2 - |r3 experiencer |r3 cause
-h <a href="intransitivity.html#chromaticverbs">chromatic</a>
-h <a href="transitivity.html#apparentverbs">apparent</a> | attribute
-h <a href="ambitransitivity.html#perceptiveverbs">perceptive</a> | experiencer |c2 stimulus |r5 -
-h <a href="ambitransitivity.html#communicativeverbs">communicative</a> | source | message | recipient
-h <a href="transitivity.html">basic transitive</a> |r4 agent | theme |r4 -
-h <a href="transitivity.html#vitalverbs">vital</a> | experiencer
-h <a href="transitivity.html#actionverbs">action</a> | activity
-h <a href="transitivity.html#transformativeverbs">transformative</a> | patient | material
-[/t]
-[d mobile-table]
-<strong>basic intransitive:</strong>
-[e]subject &rarr; patient
-<strong>oblique:</strong>
-[e]subject &rarr; theme
-[e]dative/ablative &rarr; force
-<strong>comparative:</strong>
-[e]subject &rarr; theme
-[e]dative/ablative &rarr;  measure
-<strong>kinetic:</strong>
-[e]subject &rarr; theme
-[e]dative &rarr; destination
-[e]ablative &rarr; origin
-<strong>motive:</strong>
-[e]subject &rarr; agent
-[e]object &rarr; theme
-[e]dative &rarr; destination
-[e]ablative &rarr; origin
-<strong>symmetric:</strong>
-[e]subject/object/dative &rarr; theme
-<strong>adjectival/chromatic:</strong>
-[e]subject &rarr; stimulus
-[e]dative &rarr; experiencer
-[e]ablative &rarr; cause
-<strong>apparent:</strong>
-[e]subject &rarr; stimulus
-[e]object &rarr; attribute
-[e]dative &rarr; experiencer
-[e]ablative &rarr; cause
-<strong>perceptive:</strong>
-[e]subject &rarr; experiencer
-[e]object/dative &rarr; stimulus
-<strong>communicative:</strong>
-[e]subject &rarr; source
-[e]object &rarr; message
-[e]dative &rarr; recipient
-<strong>basic transitive:</strong>
-[e]subject &rarr; agent
-[e]object &rarr; theme
-<strong>vital</strong>:
-[e]subject &rarr; agent
-[e]object &rarr; experiencer
-<strong>action:</strong>
-[e]subject &rarr; agent
-[e]object &rarr; activity
-<strong>transformative:</strong>
-[e]subject &rarr; agent
-[e]object &rarr; patient
-[e]ablative &rarr; material
-[/d]
-<dl>
-<dt>theme</dt>
-<dd>undergoes an action without being fundamentally changed</dd>
-<dt>patient</dt>
-<dd>undergoes an action and is changed in the process</dd>
-<dt>agent</dt>
-<dd>chooses to act upon a theme or patient</dd>
-<dt>force</dt>
-<dd>acts upon a theme or patient without conscious direction</dd>
-<dt>experiencer</dt>
-<dd>perceives a sensory or emotional stimulus</dd>
-<dt>stimulus</dt>
-<dd>creates a sensory or emotional effect on an experiencer</dd>
-<dt>attribute</dt>
-<dd>
-</dl>&date=20180506--------------------------------------------------4
+[/d]&date=20180507--------------------------------------------------4
 [1]Intransitivity
 Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
 [d folding]
@@ -2629,168 +2529,225 @@ This section details particular categories of vocabulary items.
 --------------------------------------------------3
 [1]Numbers
 [2]Cardinal Numbers
-High Lulani numbers are written with the positive digits (1, 2, 3, 4, 5, 6 and 7), their negative counterparts (<overline>1</overline>, <overline>2</overline>, <overline>3</overline>, <overline>4</overline>, <overline>5</overline>, <overline>6</overline> and <overline>7</overline>) and a zero (0).
-When writing out a number, each digit is worth fifteen times as much as the following digit. A period (fractional point: . ) is used to separate the integer part of the number from the mantissa. A comma (,) is used in the integer part to separate the digits into groupings of four, beginning from the fractional point.
-[f]2 <em>two</em>
-[e]5.<overline>3</overline> <em>four and four-fifths = five + (minus three &times; (fifteen ^ minus one</em></em>
-[e]1<overline>7</overline> <em>eight = (one &times; fifteen) + (minus seven)</em>
-[e]20 <em>thirty = (two &times; fifteen)</em>
-[e]3<overline>2</overline>6 <em>six hundred and forty-one =
-(three &times; (fifteen ^ two</em> + (minus two &times; fifteen) + six</em>
-[e]<overline>1</overline>,34<overline>5</overline>3 <em>minus thirty-nine thousand, six hundred and seventy-two =
-(minus one &times; (fifteen ^ four</em> + (three &times; (fifteen ^ three</em> +
-(four &times; (fifteen ^ two</em> + (minus five &times; fifteen) + three</em>
+The number system in High Lulani uses balanced sesquidecimal (base 15), and so numbers are written with the positive digits (1, 2, 3, 4, 5, 6 and 7), their negative counterparts (<overline>1</overline>, <overline>2</overline>, <overline>3</overline>, <overline>4</overline>, <overline>5</overline>, <overline>6</overline> and <overline>7</overline>) and a zero (0). A period (fractional point: . ) is used to separate the integer part of the number from the mantissa. A comma (,) is used in the integer part to separate the digits into groupings of four, beginning from the fractional point.
 [3]One-digit Numbers
 Here are the names for the one-digit numbers:
-[d example]
-[t] <a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">(qi)hha</a> | <em>0</em>
- <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> | <em>1</em> |  | <a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> | <em><overline>1</overline></em>
- <a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> | <em>2</em> |  | <a href="http://dictionary.tinellb.com/k/kannu.html#highlulani">kannu</a> | <em><overline>2</overline></em>
- <a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> | <em>3</em> |  | <a href="http://dictionary.tinellb.com/b/bila.html#highlulani">bila</a> | <em><overline>3</overline></em>
- <a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> | <em>4</em> |  | <a href="http://dictionary.tinellb.com/m/missu.html#highlulani">missu</a> | <em><overline>4</overline></em>
- <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a> | <em>5</em> |  | <a href="http://dictionary.tinellb.com/l/laffi.html#highlulani">laffi</a> | <em><overline>5</overline></em>
- <a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a> | <em>6</em> |  | <a href="http://dictionary.tinellb.com/j/jusiti.html#highlulani">jusiti</a> | <em><overline>6</overline></em>
- <a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> | <em>7</em> |  | <a href="http://dictionary.tinellb.com/h/haki.html#highlulani">haki</a> | <em><overline>7</overline></em>
-[/t][/d]
-<div class="mobile-table">
-[e]<a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">(qi)hha</a> <em>0</em>
-[e]<a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <em>1</em>
-[e]<a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>2</em>
-[e]<a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> <em>3</em>
-[e]<a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> <em>4</em>
-[e]<a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a> <em>5</em>
-[e]<a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a> <em>6</em>
-[e]<a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <em>7</em>
-[e]<a href="http://dictionary.tinellb.com/h/haki.html#highlulani">haki</a> <em><overline>7</overline></em>
-[e]<a href="http://dictionary.tinellb.com/j/jusiti.html#highlulani">jusiti</a> <em><overline>6</overline></em>
-[e]<a href="http://dictionary.tinellb.com/l/laffi.html#highlulani">laffi</a> <em><overline>5</overline></em>
-[e]<a href="http://dictionary.tinellb.com/m/missu.html#highlulani">missu</a> <em><overline>4</overline></em>
-[e]<a href="http://dictionary.tinellb.com/b/bila.html#highlulani">bila</a> <em><overline>3</overline></em>
-[e]<a href="http://dictionary.tinellb.com/k/kannu.html#highlulani">kannu</a> <em><overline>2</overline></em>
-[e]<a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> <em><overline>1</overline></em>
-</div>
-The full form <a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">qihha</a> <em>zero</em> is only used when by itself, or first in a number or noun phrase.
+[d left-columns]
+[t] <a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">(qi)hha</a> | <high-lulani>Q;h</high-lulani> | <em>0</em>
+ <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> | <high-lulani>Xt </high-lulani>| <em>1</em>
+ <a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> | <high-lulani>r</high-lulani> | <em>2</em>
+ <a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> | <high-lulani>KF</high-lulani> | <em>3</em>
+ <a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> | <high-lulani>Iw</high-lulani> | <em>4</em>
+ <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a> | <high-lulani>&lt;H</high-lulani> | <em>5</em>
+ <a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a> | <high-lulani>uS</high-lulani> | <em>6</em>
+ <a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> | <high-lulani>sWM</high-lulani> | <em>7</em>
+[/t]
+[t] <a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">(qi)hha</a> | <high-lulani>Q;h</high-lulani> | <overline><em>0</em></overline>
+ <a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> | <high-lulani>U;W</high-lulani> | <em><overline>1</overline></em>
+ <a href="http://dictionary.tinellb.com/k/kannu.html#highlulani">kannu</a> | <high-lulani>k;I</high-lulani> | <em><overline>2</overline></em>
+ <a href="http://dictionary.tinellb.com/b/bila.html#highlulani">bila</a> | <high-lulani>Bl</high-lulani> | <em><overline>3</overline></em>
+ <a href="http://dictionary.tinellb.com/m/missu.html#highlulani">missu</a> | <high-lulani>M;z</high-lulani> | <em><overline>4</overline></em>
+ <a href="http://dictionary.tinellb.com/l/laffi.html#highlulani">laffi</a> | <high-lulani>l;F</high-lulani> | <em><overline>5</overline></em>
+ <a href="http://dictionary.tinellb.com/j/jusiti.html#highlulani">jusiti</a> | <high-lulani>YST</high-lulani> | <em><overline>6</overline></em>
+ <a href="http://dictionary.tinellb.com/h/haki.html#highlulani">haki</a> | <high-lulani>hK</high-lulani> | <em><overline>7</overline></em>
+[/t]
+[/d]
+[d mobile-table]
+[d wordlist]
+[e]<a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">(qi)hha</a> <high-lulani>Q;h</high-lulani> <em>0</em>
+[e]<a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <high-lulani>Xt</high-lulani> <em>1</em>
+[e]<a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <high-lulani>r</high-lulani> <em>2</em>
+[e]<a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> <high-lulani>KF</high-lulani> <em>3</em>
+[e]<a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> <high-lulani>Iw</high-lulani> <em>4</em>
+[e]<a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a> <high-lulani>&lt;H</high-lulani> <em>5</em>
+[e]<a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a> <high-lulani>uS</high-lulani> <em>6</em>
+[e]<a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <high-lulani>sWM</high-lulani> <em>7</em>
+[e]<a href="http://dictionary.tinellb.com/h/haki.html#highlulani">haki</a> <high-lulani>hK</high-lulani> <em><overline>7</overline></em>
+[e]<a href="http://dictionary.tinellb.com/j/jusiti.html#highlulani">jusiti</a> <high-lulani>YST</high-lulani> <em><overline>6</overline></em>
+[e]<a href="http://dictionary.tinellb.com/l/laffi.html#highlulani">laffi</a> <high-lulani>l;F</high-lulani> <em><overline>5</overline></em>
+[e]<a href="http://dictionary.tinellb.com/m/missu.html#highlulani">missu</a> <high-lulani>M;z</high-lulani> <em><overline>4</overline></em>
+[e]<a href="http://dictionary.tinellb.com/b/bila.html#highlulani">bila</a> <high-lulani>Bl</high-lulani> <em><overline>3</overline></em>
+[e]<a href="http://dictionary.tinellb.com/k/kannu.html#highlulani">kannu</a> <high-lulani>k;I</high-lulani> <em><overline>2</overline></em>
+[e]<a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> <high-lulani>U;W</high-lulani> <em><overline>1</overline></em>[/d]
+[/d]
+The full form <a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">qihha</a> <high-lulani>Q;h</high-lulani> <em>zero</em> is only used when by itself, or first in a number or noun phrase.
 [3]Two-digit Numbers
-Numbers between 1<overline>7</overline> and 16 are composed of the prefix <a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a> and the final two syllables of the number, except for <a href="http://dictionary.tinellb.com/s/salura.html#highlulani">salura</a> (not <a href="http://dictionary.tinellb.com/s/sara.html#highlulani">sara</a>) 12.
-Round numbers, <em>i.e.:</em> numbers ending with a single zero, use the suffix <a href="http://dictionary.tinellb.com/h/-hha.html#highlulani">-hha</a>.
-[f]<a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a> 10
-[e]<a href="http://dictionary.tinellb.com/r/rahha.html#highlulani">rahha</a> 20
-[e]<strong>kifihha</strong> 30
-All other two digit numbers, except for 22, are formed by juxtaposing the tens digit with the units.
-[f]<a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a><a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> <overline>1</overline>3
-[e]<a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> 17
-[e]<a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a><a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> 24
-[e]<a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a><a href="http://dictionary.tinellb.com/l/laffi.html#highlulani">laffi</a> 3<overline>5</overline>
-The word for 22, the exception, is <a href="http://dictionary.tinellb.com/r/ranira.html#highlulani">ranira</a>.
+Numbers between 1<overline>7</overline> and 16 are composed of the prefix <a href="http://dictionary.tinellb.com/s/sa-.html#highlulani">sa-</a> <high-lulani>s</high-lulani> and the final two syllables of the number, except for <a href="http://dictionary.tinellb.com/s/salura.html#highlulani">salura</a> (not <a href="http://dictionary.tinellb.com/s/sara.html#highlulani">sara</a>) <em>12</em>.
+Round numbers, <em>i.e.:</em> numbers ending with a single zero, use the suffix <a href="http://dictionary.tinellb.com/h/-hha.html#highlulani">-hha</a> <high-lulani>;h</high-lulani>.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a> <high-lulani>s;h</high-lulani>&#x200e; <em>10</em>
+[e]rahha <high-lulani>r;h</high-lulani> <em>20</em>
+[e]<strong>kifihha</strong> <high-lulani>KF;h</high-lulani> <em>30</em>[/d]
+All other two digit numbers, except for <em>22</em>, are formed by juxtaposing the tens digit with the units.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a><a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> <high-lulani>U;WKF</high-lulani> <em><overline>1</overline>3</em>
+[e]<a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <high-lulani>XtsWM</high-lulani> <em>17</em>
+[e]<a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a><a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> <high-lulani>rIw</high-lulani> <em>24</em>
+[e]<a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a><a href="http://dictionary.tinellb.com/l/laffi.html#highlulani">laffi</a> <high-lulani>KFl;F</high-lulani> <em>3<overline>5</overline></em>[/d]
+The word for <em>22</em>, the exception, is <a href="http://dictionary.tinellb.com/r/ranira.html#highlulani">ranira</a> <high-lulani>rNr</high-lulani>.
 [3]Three- and Four-digit Numbers
 Three- and four-digit numbers are divided into the number of hundreds, and the remainder. This remainder is always the last two digits of the number.
-The word for 100 is <a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a>.
-Other three-digit numbers beginning with a 1 are formed by prefixing <a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> to the remainder.
-[f]<a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a><a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a><a href="http://dictionary.tinellb.com/k/kannu.html#highlulani">kannu</a> 14<overline>2</overline>
-Three- and four-digit numbers greater than this are formed by appending <a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> to the number of hundreds, which is then followed by the remainder as a separate word.
-[f]<a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a><a href="http://dictionary.tinellb.com/b/bila.html#highlulani">bila</a> 56<overline>3</overline>
-[e]<a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a><a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> 1034
-[e]<a href="http://dictionary.tinellb.com/k/kannu.html#highlulani">kannu</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <a href="http://dictionary.tinellb.com/m/missu.html#highlulani">missu</a><a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> <overline>2</overline>2<overline>4</overline><overline>1</overline>
+The word for <em>100</em> is <a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <high-lulani>t;K</high-lulani>. Other three-digit numbers beginning with a 1 are formed by prefixing this word to the remainder, while even larger three- and four-digit numbers append it to the number of hundreds, which is then followed by the remainder as a separate word.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a><a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a><a href="http://dictionary.tinellb.com/k/kannu.html#highlulani">kannu</a> <high-lulani>t;KIwk;I</high-lulani> <em>14<overline>2</overline></em>
+[f]<a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a><a href="http://dictionary.tinellb.com/b/bila.html#highlulani">bila</a> <high-lulani>&lt;Ht;K / uSBl</high-lulani> <em>56<overline>3</overline></em>
+[e]<a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a><a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> <high-lulani>s;ht;K / KFIw</high-lulani> <em>1034</em>
+[e]<a href="http://dictionary.tinellb.com/k/kannu.html#highlulani">kannu</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <a href="http://dictionary.tinellb.com/m/missu.html#highlulani">missu</a><a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> <high-lulani>k;Irt;K / M;zU;W</high-lulani> <em><overline>2</overline>2<overline>4</overline><overline>1</overline></em>[/d]
 In any of these cases, if the remainder is zero, it is left off.
-[f]<a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <overline>1</overline>00
-[e]<a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> 200
-[e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a><a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> 1500
-[e]<a href="http://dictionary.tinellb.com/b/bila.html#highlulani">bila</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <overline>3</overline>700
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <high-lulani>U;Wt;K</high-lulani> <em><overline>1</overline>00</em>
+[e]<a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <high-lulani>rt;K</high-lulani> <em>200</em>
+[e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a><a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <high-lulani>s&lt;Ht;K</high-lulani> <em>1500</em>
+[e]<a href="http://dictionary.tinellb.com/b/bila.html#highlulani">bila</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <high-lulani>BlsWMt;K</high-lulani> <em><overline>3</overline>700</em>[/d]
 [3]Higher and Lower Order Numbers
 When a number is written out in digits, each set of four digits from the fractional point makes up a group. The group furthest from the fractional point may not have this full quota of digits. An index marker notes the identity of a particular group.
-The index marker is composed of the prefix <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> followed by the number of groups between this one and the fractional point. Positive index numbers are for the integer part of the number, and negative index numbers are for the mantissa.
+The index marker is composed of the prefix <a href="http://dictionary.tinellb.com/p/pa-.html#highlulani">pa-</a> <high-lulani>p</high-lulani> followed by the number of groups between this one and the fractional point. Positive index numbers are for the integer part of the number, and negative index numbers are for the mantissa.
 The index marker is suffixed to the group word.
-[f]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> 1,0000
-[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> 1,0000,0000
-[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> 1,0000,0000,0000
-[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> 0.0001
-[e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a><a href="http://dictionary.tinellb.com/m/missu.html#highlulani">missu</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> 1<overline>4</overline>,0000
-[e]<a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a><a href="http://dictionary.tinellb.com/r/ranira.html#highlulani">ranira</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> 122,0000
-[e]<a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a><a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> 6<overline>1</overline>2,0000
-There is nothing preventing an index-marked number being used within another index marker, although the second <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> is usually geminated.
-[f]<strong>pappaxita</strong> 1,0000<sup>1,0000</sup>
-[e]<strong>papappaxita</strong> 1,0000<sup>1,0000^1,0000</sup>
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <high-lulani>pXt</high-lulani> <em>1,0000</em>
+[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <high-lulani>pr</high-lulani> <em>1,0000,0000</em>
+[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> <high-lulani>pKF</high-lulani> <em>1,0000,0000,0000</em>
+[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a> <high-lulani>pU;W</high-lulani> <em>0.0001</em>
+[e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a><a href="http://dictionary.tinellb.com/m/missu.html#highlulani">missu</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <high-lulani>sM;zpXt</high-lulani> <em>1<overline>4</overline>,0000</em>
+[e]<a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a><a href="http://dictionary.tinellb.com/r/ranira.html#highlulani">ranira</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <high-lulani>t;KrNrpXt</high-lulani> <em>122,0000</em>
+[e]<a href="http://dictionary.tinellb.com/u/'usi.html#highlulani">&rsquo;usi</a><a href="http://dictionary.tinellb.com/t/takki.html#highlulani">takki</a> <a href="http://dictionary.tinellb.com/m/mullu.html#highlulani">mullu</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <high-lulani>uSt;K / U;WrpXt</high-lulani>  <em>6<overline>1</overline>2,0000</em>[/d]
+There is nothing preventing an index-marked number being used within another index marker, although the second <a href="http://dictionary.tinellb.com/p/pa-.html#highlulani">pa-</a> is usually geminated.
+[d wordlist]
+[f]<strong>pappaxita</strong> <high-lulani>p;pXt</high-lulani> <em>1,0000<sup>1,0000</sup></em>
+[e]<strong>papappaxita</strong> <high-lulani>pp;pXt</high-lulani> <em>1,0000<sup>1,0000^1,0000</sup></em>[/d]
 [3]Non-integral Numbers
 [4]Reading Mantissas
-There are two ways to read a mantissa.
-One uses the above method of index markers, and the second reads out the digits in pairs or individually. These methods are often combined: using index markers for the first digit groups, and then continuing to read digits separately.
+There are two ways to read a mantissa. One uses the above method of index markers, and the second reads out the digits in pairs or individually. These methods are often combined: using index markers for the first digit groups, and then continuing to read digits separately.
 [4]Repeating and Reflecting Strings
-All rational numbers end with a repeating string of digits. For some numbers, this string is &ldquo;0&rdquo;. In non-zero cases, the word <a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> repeat is inserted before the repeating string. The string must be read out with individual digits.
-There are also numbers for which the repeating string can be cut in half, with digits in the second half being the negative of the digits in the first half. For these, only the first half is read out, with the word <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> reflect inserted.
-[f]<a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> 0.5252&hellip;
-[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">qihha</a> <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> 0.15252&hellip;
-[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">qihha</a> <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> 0.152<overline>5</overline><overline>2</overline>52<overline>5</overline><overline>2</overline>&hellip;
+All rational numbers end with a repeating string of digits. For some numbers, this string is &ldquo;0&rdquo;. In non-zero cases, the word <a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <high-lulani>eN</high-lulani> <em>repeat</em> is inserted before the repeating string. The string must be read out with individual digits.
+There are also numbers for which the repeating string can be cut in half, with digits in the second half being the negative of the digits in the first half. For these, only the first half is read out, with the word <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> <high-lulani>ml</high-lulani> <em>reflect</em> inserted.
+[f]<a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <high-lulani>eN / &lt;Hr</high-lulani> <em>0.5252&hellip;</em>
+[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">qihha</a> <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <a href="http://dictionary.tinellb.com/t/tuni.html#highlulani">tuni</a> <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <high-lulani>pQ;h / Xt / eN / &lt;Hr</high-lulani> <em>0.15252&hellip;</em>
+[e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a><a href="http://dictionary.tinellb.com/q/qihha.html#highlulani">qihha</a> <a href="http://dictionary.tinellb.com/x/xita.html#highlulani">xita</a> <a href="http://dictionary.tinellb.com/m/mala.html#highlulani">mala</a> <a href="http://dictionary.tinellb.com/g/guhi.html#highlulani">guhi</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <high-lulani>pQ;h / Xt / ml / &lt;Hr</high-lulani> <em>0.152<overline>5</overline><overline>2</overline>52<overline>5</overline><overline>2</overline>&hellip;</em>
 [4]Fractions
-The suffix <a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a> separates the numerator from the denominator. <a href="http://dictionary.tinellb.com/s/saki.html#highlulani">Saki</a> is used if the numerator is 1. There is also a commonly used variant for &frac12;: <a href="http://dictionary.tinellb.com/i/'ima.html#highlulani">&rsquo;ima</a>.
-[f]<a href="http://dictionary.tinellb.com/i/'ima.html#highlulani">&rsquo;ima</a> / <a href="http://dictionary.tinellb.com/s/saki.html#highlulani">saki</a> <a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> &frac12;
-[e]<a href="http://dictionary.tinellb.com/s/saki.html#highlulani">saki</a> <a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> &frac13;
-[e]<a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a><a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a> <a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> &frac34;
+The suffix <a href="http://dictionary.tinellb.com/k/-ki.html#highlulani">-ki</a> <high-lulani>K</high-lulani> separates the numerator from the denominator. <a href="http://dictionary.tinellb.com/s/saki.html#highlulani">Saki</a> <high-lulani>sK</high-lulani> is used if the numerator is 1. There is also a commonly used variant for <em>&frac12;</em>: <a href="http://dictionary.tinellb.com/i/'ima.html#highlulani">&rsquo;ima</a> <high-lulani>im</high-lulani>.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/i/'ima.html#highlulani">&rsquo;ima</a> / <a href="http://dictionary.tinellb.com/s/saki.html#highlulani">saki</a> <a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <high-lulani>sK / r . im</high-lulani> <em>&frac12</em>;
+[e]<a href="http://dictionary.tinellb.com/s/saki.html#highlulani">saki</a> <a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a> <high-lulani>sK / KF</high-lulani> <em>&frac13;</em>
+[e]<a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</a><a href="http://dictionary.tinellb.com/k/ki.html#highlulani">ki</a> <a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a> <high-lulani>KFK / Iw</high-lulani> <em>&frac34;</em>[/d]
 [2]Ordinal Numbers
 Ordinal numbers are used to mark position in a line or a list.
-The first two ordinal numbers are suppletive, that is, they are not related to their cardinals. All other ordinals are formed by adding the suffix <a href="http://dictionary.tinellb.com/u/-uju.html#highlulani">-uju</a> <small-caps>ord</small-caps> to the cardinal number.
-[f]<a href="http://dictionary.tinellb.com/b/bijju.html#highlulani">bijju</a> <em>first</em>
-[e]<a href="http://dictionary.tinellb.com/m/matta.html#highlulani">matta</a> <em>second</em>
-[e]<strong>kifuju</strong> <em>third</em>
-[e]<strong>nuruju</strong> <em>fourth</em>
-[e]<strong>salumuju</strong> <em>seventh</em>
-[e]<strong>saqikkuju</strong> <em>fifteenth</em>
-[e]<strong>saxituju</strong> <em>sixteenth</em>
-[e]<strong>takkuju</strong> <em>two hundred and twenty-fifth</em>
+The first two ordinal numbers are suppletive, that is, they are not related to their cardinals. All other ordinals are formed by adding the suffix <a href="http://dictionary.tinellb.com/u/-uju.html#highlulani">-uju</a> <high-lulani>Y</high-lulani> to the cardinal number.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/b/bijju.html#highlulani">bijju</a> <high-lulani>B;Y</high-lulani> <em>1<sup>st</sup></em>
+[e]<a href="http://dictionary.tinellb.com/m/matta.html#highlulani">matta</a> <high-lulani>m;t</high-lulani> <em>2<sup>nd</sup></em>
+[e]<strong>kifuju</strong> <high-lulani>KvY</high-lulani> <em>3<sup>rd</sup></em>
+[e]<strong>nuruju</strong> <high-lulani>IwY</high-lulani> <em>4<sup>th</sup></em>
+[e]<strong>salumuju</strong> <high-lulani>sWUY</high-lulani> <em>7<sup>th</sup></em>
+[e]<strong>saqikkuju</strong> <high-lulani>sQ;&gt;Y</high-lulani> <em>10<sup>th</sup></em>
+[e]<strong>saxituju</strong> <high-lulani>sXeY</high-lulani> <em>11<sup>th</sup></em>
+[e]<strong>takkuju</strong> <high-lulani>t;&gt;Y</high-lulani> <em>100<sup>th</sup></em>[/d]
 [2]Using Numbers
 Ordinal and cardinal numbers are used in noun phrases, and are inserted between any case markers or adpositions, and the noun.
-[f]<strong>nuruju</strong> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a>
+[d wordlist]
+[d folding]
+[f]<strong>nuruju kimilli</strong>
+[e]<high-lulani>IwY / KM;L</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/n/nuru.html#highlulani">nuru</a><a href="http://dictionary.tinellb.com/u/-uju.html#highlulani">-uju</a> <a href="http://dictionary.tinellb.com/k/kimilli.html#highlulani">kimilli</a>
 [e]<em>four-</em><small-caps>ord</small-caps> <em>king</em>
-[e]&ldquo;the fourth king.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/k/kalu.html#highlulani">kalu</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>
+[e]&ldquo;the fourth king&rdquo;[/d]
+[d folding]
+[e]<strong>kalusalumi lulani</strong>
+[e]<high-lulani>kWsWM / WlN</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">kalu-</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a>
 [e]<span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span><em>-seven queen</em>
-[e]&ldquo;due to the seven queens.&rdquo;
+[e]&ldquo;due to the seven queens.&rdquo;[/d]
+[/d]
 Numbers can be suffixed to a noun to denote not the quantity, but a quality.
-[f]<a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <a href="http://dictionary.tinellb.com/s/sinnadi.html#highlulani">sinnadi</a>
-[e]seven story-<span class="tooltip"><small-caps>nmn</small-caps><span class="tooltip-text">nominaliser</span></span>
-[e]&ldquo;seven books&rdquo;
-[f]<a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a>
-[e]<em>story</em>-<em>seven</em>
-[e]&ldquo;septet&rdquo;
-The number <a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>two</em> can be used in this way to refer to a pair of something that is usually found in pairs
-[f]<a href="http://dictionary.tinellb.com/l/luffu.html#highlulani">luffu</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>eyes</em>
-[e]<a href="http://dictionary.tinellb.com/i/'itikku.html#highlulani">&rsquo;itikku</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>breasts</em>
-[e]<a href="http://dictionary.tinellb.com/t/tiba.html#highlulani">tiba</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <em>legs</em>
-&date=20180317--------------------------------------------------3
+[d wordlist]
+[d folding]
+[f]<strong>salumi sinnadi</strong>
+[e]<high-lulani>sWM / S;nD</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a> <a href="http://dictionary.tinellb.com/s/sinnadi.html#highlulani">sinnadi</a>
+[e]<em>seven book</em>
+[e]&ldquo;seven books&rdquo;[/d]
+[d folding]
+[f]<strong>sinnasalumi</strong>
+[e]<high-lulani>S;nsWM</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/s/sinna.html#highlulani">sinna</a><a href="http://dictionary.tinellb.com/s/salumi.html#highlulani">salumi</a>
+[e]<em>story-seven</em>
+[e]&ldquo;septet&rdquo;[/d]
+[/d]
+The number <a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <high-lulani>r</high-lulani> <em>two</em> can be used in this way to refer to a pair of something.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/l/luffu.html#highlulani">luffu</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <high-lulani>W;vr</high-lulani> <em>eyes</em>
+[e]<a href="http://dictionary.tinellb.com/i/'itikku.html#highlulani">&rsquo;itikku</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <high-lulani>iT;&gt;r</high-lulani> <em>breasts</em>
+[e]<a href="http://dictionary.tinellb.com/t/tiba.html#highlulani">tiba</a><a href="http://dictionary.tinellb.com/r/ra.html#highlulani">ra</a> <high-lulani>Tbr</high-lulani> <em>legs</em>[/d]
+&date=20180507--------------------------------------------------3
 [1]Colours
-The basis colour terms are all verbs:
-[f]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <em>blue</em>
-[e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a> <em>yellow</em>
-[e]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <em>red</em>
-[f]<a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a> <em>brown</em>
-[f]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a> <em>white</em>
-[e]<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a> <em>black</em>
+The basic colour terms are all verbs:
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a> <high-lulani>bY</high-lulani> <em>blue</em>
+[e]<a href="http://dictionary.tinellb.com/s/sa.html#highlulani">sa</a> <high-lulani>s</high-lulani> <em>yellow</em>
+[e]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a> <high-lulani>M&gt;</high-lulani> <em>red</em>
+[f]<a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a> <high-lulani>M;W</high-lulani> <em>brown</em>
+[f]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a> <high-lulani>K;a</high-lulani> <em>white</em>
+[e]<a href="http://dictionary.tinellb.com/g/ga.html#highlulani">ga</a> <high-lulani>g</high-lulani> <em>black</em>[/d]
 <img src="/images/colourwheel.png">
-<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">Baju</a> <em>blue</em> covers both light and dark blue, the darkest violets, and all but the lightest shades of green. <a href="http://dictionary.tinellb.com/s/sa.html#highlulani">Sa</a> <em>yellow</em> covers the lightest shades of orange and green, as well as standard yellow. <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">Miku</a> <em>red</em> refers to all of red and pink, light purples and most of the orange spectrum, however, dark orange is subsumed under <a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a> <em>brown</em>.
+<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">Baju</a> <high-lulani>bY</high-lulani> <em>blue</em> covers both light and dark blue, the darkest violets, and all but the lightest shades of green. <a href="http://dictionary.tinellb.com/s/sa.html#highlulani">Sa</a> <high-lulani>s</high-lulani> <em>yellow</em> covers the lightest shades of orange and green, as well as standard yellow. <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">Miku</a> <high-lulani>M&gt;</high-lulani> <em>red</em> refers to all of red and pink, light purples and most of the orange spectrum, however, dark orange is subsumed under <a href="http://dictionary.tinellb.com/m/millu.html#highlulani">millu</a> <high-lulani>M;W</high-lulani> <em>brown</em>.
 <img src="/images/nineshadesofgrey.png">
-The figure above shows which shades are referred to by which term. <a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">Ki&#x294;a</a> <em>white</em> is used to refer to very light greys, as well as the usual white. <a href="http://dictionary.tinellb.com/g/ga.html#highlulani">Ga</a> <em>black</em> is used to refer to the darker greys, tending towards the black.
-In continuous aspects, these denote the colour of an object. With discrete aspects, these refer to a change in colour.
-[f]<a href="http://dictionary.tinellb.com/p/pu'iba.html#highlulani">Pu&rsquo;iba</a> <a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
-[e]<em>ball</em> <span class="tooltip"><small-caps>prs;gno</small-caps><span class="tooltip-text">present gnomic</span></span> <em>red</em>.
-[e]&ldquo;The ball is red.&rdquo;
-[f]<a href="http://dictionary.tinellb.com/a/'ara.html#highlulani">&#x294;ara</a><a href="http://dictionary.tinellb.com/d/disi.html#highlulani">disi</a> <a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a> <a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a>.
-[e]<em>face</em>-<small-caps>3ani;gen prs;dyn</small-caps> <em>red</em>.
-[e]&ldquo;She blushed.&rdquo;
-Each of these terms can be compounded to refer to specific hues.
-[f]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a><a href="http://dictionary.tinellb.com/m/mulu.html#highlulani">mulu</a> <em>blood red</em>
-[e]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a><a href="http://dictionary.tinellb.com/k/kunubi.html#highlulani">kunubi</a> <em>sky blue</em>
-[e]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a><a href="http://dictionary.tinellb.com/m/masi.html#highlulani">masi</a> <em>snow white</em>&date=20180422--------------------------------------------------3
+The figure above shows which shades are referred to by which term. <a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">Ki&#x294;a</a> <high-lulani>K;a</high-lulani> <em>white</em> is used to refer to very light greys, as well as the usual white. <a href="http://dictionary.tinellb.com/g/ga.html#highlulani">Ga</a> <high-lulani>g</high-lulani> <em>black</em> is used to refer to the darker greys, tending towards the black.
+All colour terms can be compounded to refer to specific hues.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/m/miku.html#highlulani">miku</a><a href="http://dictionary.tinellb.com/m/mulu.html#highlulani">mulu</a> <high-lulani>M&gt;UW</high-lulani> <em>blood red</em>
+[e]<a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a><a href="http://dictionary.tinellb.com/k/kunubi.html#highlulani">kunubi</a> <high-lulani>bY&gt;IB</high-lulani> <em>sky blue</em>
+[e]<a href="http://dictionary.tinellb.com/k/ki''a.html#highlulani">ki&#x294;a</a><a href="http://dictionary.tinellb.com/m/masi.html#highlulani">masi</a> <high-lulani>K;amS</high-lulani> <em>snow white</em>[/d]&date=20180507--------------------------------------------------3
 [1]Comparatives
-The comparative marker is an adposition <a href="http://dictionary.tinellb.com/s/su.html#highlulani">su</a> <em>than</em> placed on the noun being compared against. For &ldquo;little more&rdquo;, the qualifier <a href="http://dictionary.tinellb.com/t/tuci.html#highlulani">tuci</a> <em>half-do</em> is affixed to the verb, for &ldquo;a lot more&rdquo;, the qualifier is <a href="http://dictionary.tinellb.com/r/rali.html#highlulani">rali</a> <em>intensely</em>.
+The comparative marker is an adposition <a href="http://dictionary.tinellb.com/s/su.html#highlulani">su</a> <high-lulani>z</high-lulani> <em>than</em> placed on the noun being compared against.
+[d folding]
+[f]<strong>Hannaku suqikanni xusina.</strong>
+[e]<high-lulani>.h;n&gt; / zQk;N / ZSn.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/h/hannaku.html#highlulani">Hannaku</a> <a href="http://dictionary.tinellb.com/s/su.html#highlulani">su</a>-<a href="http://dictionary.tinellb.com/q/qikanni.html#highlulani">qikanni</a> <a href="http://dictionary.tinellb.com/x/xusina.html#highlulani">xusina</a>.
+[e]<em>Cat than-dog be_pretty.</em>
+[e]&ldquo;Cats are cuter than dogs.&rdquo;[/d]
+For &ldquo;little more&rdquo;, the qualifier <a href="http://dictionary.tinellb.com/t/tuci.html#highlulani">tuci</a> <high-lulani>eC</high-lulani> <em>half-do</em> is affixed to the verb.
+[d folding]
+[f]<strong>Luffuba suhuri bajutuci.</strong>
+[e]<high-lulani>.W;vb / zVR / bYeC.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/l/luffu.html#highlulani">Luffu</a><a href="http://dictionary.tinellb.com/b/-ba.html#highlulani">-ba</a> <a href="http://dictionary.tinellb.com/s/su.html#highlulani">su</a>-<a href="http://dictionary.tinellb.com/h/huri.html#highlulani">huri</a> <a href="http://dictionary.tinellb.com/b/baju.html#highlulani">baju</a>-<a href="http://dictionary.tinellb.com/t/tuci.html#highlulani">tuci</a>.
+[e]<em>Eyes-</em><span class="tooltip"><small-caps>2gen</small-caps><span class="tooltip-text">second person genitive</span></span> <em>than-ocean blue-half_do.</em>
+[e]&ldquo;Your eyes are slightly bluer than the ocean.&rdquo;[/d]
+For &ldquo;a lot more&rdquo;, the qualifier is <a href="http://dictionary.tinellb.com/r/rali.html#highlulani">rali</a> <high-lulani>rL</high-lulani> <em>intensely</em>.
+[d folding]
+[e]<strong>Musa sulupumma cussi&rsquo;alarali.</strong>
+[e]<high-lulani>.Us / zWo;m / y;SalrL.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/m/musa.html#highlulani">Musa</a> <a href="http://dictionary.tinellb.com/s/su.html#highlulani">su</a>-<a href="http://dictionary.tinellb.com/l/lupumma.html#highlulani">lupumma</a> <a href="http://dictionary.tinellb.com/c/cussi'ala.html#highlulani">cussi&rsquo;ala</a>-<a href="http://dictionary.tinellb.com/r/rali.html#highlulani">rali</a>.
+[e]<em>Sun than-fire feel_hot-intensely.</em>
+[e]&ldquo;The Sun is much hotter than fire.[/d]
 [2]Equalatives
-The equalative marker is <a href="http://dictionary.tinellb.com/k/ka.html#highlulani">ka</a> <em>as</em>, an adposition.
+The equalative marker is <a href="http://dictionary.tinellb.com/k/ka.html#highlulani">ka</a> <high-lulani>k</high-lulani> <em>as</em>, an adposition.
+[d folding]
+[f]<strong>&#x294;usu kafilli qi&rsquo;iku.</strong>
+[e]<high-lulani>.uz / kF;L / Qi&gt;.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/u/'usu.html#highlulani">&#x294;usu</a> <a href="http://dictionary.tinellb.com/k/ka.html#highlulani">ka</a>-<a href="http://dictionary.tinellb.com/f/filli.html#highlulani">filli</a> <a href="http://dictionary.tinellb.com/q/qi'iku.html#highlulani">qi&rsquo;iku</a>.
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>as-</em><span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>feel_hungry.</em>
+[e]&ldquo;I am as hungry as you are.&rdquo;[/d]
 [2]Superlative
-The superlative marker, contrary to the other two, is a particle <a href="http://dictionary.tinellb.com/p/piba.html#highlulani">piba</a> placed before the verb.&date=20180505--------------------------------------------------3
+The superlative marker, contrary to the other two, is a particle <a href="http://dictionary.tinellb.com/p/piba.html#highlulani">piba</a> <high-lulani>Pb</high-lulani> placed before the verb.
+[d folding]
+[e]<strong>Jamahi piba xusajja.</strong>
+[e]<high-lulani>.jmH / Pb / Zs;j.</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/j/jamahi.html#highlulani">Jamahi</a> <a href="http://dictionary.tinellb.com/p/piba.html#highlulani">piba</a> <a href="http://dictionary.tinellb.com/x/xusajja.html#highlulani">xusajja</a>.
+[e]<em>Garden most be_quiet.</em>
+[e]&ldquo;The gardens are the quietest.&rdquo;[/d]
+[d folding]
+[f]<strong>piba xusajjara&rsquo;u jamahi</strong>
+[e]<high-lulani>Pb / Zs;jru / jmH</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/p/piba.html#highlulani">piba</a> <a href="http://dictionary.tinellb.com/x/xusajja.html#highlulani">xusajja</a>-<a href="http://dictionary.tinellb.com/r/ra'u.html#highlulani">ra&rsquo;u</a> <a href="http://dictionary.tinellb.com/j/jamahi.html#highlulani">jamahi</a>
+[e]<em>most be_quiet-</em><span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>garden</em>
+[e]&ldquo;the quietest garden.&rdquo;[/d]
+&date=20180507--------------------------------------------------3
 [1]Kinship
 [2]Marriage
-<a href="http://dictionary.tinellb.com/j/ju'iduku.html#highlulani">Ju&rsquo;iduku</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <em>marriage</em> is the life-bonding of two people. It is intended to be eternal, but can be broken if requested by either partner. It is not an exclusive arrangement, and one can be involved in concurrent marriages.
-A bonded person is called a <a href="http://dictionary.tinellb.com/s/silu.html#highlulani">silu</a> <em>spouse</em> when using possessive pronouns, and  <a href="http://dictionary.tinellb.com/x/xalli.html#highlulani">xalli</a> <em>married person</em> otherwise.
+<a href="http://dictionary.tinellb.com/j/ju'iduku.html#highlulani">Ju&rsquo;iduku</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <high-lulani>YiE&gt;w</high-lulani> <em>marriage</em> is the life-bonding of two people. It is intended to be eternal, but can be broken if requested by either partner. It is not an exclusive arrangement, and one can be involved in concurrent marriages.
+A bonded person is called a <a href="http://dictionary.tinellb.com/s/silu.html#highlulani">silu</a> <high-lulani>SW</high-lulani> <em>spouse</em> when using possessive pronouns, and <a href="http://dictionary.tinellb.com/x/xalli.html#highlulani">xalli</a> <high-lulani>x;L</high-lulani> <em>married person</em> otherwise.
 [2]Nuclear Family
-The words <a href="http://dictionary.tinellb.com/k/kitisu.html#highlulani">kitisu</a> <em>father</em> and <a href="http://dictionary.tinellb.com/j/julliga.html#highlulani">julliga</a> <em>mother</em> usually refer to biological parents, but can be applied to the main guardians if the biological parents are not around. These are used without possessives, except for the inalienable genitive marker <a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <high-lulani>q</high-lulani> <span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span>
+The words <a href="http://dictionary.tinellb.com/k/kitisu.html#highlulani">kitisu</a> <high-lulani>KTz</high-lulani> <em>father</em> and <a href="http://dictionary.tinellb.com/j/julliga.html#highlulani">julliga</a> <high-lulani>Y;Lg</high-lulani> <em>mother</em> usually refer to biological parents, but can be applied to the main guardians if the biological parents are not around. These are used without possessives, except for the inalienable genitive marker <a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a> <high-lulani>q</high-lulani> <span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span>
 The following table shows the possessive forms:
 [t]|h mother |h father
 h 1st person | <a href="http://dictionary.tinellb.com/p/pi'apagu.html#highlulani">pi&rsquo;apagu</a><br><high-lulani>Pap&lt;</high-lulani> | <a href="http://dictionary.tinellb.com/s/sappagu.html#highlulani">sappagu</a><br><high-lulani>s;p&lt;</high-lulani>
@@ -2798,35 +2755,36 @@ h 2nd person | <a href="http://dictionary.tinellb.com/p/pihaba.html#highlulani">
 h 3rd person topic | <a href="http://dictionary.tinellb.com/p/pihasu'a.html#highlulani">pihasu&rsquo;a</a><br><high-lulani>Phza</high-lulani> | <a href="http://dictionary.tinellb.com/s/sassu'a.html#highlulani">sassu&rsquo;a</a><br><high-lulani>s;za</high-lulani>
 h 3rd person animate | <a href="http://dictionary.tinellb.com/p/pi'adisi.html#highlulani">pi&rsquo;adisi</a><br><high-lulani>PaDS</high-lulani> | <a href="http://dictionary.tinellb.com/s/saddisi.html#highlulani">saddisi</a><br><high-lulani>s;DS</high-lulani>
 [/t]
-[d mobile-table] <high-lulani>Bt</high-lulani>
+[d mobile-table]
 mother:
-[e]first person: <a href="http://dictionary.tinellb.com/p/pi'apagu.html#highlulani">pi&rsquo;apagu</a> <high-lulani> , Pap&lt;</high-lulani>
-[e]second person: <a href="http://dictionary.tinellb.com/p/pihaba.html#highlulani">pihaba</a> <high-lulani> , Phb</high-lulani>
-[e]third person topic: <a href="http://dictionary.tinellb.com/p/pihasu'a.html#highlulani">pihasu&rsquo;a</a> <high-lulani> / P , Phza</high-lulani>
-[e]third person animate: <a href="http://dictionary.tinellb.com/p/pi'adisi.html#highlulani">pi&rsquo;adisi</a> <high-lulani> /  Nm , PaDS</high-lulani>
+[e]first person: <a href="http://dictionary.tinellb.com/p/pi'apagu.html#highlulani">pi&rsquo;apagu</a> <high-lulani> Pap&lt;</high-lulani>
+[e]second person: <a href="http://dictionary.tinellb.com/p/pihaba.html#highlulani">pihaba</a> <high-lulani>  Phb</high-lulani>
+[e]third person topic: <a href="http://dictionary.tinellb.com/p/pihasu'a.html#highlulani">pihasu&rsquo;a</a> <high-lulani>Phza</high-lulani>
+[e]third person animate: <a href="http://dictionary.tinellb.com/p/pi'adisi.html#highlulani">pi&rsquo;adisi</a> <high-lulani>  PaDS</high-lulani>
 father:
-[e]first person: <a href="http://dictionary.tinellb.com/s/sappagu.html#highlulani">sappagu</a> <high-lulani> , s;p&lt;</high-lulani>
-[e]second person: <a href="http://dictionary.tinellb.com/s/sabba.html#highlulani">sabba</a> <high-lulani> , s;b</high-lulani>
-[e]third person topic: <a href="http://dictionary.tinellb.com/s/sassu'a.html#highlulani">sassu&rsquo;a</a> <high-lulani> / P , s;za</high-lulani>
-[e]third person animate: <a href="http://dictionary.tinellb.com/s/saddisi.html#highlulani">saddisi</a> <high-lulani> /  Nm , s;DS</high-lulani>
+[e]first person: <a href="http://dictionary.tinellb.com/s/sappagu.html#highlulani">sappagu</a> <high-lulani> s;p&lt;</high-lulani>
+[e]second person: <a href="http://dictionary.tinellb.com/s/sabba.html#highlulani">sabba</a> <high-lulani> s;b</high-lulani>
+[e]third person topic: <a href="http://dictionary.tinellb.com/s/sassu'a.html#highlulani">sassu&rsquo;a</a> <high-lulani> s;za</high-lulani>
+[e]third person animate: <a href="http://dictionary.tinellb.com/s/saddisi.html#highlulani">saddisi</a> <high-lulani>s;DS</high-lulani>
 [/d]
-There are two terms for children: <a href="http://dictionary.tinellb.com/t/tu.html#highlulani">tu</a> <em>offspring</em> for postnatal children, <a href="http://dictionary.tinellb.com/a/'appu.html#highlulani">&rsquo;appu</a> <em>foetus</em> for antenatal. Both of these are gender-neutral, and are most often used with possessives.
-There can be a suffixed <a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a> <em>link</em> for spouses&rsquo; offspring and parents&rsquo; spouses.
-[f]<a href="http://dictionary.tinellb.com/s/sappagu.html#highlulani">sappagu</a><a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a>
+There are two terms for children: <a href="http://dictionary.tinellb.com/t/tu.html#highlulani">tu</a> <high-lulani>e</high-lulani> <em>offspring</em> for postnatal children, <a href="http://dictionary.tinellb.com/a/'appu.html#highlulani">&rsquo;appu</a> <high-lulani>a;o</high-lulani> <em>foetus</em> for antenatal. Both of these are gender-neutral, and are most often used with possessives.
+There can be a suffixed <a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a> <high-lulani>Yi</high-lulani> <em>link</em> for spouses&rsquo; offspring and parents&rsquo; spouses.
+[d wordlist]
+[d folding]
+[f]<strong>sappaguju&rsquo;i</strong>
+[e]<high-lulani>s;p&lt;Yi</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/s/sappagu.html#highlulani">sappagu</a>-<a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a>
 [e]father;1<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span>-link
-[e]&ldquo;my step-father&rdquo;
-[f]<a href="http://dictionary.tinellb.com/t/tu.html#highlulani">tu</a><a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a><a href="http://dictionary.tinellb.com/b/ba.html#highlulani">ba</a>
+[e]&ldquo;my step-father&rdquo;[/d]
+[d folding]
+[f]<strong>tuju&rsquo;iba</strong>
+[e]<high-lulani>eYib</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/t/tu.html#highlulani">tu</a>-<a href="http://dictionary.tinellb.com/j/ju'i.html#highlulani">ju&rsquo;i</a><a href="http://dictionary.tinellb.com/b/-ba.html#highlulani">-ba</a>
 [e]offspring-link-2<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span>
-[e]&ldquo;your step-daughter&rdquo;
-Other kinship terms began as nuclear family names, but were thence extended across a generation. So <a href="http://dictionary.tinellb.com/k/kaqqa.html#highlulani">kaqqa</a> <em>elder sibling</em> and <a href="http://dictionary.tinellb.com/k/kica.html#highlulani">kica</a> <em>younger sibling</em> can also be applied to cousins.
-&date=20180427--------------------------------------------------3
-[1]Honorifics
-The suffix <a href="http://dictionary.tinellb.com/f/-fi.html#highlulani">-fi</a> can be added to abstract and inanimate nouns to show deference.
-Honorifics for people consist of a word prefixed to the person&rsquo;s name. The general honorific is <a href="http://dictionary.tinellb.com/g/gusu.html#highlulani">gusu</a> (person).
-The honorific can be a job title.
-[f]<a href="http://dictionary.tinellb.com/h/hisuba.html#highlulani">hisuba</a><a href="http://dictionary.tinellb.com/r/ra'ani.html#highlulani">Ra&rsquo;ani</a> (Administrator Ryan)
-&date=20170725
---------------------------------------------------3
+[e]&ldquo;your step-daughter&rdquo;[/d]
+[/d]
+Other kinship terms began as nuclear family names, but were thence extended across a generation. So <a href="http://dictionary.tinellb.com/k/kaqqa.html#highlulani">kaqqa</a> <high-lulani>k;q</high-lulani> <em>elder sibling</em> and <a href="http://dictionary.tinellb.com/k/kica.html#highlulani">kica</a> <high-lulani>Kc</high-lulani> <em>younger sibling</em> can also be applied to cousins.
+&date=20180507--------------------------------------------------3
 [1]Elements
 The first 118 chemical elements have been named.
 [t] <a href="http://dictionary.tinellb.com/l/li'a.html#highlulani">li&rsquo;a</a><br><high-lulani>La</high-lulani><br><em>helium</em> | <a href="http://dictionary.tinellb.com/k/kuxalu.html#highlulani">kuxalu</a><br><high-lulani>&gt;xW</high-lulani><br><em>neon</em> | <a href="http://dictionary.tinellb.com/l/laqa.html#highlulani">laqa</a><br><high-lulani>lq</high-lulani><br><em>argon</em> | <a href="http://dictionary.tinellb.com/q/quffi.html#highlulani">quffi</a><br><high-lulani>A;F</high-lulani><br>krypton | <a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a><br><high-lulani>s;h</high-lulani><br>xenon | <a href="http://dictionary.tinellb.com/f/fasami.html#highlulani">fasami</a><br><high-lulani>fsM</high-lulani><br>radon | <a href="http://dictionary.tinellb.com/i/'ittika.html#highlulani">&rsquo;ittika</a><br><high-lulani>i;Tk</high-lulani><br><em>oganesson</em>

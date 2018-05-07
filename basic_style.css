@@ -42,6 +42,11 @@ high-lulani {
   unicode-bidi: bidi-override;
 }
 
+high-lulani::after {
+    content: "\202c\00e8";
+    font-size: 0;
+}
+
 high-lulani:hover {
   font-size: xx-large;
   font-weight: normal;
