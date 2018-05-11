@@ -1492,6 +1492,10 @@ The suffix <a href="http://dictionary.tinellb.com/r/-ru.html#highlulani">-ru</a>
 [f]<a href="http://dictionary.tinellb.com/d/dasi.html#highlulani">dasi</a>ru <high-lulani>dSw</high-lulani> <em>eating</em>
 [e]<a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a>ru <high-lulani>j;Nw</high-lulani> <em>moving</em>
 [e]<a href="http://dictionary.tinellb.com/h/huba.html#highlulani">huba</a>ru <high-lulani>Vbw</high-lulani> <em>breathing</em>[/d]
+The suffix <a href="http://dictionary.tinellb.com/c/-ci.html#highlulani">-ci</a> is applied to <a href="../verbs/intransitivity.html#adjectivalverbs">adjectival</a> verbs. This includes <a href="../verbs/intransitivity.html#chromaticverbs">chromatic</a> verbs, whence come the name for colours.
+[d wordlist]
+[f]<a href="http://dictionary.tinellb.com/n/namaci.html#highlulani">namaci</a> <high-lulani>nmC</high-lulani> <em>weakness</em>
+[e]<a href="http://dictionary.tinellb.com/k/ki''aci.html#highlulani">ki&#x294;aci</a> <high-lulani>K;aC</high-lulani> <em>white</em>[/d]
 Application of <a href="http://dictionary.tinellb.com/p/-ppa.html#highlulani">-ppa</a> <high-lulani>;p</high-lulani> derives terms for times and occasions.
 [d wordlist]
 [f]<a href="http://dictionary.tinellb.com/d/dasippa.html#highlulani">dasippa</a> <high-lulani>dS;p</high-lulani> <em>mealtime</em>
@@ -1539,7 +1543,7 @@ The pair of suffixes <a href="http://dictionary.tinellb.com/a/-atinna.html#highl
 [e]<a href="http://dictionary.tinellb.com/b/bataniqqi.html#highlulani">bataniqqi</a> <high-lulani>btN;Q</high-lulani> <em>carefully</em>
 [e]<a href="http://dictionary.tinellb.com/b/bufiniqqi.html#highlulani">bufiniqqi</a> <high-lulani>OFN;Q</high-lulani> <em>stonily</em>
 [e]<a href="http://dictionary.tinellb.com/g/ga'iniqqi.html#highlulani">ga&rsquo;iniqqi</a> <high-lulani>giN;Q</high-lulani> <em>in time</em>[/d]
-&date=20180503--------------------------------------------------4
+&date=20180512--------------------------------------------------4
 [1]Determiners
 A determiner can be used to narrow the reference of a noun. They appear at the end of a noun phrase, after any normal suffixes. They do not move the stress of the noun, and can only receive up to secondary stress themselves.
 [d wordlist]
@@ -2747,8 +2751,8 @@ The superlative marker, contrary to the other two, is a particle <a href="http:/
 <a href="http://dictionary.tinellb.com/j/ju'iduku.html#highlulani">Ju&rsquo;iduku</a><a href="http://dictionary.tinellb.com/r/ru.html#highlulani">ru</a> <high-lulani>YiE&gt;w</high-lulani> <em>marriage</em> is the life-bonding of two people. It is intended to be eternal, but can be broken if requested by either partner. It is not an exclusive arrangement, and one can be involved in concurrent marriages.
 A bonded person is called a <a href="http://dictionary.tinellb.com/s/silu.html#highlulani">silu</a> <high-lulani>SW</high-lulani> <em>spouse</em> when using possessive pronouns, and <a href="http://dictionary.tinellb.com/x/xalli.html#highlulani">xalli</a> <high-lulani>x;L</high-lulani> <em>married person</em> otherwise.
 [2]Nuclear Family
-The words <a href="http://dictionary.tinellb.com/k/kitisu.html#highlulani">kitisu</a> <high-lulani>KTz</high-lulani> <em>father</em> and <a href="http://dictionary.tinellb.com/j/julliga.html#highlulani">julliga</a> <high-lulani>Y;Lg</high-lulani> <em>mother</em> usually refer to biological parents, but can be applied to the main guardians if the biological parents are not around. These are used without possessives, except for the inalienable genitive marker <a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a> <high-lulani>q</high-lulani> <span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span>
-The following table shows the possessive forms:
+The words <a href="http://dictionary.tinellb.com/k/kitisu.html#highlulani">kitisu</a> <high-lulani>KTz</high-lulani> <em>father</em> and <a href="http://dictionary.tinellb.com/j/julliga.html#highlulani">julliga</a> <high-lulani>Y;Lg</high-lulani> <em>mother</em> usually refer to biological parents, but can be applied to the main guardians if the biological parents are not around. These are used without possessives, except for <a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</a> <high-lulani>q</high-lulani> <span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span>
+the inalienable genitive marker. The following table shows the possessive forms:
 [t]|h mother |h father
 h 1st person | <a href="http://dictionary.tinellb.com/p/pi'apagu.html#highlulani">pi&rsquo;apagu</a><br><high-lulani>Pap&lt;</high-lulani> | <a href="http://dictionary.tinellb.com/s/sappagu.html#highlulani">sappagu</a><br><high-lulani>s;p&lt;</high-lulani>
 h 2nd person | <a href="http://dictionary.tinellb.com/p/pihaba.html#highlulani">pihaba</a><br><high-lulani>Phb</high-lulani> | <a href="http://dictionary.tinellb.com/s/sabba.html#highlulani">sabba</a><br><high-lulani>s;b</high-lulani>
@@ -2784,7 +2788,7 @@ There can be a suffixed <a href="http://dictionary.tinellb.com/j/ju'i.html#highl
 [e]&ldquo;your step-daughter&rdquo;[/d]
 [/d]
 Other kinship terms began as nuclear family names, but were thence extended across a generation. So <a href="http://dictionary.tinellb.com/k/kaqqa.html#highlulani">kaqqa</a> <high-lulani>k;q</high-lulani> <em>elder sibling</em> and <a href="http://dictionary.tinellb.com/k/kica.html#highlulani">kica</a> <high-lulani>Kc</high-lulani> <em>younger sibling</em> can also be applied to cousins.
-&date=20180507--------------------------------------------------3
+&date=20180512--------------------------------------------------3
 [1]Elements
 The first 118 chemical elements have been named.
 [t] <a href="http://dictionary.tinellb.com/l/li'a.html#highlulani">li&rsquo;a</a><br><high-lulani>La</high-lulani><br><em>helium</em> | <a href="http://dictionary.tinellb.com/k/kuxalu.html#highlulani">kuxalu</a><br><high-lulani>&gt;xW</high-lulani><br><em>neon</em> | <a href="http://dictionary.tinellb.com/l/laqa.html#highlulani">laqa</a><br><high-lulani>lq</high-lulani><br><em>argon</em> | <a href="http://dictionary.tinellb.com/q/quffi.html#highlulani">quffi</a><br><high-lulani>A;F</high-lulani><br>krypton | <a href="http://dictionary.tinellb.com/s/sahha.html#highlulani">sahha</a><br><high-lulani>s;h</high-lulani><br>xenon | <a href="http://dictionary.tinellb.com/f/fasami.html#highlulani">fasami</a><br><high-lulani>fsM</high-lulani><br>radon | <a href="http://dictionary.tinellb.com/i/'ittika.html#highlulani">&rsquo;ittika</a><br><high-lulani>i;Tk</high-lulani><br><em>oganesson</em>
