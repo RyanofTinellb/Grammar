@@ -4,7 +4,6 @@ body {
     margin: auto;
     border: 1px solid black;
     padding: 2ch;
-    counter-reset: h1 h2 h3 h4 h5 h6;
 }
 
 .nav-pane, .nav-footer {
@@ -16,43 +15,26 @@ ipa {
     font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
 }
 
-h1:before {
-    content: counter(h1) ".\a0";
-    counter-reset: h2 0;
-    counter-increment: h1;
+h1.Section {
+    page-break-before: always;
+    padding-top: 50%;
+    page-break-after: always;
 }
 
-h1 {
-    counter-reset: h2 h3 h4 h5 h6;
-}
-h2:before {
-    content: counter(h1) "." counter(h2) "\a0";
-    counter-reset: h3;
-    counter-increment: h2;
+h1.Chapter {
+    page-break-before: always;
 }
 
-h3:before {
-    content: counter(h1) "." counter(h2) "." counter(h3) "\a0";
-    counter-reset: h4 0 h5 0 h6 0;
-    counter-increment: h3;
-}
-h4:before {
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "\a0";
-    counter-reset: h5 h6;
-    counter-increment: h4;
-}
-h5:before {
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) "\a0";
-    counter-reset: h6;
-    counter-increment: h5;
-}
-h6:before {
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) "." counter(h6) "\a0";
-    counter-increment: h6;
+h1.Volume {
+    page-break-before: always;
+    padding-top: 50%;
+    page-break-after: always;
+    vertical-align: center;
 }
 
 p {
     text-indent: 2ch;
+    text-align: justify;
 }
 
 p.example {
@@ -129,7 +111,8 @@ high-lulani::after {
 
 @media print {
     body {
-        width: 100%;
+        width: 90%;
+        max-width: 90%;
         margin: 2em;
         border: none;
     }
