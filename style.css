@@ -90,6 +90,13 @@ h6 {
     padding: 2px 1em;
 }
 
+.content .hierarchy table td {
+    border: none;
+}
+
+.content .hierarchy table th {
+}
+
 .content div.wordlist {
     margin-top: 1em;
     margin-left: 5%;

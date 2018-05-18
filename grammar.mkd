@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <a href=" | {{ | <br>
 "> | :: | <br>
 </a> | }} | <br>
@@ -30,3 +29,6 @@
 [d wordlist] | [[w | <br>
 [d folding] | [[f | <br>
 [/d] | ]] | <br>
+Fezhl&ecirc; | Fezhle | <br>
+Brequ&eacute; | Breque | <br>
+Brequ&egrave;n | Brequen | <br>
