@@ -124,24 +124,27 @@ table high-lulani:hover {
   border-bottom: 2px solid green;
 }
 
-.content div.folding p:first-child::after {
-  content: '\2190\2002 (expand)';
-  font-style: italic;
-  font-size: smaller;
-  position: relative;
-  left: 5%;
+.content .universe {
+    display: inline;
+    font-family: serif;
 }
 
-.content div.folding:active p:first-child::after {
-  content: '\2191\2002 (contract)';
+.content label.folder {
+    text-align: left;
+}
+
+.content input.folder {
+    position: relative;
+    top: 3em;
+    left: 2em;
+}
+
+.content input.folder:checked + div.folding p {
+    display: inherit;
 }
 
 .content div.folding p:not(:first-child):not(:last-child) {
   display: none;
-}
-
-.content div.folding:active p:not(:first-child):not(:last-child) {
-  display: block;
 }
 
 .content span.tooltip::after {

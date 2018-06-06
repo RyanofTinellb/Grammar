@@ -92,6 +92,7 @@ h6 {
 
 .content .hierarchy table td {
     border: none;
+    height: 1em;
 }
 
 .content .hierarchy table th {

@@ -5,16 +5,16 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
   "current": {
-    "position": "89.81", 
+    "position": "1.0", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
     "fontsize": 18, 
     "page": [
-      "High Lulani", 
-      "Phonology", 
-      "", 
+      "Introduction", 
+      "History", 
+      "Ptoko", 
       ""
     ], 
-    "language": "en"
+    "language": "hl"
   }, 
   "site": {
     "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar", 

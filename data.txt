@@ -8,12 +8,16 @@ The Tinellbian languages are a range of constructed languages, as befits the con
 &date=20171023
 --------------------------------------------------2
 [1]History
-The internal history of the Guozu and their languages is written as if it were a chronicle of actual events. The external history is the more prosaic record: a description of the genesis and evolution of my ideas.&date=20180403--------------------------------------------------3
-[1]Internal History
+[2]External History
+I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <span class="no-breaks"><strong>mica</strong> <high-lulani>Mc</high-lulani> <em>hello</em></span> dates from that time.
+When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what was to be the Ptokan language, and the language of the Fezhl&ecirc;. The latter  was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt.
+[2]Internal History
+The history of Tinellb, as well as the Guozu and their languages is written on the following pages as if it were a chronicle of actual events.&date=20180604--------------------------------------------------3
+[1]Tinellb
 Within the universe named Tinellb, there is a planet named Ptoko. There arose on this world a race of humanoids, the Ptokan. Over millions of years, their race evolved and became the dominant force on their planet.
 There had been many conflicts, small and large, throughout their history. One particularly bloody war had had much of the population brought into it: a World War. The survivors of this war were ruled by a single monarch.
 Generations passed. The people rebuilt their shattered world. The newest ruler, Queen Loren, decided to create an international language to promote peace amongst her subjects. She named this language Lulani after herself.
-Despite their shared language, as more time went by, fractures again showed between nations. Another world war ensued. A great weapon was created, one that tore apart space-time, flinging its victims far out into the universe.
+Despite their shared language, as more time went by, fractures again showed between nations. Another world war ensued. A great weapon was created, one that tore apart space&#x2011;time, flinging its victims far out into the universe.
 One such group were the Fezhl&ecirc;. They found themselves on an empty world. The Fezhl&ecirc; tongue evolved independently from Lulani, and was later heavily influenced by Zhaladi dialects.
 The people that remained on Ptoko slowly grew back towards peace. Their vernacular evolved into Ptokan, and thence into Brequ&egrave;n. By this time, Lulani was used only for science and the arts, not for everyday use.
 Brequ&egrave;n was spoken in the realm of Brequ&eacute;, Tsarin in Tsarein.
@@ -21,22 +25,28 @@ Brequ&egrave;n was spoken in the realm of Brequ&eacute;, Tsarin in Tsarein.
 [t]|||||
 |c3 High Lulani |c3
 |c3 Vulgar Lulani |c3
+c7
 c2 Early Fezhl&ecirc; ||c3 Old Ptokan |
 c2 Late Fezhl&ecirc; ||c3 Middle Ptokan |
 c2 Koine Fezhl&ecirc; ||c3 Standard Ptokan |
-c3 |c3 Pre-Brequ&egrave;n |
+c7
+c3 |c3 Pre&#x2011;Brequ&egrave;n |
 c3 |c3 Archaic Brequ&egrave;n |
 c3 |c3 Common Brequ&egrave;n |
-|c3 Proto-Zhaladi ||c2 Classical Tsarin
+c7
+|c3 Proto&#x2011;Zhaladi ||c2 Classical Tsarin
 |c3 Reformed Zhaladi ||c2 Modern Tsarin
-|c3 Traditional Zhaladi ||c2 Ancient Solajin
+|c3 Traditional Zhaladi
+c5 |c2 Ancient Solajin
 c5 |c2 Medieval Solajin
 c5 |c2 Contemporary Solajin
-c5 |c2 New Solajin[/t] [/d]&date=20180514--------------------------------------------------3
-[1]External History
-I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <strong>mica</strong> <high-lulani>Mc</high-lulani> <em>hello</em> dates from that time.
-When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what was to be the Ptokan language, and the language of the Fezhl&ecirc;. The latter  was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt.
-&date=20180316--------------------------------------------------1
+c5 |c2 New Solajin[/t] [/d]&date=20180604--------------------------------------------------3
+1]Ptoko
+Located in Universe M<sup>204</sup>&nu;
+Solaji: F<sup>996</sup>&xi;
+Brequ&eacute;: D<sup>578</sup>&eta;
+Zhalad: A<sup>376</sup>&gamma;
+Tsarein: E<sup>415</sup>&chi;&date=20180605--------------------------------------------------1
 [1]High Lulani
 High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.
 &date=20170716
