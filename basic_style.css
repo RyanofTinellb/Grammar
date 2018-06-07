@@ -121,7 +121,7 @@ table high-lulani:hover {
 
 .content .wordlist {
   border-left: 1px solid green;
-  border-bottom: 2px solid green;
+  border-bottom: 1px solid green;
 }
 
 .content .universe {
@@ -222,6 +222,10 @@ table high-lulani:hover {
 
   .nav-pane:hover ul {
     display: inherit;
+  }
+
+  .content input.folder:checked + div.folding .tooltip-text {
+      display: inline;
   }
 
   .content span.tooltip:hover .tooltip-text {
