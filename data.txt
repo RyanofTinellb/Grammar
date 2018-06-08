@@ -1004,7 +1004,7 @@ When used with a <strong>dative</strong> object, this instead lacks that effort:
 [d folding]
 [f]<strong>Mihu kulasidaxi ju&rsquo;isataduru &rsquo;usa.</strong>
 [e]<high-lulani>.MV / &gt;lSdX / YistEw / us.</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/k/ku-lasida.html#highlulani">ku-lasida</a>-<a href="http://dictionary.tinellb.com/x/xi.html#highlulani">xi</a> <a href="http://dictionary.tinellb.com/j/ju'isatadu-ru.html#highlulani">ju&rsquo;isatadu-ru</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>.
+[e]<a href="http://dictionary.tinellb.com/m/mihu.html#highlulani">Mihu</a> <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/l/lasida.html#highlulani">lasida</a>-<a href="http://dictionary.tinellb.com/x/xi.html#highlulani">xi</a> <a href="http://dictionary.tinellb.com/j/ju'isatadu-ru.html#highlulani">ju&rsquo;isatadu-ru</a> <a href="http://dictionary.tinellb.com/u/'usa.html#highlulani">&rsquo;usa</a>.
 [e]<span class="tooltip"><small-caps>3ani;int</small-caps><span class="tooltip-text">animate third person intransitive</span></span> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>secret-seem conversation-</em><span class="tooltip"><small-caps>ger</small-caps><span class="tooltip-text">gerund</span></span> <em>see</em>.
 [e]&ldquo;She saw the secret meeting.&rdquo;[/d]
 [d wordlist]
@@ -1044,7 +1044,7 @@ Directly reported communication is separated from the main clause by a comma, an
 [e]<a href="http://dictionary.tinellb.com/b/buma.html#highlulani">buma</a> <high-lulani>Om</high-lulani> <em>to draw</em>
 [e]<a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a> <high-lulani>p</high-lulani> <em>to think</em>
 [e]<a href="http://dictionary.tinellb.com/m/ma.html#highlulani">ma</a> <high-lulani>m</high-lulani> <em>to consider</em>[/d]
-&date=20180403--------------------------------------------------3
+&date=20180607--------------------------------------------------3
 [1]Auxiliaries
 Auxiliaries are a type of <a href="verbs.html">verb</a>, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
 [t]|h dynamic |h stative |h negative |h habitual |h gnomic
@@ -2056,20 +2056,20 @@ The clitic is <a href="http://dictionary.tinellb.com/k/kalu-.html#highlulani">ka
 The dative case was originally only used to mark the receiver with verbs of giving and transfer. The meaning has since broadened to show indirectness on the part of the patient for a number of verbs, including verbs of perception and emotion.
 [d wordlist]
 [f]<a href="http://dictionary.tinellb.com/p/pixi.html#highlulani">pixi</a> <high-lulani>PX</high-lulani> <em>to me</em>
-[d folding]
-[f]<strong>ku&#x294;irri&rsquo;a janni</strong>
-[e]<high-lulani>&gt;;i;Ra / j;N</high-lulani>
-[e]<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&#x294;irri&rsquo;a</a> <a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a>
-[e]<span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>Ir&igrave;a move</em>
-[e]&ldquo;go to Ir&igrave;a&rdquo;[/d]
 [/d]
 The clitic is <a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a> <high-lulani>&gt;</high-lulani> .
+[d folding]
+[f]<strong>ku&#x294;irri&rsquo;a janni</strong>
+[e]<high-lulani>&gt;i;Ra / j;N</high-lulani>
+[e]<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/i/'irri'a.html#highlulani">&rsquo;irri&rsquo;a</a> <a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a>
+[e]<span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>Ir&igrave;a move</em>
+[e]&ldquo;go to Ir&igrave;a&rdquo;[/d]
 [d folding]
 [f]<strong>kululani kuffa</strong>
 [e]<high-lulani>&gt;WlN / &gt;;f</high-lulani>
 [e]<a href="http://dictionary.tinellb.com/k/ku-.html#highlulani">ku-</a><a href="http://dictionary.tinellb.com/l/lulani.html#highlulani">lulani</a> <a href="http://dictionary.tinellb.com/k/kuffa.html#highlulani">kuffa</a>
 [e]<span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<em>queen give</em>
-[e]&ldquo;give to the queen&rdquo;[/d]&date=20180503--------------------------------------------------3
+[e]&ldquo;give to the queen&rdquo;[/d]&date=20180607--------------------------------------------------3
 [1]Matrix Clauses
 The standard word order for matrix clauses is:
 Subject &dash; Auxiliary &dash; Adposition - Oblique &dash; Verb &dash; Object &dash; Adverb.

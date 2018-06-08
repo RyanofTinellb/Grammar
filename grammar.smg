@@ -5,13 +5,14 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
   "current": {
-    "position": "6.18", 
+    "position": "24.17", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
     "fontsize": 18, 
     "page": [
-      "Introduction", 
-      "History", 
-      "Ptoko", 
+      "High Lulani", 
+      "Morphology", 
+      "Verbs", 
+      "Ambitransitivity", 
       ""
     ], 
     "language": "hl"
