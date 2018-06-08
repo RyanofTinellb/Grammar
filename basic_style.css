@@ -231,17 +231,19 @@ table high-lulani:hover {
   .content span.tooltip:hover .tooltip-text {
     display: inline;
   }
+}
 
-  table {
-    display: none;
-  }
+@media screen and (max-width: 600px) {
+    table {
+      display: none;
+    }
 
-  .content div.mobile-table {
-    display: block;
-  }
-
-  .content div.mobile-table table {
+    .content div.mobile-table {
       display: block;
-      margin-left: 15%;
-  }
+    }
+
+    .content div.mobile-table table {
+        display: block;
+        margin-left: 15%;
+    }
 }
