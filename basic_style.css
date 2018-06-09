@@ -72,6 +72,10 @@ table high-lulani:hover {
   width: 25%;
 }
 
+.nav-pane input.menu {
+    display: none;
+}
+
 .content {
   display: flex;
   flex-direction: column;
@@ -136,7 +140,7 @@ table high-lulani:hover {
 .content input.folder {
     position: relative;
     top: 3em;
-    left: 2em;
+    left: 3%;
 }
 
 .content input.folder:checked + div.folding p {
@@ -213,15 +217,20 @@ table high-lulani:hover {
   }
 
   .nav-pane::before {
-    content: "Menu"
+    content: "Menu";
+    font-weight: bold;
   }
 
-  .nav-pane ul {
-    display: none;
+  .nav-pane input.menu {
+      display: inherit;
   }
 
-  .nav-pane:hover ul {
-    display: inherit;
+  input.menu + ul {
+      display: none;
+  }
+
+  input.menu:checked + ul {
+      display: inherit;
   }
 
   .content input.folder:checked + div.folding .tooltip-text {
