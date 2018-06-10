@@ -2947,3 +2947,29 @@ The first 118 chemical elements have been named.
 [e]<a href="http://dictionary.tinellb.com/h/hika.html#highlulani">hika</a> <high-lulani>Hk</high-lulani> <em>zinc</em>
 [e]<a href="http://dictionary.tinellb.com/p/pusu.html#highlulani">pusu</a> <high-lulani>oz</high-lulani> <em>zirconium</em>[/d]
 [/d]&date=20180423
+--------------------------------------------------2
+1]Sample Texts
+These are sample texts in High Lulani.&date=20180610--------------------------------------------------3
+1]Prelude
+This comes from an early draft of the first chapter of <em>The Crackled Egg</em>, from <em>The Coelacanth Quartet</em>.
+[d interlinear]
+[d paragraph]
+[d folding]
+[e]<em>Q&#x14d;la</em> <span class="tooltip"><small-caps>prs;dyn</small-caps><span class="tooltip-text">present dynamic</span></span> be_conscious again slow, sand-gen heat coarse-nmn-and 
+[e]Corla came back to consciousness slowly, the heat and the coarseness of the sand on which she sat penetrating her mind.[/d]
+[d folding]
+[f]She gingerly stood up. Her legs ached from holding the meditative pose for so long.[/d] [/d]
+[d paragraph]
+[d folding]
+[f]<em>One down, two to go,</em> she thought to herself.[/d]
+[d folding]
+[f]<em>By the Six gods of Tinellb, I&rsquo;ll be glad to finish this and have some peace.</em>[/d]
+[d folding]
+[f]She allowed herself to feel grief for a moment, grief at being continually separated from her beloved.[/d] [/d]
+[d paragraph]
+[d folding]
+[f]Realising that activity was the surest way to finding him again, she stood up to take stock of her situation.[/d]
+[d folding]
+[f]Underneath the thin layer of sand, she could feel paving stones.[/d]
+[d folding]
+[f]Only natural sounds could be heard, and the sense of human life was far distant.[/d] [/d] [/d]&date=20180610
