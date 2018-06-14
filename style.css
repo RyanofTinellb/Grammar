@@ -139,6 +139,72 @@ h6 {
     text-align: center;
 }
 
+.content .paragraph {
+    padding-top: 1em;
+    font-family: georgia, serif;
+}
+
+input#Transliteration:checked ~ .paragraph p:nth-child(1) {
+    display: inline;
+    margin-left: 0;
+}
+
+input#Transliteration:checked ~ .paragraph div.folding {
+    display: inline;
+}
+
+input#Transliteration:checked ~ .paragraph p:nth-child(1) strong {
+    font-weight: normal;
+}
+
+input#Transliteration:checked ~ .paragraph p:not(:nth-child(1)) {
+    display: none;
+}
+
+input#English:checked ~ .paragraph p:last-child {
+    display: inline;
+    margin-left: 0;
+}
+
+input#English:checked ~ .paragraph div.folding {
+    display: inline;
+}
+
+input#English:checked ~ .paragraph p:not(:last-child) {
+    display: none;
+}
+
+input#Tinellbian:checked ~ .paragraph {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+input#Tinellbian:checked ~ .paragraph p:nth-child(2) {
+    display: inline;
+    margin-left: 0;
+}
+
+input#Tinellbian:checked ~ .paragraph div.folding {
+    display: inline;
+}
+
+input#Tinellbian:checked ~ .paragraph p:not(:nth-child(2)) {
+    display: none;
+}
+
+input#All:checked ~ .paragraph {
+    border-bottom: 1px solid blue;
+    padding: 0;
+}
+
+input#All:checked ~ .paragraph p {
+    margin-top: 0;
+}
+
+input:checked:not(#All) ~ .paragraph input {
+    display: none;
+}
+
 @media screen and (max-width: 800px) {
     div.content {
         width: 100%;
