@@ -216,6 +216,10 @@ input:checked:not(#All) ~ .paragraph input {
         margin-right: 5%;
     }
 
+    div.content .folding p {
+        margin-right: 0;
+    }
+
     .content div.wordlist p.example, .content div.wordlist p.example_no_lines {
         margin-left: 5%;
     }
