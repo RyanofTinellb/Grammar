@@ -48,9 +48,7 @@ Brequ&eacute;: D<sup>578</sup>&eta;
 Zhalad: A<sup>376</sup>&gamma;
 Tsarein: E<sup>415</sup>&chi;&date=20180605--------------------------------------------------1
 [1]High Lulani
-High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.
-&date=20170716
---------------------------------------------------2
+High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.&date=20180929--------------------------------------------------2
 [1]Phonology
 High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated, which can palatalise or change the voicing of the original sound.
 This page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.
@@ -4323,3 +4321,6 @@ This comes from an early draft of <em>The Coelacanth Quartet</em> &ndash; <span 
 [e](She) thought by seeing that Lharen will be standing at the wall-door, and so (she) moved her with finger-speech.
 [e]Toresh noticed Lharen standing in the doorway, and motioned her over.[/d] [/d] [/d]
 &date=20180612
+--------------------------------------------------1
+1]Vulgar Lulani
+While High Lulani continued being used in the Palace and its surrounds, the living language continued to evolve in the mouths of the people.&date=20180930
