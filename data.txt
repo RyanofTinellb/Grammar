@@ -4325,39 +4325,78 @@ This comes from an early draft of <em>The Coelacanth Quartet</em> &ndash; <span 
 1]Vulgar Lulani
 While High Lulani continued being used in the Palace and its surrounds, the living language continued to evolve in the mouths of the people.&date=20180930--------------------------------------------------2
 1]Phonology
-[t]|h labial |h alveolar  |h palatal |h velar |h glottal
+[2]Consonants
+[t]|h labial |h dental  |h palatal |h velar |h glottal
 h stop | <ipa>p b</ipa> | <ipa>t d</ipa> || <ipa>k g</ipa> |
-h affricate ||| <ipa>t<ipa>&#x255;</ipa> &lt;c&gt; d&#x291;</ipa> &lt;j&gt; ||
-h nasal | <ipa>m</ipa> | <ipa>n</ipa> | <ipa>&#x272;</ipa> &lt;&ntilde;&gt; | <ipa>&#x14b;</ipa> &lt;q&gt; |
-h lateral || <ipa>l</ipa> | <ipa>&#x28e;</ipa> &lt;l&#x330;&gt;||
+h affricate ||| <ipa>t&#x255;</ipa> &lt;&#x200a;c&#x200a;&gt; <ipa>d&#x291;</ipa> &lt;&#x200a;j&#x200a;&gt; ||
+h nasal | <ipa>m</ipa> | <ipa>n</ipa> | <ipa>&#x272;</ipa> &lt;&#x200a;&ntilde;&#x200a;&gt; | <ipa>&#x14b;</ipa> &lt;&#x200a;q&#x200a;&gt; |
+h lateral || <ipa>l</ipa> | <ipa>&#x28e;</ipa> &lt;&#x200a;l&#x330;&#x200a;&gt;||
 h trill || <ipa>r</ipa> |||
-h sibilant || <ipa>s</ipa> | <ipa>&#x255;</ipa> &lt;x&gt; ||
-h fricative | <ipa>f v</ipa> | <ipa>&eth;</ipa> | <ipa>&ccedil;</ipa> &lt;h&#x330;&gt; || <ipa>h</ipa>
-h approximant | <ipa>w</ipa> || <ipa>j</ipa> &lt;y&gt; ||
+h sibilant || <ipa>s</ipa> | <ipa>&#x255;</ipa> &lt;&#x200a;x&#x200a;&gt; ||
+h fricative | <ipa>f v</ipa> | <ipa>&eth;</ipa> | <ipa>&ccedil;</ipa> &lt;&#x200a;h&#x330;&#x200a;&gt; || <ipa>h</ipa>
+h approximant | <ipa>w</ipa> || <ipa>j</ipa> &lt;&#x200a;y&#x200a;&gt; ||
 [/t]
 [d mobile-table]
 <strong>stops</strong>:
 [e]<strong>labial:</strong> <ipa>p</ipa>
-[e]<strong>alveolar:</strong> <ipa>t</ipa>
-[e]<strong>palatal:</strong> <ipa>c</ipa>
+[e]<strong>dental:</strong> <ipa>t</ipa>
 [e]<strong>velar:</strong> <ipa>k</ipa>
-[e]<strong>glottal:</strong> <ipa>&#x294;</ipa> &lt;&rsquo;&gt;
 <strong>voiced</strong>:
 [e]<strong>labial:</strong> <ipa>b</ipa>
 [e]<strong>alveolar:</strong> <ipa>d</ipa>
-[e]<strong>palatal:</strong> <ipa>&#x25f;</ipa> &lt;j&gt;
 [e]<strong>velar:</strong> <ipa>g</ipa>
+<strong>affricates:</strong>
+[e]<strong>voiceless palatal:</strong> <ipa>t&#x255;</ipa> &lt;&#x200a;c&#x200a;&gt;
+[e]<strong>voiced palatal:</strong> <ipa>d&#x291;</ipa> &lt;&#x200a;j&#x200a;&gt;
 <strong>nasals</strong>:
 [e]<strong>labial:</strong> <ipa>m</ipa>
 [e]<strong>alveolar:</strong> <ipa>n</ipa>
-[e]<strong>velar:</strong> <ipa>&#x14b;</ipa> &lt;q&gt;
+[e]<strong>palatal:</strong> <ipa>&#x272;</ipa> &lt;&#x200a;&ntilde;&#x200a;&gt; 
+[e]<strong>velar:</strong> <ipa>&#x14b;</ipa> &lt;&#x200a;q&#x200a;&gt;
 <strong>liquids</strong>:
 [e]<strong>alveolar lateral:</strong> <ipa>l</ipa>
-[e]<strong>retroflex tap:</strong> <ipa>&#x27d;</ipa> &lt;r&gt;
-<strong>fricatives</strong>:
-[e]<strong>labial:</strong> <ipa>f</ipa>
+[e]<strong>alveolar trill:</strong> <ipa>r</ipa>
+<strong>sibilants:</strong>
 [e]<strong>alveolar:</strong> <ipa>s</ipa>
-[e]<strong>palatal:</strong> <ipa>&#x255;</ipa> &lt;x&gt;
+[e]<strong>palatal:</strong> <ipa>&#x255;</ipa> &lt;&#x200a;x&#x200a;&gt;
+<strong>non-sibilant fricatives:</strong>
+[e]<strong>voiceless labial:</strong> <ipa>f</ipa>
+[e]<strong>voiced labial:</strong> <ipa>v</ipa>
+[e]<strong>dental:</strong> <ipa>&eth;</ipa>
+[e]<strong>palatal:</strong> <ipa>&ccedil;</ipa> &lt;&#x200a;h&#x330;&#x200a;&gt;
 [e]<strong>glottal:</strong> <ipa>h</ipa>
+<strong>approximants:</strong>
+[e]<strong>labio-velar:</strong> <ipa>w</ipa>
+[e]<strong>palatal:</strong> <ipa>j</ipa> &lt;&#x200a;y&#x200a;&gt;
 [/d]
-This table shows the consonants phonemically, using the International Phonetic Alphabet. Where it differs from IPA, the transliteration is given in &lt;triangular brackets&gt;.&date=20181003
+This table shows the consonants phonemically, using the International Phonetic Alphabet. Where it differs from IPA, the transliteration is given in &lt;&#x200a;triangular brackets&#x200a;&gt;.
+[2]Vowels
+[t]|h front |h central |h back
+h close | <ipa>i y</ipa> &lt;&#x200a;&uuml&#x200a;&gt; || <ipa>u</ipa>
+h mid | <ipa>e</ipa> (<ipa>&oslash;</ipa> &lt;&#x200a;&ouml;&#x200a;&gt;) | <ipa>(&#x259;)</ipa> | (<ipa>o</ipa>)
+h open | <ipa>&aelig;</ipa> ||
+[/t]
+[d mobile-table]
+<strong>close:</strong>
+[e]<strong>front unrounded:</strong> <ipa>i</ipa>
+[e]<strong>front rounded:</strong> <ipa>y</ipa> &lt;&#x200a;&uuml;&#x200a;&gt;
+[e]<strong>back rounded:</strong> <ipa>u</ipa>
+<strong>mid:</strong>
+[e]<strong>front unrounded:</strong> <ipa>e</ipa>
+[e]<strong>front rounded:</strong> (<ipa>&oslash;</ipa> &lt;&#x200a;&ouml;&#x200a;&gt;)
+[e]<strong>central:</strong> <ipa>(&#x259;)</ipa>
+[e]<strong>back rounded:</strong> (<ipa>o</ipa>)
+<strong>open:</strong>
+[e]<strong>front:</strong> <ipa>&aelig;</ipa>
+[/d]
+[3]Allophony
+Unstressed vowels are realised as <strong><ipa>&#x259;</ipa></strong>.
+Rounded vowels are lowered, <em>i.e.:</em> <strong><ipa>u</ipa></strong> &rarr; <strong><ipa>o</ipa></strong> and <strong><ipa>y</ipa></strong> &rarr; <strong><ipa>&oslash;</ipa></strong>, before peripheral consonants. The latter change also occurs at the ends of words.&date=20181019--------------------------------------------------2
+1]Appendices
+--------------------------------------------------3
+1]Diachrony
+This page includes a list of changes from High Lulani to Vulgar Lulani.
+[2]Phonology
+A detailed up-to-date list of changes in kept at <a href="https://github.com/RyanofTinellb/ConlangWebsiteCreation/blob/master/cwsmeagol/translation/evolve.py">GitHub</a>, in a Python file that applies these changes to a High Lulani word.
+[2]Morphology
+[2]Syntax&date=20181019

@@ -5,12 +5,14 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 
   "current": {
-    "position": "7.8", 
+    "position": "4.22", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
     "fontsize": 18, 
     "page": [
       "Vulgar Lulani", 
-      "Phonology"
+      "Appendices", 
+      "Diachrony", 
+      ""
     ], 
     "language": "hl"
   }, 
@@ -20,12 +22,12 @@
   }, 
   "links": [
     {
-      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
-      "type": "Glossary"
+      "type": "Glossary", 
+      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls"
     }, 
     {
-      "resource": "http://dictionary.tinellb.com", 
-      "type": "ExternalDictionary"
+      "type": "ExternalDictionary", 
+      "resource": "http://dictionary.tinellb.com"
     }
   ]
 }

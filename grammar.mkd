@@ -1,5 +1,7 @@
 Q&#x14d;la | Qola | <br>
 <ipa>CT:/&#x2c8;&#x1c2;&#x2b0;&#x254;&#x2d0;.l&#x259;/</ipa> | ipaCorla | <br>
+&lt;&#x200a; | << | <br>
+&#x200a;&gt; | >> | <br>
 <a href=" | {{ | <br>
 "> | :: | <br>
 </a> | }} | <br>
