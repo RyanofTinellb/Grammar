@@ -35,12 +35,12 @@ c3 |c3 Archaic Brequ&egrave;n |
 c3 |c3 Common Brequ&egrave;n |
 c7
 |c3 Proto&#x2011;Zhaladi ||c2 Classical Tsarin
-|c3 Reformed Zhaladi ||c2 Modern Tsarin
-|c3 Traditional Zhaladi
+|c3 Contemporary Zhaladi ||c2 Modern Tsarin
+|c3 Reformed Zhaladi
 c5 |c2 Ancient Solajin
 c5 |c2 Medieval Solajin
-c5 |c2 Contemporary Solajin
-c5 |c2 New Solajin[/t] [/d]&date=20180604--------------------------------------------------3
+c5 |c2 Traditional Solajin
+c5 |c2 New Solajin[/t] [/d]&date=20181021--------------------------------------------------3
 1]Ptoko
 Located in Universe M<sup>204</sup>&nu;
 Solaji: F<sup>996</sup>&xi;
@@ -4351,7 +4351,7 @@ h approximant | <ipa>w</ipa> || <ipa>j</ipa> &lt;&#x200a;y&#x200a;&gt; ||
 <strong>nasals</strong>:
 [e]<strong>labial:</strong> <ipa>m</ipa>
 [e]<strong>alveolar:</strong> <ipa>n</ipa>
-[e]<strong>palatal:</strong> <ipa>&#x272;</ipa> &lt;&#x200a;&ntilde;&#x200a;&gt; 
+[e]<strong>palatal:</strong> <ipa>&#x272;</ipa> &lt;&#x200a;&ntilde;&#x200a;&gt;
 [e]<strong>velar:</strong> <ipa>&#x14b;</ipa> &lt;&#x200a;q&#x200a;&gt;
 <strong>liquids</strong>:
 [e]<strong>alveolar lateral:</strong> <ipa>l</ipa>
@@ -4392,11 +4392,58 @@ h open | <ipa>&aelig;</ipa> ||
 [3]Allophony
 Unstressed vowels are realised as <strong><ipa>&#x259;</ipa></strong>.
 Rounded vowels are lowered, <em>i.e.:</em> <strong><ipa>u</ipa></strong> &rarr; <strong><ipa>o</ipa></strong> and <strong><ipa>y</ipa></strong> &rarr; <strong><ipa>&oslash;</ipa></strong>, before peripheral consonants. The latter change also occurs at the ends of words.&date=20181019--------------------------------------------------2
+1]Morphology--------------------------------------------------3
+1]Verbs
+[2]Regular Verbs
+To produce the inflected forms, simply add the corresponding inflection, taking sandhi into account.
+Personal suffixes:
+[t]r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
+h topic |h animate |h inanimate
+hc2 intranstitive | us | fil&#x330; | su | miy&#x1ee5; | pa
+hc2 transitive | som| fu | su | qo | if
+hc2 ablative | pud&#x1ee5; | sac&#x1ee5; | raj | kex | kal&#x1ee5;
+hc2 dative | pix&#x1ecb; | b&ouml; | dat&#x1ee5; | j&uuml;x&#x1ecb; | ku
+hr2 genitive |h (alienable) | pag&#x1ee5; | ba | su | jix&#x1ecb; |
+h (inalienable) | -pe | -b || -jix&#x1ecb; | -qa
+[/t]
+[2]Irregular Verbs
+These are derived from monosyllables.
+&date=20181020--------------------------------------------------2
 1]Appendices
 --------------------------------------------------3
 1]Diachrony
 This page includes a list of changes from High Lulani to Vulgar Lulani.
 [2]Phonology
 A detailed up-to-date list of changes in kept at <a href="https://github.com/RyanofTinellb/ConlangWebsiteCreation/blob/master/cwsmeagol/translation/evolve.py">GitHub</a>, in a Python file that applies these changes to a High Lulani word.
+[l]Lowering of back vowels before peripheral consonants.
+Shifting of geminate consonants: unvoiced plosive &rarr; voiced plosive &rarr; voiced fricative
+I-mutation of vowels when followed by /<strong><ipa>i</ipa></strong>/ in the next syllable.
+Palatalisation of alveolar sounds when followed by /<strong><ipa>i</ipa></strong>/.
+Loss of /<strong><ipa>i</ipa></strong>/ after geminate consonants.
+Degemination of consonants.
+Elision of unstressed /<strong><ipa>&#x259;</ipa></strong>/, followed by &#10; consonant cluster reduction.
+Reduction of remaining unstressed vowels to schwa. This can be transliterated with a lower dot on the affected vowel.
+[/l]
 [2]Morphology
-[2]Syntax&date=20181019
+[3]Verbs and adjectives
+Auxiliaries were cliticised onto verbs. From a combination of stress patterns and elision / reduction of unstressed vowels, verbs became trigrade. Adjectives developed from verbs originally followed by monosyllabic auxiliaries, <em>i.e.:</em> grade one and grade zero verbs. Grade two verbs remained verbs, however, the meaning of the auxiliaries has shifted.
+[f]Grade zero:
+[e]&lt;&#x200a;verb&#x200a;&gt; + -hu &rarr; emotional adjectives
+[f]Grade one:
+[e]&lt;&#x200a;verb&#x200a;&gt; + -pi &rarr; positive adjectives
+[e]&lt;&#x200a;verb&#x200a;&gt; + -ji &rarr; negative adjectives
+[e]&lt;&#x200a;verb&#x200a;&gt; + -ru &rarr; abstract gerund
+[e]&lt;&#x200a;verb&#x200a;&gt; + -na &rarr; concrete gerund
+[f]Grade two:
+[e]&lt;&#x200a;verb&#x200a;&gt; + -qixa &rarr; past perfect
+[e]&lt;&#x200a;verb&#x200a;&gt; + -cani &rarr; non-past perfect
+[e]&lt;&#x200a;verb&#x200a;&gt; + -taku &rarr; past imperfect
+[e]&lt;&#x200a;verb&#x200a;&gt; + -ra&rsquo;u &rarr; non-past imperfect
+[e]&lt;&#x200a;verb&#x200a;&gt; + -qilu &rarr; negative
+[e]&lt;&#x200a;verb&#x200a;&gt; + -lanu &rarr; positive imperative
+[e]&lt;&#x200a;verb&#x200a;&gt; + -funi &rarr; negative imperative
+[e]&lt;&#x200a;verb&#x200a;&gt; + -rusa &rarr; past historic
+[e]&lt;&#x200a;verb&#x200a;&gt; + -ruku &rarr; future historic
+[e]&lt;&#x200a;verb&#x200a;&gt; + -nagi &rarr; &Oslash;
+[2]Syntax
+The dative began to take over the functions of the accusative, which was thereby dropped.&date=20181019
