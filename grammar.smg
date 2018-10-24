@@ -1,6 +1,6 @@
 {
   "files": {
-    "searchjson": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json", 
+    "searchindex": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json", 
     "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.txt", 
     "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
   }, 

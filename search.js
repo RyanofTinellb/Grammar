@@ -4,23 +4,24 @@ if (window.location.href.indexOf("?") != -1) {
 
 function search() {
     document.getElementById("results").innerHTML = "Searching...";
-    var url = "searching.json";
+    var url = "data.json";
     var xmlhttp = new XMLHttpRequest();
     var andButton = document.getElementById("and")
     xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
-            var text = JSON.parse(this.responseText);
-            var terms = getTerms();
-            if (!terms.length) {
-                arr = [];
-            } else if (terms.length == 1) {
-                arr = oneTermSearch(text, terms);
-            } else if (andButton.checked) {
-                arr = andSearch(text, terms);
-            } else {
-                arr = orSearch(text, terms);
-            }
-            display(arr, text, "results", terms);
+            console.log(JSON.parse(this.responseText));
+            // var text = JSON.parse(this.responseText);
+            // var terms = getTerms();
+            // if (!terms.length) {
+            //     arr = [];
+            // } else if (terms.length == 1) {
+            //     arr = oneTermSearch(text, terms);
+            // } else if (andButton.checked) {
+            //     arr = andSearch(text, terms);
+            // } else {
+            //     arr = orSearch(text, terms);
+            // }
+            // display(arr, text, "results", terms);
         }
     };
     xmlhttp.open("GET", url, true);
