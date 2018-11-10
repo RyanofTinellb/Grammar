@@ -16,7 +16,7 @@
     "name": "Grammar",
     "files": {
       "searchindex": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json",
-      "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.txt",
+      "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.json",
       "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
     },
   },
