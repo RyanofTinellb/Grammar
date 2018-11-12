@@ -99,7 +99,30 @@ h6 {
     height: 1em;
 }
 
-.content .hierarchy table th {
+.content .toc {
+    margin-top: 1em;
+    margin-left: 10%;
+    margin-bottom: 3em;
+    padding: 1em 0 1em 2em;
+    border-left: 1px solid purple;
+    border-bottom: 1px solid purple;
+}
+
+.content .toc::before {
+    content: 'Continue with:';
+    font-size: larger;
+    font-style: italic;
+    position: relative;
+    top: -0.5em;
+}
+
+.content .toc p::before {
+    content: '\1f65a';
+    padding-right: 1em;
+}
+
+.content .toc a {
+    color: black;
 }
 
 .content div.wordlist {
