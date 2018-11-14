@@ -80,7 +80,7 @@ table high-lulani:hover {
   display: flex;
   flex-direction: column;
   margin-left: 5%;
-  width: 60%;
+  width: 60vw;
 }
 
 .content p {
