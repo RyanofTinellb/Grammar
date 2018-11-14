@@ -2,39 +2,32 @@
 <html>
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta charset="utf-8">
-  <title>
-    {category-title} - Tinellbian Languages
-  </title>
-  {stylesheet} {search-script}
+    <meta name="viewport" content="width=device-width,
+                                initial-scale=1.0, user-scalable=yes">
+    <meta charset="utf-8">
+    <title>
+        {category-title} - Tinellbian Languages
+    </title>
+    {stylesheet} {search-script}
 </head>
 
 <body>
-  <div class="flex">
-    <div class="nav-pane">
-      {family-links}
+    <div class="flex">
+        <div class="nav-pane">
+            {family-links}
+        </div>
+        <div class="content">
+            {nav-footer}
+            {main-contents}
+            {toc}
+            {nav-footer}
+            {copyright}
+        </div>
     </div>
-    <div class="content">
-      <div class="nav-footer">
-        {nav-footer}
-      </div>
-      {content}
-      <div class="toc">
-          {toc}
-      </div class="toc">
-      <div class="nav-footer">
-        {nav-footer}
-      </div>
-      <div class="copyright">
-        {copyright}
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-    document.getElementById('search').style.display = 'list-item';
-    document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
-  </script>
+    <script type="text/javascript">
+        document.getElementById('search').style.display = 'list-item';
+        document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
+    </script>
 </body>
 
 </html>

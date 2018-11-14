@@ -1,33 +1,32 @@
 {
   "current": {
-    "position": "27.18",
-    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd",
-    "fontsize": 18,
+    "position": "27.18", 
+    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
+    "fontsize": 18, 
     "page": [
-      "Introduction",
-      "History",
-      "Tinellb",
+      "Introduction", 
+      "History", 
       ""
-    ],
-    "language": "hl"
-  },
+    ], 
+    "language": "en: English"
+  }, 
   "site": {
-    "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar",
-    "name": "Grammar",
     "files": {
-      "searchindex": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json",
-      "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.json",
-      "template": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
-    },
-  },
+      "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.json", 
+      "searchindex": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json", 
+      "template_file": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
+    }, 
+    "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar", 
+    "name": "Grammar"
+  }, 
   "links": [
     {
-      "type": "Glossary",
-      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls"
-    },
+      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
+      "type": "Glossary"
+    }, 
     {
-      "type": "ExternalDictionary",
-      "resource": "http://dictionary.tinellb.com"
+      "resource": "http://dictionary.tinellb.com", 
+      "type": "ExternalDictionary"
     }
   ]
 }
