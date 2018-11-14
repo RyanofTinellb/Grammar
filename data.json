@@ -103,13 +103,13 @@
             "/t]\n", 
             "t]h Vowel |h Example\n <ipa>&#x259;</ipa> | su&rsquo;<strong>a</strong>\n <ipa>&#x268;</ipa> | kas<strong>i</strong>\n <ipa>&#x289;</ipa> | l<strong>u</strong>lani\n", 
             "/t]\n", 
-            "/d]\nThe suprasegmental symbols are all exemplified in <ipa>/&#x2cc;p&#x2b0;am.&#x268;&#x2c8;lam.&#x268;/</ipa>.\n\n"
+            "/d]\nThe suprasegmental symbols are all exemplified in <ipa>/&#x2cc;p&#x2b0;am.&#x268;&#x2c8;lam.&#x268;/</ipa>.\n"
           ], 
           "flatname": {
             "score": 0, 
             "name": "phonology"
           }, 
-          "date": "2018-06-04", 
+          "date": "2018-11-14", 
           "children": [
             {
               "date": "2018-04-20", 
