@@ -21,12 +21,12 @@
   }, 
   "links": [
     {
-      "type": "Glossary", 
-      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls"
+      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
+      "type": "Glossary"
     }, 
     {
-      "type": "ExternalDictionary", 
-      "resource": "http://dictionary.tinellb.com"
+      "resource": "http://dictionary.tinellb.com", 
+      "type": "ExternalDictionary"
     }
   ]
 }
