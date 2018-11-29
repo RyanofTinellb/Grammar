@@ -5,28 +5,23 @@
     "fontsize": 18, 
     "page": [
       "High Lulani", 
-      "Phonology", 
-      ""
+      "Sample Texts", 
+      "Prelude", 
+      "Lusov"
     ], 
     "language": "en: English"
   }, 
   "site": {
     "files": {
-      "source": "c:/users/ryan/documents/tinellbianlanguages/grammar/data.json", 
-      "searchindex": "c:/users/ryan/documents/tinellbianlanguages/grammar/searching.json", 
-      "template_file": "c:/users/ryan/documents/tinellbianlanguages/grammar/template.html"
+      "source": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/data.json", 
+      "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/searching.json", 
+      "template_file": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/template.html"
     }, 
     "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar", 
     "name": "Grammar"
   }, 
-  "links": [
-    {
-      "resource": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
-      "type": "Glossary"
-    }, 
-    {
-      "resource": "http://dictionary.tinellb.com", 
-      "type": "ExternalDictionary"
-    }
-  ]
+  "links": {
+    "Glossary": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
+    "ExternalDictionary": "http://dictionary.tinellb.com"
+  }
 }

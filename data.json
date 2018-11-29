@@ -6,10 +6,10 @@
     "1]<a href=\"highlulani/index.html\">High Lulani</a>\n<high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi."
   ], 
   "flatname": {
-    "score": 236196, 
+    "score": 3645, 
     "name": "gramar"
   }, 
-  "date": "2018-11-12", 
+  "date": "2018-11-29", 
   "children": [
     {
       "name": "Introduction", 
@@ -46,7 +46,7 @@
                 "/d]\n"
               ], 
               "flatname": {
-                "score": 2125764, 
+                "score": 32805, 
                 "name": "tinelb"
               }, 
               "name": "Tinellb", 
@@ -377,7 +377,7 @@
                 "/d]\nGeminate consonants are shown as <high-lulani>;</high-lulani>, placed before the geminated consonant.\nA central dot <high-lulani>/</high-lulani> is placed between words, and sentences begin and end with a <high-lulani>.</high-lulani> symbol.\n\n"
               ], 
               "flatname": {
-                "score": 26244, 
+                "score": 405, 
                 "name": "sylabary"
               }, 
               "name": "Syllabary", 
@@ -455,7 +455,7 @@
                 "/d]\n"
               ], 
               "flatname": {
-                "score": 1129718382120, 
+                "score": 17433925650, 
                 "name": "spelingsylabary"
               }, 
               "name": "Spelling Syllabary", 
@@ -476,7 +476,7 @@
                 "/d]\nDot 5 (&#x2810;) by itself is the geminate. Word separation is shown by (&#x2800;) an empty space, clause separation by (&#x2824;) the comma, and sentence separation by (&#x2814;) the period. Numbers are prefixed with (&#x2828;) the number sign, and the first syllable of each number is used.\n\n"
               ], 
               "flatname": {
-                "score": 125524238436, 
+                "score": 1937102445, 
                 "name": "tactilesylabary"
               }, 
               "name": "Tactile Syllabary", 
@@ -1516,7 +1516,7 @@
                 "/d]\n\n"
               ], 
               "flatname": {
-                "score": 26244, 
+                "score": 405, 
                 "name": "sufixes"
               }, 
               "date": "2018-05-12", 
@@ -1953,7 +1953,7 @@
                     "/d]\n"
                   ], 
                   "flatname": {
-                    "score": 45753584909922, 
+                    "score": 5083731656658, 
                     "name": "indefiniteproforms"
                   }, 
                   "name": "Indefinite Pro-forms", 
@@ -2102,7 +2102,7 @@
               "hyperlink": "highlulani/syntax/case.html"
             }, 
             {
-              "date": "2018-05-03", 
+              "date": "2018-11-29", 
               "text": [
                 "The standard word order for matrix clauses is:\nSubject &dash; Auxiliary &dash; Adposition - Oblique &dash; Verb &dash; Object &dash; Adverb.\nNone of these slots are compulsorily filled. If a subject is obvious from context, or is the same as that of the immediately prior sentence, it can be dropped. The adverb can act as a pro-sentence.\n", 
                 "1]Intransitive Clauses\nAs already discussed, intransitive clauses do not have objects.\n", 
@@ -2185,7 +2185,7 @@
                 "e]<a href=\"http://dictionary.tinellb.com/m/mihu.html#highlulani\">Mihu</a> <a href=\"http://dictionary.tinellb.com/p/pi.html#highlulani\">pi</a> <a href=\"http://dictionary.tinellb.com/d/dasi.html#highlulani\">dasi</a> <a href=\"http://dictionary.tinellb.com/i/'iffa.html#highlulani\">&rsquo;iffa</a>.\n", 
                 "e]<small-caps>3ani.int pst;sta</small-caps> <em>eat</em><small-caps> 3ina.tra</small-caps>\n", 
                 "e]&ldquo;She was eating it.&rdquo;", 
-                "/d]\nAs can be seen, the only time the transitive case is used for the subject of a clause is in transitive (as well as copular) sentences using dynamic or iterative auxiliaries.\n\n"
+                "/d]\nAs can be seen, the only time the transitive case is used for the subject of a clause is in transitive (as well as copular) sentences using dynamic or iterative auxiliaries.\n"
               ], 
               "flatname": {
                 "score": 0, 
@@ -2195,7 +2195,7 @@
               "hyperlink": "highlulani/syntax/matrixclauses.html"
             }, 
             {
-              "date": "2018-05-03", 
+              "date": "2018-11-29", 
               "text": [
                 "The first noun in a clause is the subject, which is prototypically the agent in transitive sentences and the patient in intransitive sentences. However, suffixes can be added to the verb to promote other nouns in the clause, other than the genitive.\nThere are three such verbal suffixes, which can be stacked, however, once something has been shifted from the subject position, it can&rsquo;t be promoted again.\n", 
                 "1]Passive\nThe passive suffix promotes the object. This suffix has the forms:\n", 
@@ -3062,7 +3062,7 @@
               "date": "", 
               "children": [
                 {
-                  "date": "2018-06-12", 
+                  "date": "2018-11-29", 
                   "text": [
                     "d interlinear]\n", 
                     "d paragraph]\n", 
@@ -3226,17 +3226,17 @@
                     "d folding]\n", 
                     "/d] ", 
                     "/d] ", 
-                    "/d]\n\n"
+                    "/d]\n"
                   ], 
                   "flatname": {
                     "score": 0, 
-                    "name": "pageone"
+                    "name": "corla"
                   }, 
-                  "name": "Page One", 
-                  "hyperlink": "highlulani/sampletexts/prelude/pageone.html"
+                  "name": "Corla", 
+                  "hyperlink": "highlulani/sampletexts/prelude/corla.html"
                 }, 
                 {
-                  "date": "", 
+                  "date": "2018-11-29", 
                   "text": [
                     "d interlinear]\n", 
                     "d paragraph]\n", 
@@ -3497,11 +3497,11 @@
                     "score": 0, 
                     "name": "pagetwo"
                   }, 
-                  "name": "Page Two", 
-                  "hyperlink": "highlulani/sampletexts/prelude/pagetwo.html"
+                  "name": "Toresh", 
+                  "hyperlink": "highlulani/sampletexts/prelude/toresh.html"
                 }, 
                 {
-                  "date": "", 
+                  "date": "2018-11-29", 
                   "text": [
                     "d interlinear]\n", 
                     "d paragraph]\n", 
@@ -3807,7 +3807,7 @@
                     "f]<strong>Kuli Tapassi narini rahi rukaru?</strong>\n", 
                     "e]<high-lulani>.&gt;L / tp;S / nRN / rH / wkw .</high-lulani>\n", 
                     "e]<a href=\"http://dictionary.tinellb.com/k/ku.html#highlulani\">Ku</a>-<a href=\"http://dictionary.tinellb.com/l/li.html#highlulani\">li</a> <a href=\"http://dictionary.tinellb.com/t/tapassi.html#highlulani\">Tapassi</a> <a href=\"http://dictionary.tinellb.com/n/nar.html#highlulani\">nar</a>-<a href=\"http://dictionary.tinellb.com/i/ini.html#highlulani\">ini</a> <a href=\"http://dictionary.tinellb.com/r/rahi.html#highlulani\">rahi</a> <a href=\"http://dictionary.tinellb.com/r/ru.html#highlulani\">ru</a>-<a href=\"http://dictionary.tinellb.com/k/karu%3F.html#highlulani\">karu?</a>\n", 
-                    "e]<small-caps>Dat</small-caps>-<span class=\"tooltip\"><small-caps>com</small-caps><span class=\"tooltip-text\">complementiser</span></span> <em>TZ:/&#x288;&#x025b;.&#x2c8;pet&#x032a;&#x3b8;&#x032a;/ sleep-</em><small-caps>dim</small-caps><em> whether</em> <span class=\"tooltip\"><small-caps>pst;gno</small-caps><span class=\"tooltip-text\">past gnomic</span></span>-<span class=\"tooltip\"><small-caps>trm</small-caps><span class=\"tooltip-text\">terminative</span></span> <em>speak-ask</em>-<span class=\"tooltip\"><small-caps>dtv</small-caps><span class=\"tooltip-text\">dative promotion</span></span> <em>Whether T&#x323;epet is no longer having a little sleep</em>?\n", 
+                    "e]<small-caps>Dat</small-caps>-<span class=\"tooltip\"><small-caps>com</small-caps><span class=\"tooltip-text\">complementiser</span></span> <em>TZ:/&#x288;&#x025b;.&#x2c8;pet&#x032a;&#x3b8;&#x032a;/ sleep-dim whether</em> <span class=\"tooltip\"><small-caps>pst;gno</small-caps><span class=\"tooltip-text\">past gnomic</span></span>-<span class=\"tooltip\"><small-caps>trm</small-caps><span class=\"tooltip-text\">terminative</span></span> <em>speak-ask</em>-<span class=\"tooltip\"><small-caps>dtv</small-caps><span class=\"tooltip-text\">dative promotion</span></span> <em>Whether T&#x323;epet is no longer having a little sleep</em>?\n", 
                     "e](she) was asked.\n", 
                     "e]Is Tepeth awoken from her nap yet?", 
                     "/d]\n", 
@@ -3885,14 +3885,14 @@
                     "/d]\n"
                   ], 
                   "flatname": {
-                    "score": 1549681956, 
+                    "score": 23914845, 
                     "name": "pagethre"
                   }, 
-                  "name": "Page Three", 
-                  "hyperlink": "highlulani/sampletexts/prelude/pagethree.html"
+                  "name": "Piado", 
+                  "hyperlink": "highlulani/sampletexts/prelude/piado.html"
                 }, 
                 {
-                  "date": "", 
+                  "date": "2018-11-29", 
                   "text": [
                     "d interlinear]\n", 
                     "d paragraph]\n", 
@@ -4146,11 +4146,11 @@
                     "score": 0, 
                     "name": "pagefour"
                   }, 
-                  "name": "Page Four", 
-                  "hyperlink": "highlulani/sampletexts/prelude/pagefour.html"
+                  "name": "Lharen", 
+                  "hyperlink": "highlulani/sampletexts/prelude/lharen.html"
                 }, 
                 {
-                  "date": "2018-06-12", 
+                  "date": "2018-11-29", 
                   "text": [
                     "d interlinear]\n", 
                     "d paragraph]\n", 
@@ -4719,14 +4719,14 @@
                     "e]Toresh noticed Lharen standing in the doorway, and motioned her over.", 
                     "/d] ", 
                     "/d] ", 
-                    "/d]\n\n"
+                    "/d]\n"
                   ], 
                   "flatname": {
                     "score": 0, 
                     "name": "pagefive"
                   }, 
-                  "name": "Page Five", 
-                  "hyperlink": "highlulani/sampletexts/prelude/pagefive.html"
+                  "name": "Lusov", 
+                  "hyperlink": "highlulani/sampletexts/prelude/lusov.html"
                 }
               ]
             }
@@ -4831,7 +4831,7 @@
           "hyperlink": "vulgarlulani/appendices/index.html", 
           "text": [], 
           "flatname": {
-            "score": 2916, 
+            "score": 45, 
             "name": "apendices"
           }, 
           "date": "", 
