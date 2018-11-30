@@ -1,40 +1,25 @@
 {
-  "name": "Grammar", 
-  "hyperlink": "index.html", 
+  "date": "2018-11-29", 
   "text": [
     "This is a grammar of the languages of Tinellb. All these languages descend from a single common ancestor, High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.\n", 
     "1]<a href=\"highlulani/index.html\">High Lulani</a>\n<high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi."
   ], 
-  "flatname": {
-    "score": 3645, 
-    "name": "gramar"
-  }, 
-  "date": "2018-11-29", 
+  "name": "Grammar", 
   "children": [
     {
-      "name": "Introduction", 
-      "hyperlink": "introduction/index.html", 
+      "date": "2017-10-23", 
       "text": [
         "The Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality.\n\n"
       ], 
-      "flatname": {
-        "score": 0, 
-        "name": "introduction"
-      }, 
-      "date": "2017-10-23", 
+      "name": "Introduction", 
       "children": [
         {
-          "name": "History", 
-          "hyperlink": "introduction/history/index.html", 
+          "date": "2018-06-04", 
           "text": [
             "1]External History\nI have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <span class=\"no-breaks\"><strong>mica</strong> <high-lulani>Mc</high-lulani> <em>hello</em></span> dates from that time.\nWhen I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what was to be the Ptokan language, and the language of the Fezhl&ecirc;. The latter  was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt.\n", 
             "1]Internal History\nThe history of Tinellb, as well as the Guozu and their languages is written on the following pages as if it were a chronicle of actual events.\n"
           ], 
-          "flatname": {
-            "score": 0, 
-            "name": "history"
-          }, 
-          "date": "2018-06-04", 
+          "name": "History", 
           "children": [
             {
               "date": "2018-10-21", 
@@ -45,44 +30,28 @@
                 "/t] ", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 32805, 
-                "name": "tinelb"
-              }, 
-              "name": "Tinellb", 
-              "hyperlink": "introduction/history/tinellb.html"
+              "name": "Tinellb"
             }, 
             {
               "date": "2018-06-05", 
               "text": [
                 "Located in Universe M<sup>204</sup>&nu;\nSolaji: F<sup>996</sup>&xi;\nBrequ&eacute;: D<sup>578</sup>&eta;\nZhalad: A<sup>376</sup>&gamma;\nTsarein: E<sup>415</sup>&chi;\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "ptoko"
-              }, 
-              "name": "Ptoko", 
-              "hyperlink": "introduction/history/ptoko.html"
+              "name": "Ptoko"
             }
           ]
         }
       ]
     }, 
     {
-      "name": "High Lulani", 
-      "hyperlink": "highlulani/index.html", 
+      "date": "2018-09-29", 
       "text": [
         "High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.\n"
       ], 
-      "flatname": {
-        "score": 0, 
-        "name": "highlulani"
-      }, 
-      "date": "2018-09-29", 
+      "name": "High Lulani", 
       "children": [
         {
-          "name": "Phonology", 
-          "hyperlink": "highlulani/phonology/index.html", 
+          "date": "2018-11-14", 
           "text": [
             "High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated, which can palatalise or change the voicing of the original sound.\nThis page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.\n", 
             "d columns]\n", 
@@ -105,11 +74,7 @@
             "/t]\n", 
             "/d]\nThe suprasegmental symbols are all exemplified in <ipa>/&#x2cc;p&#x2b0;am.&#x268;&#x2c8;lam.&#x268;/</ipa>.\n"
           ], 
-          "flatname": {
-            "score": 0, 
-            "name": "phonology"
-          }, 
-          "date": "2018-11-14", 
+          "name": "Phonology", 
           "children": [
             {
               "date": "2018-04-20", 
@@ -241,12 +206,7 @@
                 "e]<a href=\"http://dictionary.tinellb.com/q/quhha.html#highlulani\">quhha</a> <ipa>/&#x2c8;&#x14b;u<strong>&ccedil;.&ccedil;</strong>&#x259;/</ipa> <high-lulani>A;h</high-lulani> <em>river</em>", 
                 "/d]\n\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "consonants"
-              }, 
-              "name": "Consonants", 
-              "hyperlink": "highlulani/phonology/consonants.html"
+              "name": "Consonants"
             }, 
             {
               "date": "2018-04-20", 
@@ -280,24 +240,14 @@
                 "e]<a href=\"http://dictionary.tinellb.com/r/riccu.html#highlulani\">riccu</a> <ipa>/&#x2c8;&#x27d;ic.c<strong>&#x289;</strong>/</ipa><high-lulani>R;y</high-lulani> <em>sphere</em>", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "vowels"
-              }, 
-              "name": "Vowels", 
-              "hyperlink": "highlulani/phonology/vowels.html"
+              "name": "Vowels"
             }, 
             {
               "date": "2018-04-20", 
               "text": [
                 "Phonemically, all syllables are CV, that is, one consonant followed by one vowel. Word-internal consonants can be geminated. The only consonant clusters are geminate consonants, and there are no phonemic vowel clusters or long vowels.\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "phonotactics"
-              }, 
-              "name": "Phonotactics", 
-              "hyperlink": "highlulani/phonology/phonotactics.html"
+              "name": "Phonotactics"
             }, 
             {
               "date": "2018-05-04", 
@@ -343,26 +293,16 @@
                 "1]Vowel Length\nStressed vowels are slightly longer than other vowels. WIth this proviso, long and short vowels are in free variation. An unstressed vowel between two identical consonants is elided. This elided vowel is replaced with a central dot (&middot;) in the transliteration. This dot also appears in the compound word <a href=\"http://dictionary.tinellb.com/k/ku.li.html#highlulani\">ku&middot;li</a> to distinguish it from the stem word <a href=\"http://dictionary.tinellb.com/k/kuli.html#highlulani\">kuli</a>.\n", 
                 "1]Prosody\nInterrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (&#x1ce;) or a falling tone (&acirc;), placed on the syllable of the appropriate word which has the greatest stress.\nFalling tone can also be used to bring focus to a particular word.\n\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "suprasegmentals"
-              }, 
-              "name": "Suprasegmentals", 
-              "hyperlink": "highlulani/phonology/suprasegmentals.html"
+              "name": "Suprasegmentals"
             }
           ]
         }, 
         {
-          "name": "Orthography", 
-          "hyperlink": "highlulani/orthography/index.html", 
+          "date": "2018-03-23", 
           "text": [
             "As well as the syllabary for most written use, there are also special-use syllabaries. One of these encodes more redundancy for use with noisy channels. The other is a non-visual written code for blind and other visually impaired users.\n"
           ], 
-          "flatname": {
-            "score": 0, 
-            "name": "orthography"
-          }, 
-          "date": "2018-03-23", 
+          "name": "Orthography", 
           "children": [
             {
               "date": "2018-05-07", 
@@ -376,12 +316,7 @@
                 "/d]", 
                 "/d]\nGeminate consonants are shown as <high-lulani>;</high-lulani>, placed before the geminated consonant.\nA central dot <high-lulani>/</high-lulani> is placed between words, and sentences begin and end with a <high-lulani>.</high-lulani> symbol.\n\n"
               ], 
-              "flatname": {
-                "score": 405, 
-                "name": "sylabary"
-              }, 
-              "name": "Syllabary", 
-              "hyperlink": "highlulani/orthography/syllabary.html"
+              "name": "Syllabary"
             }, 
             {
               "date": "2018-04-20", 
@@ -454,12 +389,7 @@
                 "/d]", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 17433925650, 
-                "name": "spelingsylabary"
-              }, 
-              "name": "Spelling Syllabary", 
-              "hyperlink": "highlulani/orthography/spellingsyllabary.html"
+              "name": "Spelling Syllabary"
             }, 
             {
               "date": "2018-04-20", 
@@ -475,26 +405,16 @@
                 "/d]", 
                 "/d]\nDot 5 (&#x2810;) by itself is the geminate. Word separation is shown by (&#x2800;) an empty space, clause separation by (&#x2824;) the comma, and sentence separation by (&#x2814;) the period. Numbers are prefixed with (&#x2828;) the number sign, and the first syllable of each number is used.\n\n"
               ], 
-              "flatname": {
-                "score": 1937102445, 
-                "name": "tactilesylabary"
-              }, 
-              "name": "Tactile Syllabary", 
-              "hyperlink": "highlulani/orthography/tactilesyllabary.html"
+              "name": "Tactile Syllabary"
             }
           ]
         }, 
         {
-          "name": "Morphology", 
-          "hyperlink": "highlulani/morphology/index.html", 
+          "date": "2018-03-24", 
           "text": [
             "High Lulani is an analytic agglutinative language, as morphemes tend to keep their own shape, even when forming words.\n"
           ], 
-          "flatname": {
-            "score": 0, 
-            "name": "morphology"
-          }, 
-          "date": "2018-03-24", 
+          "name": "Morphology", 
           "children": [
             {
               "date": "2018-03-25", 
@@ -564,16 +484,10 @@
                 "e]<a href=\"http://dictionary.tinellb.com/x/xuci.html#highlulani\">Xuci</a><a href=\"http://dictionary.tinellb.com/p/pura.html#highlulani\">pura</a> <a href=\"http://dictionary.tinellb.com/c/cula.html#highlulani\">Cula</a> <high-lulani>ZCor / yl</high-lulani> <em>The Crackled Egg</em> (name of a story)", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "nouns"
-              }, 
-              "name": "Nouns", 
-              "hyperlink": "highlulani/morphology/nouns.html"
+              "name": "Nouns"
             }, 
             {
-              "name": "Verbs", 
-              "hyperlink": "highlulani/morphology/verbs/index.html", 
+              "date": "2018-05-07", 
               "text": [
                 "A verb is a necessary part of any sentence, except when making <a href=\"../syntax/matrixclauses.html#copularsentences\">copular sentences</a>. Verbs can be categorised on the basis of how many elements compose them.\n", 
                 "2]Stem Verbs\nThe class of stem verbs is semi-closed &mdash; there are only about 100 pure verbs in the entire language. Stem verbs consist of a single element.\n", 
@@ -610,11 +524,7 @@
                 "/d]\n", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "verbs"
-              }, 
-              "date": "2018-05-07", 
+              "name": "Verbs", 
               "children": [
                 {
                   "date": "2018-04-23", 
@@ -769,12 +679,7 @@
                     "e]<a href=\"http://dictionary.tinellb.com/h/hulla.html#highlulani\">hulla</a> <high-lulani>V;l</high-lulani> <em>to copulate; to have consumated</em>\n", 
                     "/d]\n\n"
                   ], 
-                  "flatname": {
-                    "score": 0, 
-                    "name": "intransitivity"
-                  }, 
-                  "name": "Intransitivity", 
-                  "hyperlink": "highlulani/morphology/verbs/intransitivity.html"
+                  "name": "Intransitivity"
                 }, 
                 {
                   "date": "2018-04-05", 
@@ -920,12 +825,7 @@
                     "e]<a href=\"http://dictionary.tinellb.com/t/tapu.html#highlulani\">tapu</a> <em>to look forward to; to enjoy</em>\n", 
                     "/d]\n"
                   ], 
-                  "flatname": {
-                    "score": 0, 
-                    "name": "transitivity"
-                  }, 
-                  "name": "Transitivity", 
-                  "hyperlink": "highlulani/morphology/verbs/transitivity.html"
+                  "name": "Transitivity"
                 }, 
                 {
                   "date": "2018-06-07", 
@@ -993,12 +893,7 @@
                     "e]<a href=\"http://dictionary.tinellb.com/m/ma.html#highlulani\">ma</a> <high-lulani>m</high-lulani> <em>to consider</em>", 
                     "/d]\n\n"
                   ], 
-                  "flatname": {
-                    "score": 0, 
-                    "name": "ambitransitivity"
-                  }, 
-                  "name": "Ambitransitivity", 
-                  "hyperlink": "highlulani/morphology/verbs/ambitransitivity.html"
+                  "name": "Ambitransitivity"
                 }
               ]
             }, 
@@ -1075,12 +970,7 @@
                 "/d]\n", 
                 "2]Negative\nThe negative aspect is used for actions, attributes and perceptions which do not occur. These act as the negation of any other aspectual marker. That is, while positive sentences can be classified by aspect, negative sentences all use the same auxiliaries.\n\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "auxiliaries"
-              }, 
-              "name": "Auxiliaries", 
-              "hyperlink": "highlulani/morphology/auxiliaries.html"
+              "name": "Auxiliaries"
             }, 
             {
               "date": "2018-04-22", 
@@ -1218,12 +1108,7 @@
                 "e]<a href=\"http://dictionary.tinellb.com/a/'arri.html#highlulani\">&rsquo;arri</a> <high-lulani>a;R</high-lulani> <em>along with</em>", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "adpositions"
-              }, 
-              "name": "Adpositions", 
-              "hyperlink": "highlulani/morphology/adpositions.html"
+              "name": "Adpositions"
             }, 
             {
               "date": "2018-05-03", 
@@ -1340,16 +1225,10 @@
                 "/d]\n", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "adverbs"
-              }, 
-              "name": "Adverbs", 
-              "hyperlink": "highlulani/morphology/adverbs.html"
+              "name": "Adverbs"
             }, 
             {
-              "name": "Suffixes", 
-              "hyperlink": "highlulani/morphology/suffixes/index.html", 
+              "date": "2018-05-12", 
               "text": [
                 "Suffixes can be used to derive new word from existing vocabulary. A suffix beginning with a vowel replaces the final vowel of the base.\n", 
                 "1]Derivational Suffixes\nThese derive words within a class, <em>i.e.:</em> a noun from a noun, or a verb from a verb.\nThe augmentative <a href=\"http://dictionary.tinellb.com/a/-aku.html#highlulani\">-aku</a> <high-lulani>/a&gt;</high-lulani> is most often attached to nouns to reference something large or important. It is rarely used for people.\n", 
@@ -1515,11 +1394,7 @@
                 "e]<a href=\"http://dictionary.tinellb.com/g/ga'iniqqi.html#highlulani\">ga&rsquo;iniqqi</a> <high-lulani>giN;Q</high-lulani> <em>in time</em>", 
                 "/d]\n\n"
               ], 
-              "flatname": {
-                "score": 405, 
-                "name": "sufixes"
-              }, 
-              "date": "2018-05-12", 
+              "name": "Suffixes", 
               "children": [
                 {
                   "date": "2018-05-03", 
@@ -1559,28 +1434,18 @@
                     "e]<a href=\"http://dictionary.tinellb.com/j/ji'a.html#highlulani\">ji&rsquo;a</a> <high-lulani>Ja</high-lulani> <em>not</em>", 
                     "/d]\n"
                   ], 
-                  "flatname": {
-                    "score": 0, 
-                    "name": "determiners"
-                  }, 
-                  "name": "Determiners", 
-                  "hyperlink": "highlulani/morphology/suffixes/determiners.html"
+                  "name": "Determiners"
                 }
               ]
             }, 
             {
-              "name": "Deixis", 
-              "hyperlink": "highlulani/morphology/deixis/index.html", 
+              "date": "2018-05-05", 
               "text": [
                 "Deixis encompasses words and phrases which rely on an external context to complete their meaning.\n", 
                 "1]Topicality\nOnce a topic is introduced in a discourse or narrative, it can be assumed to be the subject until changed.\n", 
                 "1]Pro-forms\nThe two groups of pro-forms are classified on the basis of their semantic properties.\n<a href=\"definitepro-forms.html\">Definite pro-forms</a> are those that encode case, person, animacy and topicality.  <a href=\"indefinitepro-forms.html\">Indefinite pro-forms</a> comprise the remaining deictic terms.\n\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "deixis"
-              }, 
-              "date": "2018-05-05", 
+              "name": "Deixis", 
               "children": [
                 {
                   "date": "2018-04-29", 
@@ -1750,12 +1615,7 @@
                     "e]&ldquo;the face&rdquo; / &ldquo;his face&rdquo;", 
                     "/d]\nSome kinship terms have suppletive forms when used with a plain possessive pronoun. See <a href=\"../../apocrypha/kinship.html#nuclearfamily\">that section</a> for details.\n"
                   ], 
-                  "flatname": {
-                    "score": 0, 
-                    "name": "personalpronouns"
-                  }, 
-                  "name": "Personal Pronouns", 
-                  "hyperlink": "highlulani/morphology/deixis/personalpronouns.html"
+                  "name": "Personal Pronouns"
                 }, 
                 {
                   "date": "2018-05-02", 
@@ -1952,12 +1812,7 @@
                     "e]&ldquo;This is some kind of treasure.&rdquo;", 
                     "/d]\n"
                   ], 
-                  "flatname": {
-                    "score": 5083731656658, 
-                    "name": "indefiniteproforms"
-                  }, 
-                  "name": "Indefinite Pro-forms", 
-                  "hyperlink": "highlulani/morphology/deixis/indefinitepro-forms.html"
+                  "name": "Indefinite Pro-forms"
                 }
               ]
             }, 
@@ -1989,26 +1844,16 @@
                 "e]<a href=\"http://dictionary.tinellb.com/f/fati.html#highlulani\">fati</a> <high-lulani>fT</high-lulani> <em>enough to</em>", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "conjunctions"
-              }, 
-              "name": "Conjunctions", 
-              "hyperlink": "highlulani/morphology/conjunctions.html"
+              "name": "Conjunctions"
             }, 
             {
-              "name": "Particles", 
-              "hyperlink": "highlulani/morphology/particles/index.html", 
+              "date": "2018-05-03", 
               "text": [
                 "There are very few particles. These are simply words that do not fit neatly into any other category. This includes:\n", 
                 "l]<a href=\"interjections.html\">interjections</a>,\n<a href=\"../../apocrypha/numbers.html\">numbers</a>,\npronouns of the <a href=\"../deixis/personalpronouns.html#alienablepossession\">alienable genitive</a>,\n<a href=\"../../syntax/dependentclauses.html#contentclauses\">content</a> and <a href=\"../../syntax/dependentclauses.html#relativeclauses\">relative</a> clause introductory markers, and\nthe <a href=\"../../syntax/comparatives.html#superlative\">superlative</a> marker.", 
                 "/l]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "particles"
-              }, 
-              "date": "2018-05-03", 
+              "name": "Particles", 
               "children": [
                 {
                   "date": "2018-05-03", 
@@ -2026,28 +1871,18 @@
                     "e]<a href=\"http://dictionary.tinellb.com/h/hira.html#highlulani\">hira</a> <high-lulani>Hr</high-lulani> <em>please; thank-you</em>", 
                     "/d]\n\n"
                   ], 
-                  "flatname": {
-                    "score": 0, 
-                    "name": "interjections"
-                  }, 
-                  "name": "Interjections", 
-                  "hyperlink": "highlulani/morphology/particles/interjections.html"
+                  "name": "Interjections"
                 }
               ]
             }
           ]
         }, 
         {
-          "name": "Syntax", 
-          "hyperlink": "highlulani/syntax/index.html", 
+          "date": "2018-02-23", 
           "text": [
             "High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.\n\n"
           ], 
-          "flatname": {
-            "score": 0, 
-            "name": "syntax"
-          }, 
-          "date": "2018-02-23", 
+          "name": "Syntax", 
           "children": [
             {
               "date": "2018-06-07", 
@@ -2094,12 +1929,7 @@
                 "e]&ldquo;give to the queen&rdquo;", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "case"
-              }, 
-              "name": "Case", 
-              "hyperlink": "highlulani/syntax/case.html"
+              "name": "Case"
             }, 
             {
               "date": "2018-11-29", 
@@ -2187,12 +2017,7 @@
                 "e]&ldquo;She was eating it.&rdquo;", 
                 "/d]\nAs can be seen, the only time the transitive case is used for the subject of a clause is in transitive (as well as copular) sentences using dynamic or iterative auxiliaries.\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "matrixclauses"
-              }, 
-              "name": "Matrix Clauses", 
-              "hyperlink": "highlulani/syntax/matrixclauses.html"
+              "name": "Matrix Clauses"
             }, 
             {
               "date": "2018-11-29", 
@@ -2291,12 +2116,7 @@
                 "e]&ldquo;It was in the sand that he was eating the strawberry.&rdquo;", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "argumentpromotion"
-              }, 
-              "name": "Argument Promotion", 
-              "hyperlink": "highlulani/syntax/argumentpromotion.html"
+              "name": "Argument Promotion"
             }, 
             {
               "date": "2018-05-05", 
@@ -2491,12 +2311,7 @@
                 "e]&ldquo;Love the queen!&rdquo;", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "dependentclauses"
-              }, 
-              "name": "Dependent Clauses", 
-              "hyperlink": "highlulani/syntax/dependentclauses.html"
+              "name": "Dependent Clauses"
             }, 
             {
               "date": "2018-05-05", 
@@ -2557,12 +2372,7 @@
                 "/d]\n", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "nounphrases"
-              }, 
-              "name": "Noun Phrases", 
-              "hyperlink": "highlulani/syntax/nounphrases.html"
+              "name": "Noun Phrases"
             }, 
             {
               "date": "2018-05-06", 
@@ -2619,26 +2429,16 @@
                 "/d]\n", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "gerunds"
-              }, 
-              "name": "Gerunds", 
-              "hyperlink": "highlulani/syntax/gerunds.html"
+              "name": "Gerunds"
             }
           ]
         }, 
         {
-          "name": "Apocrypha", 
-          "hyperlink": "highlulani/apocrypha/index.html", 
+          "date": "2017-07-16", 
           "text": [
             "This section details particular categories of vocabulary items.\n\n"
           ], 
-          "flatname": {
-            "score": 0, 
-            "name": "apocrypha"
-          }, 
-          "date": "2017-07-16", 
+          "name": "Apocrypha", 
           "children": [
             {
               "date": "2018-05-07", 
@@ -2771,12 +2571,7 @@
                 "e]<a href=\"http://dictionary.tinellb.com/t/tiba.html#highlulani\">tiba</a><a href=\"http://dictionary.tinellb.com/r/ra.html#highlulani\">ra</a> <high-lulani>Tbr</high-lulani> <em>legs</em>", 
                 "/d]\n\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "numbers"
-              }, 
-              "name": "Numbers", 
-              "hyperlink": "highlulani/apocrypha/numbers.html"
+              "name": "Numbers"
             }, 
             {
               "date": "2018-05-07", 
@@ -2796,12 +2591,7 @@
                 "e]<a href=\"http://dictionary.tinellb.com/k/ki''a.html#highlulani\">ki&#x294;a</a><a href=\"http://dictionary.tinellb.com/m/masi.html#highlulani\">masi</a> <high-lulani>K;amS</high-lulani> <em>snow white</em>", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "colours"
-              }, 
-              "name": "Colours", 
-              "hyperlink": "highlulani/apocrypha/colours.html"
+              "name": "Colours"
             }, 
             {
               "date": "2018-05-07", 
@@ -2852,12 +2642,7 @@
                 "e]&ldquo;the quietest garden.&rdquo;", 
                 "/d]\n\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "comparatives"
-              }, 
-              "name": "Comparatives", 
-              "hyperlink": "highlulani/apocrypha/comparatives.html"
+              "name": "Comparatives"
             }, 
             {
               "date": "2018-05-12", 
@@ -2893,12 +2678,7 @@
                 "/d]\n", 
                 "/d]\nOther kinship terms began as nuclear family names, but were thence extended across a generation. So <a href=\"http://dictionary.tinellb.com/k/kaqqa.html#highlulani\">kaqqa</a> <high-lulani>k;q</high-lulani> <em>elder sibling</em> and <a href=\"http://dictionary.tinellb.com/k/kica.html#highlulani\">kica</a> <high-lulani>Kc</high-lulani> <em>younger sibling</em> can also be applied to cousins.\n\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "kinship"
-              }, 
-              "name": "Kinship", 
-              "hyperlink": "highlulani/apocrypha/kinship.html"
+              "name": "Kinship"
             }, 
             {
               "date": "2018-04-23", 
@@ -3028,38 +2808,23 @@
                 "/d]\n", 
                 "/d]\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "elements"
-              }, 
-              "name": "Elements", 
-              "hyperlink": "highlulani/apocrypha/elements.html"
+              "name": "Elements"
             }
           ]
         }, 
         {
-          "name": "Sample Texts", 
-          "hyperlink": "highlulani/sampletexts/index.html", 
+          "date": "2018-06-10", 
           "text": [
             "These are sample texts in High Lulani.\n"
           ], 
-          "flatname": {
-            "score": 0, 
-            "name": "sampletexts"
-          }, 
-          "date": "2018-06-10", 
+          "name": "Sample Texts", 
           "children": [
             {
-              "name": "Prelude", 
-              "hyperlink": "highlulani/sampletexts/prelude/index.html", 
+              "date": "", 
               "text": [
                 "This comes from an early draft of <em>The Coelacanth Quartet</em> &ndash; <span title=\"summer\">&#x590f;</span> <em>The Crackled Egg</em>.\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "prelude"
-              }, 
-              "date": "", 
+              "name": "Prelude", 
               "children": [
                 {
                   "date": "2018-11-29", 
@@ -3228,12 +2993,7 @@
                     "/d] ", 
                     "/d]\n"
                   ], 
-                  "flatname": {
-                    "score": 0, 
-                    "name": "corla"
-                  }, 
-                  "name": "Corla", 
-                  "hyperlink": "highlulani/sampletexts/prelude/corla.html"
+                  "name": "Corla"
                 }, 
                 {
                   "date": "2018-11-29", 
@@ -3493,12 +3253,7 @@
                     "/d]\n", 
                     "/d]\n"
                   ], 
-                  "flatname": {
-                    "score": 0, 
-                    "name": "pagetwo"
-                  }, 
-                  "name": "Toresh", 
-                  "hyperlink": "highlulani/sampletexts/prelude/toresh.html"
+                  "name": "Toresh"
                 }, 
                 {
                   "date": "2018-11-29", 
@@ -3884,12 +3639,7 @@
                     "/d]\n", 
                     "/d]\n"
                   ], 
-                  "flatname": {
-                    "score": 23914845, 
-                    "name": "pagethre"
-                  }, 
-                  "name": "Piado", 
-                  "hyperlink": "highlulani/sampletexts/prelude/piado.html"
+                  "name": "Piado"
                 }, 
                 {
                   "date": "2018-11-29", 
@@ -4142,12 +3892,7 @@
                     "d paragraph]\n", 
                     "d folding]\n"
                   ], 
-                  "flatname": {
-                    "score": 0, 
-                    "name": "pagefour"
-                  }, 
-                  "name": "Lharen", 
-                  "hyperlink": "highlulani/sampletexts/prelude/lharen.html"
+                  "name": "Lharen"
                 }, 
                 {
                   "date": "2018-11-29", 
@@ -4721,12 +4466,7 @@
                     "/d] ", 
                     "/d]\n"
                   ], 
-                  "flatname": {
-                    "score": 0, 
-                    "name": "pagefive"
-                  }, 
-                  "name": "Lusov", 
-                  "hyperlink": "highlulani/sampletexts/prelude/lusov.html"
+                  "name": "Lusov"
                 }
               ]
             }
@@ -4735,16 +4475,11 @@
       ]
     }, 
     {
-      "name": "Colloquial Lulani", 
-      "hyperlink": "colloquiallulani/index.html", 
+      "date": "2018-09-30", 
       "text": [
         "While High Lulani continued being used in the Palace and its surrounds, the living language continued to evolve in the mouths of the people.\n"
       ], 
-      "flatname": {
-        "score": 0, 
-        "name": "colloquiallulani"
-      }, 
-      "date": "2018-09-30", 
+      "name": "Colloquial Lulani", 
       "children": [
         {
           "date": "2018-10-19", 
@@ -4792,22 +4527,12 @@
             "/d]\n", 
             "2]Allophony\nUnstressed vowels are realised as <strong><ipa>&#x259;</ipa></strong>.\nRounded vowels are lowered, <em>i.e.:</em> <strong><ipa>u</ipa></strong> &rarr; <strong><ipa>o</ipa></strong> and <strong><ipa>y</ipa></strong> &rarr; <strong><ipa>&oslash;</ipa></strong>, before peripheral consonants. The latter change also occurs at the ends of words.\n"
           ], 
-          "flatname": {
-            "score": 0, 
-            "name": "phonology"
-          }, 
-          "name": "Phonology", 
-          "hyperlink": "colloquiallulani/phonology.html"
+          "name": "Phonology"
         }, 
         {
-          "name": "Morphology", 
-          "hyperlink": "colloquiallulani/morphology/index.html", 
-          "text": [], 
-          "flatname": {
-            "score": 0, 
-            "name": "morphology"
-          }, 
           "date": "", 
+          "text": [], 
+          "name": "Morphology", 
           "children": [
             {
               "date": "2018-10-20", 
@@ -4817,24 +4542,14 @@
                 "/t]\n", 
                 "1]Irregular Verbs\nThese are derived from monosyllables.\n\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "verbs"
-              }, 
-              "name": "Verbs", 
-              "hyperlink": "colloquiallulani/morphology/verbs.html"
+              "name": "Verbs"
             }
           ]
         }, 
         {
-          "name": "Appendices", 
-          "hyperlink": "colloquiallulani/appendices/index.html", 
-          "text": [], 
-          "flatname": {
-            "score": 45, 
-            "name": "apendices"
-          }, 
           "date": "", 
+          "text": [], 
+          "name": "Appendices", 
           "children": [
             {
               "date": "2018-10-19", 
@@ -4865,12 +4580,7 @@
                 "e]&lt;&#x200a;verb&#x200a;&gt; + -nagi &rarr; &Oslash;\n", 
                 "1]Syntax\nThe dative began to take over the functions of the accusative, which was thereby dropped.\n"
               ], 
-              "flatname": {
-                "score": 0, 
-                "name": "diachrony"
-              }, 
-              "name": "Diachrony", 
-              "hyperlink": "colloquiallulani/appendices/diachrony.html"
+              "name": "Diachrony"
             }
           ]
         }
