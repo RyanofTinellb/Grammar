@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {stylesheet}
+    <title>Search Tinellbian Grammar</title>
+</head>
+
+<body>
+    <div class="flex">
+        <div class="nav-pane">
+            {family-links}
+        </div>
+        <div class="content">
+            <h1>Search Tinellbian Grammar</h1>
+            <form>
+                <input type="text" class="term" id="term" name="term" placeholder="Search..."><br>
+                <input type="submit" class="submit" value="Search">
+                <input type="radio" name="andor" id="and" value="and" checked="true">AND
+                <input type="radio" name="andor" id="or" value="or">OR
+            </form>
+            <div class="results" id="results" name="results"></div>
+            <script src="search.js"></script>
+        </div>
+    </div>
+</body>
+
+</html>
