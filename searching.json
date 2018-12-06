@@ -11325,11 +11325,6 @@
                 5004
             ]
         }, 
-        "external": {
-            "26": [
-                2063
-            ]
-        }, 
         "56": {
             "40": [
                 3374
@@ -15197,6 +15192,11 @@
                 3860
             ]
         }, 
+        "confers": {
+            "24": [
+                1850
+            ]
+        }, 
         "drinks": {
             "51": [
                 5468, 
@@ -16839,6 +16839,7 @@
         }, 
         "cardinal": {
             "40": [
+                3289, 
                 3432, 
                 3443
             ]
@@ -21835,11 +21836,6 @@
                 1846
             ]
         }, 
-        "1]external": {
-            "2": [
-                6
-            ]
-        }, 
         "paper": {
             "47": [
                 3993
@@ -22015,6 +22011,11 @@
                 3015, 
                 3031, 
                 3075
+            ]
+        }, 
+        "syllabication": {
+            "10": [
+                406
             ]
         }, 
         "'aditujatihu": {
@@ -23322,14 +23323,12 @@
                 5467
             ]
         }, 
-        "minister": {
-            "28": [
-                2557, 
-                2559, 
-                2561
+        "external": {
+            "26": [
+                2063
             ], 
-            "22": [
-                1657
+            "2": [
+                6
             ]
         }, 
         "na'a": {
@@ -23929,11 +23928,6 @@
         "poetic": {
             "21": [
                 1484
-            ]
-        }, 
-        "1]regular": {
-            "55": [
-                5569
             ]
         }, 
         "speech": {
@@ -27865,11 +27859,6 @@
                 1387
             ]
         }, 
-        "1]cardinal": {
-            "40": [
-                3289
-            ]
-        }, 
         "paddi": {
             "51": [
                 5209
@@ -28418,9 +28407,14 @@
                 4633
             ]
         }, 
-        "confers": {
-            "24": [
-                1850
+        "minister": {
+            "28": [
+                2557, 
+                2559, 
+                2561
+            ], 
+            "22": [
+                1657
             ]
         }, 
         "represent": {
@@ -31910,11 +31904,6 @@
             ], 
             "47": [
                 3878
-            ]
-        }, 
-        "1]alignment": {
-            "33": [
-                2658
             ]
         }, 
         "reflect": {
@@ -37093,6 +37082,7 @@
                 5625
             ], 
             "53": [
+                5481, 
                 5537, 
                 5567
             ]
@@ -39015,6 +39005,7 @@
         }, 
         "alignment": {
             "33": [
+                2658, 
                 2661, 
                 2662, 
                 2663, 
@@ -45600,11 +45591,6 @@
                 4431
             ]
         }, 
-        "1]marriage": {
-            "43": [
-                3547
-            ]
-        }, 
         "malukka": {
             "48": [
                 4169
@@ -47671,6 +47657,7 @@
         }, 
         "marriage": {
             "43": [
+                3547, 
                 3548
             ]
         }, 
@@ -49090,6 +49077,11 @@
             "36": [
                 2970, 
                 2998
+            ]
+        }, 
+        "regular": {
+            "55": [
+                5569
             ]
         }, 
         "figured": {
@@ -51266,11 +51258,6 @@
                 4441
             ]
         }, 
-        "1]syllabication": {
-            "10": [
-                406
-            ]
-        }, 
         "'adisu'a": {
             "51": [
                 5390
@@ -53404,11 +53391,6 @@
                 4162
             ]
         }, 
-        "1]consonants": {
-            "53": [
-                5481
-            ]
-        }, 
         "problem": {
             "51": [
                 4956
@@ -54521,7 +54503,7 @@
         "Created by Queen Loren on Mala Ptokonoi", 
         "The Tinellbian languages are a range of constructed languages as befits the constructed universe of Tinellb", 
         "In that world the ancestor language was created by Queen Loren of the Ptokonoi and then evolved naturally as different groups of people moved through space time and reality", 
-        "1]External History", 
+        "External History", 
         "I have been interested in language and linguistics since at least the age of 10", 
         "I remember making up words when I was quite young", 
         "In fact the High Lulani word dates from that time", 
@@ -54921,7 +54903,7 @@
         "Phonemically all syllables are CV that is one consonant followed by one vowel", 
         "Word-internal consonants can be geminated", 
         "The only consonant clusters are geminate consonants and there are no phonemic vowel clusters or long vowels", 
-        "1]Syllabication", 
+        "Syllabication", 
         "Syllable breaks are placed between two geminate consonants", 
         "", 
         "bat", 
@@ -57173,7 +57155,7 @@
         " hira please; thank-you ", 
         "High Lulani is head-initial in compounds but tends to be head-final in phrases and clauses", 
         "The language has Subject-Verb-Object order but shows signs of an SOV nature as dative and ablative complements become more common", 
-        "1]Alignment", 
+        "Alignment", 
         "The three basic arguments for any verb intransitive subjects transitive subjects and transitive objects are marked in High Lulani", 
         "Because intransitive subjects cannot co-occur with transitive arguments it is possible to mark either of the transitive arguments in the same way as the intransitive without confusion", 
         "In the ergative alignment it is the transitive object that is marked the same as the intransitive subject", 
@@ -57804,7 +57786,7 @@
         "&ldquo;looking at the moon&rdquo;", 
         "", 
         "This section details particular categories of vocabulary items", 
-        "1]Cardinal Numbers", 
+        "Cardinal Numbers", 
         "The number system in High Lulani uses balanced sesquidecimal base 15  and so numbers are written with the positive digits 1 2 3 4 5 6 and 7  their negative counterparts 1  2  3  4  5  6 and 7 and a zero 0", 
         "A period fractional point", 
         "is used to separate the integer part of the number from the mantissa", 
@@ -58062,7 +58044,7 @@
         " most be quiet- garden", 
         "&ldquo;the quietest garden", 
         "&rdquo;", 
-        "1]Marriage", 
+        "Marriage", 
         "Ju&rsquo;iduku ru marriage is the life-bonding of two people", 
         "It is intended to be eternal but can be broken if requested by either partner", 
         "It is not an exclusive arrangement and one can be involved in concurrent marriages", 
@@ -59996,7 +59978,7 @@
         "Toresh noticed Lharen standing in the doorway and motioned her over", 
         "  ", 
         "While High Lulani continued being used in the Palace and its surrounds the living language continued to evolve in the mouths of the people", 
-        "1]Consonants", 
+        "Consonants", 
         "", 
         "h labial", 
         "h dental", 
@@ -60084,7 +60066,7 @@
         "e", 
         " &rarr; and &rarr;  before peripheral consonants", 
         "The latter change also occurs at the ends of words", 
-        "1]Regular Verbs", 
+        "Regular Verbs", 
         "To produce the inflected forms simply add the corresponding inflection taking sandhi into account", 
         "Personal suffixes", 
         "r2c2", 
