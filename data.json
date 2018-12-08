@@ -1,10 +1,9 @@
 {
-    "date": "2018-12-06", 
+    "date": "2018-12-08", 
     "text": [
         "This reference guide is for the Tinellbian languages that descend from High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.\n", 
         "1]<a href=\"highlulani/index.html\">High Lulani</a>\n<high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi."
     ], 
-    "name": "A Grammar of the Tinellbian Languages", 
     "children": [
         {
             "date": "2017-10-23", 
@@ -1615,7 +1614,8 @@
                                         "e]&ldquo;the face&rdquo; / &ldquo;his face&rdquo;", 
                                         "/d]\nSome kinship terms have suppletive forms when used with a plain possessive pronoun. See <a href=\"../../apocrypha/kinship.html#nuclearfamily\">that section</a> for details.\n"
                                     ], 
-                                    "name": "Personal Pronouns"
+                                    "name": "Personal Pronouns", 
+                                    "position": "1.0"
                                 }, 
                                 {
                                     "date": "2018-05-02", 
@@ -1812,7 +1812,8 @@
                                         "e]&ldquo;This is some kind of treasure.&rdquo;", 
                                         "/d]\n"
                                     ], 
-                                    "name": "Indefinite Pro-forms"
+                                    "name": "Indefinite Pro-forms", 
+                                    "position": "1.0"
                                 }
                             ]
                         }, 
@@ -1844,7 +1845,8 @@
                                 "e]<a href=\"http://dictionary.tinellb.com/f/fati.html#highlulani\">fati</a> <high-lulani>fT</high-lulani> <em>enough to</em>", 
                                 "/d]\n"
                             ], 
-                            "name": "Conjunctions"
+                            "name": "Conjunctions", 
+                            "position": "1.0"
                         }, 
                         {
                             "date": "2018-05-03", 
@@ -1853,7 +1855,7 @@
                                 "l]<a href=\"interjections.html\">interjections</a>,\n<a href=\"../../apocrypha/numbers.html\">numbers</a>,\npronouns of the <a href=\"../deixis/personalpronouns.html#alienablepossession\">alienable genitive</a>,\n<a href=\"../../syntax/dependentclauses.html#contentclauses\">content</a> and <a href=\"../../syntax/dependentclauses.html#relativeclauses\">relative</a> clause introductory markers, and\nthe <a href=\"../../syntax/comparatives.html#superlative\">superlative</a> marker.", 
                                 "/l]\n"
                             ], 
-                            "name": "Particles", 
+                            "position": "1.0", 
                             "children": [
                                 {
                                     "date": "2018-05-03", 
@@ -1871,18 +1873,20 @@
                                         "e]<a href=\"http://dictionary.tinellb.com/h/hira.html#highlulani\">hira</a> <high-lulani>Hr</high-lulani> <em>please; thank-you</em>", 
                                         "/d]\n\n"
                                     ], 
-                                    "name": "Interjections"
+                                    "name": "Interjections", 
+                                    "position": "1.0"
                                 }
-                            ]
+                            ], 
+                            "name": "Particles"
                         }
                     ]
                 }, 
                 {
-                    "date": "2018-02-23", 
+                    "date": "2018-12-08", 
                     "text": [
-                        "High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.\n\n"
+                        "High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.\n"
                     ], 
-                    "name": "Syntax", 
+                    "position": "2.0", 
                     "children": [
                         {
                             "date": "2018-06-07", 
@@ -1929,7 +1933,8 @@
                                 "e]&ldquo;give to the queen&rdquo;", 
                                 "/d]\n"
                             ], 
-                            "name": "Case"
+                            "name": "Case", 
+                            "position": "1.0"
                         }, 
                         {
                             "date": "2018-11-29", 
@@ -2375,7 +2380,7 @@
                             "name": "Noun Phrases"
                         }, 
                         {
-                            "date": "2018-05-06", 
+                            "date": "2018-12-08", 
                             "text": [
                                 "The gerund suffix <a href=\"http://dictionary.tinellb.com/r/-ru.html#highlulani\">-ru</a> <high-lulani>w</high-lulani> changes basic verbs into nouns describing the activity.\n", 
                                 "d wordlist]\n", 
@@ -2417,7 +2422,7 @@
                                 "e]<strong>sikukkarudisi</strong>\n", 
                                 "e]<high-lulani>S&gt;;kwDS</high-lulani>\n", 
                                 "e]<a href=\"http://dictionary.tinellb.com/s/siku.html#highlulani\">siku</a><a href=\"http://dictionary.tinellb.com/k/-kka.html#highlulani\">-kka</a><a href=\"http://dictionary.tinellb.com/r/-ru.html#highlulani\">-ru</a><a href=\"http://dictionary.tinellb.com/d/-disi.html#highlulani\">-disi</a>\n", 
-                                "e]<em>die</em>-<small-caps>abV</small-caps>-<span class=\"tooltip\"><small-caps>ger</small-caps><span class=\"tooltip-text\">gerund</span></span>-<span class=\"tooltip\"><small-caps>3ani;gen</small-caps><span class=\"tooltip-text\">animate third person genitive</span></span>\n", 
+                                "e]<em>die</em>-<span class=\"tooltip\"><small-caps>abv</small-caps><span class=\"tooltip-text\">ablative promotion</span></span>-<span class=\"tooltip\"><small-caps>ger</small-caps><span class=\"tooltip-text\">gerund</span></span>-<span class=\"tooltip\"><small-caps>3ani;gen</small-caps><span class=\"tooltip-text\">animate third person genitive</span></span>\n", 
                                 "e]&ldquo;his murdering of another&rdquo;", 
                                 "/d]\n", 
                                 "d folding]\n", 
@@ -2429,9 +2434,11 @@
                                 "/d]\n", 
                                 "/d]\n"
                             ], 
-                            "name": "Gerunds"
+                            "name": "Gerunds", 
+                            "position": "2.0"
                         }
-                    ]
+                    ], 
+                    "name": "Syntax"
                 }, 
                 {
                     "date": "2017-07-16", 
@@ -4586,5 +4593,7 @@
                 }
             ]
         }
-    ]
+    ], 
+    "name": "A Grammar of the Tinellbian Languages", 
+    "position": "1.0"
 }
