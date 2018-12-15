@@ -1,52 +1,17 @@
 {
-    "date": "2018-12-08", 
+    "date": "2018-12-13", 
     "text": [
         "This reference guide is for the Tinellbian languages that descend from High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.\n", 
-        "1]<a href=\"highlulani/index.html\">High Lulani</a>\n<high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi."
+        "1]<a href=\"highlulani/index.html\">High Lulani</a>\n<high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi.\nI have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <span class=\"no-breaks\"><strong>mica</strong> <high-lulani>Mc</high-lulani> <em>hello</em></span> dates from that time.\nWhen I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what was to be the Ptokan language, and the language of the Fezhl&ecirc;. The latter  was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt.\nThe Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality."
     ], 
+    "position": "1.0", 
     "children": [
-        {
-            "date": "2017-10-23", 
-            "text": [
-                "The Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality.\n\n"
-            ], 
-            "name": "Introduction", 
-            "children": [
-                {
-                    "date": "2018-06-04", 
-                    "text": [
-                        "1]External History\nI have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <span class=\"no-breaks\"><strong>mica</strong> <high-lulani>Mc</high-lulani> <em>hello</em></span> dates from that time.\nWhen I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what was to be the Ptokan language, and the language of the Fezhl&ecirc;. The latter  was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt.\n", 
-                        "1]Internal History\nThe history of Tinellb, as well as the Guozu and their languages is written on the following pages as if it were a chronicle of actual events.\n"
-                    ], 
-                    "name": "History", 
-                    "children": [
-                        {
-                            "date": "2018-10-21", 
-                            "text": [
-                                "Within the universe named Tinellb, there is a planet named Ptoko. There arose on this world a race of humanoids, the Ptokan. Over millions of years, their race evolved and became the dominant force on their planet.\nThere had been many conflicts, small and large, throughout their history. One particularly bloody war had had much of the population brought into it: a World War. The survivors of this war were ruled by a single monarch.\nGenerations passed. The people rebuilt their shattered world. The newest ruler, Queen Loren, decided to create an international language to promote peace amongst her subjects. She named this language Lulani after herself.\nDespite their shared language, as more time went by, fractures again showed between nations. Another world war ensued. A great weapon was created, one that tore apart space&#x2011;time, flinging its victims far out into the universe.\nOne such group were the Fezhl&ecirc;. They found themselves on an empty world. The Fezhl&ecirc; tongue evolved independently from Lulani, and was later heavily influenced by Zhaladi dialects.\nThe people that remained on Ptoko slowly grew back towards peace. Their vernacular evolved into Ptokan, and thence into Brequ&egrave;n. By this time, Lulani was used only for science and the arts, not for everyday use.\nBrequ&egrave;n was spoken in the realm of Brequ&eacute;, Tsarin in Tsarein.\n", 
-                                "d hierarchy]\n", 
-                                "t]|||||\n|c3 High Lulani |c3\n|c3 Colloquial Lulani |c3\nc7\nc2 Early Fezhl&ecirc; ||c3 Old Ptokan |\nc2 Late Fezhl&ecirc; ||c3 Middle Ptokan |\nc2 Koine Fezhl&ecirc; ||c3 Standard Ptokan |\nc7\nc3 |c3 Pre&#x2011;Brequ&egrave;n |\nc3 |c3 Archaic Brequ&egrave;n |\nc3 |c3 Common Brequ&egrave;n |\nc7\n|c3 Proto&#x2011;Zhaladi ||c2 Classical Tsarin\n|c3 Contemporary Zhaladi ||c2 Modern Tsarin\n|c3 Reformed Zhaladi\nc5 |c2 Ancient Solajin\nc5 |c2 Medieval Solajin\nc5 |c2 Traditional Solajin\nc5 |c2 New Solajin", 
-                                "/t] ", 
-                                "/d]\n"
-                            ], 
-                            "name": "Tinellb"
-                        }, 
-                        {
-                            "date": "2018-06-05", 
-                            "text": [
-                                "Located in Universe M<sup>204</sup>&nu;\nSolaji: F<sup>996</sup>&xi;\nBrequ&eacute;: D<sup>578</sup>&eta;\nZhalad: A<sup>376</sup>&gamma;\nTsarein: E<sup>415</sup>&chi;\n"
-                            ], 
-                            "name": "Ptoko"
-                        }
-                    ]
-                }
-            ]
-        }, 
         {
             "date": "2018-09-29", 
             "text": [
                 "High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.\n"
             ], 
+            "position": "1.0", 
             "name": "High Lulani", 
             "children": [
                 {
@@ -1855,7 +1820,6 @@
                                 "l]<a href=\"interjections.html\">interjections</a>,\n<a href=\"../../apocrypha/numbers.html\">numbers</a>,\npronouns of the <a href=\"../deixis/personalpronouns.html#alienablepossession\">alienable genitive</a>,\n<a href=\"../../syntax/dependentclauses.html#contentclauses\">content</a> and <a href=\"../../syntax/dependentclauses.html#relativeclauses\">relative</a> clause introductory markers, and\nthe <a href=\"../../syntax/comparatives.html#superlative\">superlative</a> marker.", 
                                 "/l]\n"
                             ], 
-                            "position": "1.0", 
                             "children": [
                                 {
                                     "date": "2018-05-03", 
@@ -1877,7 +1841,8 @@
                                     "position": "1.0"
                                 }
                             ], 
-                            "name": "Particles"
+                            "name": "Particles", 
+                            "position": "1.0"
                         }
                     ]
                 }, 
@@ -1886,7 +1851,6 @@
                     "text": [
                         "High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.\n"
                     ], 
-                    "position": "2.0", 
                     "children": [
                         {
                             "date": "2018-06-07", 
@@ -2438,7 +2402,8 @@
                             "position": "2.0"
                         }
                     ], 
-                    "name": "Syntax"
+                    "name": "Syntax", 
+                    "position": "2.0"
                 }, 
                 {
                     "date": "2017-07-16", 
@@ -4594,6 +4559,5 @@
             ]
         }
     ], 
-    "name": "A Grammar of the Tinellbian Languages", 
-    "position": "1.0"
+    "name": "A Grammar of the Tinellbian Languages"
 }

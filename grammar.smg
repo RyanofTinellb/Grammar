@@ -25,12 +25,10 @@
     "ExternalDictionary": "http://dictionary.tinellb.com"
   }, 
   "history": [
-    [], 
-    [], 
     [
-      "Colloquial Lulani", 
-      "Appendices", 
-      "Diachrony"
-    ]
+      "Introduction"
+    ], 
+    [], 
+    []
   ]
 }
