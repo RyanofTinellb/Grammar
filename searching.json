@@ -2893,7 +2893,8 @@
             ], 
             "43": [
                 3811, 
-                3836
+                3836, 
+                3838
             ]
         }, 
         "naxu''a": {
@@ -7498,6 +7499,11 @@
                 1991
             ]
         }, 
+        "demotic": {
+            "53": [
+                5555
+            ]
+        }, 
         "child": {
             "9": [
                 609, 
@@ -10133,7 +10139,6 @@
             ], 
             "43": [
                 3813, 
-                3838, 
                 3888, 
                 3904, 
                 3913, 
@@ -14510,11 +14515,6 @@
             ], 
             "44": [
                 3959
-            ]
-        }, 
-        "colloquial": {
-            "53": [
-                5555
             ]
         }, 
         "japa": {
@@ -42675,7 +42675,6 @@
             ], 
             "43": [
                 3813, 
-                3838, 
                 3847, 
                 3919, 
                 3921
@@ -51477,7 +51476,7 @@
         "Piado", 
         "Lharen", 
         "Lusov", 
-        "Colloquial Lulani", 
+        "Demotic Lulani", 
         "Phonology", 
         "Morphology", 
         "Verbs", 
@@ -51533,12 +51532,12 @@
         "highlulani/sampletexts/prelude/piado.html", 
         "highlulani/sampletexts/prelude/lharen.html", 
         "highlulani/sampletexts/prelude/lusov.html", 
-        "colloquiallulani/index.html", 
-        "colloquiallulani/phonology.html", 
-        "colloquiallulani/morphology/index.html", 
-        "colloquiallulani/morphology/verbs.html", 
-        "colloquiallulani/appendices/index.html", 
-        "colloquiallulani/appendices/diachrony.html"
+        "demoticlulani/index.html", 
+        "demoticlulani/phonology.html", 
+        "demoticlulani/morphology/index.html", 
+        "demoticlulani/morphology/verbs.html", 
+        "demoticlulani/appendices/index.html", 
+        "demoticlulani/appendices/diachrony.html"
     ], 
     "sentences": [
         "This reference guide is for the Tinellbian languages that descend from High Lulani", 
@@ -55379,7 +55378,7 @@
         "", 
         " Ra&rsquo;u kikafasa dissu kixina hibu; kal&middot;li kulu&rsquo;ipu&rsquo;a nura dukku na kixina", 
         "", 
-        " Ra&rsquo;u kika - fasa dissu kixina hibu; kalu - li ku - lu&rsquo;i - pu&rsquo;a nura dukku na kixina", 
+        " Ra&rsquo;u kika - fasa dissu kixina hibu; kal&middot;li ku - lu&rsquo;i - pu&rsquo;a nura dukku na kixina", 
         " Prs;sta over-moment feel grief allow oneself ; - - love - separate must prs;itr grief", 
         " She allowed herself to feel grief for a moment; grief from the fact that she must repeatedly be separated from her lover", 
         "She allowed herself to feel grief for a moment grief at being continually separated from her beloved", 
@@ -57096,7 +57095,7 @@
         "", 
         "Irregular Verbs", 
         "These are derived from monosyllables", 
-        "This page includes a list of changes from High Lulani to Colloquial Lulani", 
+        "This page includes a list of changes from High Lulani to Demotic Lulani", 
         "Phonology", 
         "A detailed up-to-date list of changes in kept at GitHub  in a Python file that applies these changes to a High Lulani word", 
         "Lowering of back vowels before peripheral consonants", 

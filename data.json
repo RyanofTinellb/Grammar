@@ -4,12 +4,14 @@
         "This reference guide is for the Tinellbian languages that descend from High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.\n", 
         "1]<a href=\"highlulani/index.html\">High Lulani</a>\n<high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi.\nI have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <span class=\"no-breaks\"><strong>mica</strong> <high-lulani>Mc</high-lulani> <em>hello</em></span> dates from that time.\nWhen I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what was to be the Ptokan language, and the language of the Fezhl&ecirc;. The latter  was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt.\nThe Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality."
     ], 
+    "position": "1.0", 
     "children": [
         {
             "date": "2018-09-29", 
             "text": [
                 "High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.\n"
             ], 
+            "position": "1.0", 
             "children": [
                 {
                     "date": "2018-11-14", 
@@ -1817,7 +1819,6 @@
                                 "l]<a href=\"interjections.html\">interjections</a>,\n<a href=\"../../apocrypha/numbers.html\">numbers</a>,\npronouns of the <a href=\"../deixis/personalpronouns.html#alienablepossession\">alienable genitive</a>,\n<a href=\"../../syntax/dependentclauses.html#contentclauses\">content</a> and <a href=\"../../syntax/dependentclauses.html#relativeclauses\">relative</a> clause introductory markers, and\nthe <a href=\"../../syntax/comparatives.html#superlative\">superlative</a> marker.", 
                                 "/l]\n"
                             ], 
-                            "position": "1.0", 
                             "children": [
                                 {
                                     "date": "2018-05-03", 
@@ -1839,7 +1840,8 @@
                                     "position": "1.0"
                                 }
                             ], 
-                            "name": "Particles"
+                            "name": "Particles", 
+                            "position": "1.0"
                         }
                     ]
                 }, 
@@ -1848,7 +1850,6 @@
                     "text": [
                         "High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.\n"
                     ], 
-                    "position": "2.0", 
                     "children": [
                         {
                             "date": "2018-06-07", 
@@ -2400,7 +2401,8 @@
                             "position": "2.0"
                         }
                     ], 
-                    "name": "Syntax"
+                    "name": "Syntax", 
+                    "position": "2.0"
                 }, 
                 {
                     "date": "2017-07-16", 
@@ -2796,7 +2798,7 @@
                             "name": "Prelude", 
                             "children": [
                                 {
-                                    "date": "2018-11-29", 
+                                    "date": "2018-12-21", 
                                     "text": [
                                         "d interlinear]\n", 
                                         "d paragraph]\n", 
@@ -2854,7 +2856,7 @@
                                         "d folding]\n", 
                                         "f]<strong>Ra&rsquo;u kikafasa dissu kixina hibu; kal&middot;li kulu&rsquo;ipu&rsquo;a nura dukku na kixina.</strong>\n", 
                                         "e]<high-lulani>.ru / Kkfs / D;z / KXn / HO , kWL / &gt;Wioa / Ir / E;&gt; / n / KXn.</high-lulani>\n", 
-                                        "e]<a href=\"http://dictionary.tinellb.com/r/ra'u.html#highlulani\">Ra&rsquo;u</a> <a href=\"http://dictionary.tinellb.com/k/kika.html#highlulani\">kika</a>-<a href=\"http://dictionary.tinellb.com/f/fasa.html#highlulani\">fasa</a> <a href=\"http://dictionary.tinellb.com/d/dissu.html#highlulani\">dissu</a> <a href=\"http://dictionary.tinellb.com/k/kixina.html#highlulani\">kixina</a> <a href=\"http://dictionary.tinellb.com/h/hibu.html#highlulani\">hibu;</a> <a href=\"http://dictionary.tinellb.com/k/kalu.html#highlulani\">kalu</a>-<a href=\"http://dictionary.tinellb.com/l/li.html#highlulani\">li</a> <a href=\"http://dictionary.tinellb.com/k/ku.html#highlulani\">ku</a>-<a href=\"http://dictionary.tinellb.com/l/lu'i.html#highlulani\">lu&rsquo;i</a>-<a href=\"http://dictionary.tinellb.com/p/pu'a.html#highlulani\">pu&rsquo;a</a> <a href=\"http://dictionary.tinellb.com/n/nura.html#highlulani\">nura</a> <a href=\"http://dictionary.tinellb.com/d/dukku.html#highlulani\">dukku</a> <a href=\"http://dictionary.tinellb.com/n/na.html#highlulani\">na</a> <a href=\"http://dictionary.tinellb.com/k/kixina.html#highlulani\">kixina</a>.\n", 
+                                        "e]<a href=\"http://dictionary.tinellb.com/r/ra'u.html#highlulani\">Ra&rsquo;u</a> <a href=\"http://dictionary.tinellb.com/k/kika.html#highlulani\">kika</a>-<a href=\"http://dictionary.tinellb.com/f/fasa.html#highlulani\">fasa</a> <a href=\"http://dictionary.tinellb.com/d/dissu.html#highlulani\">dissu</a> <a href=\"http://dictionary.tinellb.com/k/kixina.html#highlulani\">kixina</a> <a href=\"http://dictionary.tinellb.com/h/hibu.html#highlulani\">hibu;</a> <a href=\"http://dictionary.tinellb.com/k/kal.li.html#highlulani\">kal&middot;li</a> <a href=\"http://dictionary.tinellb.com/k/ku.html#highlulani\">ku</a>-<a href=\"http://dictionary.tinellb.com/l/lu'i.html#highlulani\">lu&rsquo;i</a>-<a href=\"http://dictionary.tinellb.com/p/pu'a.html#highlulani\">pu&rsquo;a</a> <a href=\"http://dictionary.tinellb.com/n/nura.html#highlulani\">nura</a> <a href=\"http://dictionary.tinellb.com/d/dukku.html#highlulani\">dukku</a> <a href=\"http://dictionary.tinellb.com/n/na.html#highlulani\">na</a> <a href=\"http://dictionary.tinellb.com/k/kixina.html#highlulani\">kixina</a>.\n", 
                                         "e]<small-caps>Prs;sta</small-caps> <em>over-moment feel grief allow_oneself</em>; <span class=\"tooltip\"><small-caps>abl</small-caps><span class=\"tooltip-text\">ablative</span></span>-<span class=\"tooltip\"><small-caps>com</small-caps><span class=\"tooltip-text\">complementiser</span></span> <span class=\"tooltip\"><small-caps>dat</small-caps><span class=\"tooltip-text\">dative</span></span>-<em>love</em>-<span class=\"tooltip\"><small-caps>nmn</small-caps><span class=\"tooltip-text\">nominaliser</span></span> <em>separate must prs;itr grief</em>.\n", 
                                         "e](She) allowed herself to feel grief for a moment; grief from (the fact that she) must repeatedly be separated from (her) lover.\n", 
                                         "e]She allowed herself to feel grief for a moment, grief at being continually separated from her beloved.", 
@@ -2962,7 +2964,8 @@
                                         "/d] ", 
                                         "/d]\n"
                                     ], 
-                                    "name": "Corla"
+                                    "name": "Corla", 
+                                    "position": "1.0"
                                 }, 
                                 {
                                     "date": "2018-11-29", 
@@ -4442,15 +4445,14 @@
                     ]
                 }
             ], 
-            "name": "High Lulani", 
-            "position": "1.0"
+            "name": "High Lulani"
         }, 
         {
             "date": "2018-09-30", 
             "text": [
                 "While High Lulani continued being used in the Palace and its surrounds, the living language continued to evolve in the mouths of the people.\n"
             ], 
-            "name": "Colloquial Lulani", 
+            "name": "Demotic Lulani", 
             "children": [
                 {
                     "date": "2018-10-19", 
@@ -4525,7 +4527,7 @@
                         {
                             "date": "2018-10-19", 
                             "text": [
-                                "This page includes a list of changes from High Lulani to Colloquial Lulani.\n", 
+                                "This page includes a list of changes from High Lulani to Demotic Lulani.\n", 
                                 "1]Phonology\nA detailed up-to-date list of changes in kept at <a href=\"https://github.com/RyanofTinellb/ConlangWebsiteCreation/blob/master/cwsmeagol/translation/evolve.py\">GitHub</a>, in a Python file that applies these changes to a High Lulani word.\n", 
                                 "l]Lowering of back vowels before peripheral consonants.\nShifting of geminate consonants: unvoiced plosive &rarr; voiced plosive &rarr; voiced fricative\nI-mutation of vowels when followed by /<strong><ipa>i</ipa></strong>/ in the next syllable.\nPalatalisation of alveolar sounds when followed by /<strong><ipa>i</ipa></strong>/.\nLoss of /<strong><ipa>i</ipa></strong>/ after geminate consonants.\nDegemination of consonants.\nElision of unstressed /<strong><ipa>&#x259;</ipa></strong>/, followed by &#10; consonant cluster reduction.\nReduction of remaining unstressed vowels to schwa. This can be transliterated with a lower dot on the affected vowel.\n", 
                                 "/l]\n", 
@@ -4558,6 +4560,5 @@
             ]
         }
     ], 
-    "name": "A Grammar of the Tinellbian Languages", 
-    "position": "1.0"
+    "name": "A Grammar of the Tinellbian Languages"
 }

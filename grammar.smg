@@ -25,10 +25,13 @@
     "ExternalDictionary": "http://dictionary.tinellb.com"
   }, 
   "history": [
-    [
-      "Introduction"
-    ], 
     [], 
-    []
+    [], 
+    [
+      "High Lulani", 
+      "Sample Texts", 
+      "Prelude", 
+      "Corla"
+    ]
   ]
 }
