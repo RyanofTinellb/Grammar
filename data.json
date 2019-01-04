@@ -1,17 +1,15 @@
 {
-    "date": "2018-12-19", 
+    "date": "2019-01-04", 
     "text": [
         "This reference guide is for the Tinellbian languages that descend from High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.\n", 
         "1]<a href=\"highlulani/index.html\">High Lulani</a>\n<high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi.\nI have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <span class=\"no-breaks\"><strong>mica</strong> <high-lulani>Mc</high-lulani> <em>hello</em></span> dates from that time.\nWhen I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what was to be the Ptokan language, and the language of the Fezhl&ecirc;. The latter  was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt.\nThe Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality."
     ], 
-    "position": "1.0", 
     "children": [
         {
             "date": "2018-09-29", 
             "text": [
                 "High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.\n"
             ], 
-            "position": "1.0", 
             "children": [
                 {
                     "date": "2018-11-14", 
@@ -1819,6 +1817,7 @@
                                 "l]<a href=\"interjections.html\">interjections</a>,\n<a href=\"../../apocrypha/numbers.html\">numbers</a>,\npronouns of the <a href=\"../deixis/personalpronouns.html#alienablepossession\">alienable genitive</a>,\n<a href=\"../../syntax/dependentclauses.html#contentclauses\">content</a> and <a href=\"../../syntax/dependentclauses.html#relativeclauses\">relative</a> clause introductory markers, and\nthe <a href=\"../../syntax/comparatives.html#superlative\">superlative</a> marker.", 
                                 "/l]\n"
                             ], 
+                            "position": "1.0", 
                             "children": [
                                 {
                                     "date": "2018-05-03", 
@@ -1840,8 +1839,7 @@
                                     "position": "1.0"
                                 }
                             ], 
-                            "name": "Particles", 
-                            "position": "1.0"
+                            "name": "Particles"
                         }
                     ]
                 }, 
@@ -1850,6 +1848,7 @@
                     "text": [
                         "High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.\n"
                     ], 
+                    "position": "2.0", 
                     "children": [
                         {
                             "date": "2018-06-07", 
@@ -1988,7 +1987,7 @@
                             "name": "Matrix Clauses"
                         }, 
                         {
-                            "date": "2018-11-29", 
+                            "date": "2019-01-04", 
                             "text": [
                                 "The first noun in a clause is the subject, which is prototypically the agent in transitive sentences and the patient in intransitive sentences. However, suffixes can be added to the verb to promote other nouns in the clause, other than the genitive.\nThere are three such verbal suffixes, which can be stacked, however, once something has been shifted from the subject position, it can&rsquo;t be promoted again.\n", 
                                 "1]Passive\nThe passive suffix promotes the object. This suffix has the forms:\n", 
@@ -2044,14 +2043,14 @@
                                 "e]<strong>Quxi ru kulaqqu kuffaxa mulisa.</strong>\n", 
                                 "e]<high-lulani>.AX / w / &gt;l;A / &gt;;fx / ULs.</high-lulani>\n", 
                                 "e]<a href=\"http://dictionary.tinellb.com/q/quxi.html#highlulani\">Quxi</a> <a href=\"http://dictionary.tinellb.com/r/ru.html#highlulani\">ru</a> <a href=\"http://dictionary.tinellb.com/k/ku.html#highlulani\">ku</a><a href=\"http://dictionary.tinellb.com/l/laqqu.html#highlulani\">laqqu</a> <a href=\"http://dictionary.tinellb.com/k/kuffa.html#highlulani\">kuffa</a><a href=\"http://dictionary.tinellb.com/x/xa.html#highlulani\">xa</a> <a href=\"http://dictionary.tinellb.com/m/mulisa.html#highlulani\">mulisa</a>.\n", 
-                                "e]<em>mountain</em> <span class=\"tooltip\"><small-caps>prs;gno</small-caps><span class=\"tooltip-text\">present gnomic</span></span> <span class=\"tooltip\"><small-caps>dat</small-caps><span class=\"tooltip-text\">dative</span></span><em>-money</em> give-<small-caps>dtv</small-caps> <em>fool</em>\n", 
+                                "e]<em>mountain</em> <span class=\"tooltip\"><small-caps>prs;gno</small-caps><span class=\"tooltip-text\">present gnomic</span></span> <span class=\"tooltip\"><small-caps>dat</small-caps><span class=\"tooltip-text\">dative</span></span><em>-money</em> give-<span class=\"tooltip\"><small-caps>dtv</small-caps><span class=\"tooltip-text\">dative promotion</span></span> <em>fool</em>\n", 
                                 "e]&ldquo;It is to the mountain that fools give money.&rdquo;", 
                                 "/d]\n", 
                                 "d folding]\n", 
                                 "f]<strong>Quxi ru (kalumulisa) kuffiluxa laqqu.</strong>\n", 
                                 "e]<high-lulani>.AX / w / kWULs / &gt;;FWx / l;A.</high-lulani>\n", 
                                 "e]<a href=\"http://dictionary.tinellb.com/q/quxi.html#highlulani\">Quxi</a> <a href=\"http://dictionary.tinellb.com/r/ru.html#highlulani\">ru</a> (<a href=\"http://dictionary.tinellb.com/k/kalu.html#highlulani\">kalu</a><a href=\"http://dictionary.tinellb.com/m/mulisa.html#highlulani\">mulisa</a>) <a href=\"http://dictionary.tinellb.com/k/kuffa.html#highlulani\">kuffa</a><a href=\"http://dictionary.tinellb.com/i/-ilu.html#highlulani\">-ilu</a><a href=\"http://dictionary.tinellb.com/x/-xa.html#highlulani\">-xa</a> <a href=\"http://dictionary.tinellb.com/l/laqqu.html#highlulani\">laqqu</a>.\n", 
-                                "e]<em>mountain</em> <span class=\"tooltip\"><small-caps>prs;gno</small-caps><span class=\"tooltip-text\">present gnomic</span></span> (<span class=\"tooltip\"><small-caps>abl</small-caps><span class=\"tooltip-text\">ablative</span></span>-<em>fool</em>) <em>give</em>-<span class=\"tooltip\"><small-caps>psv</small-caps><span class=\"tooltip-text\">passive</span></span>-<small-caps>dtv</small-caps> <em>money</em>.\n", 
+                                "e]<em>mountain</em> <span class=\"tooltip\"><small-caps>prs;gno</small-caps><span class=\"tooltip-text\">present gnomic</span></span> (<span class=\"tooltip\"><small-caps>abl</small-caps><span class=\"tooltip-text\">ablative</span></span>-<em>fool</em>) <em>give</em>-<span class=\"tooltip\"><small-caps>psv</small-caps><span class=\"tooltip-text\">passive</span></span>-<span class=\"tooltip\"><small-caps>dtv</small-caps><span class=\"tooltip-text\">dative promotion</span></span> <em>money</em>.\n", 
                                 "e]&ldquo;It is to the mountain that money is given (by fools).&rdquo;", 
                                 "/d]\n", 
                                 "1]Adposition\nTo promote a adpositional phrase to subject, prefix the verb with the adposition. The old subject is demoted to object. The old object, if any, is demoted to dative.\n", 
@@ -2063,7 +2062,7 @@
                                 "e]&ldquo;She sat in the sand.&rdquo;", 
                                 "/d]\n", 
                                 "d folding]\n", 
-                                "f]<strong>Jagaru pi nigupu quhu.</strong>\n", 
+                                "f]<strong>Jagaru pi nigupi quhu.</strong>\n", 
                                 "e]<high-lulani>.jgw / P / N&lt;o / AV.</high-lulani>\n", 
                                 "e]<a href=\"http://dictionary.tinellb.com/j/jagaru.html#highlulani\">Jagaru</a> <a href=\"http://dictionary.tinellb.com/p/pi.html#highlulani\">pi</a> <a href=\"http://dictionary.tinellb.com/n/ni.html#highlulani\">ni</a>-<a href=\"http://dictionary.tinellb.com/g/gupi.html#highlulani\">gupi</a> <a href=\"http://dictionary.tinellb.com/q/quhu.html#highlulani\">quhu</a>.\n", 
                                 "e]<em>sand </em><span class=\"tooltip\"><small-caps>pst;sta</small-caps><span class=\"tooltip-text\">past stative</span></span> <em>at</em>-<em>sit</em> <span class=\"tooltip\"><small-caps>3ani;tra</small-caps><span class=\"tooltip-text\">animate third person transitive</span></span>\n", 
@@ -2084,7 +2083,8 @@
                                 "e]&ldquo;It was in the sand that he was eating the strawberry.&rdquo;", 
                                 "/d]\n"
                             ], 
-                            "name": "Argument Promotion"
+                            "name": "Argument Promotion", 
+                            "position": "1.0"
                         }, 
                         {
                             "date": "2018-05-05", 
@@ -2401,8 +2401,7 @@
                             "position": "2.0"
                         }
                     ], 
-                    "name": "Syntax", 
-                    "position": "2.0"
+                    "name": "Syntax"
                 }, 
                 {
                     "date": "2017-07-16", 
@@ -4445,7 +4444,8 @@
                     ]
                 }
             ], 
-            "name": "High Lulani"
+            "name": "High Lulani", 
+            "position": "1.0"
         }, 
         {
             "date": "2018-09-30", 
@@ -4560,5 +4560,6 @@
             ]
         }
     ], 
-    "name": "A Grammar of the Tinellbian Languages"
+    "name": "A Grammar of the Tinellbian Languages", 
+    "position": "1.0"
 }
