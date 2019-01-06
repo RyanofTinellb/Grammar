@@ -9,7 +9,7 @@
       "Prelude", 
       "Lusov"
     ], 
-    "language": "en: English"
+    "language": "hl: High Lulani"
   }, 
   "site": {
     "files": {
@@ -38,6 +38,27 @@
       "High Lulani", 
       "Syntax", 
       "Argument Promotion"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Particles"
+    ], 
+    [
+      "High Lulani", 
+      "Apocrypha", 
+      "Numbers"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Deixis", 
+      "Personal Pro-forms"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Deixis"
     ]
   ]
 }
