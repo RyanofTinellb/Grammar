@@ -1,4 +1,7 @@
 Q&#x14d;la | Qola | <br>
+</link>&nbsp;<high-lulani> | </link> <high-lulani> | <br>
+</high-lulani>&nbsp;<em> | </high-lulani> <em> | <br>
+</high-lulani>&nbsp;<small-caps> | </high-lulani> <small-caps> | <br>
 <ipa>CT:/&#x2c8;&#x1c2;&#x2b0;&#x254;&#x2d0;.l&#x259;/</ipa> | ipaCorla | <br>
 &lt;&#x200a; | << | <br>
 &#x200a;&gt; | >> | <br>
@@ -44,3 +47,8 @@ F<sup>996</sup>&xi; | &Solaji; | <br>
 A<sup>376</sup>&gamma; | &Zhalad; | <br>
 D<sup>578</sup>&eta; | &Breque; | <br>
 E<sup>415</sup>&chi; | &Tsarein; | <br>
+
+
+
+
+
