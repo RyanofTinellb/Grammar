@@ -6,23 +6,29 @@
                                 initial-scale=1.0, user-scalable=yes">
     <meta charset="utf-8">
     <title>
-        {category-title} - Tinellbian Languages
+        {title: category} - Tinellbian Languages
     </title>
-    {stylesheet} {search-script}
+    {stylesheets: basic_style.css style.css}
+    {icon: favicon.png}
+    {search-script}
 </head>
 
 <body>
     <div class="flex">
         <div class="nav-pane">
-            {family-links}
+            {links: family}
         </div>
         <div class="content">
             {nav-footer}
-            {title-heading}
+            {heading: title}
             {main-contents}
             {toc}
             {nav-footer}
-            {copyright}
+            <div class="copyright">
+                <span class="no-breaks">
+                    {copyright: &copy;2017-%Y <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>. Last updated: %A, %B %#d%t, %Y.}
+                </span>
+            </div>
         </div>
     </div>
     <script type="text/javascript">
@@ -33,3 +39,4 @@
 </body>
 
 </html>
+
