@@ -183,6 +183,22 @@
       "High Lulani", 
       "Morphology", 
       "Auxiliaries"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Nouns"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Suffixes"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Suffixes", 
+      "Determiners"
     ]
   ]
 }

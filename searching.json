@@ -217,20 +217,9 @@
                 4483
             ]
         }, 
-        "conjunctions": {
-            "25": [
-                2542, 
-                2543, 
-                2544, 
-                2549, 
-                2550, 
-                2552, 
-                2553, 
-                2559, 
-                2560
-            ], 
-            "32": [
-                2896
+        "neighbours": {
+            "46": [
+                4701
             ]
         }, 
         "ruci": {
@@ -1674,9 +1663,14 @@
                 3925
             ]
         }, 
-        "namaci": {
-            "20": [
-                1912
+        "demoted": {
+            "31": [
+                2770, 
+                2791, 
+                2793, 
+                2817, 
+                2842, 
+                2843
             ]
         }, 
         "'ikahu": {
@@ -1963,6 +1957,9 @@
         "xucipura": {
             "32": [
                 3014
+            ], 
+            "12": [
+                907
             ]
         }, 
         "maditiba": {
@@ -4050,14 +4047,6 @@
                 1315
             ]
         }, 
-        "nuru": {
-            "36": [
-                3243, 
-                3276, 
-                3366, 
-                3399
-            ]
-        }, 
         "you're": {
             "46": [
                 4701
@@ -5538,9 +5527,10 @@
                 85
             ]
         }, 
-        "dasippa": {
-            "20": [
-                1916
+        "cihafi": {
+            "45": [
+                4371, 
+                4373
             ]
         }, 
         "reflecting": {
@@ -11296,11 +11286,6 @@
                 3865
             ]
         }, 
-        "neighbours": {
-            "46": [
-                4701
-            ]
-        }, 
         "yelling": {
             "44": [
                 4114, 
@@ -13487,31 +13472,6 @@
                 868
             ]
         }, 
-        "could": {
-            "46": [
-                4611, 
-                4645, 
-                4666, 
-                4727, 
-                4840
-            ], 
-            "47": [
-                5154, 
-                5179, 
-                5346, 
-                5355, 
-                5356
-            ], 
-            "44": [
-                4060, 
-                4061
-            ], 
-            "43": [
-                3870, 
-                3878, 
-                3903
-            ]
-        }, 
         "kasuja": {
             "24": [
                 2286, 
@@ -13709,9 +13669,6 @@
             "2": [
                 56, 
                 90
-            ], 
-            "17": [
-                1476
             ], 
             "46": [
                 4662
@@ -15433,9 +15390,20 @@
                 5603
             ]
         }, 
-        "nuruqa": {
-            "20": [
-                1891
+        "conjunctions": {
+            "25": [
+                2542, 
+                2543, 
+                2544, 
+                2549, 
+                2550, 
+                2552, 
+                2553, 
+                2559, 
+                2560
+            ], 
+            "32": [
+                2896
             ]
         }, 
         "agent": {
@@ -15627,9 +15595,6 @@
             ]
         }, 
         "pura": {
-            "12": [
-                907
-            ], 
             "15": [
                 1145
             ], 
@@ -16344,7 +16309,9 @@
                 4930
             ], 
             "20": [
-                1914
+                1914, 
+                1916, 
+                1917
             ]
         }, 
         "cabadisi": {
@@ -17030,6 +16997,9 @@
             ]
         }, 
         "nama": {
+            "20": [
+                1912
+            ], 
             "14": [
                 1003
             ]
@@ -19711,11 +19681,6 @@
                 1360
             ]
         }, 
-        "annaxa": {
-            "17": [
-                1476
-            ]
-        }, 
         "dasi": {
             "24": [
                 2475, 
@@ -19772,7 +19737,8 @@
                 1569
             ], 
             "20": [
-                1906
+                1906, 
+                1916
             ]
         }, 
         "say": {
@@ -20576,6 +20542,9 @@
         "slow": {
             "47": [
                 5362
+            ], 
+            "20": [
+                1860
             ]
         }, 
         "postpended": {
@@ -22716,9 +22685,6 @@
             ], 
             "3": [
                 203
-            ], 
-            "12": [
-                907
             ]
         }, 
         "poetic": {
@@ -23644,16 +23610,6 @@
             ], 
             "36": [
                 3307
-            ]
-        }, 
-        "demoted": {
-            "31": [
-                2770, 
-                2791, 
-                2793, 
-                2817, 
-                2842, 
-                2843
             ]
         }, 
         "lamari": {
@@ -25317,7 +25273,8 @@
             "17": [
                 1472, 
                 1473, 
-                1475
+                1475, 
+                1476
             ], 
             "23": [
                 2094, 
@@ -29735,6 +29692,9 @@
             ]
         }, 
         "siku": {
+            "20": [
+                1917
+            ], 
             "14": [
                 958
             ], 
@@ -31295,9 +31255,6 @@
         "return": {
             "47": [
                 4852
-            ], 
-            "20": [
-                1860
             ]
         }, 
         "gusura": {
@@ -37211,6 +37168,9 @@
                 4256, 
                 4452
             ], 
+            "20": [
+                1860
+            ], 
             "14": [
                 957, 
                 1028
@@ -37247,12 +37207,12 @@
             "30": [
                 2701
             ], 
+            "29": [
+                2601
+            ], 
             "43": [
                 3837, 
                 3868
-            ], 
-            "29": [
-                2601
             ]
         }, 
         "qapi": {
@@ -41668,12 +41628,6 @@
                 5526
             ]
         }, 
-        "cihafi": {
-            "45": [
-                4371, 
-                4373
-            ]
-        }, 
         "when": {
             "11": [
                 835
@@ -43615,11 +43569,15 @@
                 3440
             ]
         }, 
-        "du'ami": {
+        "nuru": {
+            "20": [
+                1891
+            ], 
             "36": [
-                3371, 
-                3374, 
-                3376
+                3243, 
+                3276, 
+                3366, 
+                3399
             ]
         }, 
         "'umi": {
@@ -43911,9 +43869,29 @@
                 2593
             ]
         }, 
-        "sikuppa": {
-            "20": [
-                1917
+        "could": {
+            "46": [
+                4611, 
+                4645, 
+                4666, 
+                4727, 
+                4840
+            ], 
+            "47": [
+                5154, 
+                5179, 
+                5346, 
+                5355, 
+                5356
+            ], 
+            "44": [
+                4060, 
+                4061
+            ], 
+            "43": [
+                3870, 
+                3878, 
+                3903
             ]
         }, 
         "diminished": {
@@ -46165,7 +46143,8 @@
         }, 
         "qa": {
             "20": [
-                1888
+                1888, 
+                1891
             ], 
             "39": [
                 3505
@@ -47085,7 +47064,8 @@
                 509
             ], 
             "20": [
-                1909
+                1909, 
+                1912
             ]
         }, 
         "co": {
@@ -51546,6 +51526,12 @@
                 5433
             ]
         }, 
+        "xenon": {
+            "40": [
+                3559, 
+                3789
+            ]
+        }, 
         "variation": {
             "6": [
                 411
@@ -51762,10 +51748,11 @@
                 1824
             ]
         }, 
-        "xenon": {
-            "40": [
-                3559, 
-                3789
+        "du'ami": {
+            "36": [
+                3371, 
+                3374, 
+                3376
             ]
         }, 
         "qiriji": {
@@ -52813,13 +52800,13 @@
         "Proper nouns begin with a capital letter in the transliteration", 
         "These are names that refer to individual people places or things", 
         "", 
-        " Ra&rsquo;ani &nbsp; Ryan name of a person", 
+        " Ra&rsquo;ani &nbsp; &nbsp; Ryan name of a person", 
         " &#x294;ikinnisa &nbsp; Eakins name of a family", 
         " Sa&rsquo;imi &nbsp; &nbsp; Caemi name of a deity", 
         " Tinalli &nbsp; &nbsp; Tinellb name of a universe", 
         " &#x294;irri&rsquo;a &nbsp; &nbsp; Ir&igrave;a name of a city", 
         " Lulani &nbsp; &nbsp; Lulani name of a language", 
-        " Xuci pura Cula &nbsp; &nbsp; The Crackled Egg name of a story ", 
+        " Xucipura Cula &nbsp; &nbsp; The Crackled Egg name of a story ", 
         "A verb is a necessary part of any sentence except when making copular sentences", 
         "Verbs can be categorised on the basis of how many elements compose them", 
         "Stem Verbs", 
@@ -53388,7 +53375,7 @@
         "/ Pannaxa na &rsquo;ibibu", 
         "", 
         " pannaxa cani &rsquo;ibibu", 
-        "/ p annaxa na &rsquo;ibibu", 
+        "/ pannaxa na &rsquo;ibibu", 
         " warrior complain", 
         "/ warrior complain", 
         "Episodic &ldquo;The warrior is complaining now", 
@@ -53772,7 +53759,7 @@
         "The suffix -ulu &nbsp; denotes reversal of an action and can only be applied to stem verbs", 
         "", 
         " lulu &nbsp; &nbsp; to undo", 
-        " jannulu &nbsp; &nbsp; to return", 
+        " jannulu &nbsp; &nbsp; to slow down", 
         " turulu &nbsp; &nbsp; to open", 
         " ju&rsquo;ulu &nbsp; &nbsp; to unlink ", 
         "The repetition marker -tuni &nbsp; has similar form and meaning to the full verb tuni &nbsp; &nbsp; repeat", 
@@ -53803,7 +53790,7 @@
         "The suffix -qa &nbsp; derives generic nouns from numerals or alienable genitive pronouns", 
         "", 
         " disiqa &nbsp; &nbsp; hers", 
-        " nuruqa &nbsp; &nbsp; the four of them", 
+        " nuru qa &nbsp; the four of them", 
         "", 
         "The suffix -muka &nbsp; is used with prepositional phrases", 
         "", 
@@ -53824,12 +53811,12 @@
         "The suffix -ci is applied to adjectival verbs", 
         "This includes chromatic verbs whence come the name for colours", 
         "", 
-        " namaci &nbsp; &nbsp; weakness", 
+        " nama ci &nbsp; weakness", 
         " ki&#x294;aci &nbsp; &nbsp; white ", 
         "Application of -ppa &nbsp; derives terms for times and occasions", 
         "", 
-        " dasippa &nbsp; &nbsp; mealtime", 
-        " sikuppa &nbsp; &nbsp; funeral ", 
+        " dasi ppa &nbsp; mealtime", 
+        " siku ppa &nbsp; funeral ", 
         "The suffix -ahi is used with adverbs", 
         "", 
         " nufirahi &nbsp; &nbsp; expectation ", 
@@ -53878,40 +53865,40 @@
         "They appear at the end of a noun phrase after any normal suffixes", 
         "They do not move the stress of the noun and can only receive up to secondary stress themselves", 
         "", 
-        " cama &nbsp; &nbsp; usual", 
-        " nisa &nbsp; &nbsp; only", 
-        " sabufi &nbsp; &nbsp; different ", 
+        " -cama &nbsp; &nbsp; usual", 
+        " -nisa &nbsp; &nbsp; only", 
+        " -sabufi &nbsp; &nbsp; different ", 
         "Quantity", 
         "These are used to answer &rdquo;how many", 
         "&rdquo;", 
         "", 
-        " mimu&rsquo;i &nbsp; &nbsp; some", 
-        " lumi &nbsp; &nbsp; several", 
-        " raqi &nbsp; &nbsp; more", 
-        " &rsquo;uhu &nbsp; &nbsp; many", 
-        " takki &nbsp; &nbsp; many ", 
+        " -mimu&rsquo;i &nbsp; &nbsp; some", 
+        " -lumi &nbsp; &nbsp; several", 
+        " -raqi &nbsp; &nbsp; more", 
+        " -&rsquo;uhu &nbsp; &nbsp; many", 
+        " -takki &nbsp; &nbsp; many ", 
         "Choice", 
         "There are two sets of determiners that are both used to select a part from the whole", 
         "One group is used with count nouns the other with mass nouns", 
         "Count Nouns", 
         "These refer to particular members of a group", 
         "", 
-        " ca &nbsp; &nbsp; only", 
-        " fi&rsquo;atu &nbsp; &nbsp; certain", 
-        " tapa &nbsp; &nbsp; next", 
-        " cari &nbsp; &nbsp; remaining", 
-        " qafa &nbsp; &nbsp; last ", 
+        " -ca &nbsp; &nbsp; only", 
+        " -fi&rsquo;atu &nbsp; &nbsp; certain", 
+        " -tapa &nbsp; &nbsp; next", 
+        " -cari &nbsp; &nbsp; remaining", 
+        " -qafa &nbsp; &nbsp; last ", 
         "Mass Nouns", 
         "These refer to sections of a substance", 
         "", 
-        " cari &nbsp; &nbsp; remaining", 
-        " sukki &nbsp; &nbsp; entire ", 
+        " -cari &nbsp; &nbsp; remaining", 
+        " -sukki &nbsp; &nbsp; entire ", 
         "Degree", 
         "These mark the degree to which the noun matches its referent", 
         "", 
-        " nata &nbsp; &nbsp; complete", 
-        " naci &nbsp; &nbsp; somewhat", 
-        " ji&rsquo;a &nbsp; &nbsp; not ", 
+        " -nata &nbsp; &nbsp; complete", 
+        " -naci &nbsp; &nbsp; somewhat", 
+        " -ji&rsquo;a &nbsp; &nbsp; not ", 
         "Deixis encompasses words and phrases which rely on an external context to complete their meaning", 
         "Topicality", 
         "Once a topic is introduced in a discourse or narrative it can be assumed to be the subject until changed", 
