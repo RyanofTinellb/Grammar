@@ -117,6 +117,49 @@
       "High Lulani", 
       "Phonology", 
       "Consonants"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Auxiliaries"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Particles"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Nouns"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Verbs", 
+      "Intransitivity"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Verbs", 
+      "Transitivity"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Verbs", 
+      "Ambitransitivity"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Auxiliaries"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Suffixes"
     ]
   ]
 }
