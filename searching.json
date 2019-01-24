@@ -146,8 +146,7 @@
             "23": [
                 2119, 
                 2156, 
-                2168, 
-                2170
+                2168
             ]
         }, 
         "hanging": {
@@ -220,6 +219,7 @@
         }, 
         "conjunctions": {
             "25": [
+                2543, 
                 2544, 
                 2545, 
                 2550, 
@@ -2472,9 +2472,10 @@
                 3780
             ]
         }, 
-        "[consonants": {
-            "3": [
-                116
+        "possessives": {
+            "39": [
+                3506, 
+                3537
             ]
         }, 
         "answer": {
@@ -2611,11 +2612,6 @@
         "types": {
             "32": [
                 3031
-            ]
-        }, 
-        "[as": {
-            "7": [
-                419
             ]
         }, 
         "janni'issaru": {
@@ -3861,11 +3857,6 @@
                 1319
             ]
         }, 
-        "[suffixes": {
-            "20": [
-                1768
-            ]
-        }, 
         "rr": {
             "2": [
                 57, 
@@ -4022,6 +4013,26 @@
         "occurs": {
             "49": [
                 5525
+            ]
+        }, 
+        "message]": {
+            "48": [
+                5431
+            ], 
+            "49": [
+                5435
+            ], 
+            "51": [
+                5528
+            ], 
+            "50": [
+                5526
+            ], 
+            "53": [
+                5581
+            ], 
+            "52": [
+                5579
             ]
         }, 
         "perception": {
@@ -4532,70 +4543,6 @@
                 3737
             ]
         }, 
-        "he": {
-            "45": [
-                4446, 
-                4447, 
-                4454, 
-                4455, 
-                4464, 
-                4465, 
-                4472, 
-                4473, 
-                4583, 
-                4584, 
-                4591, 
-                4592
-            ], 
-            "47": [
-                4917, 
-                5357, 
-                5382, 
-                5383, 
-                5390, 
-                5391, 
-                5399, 
-                5400
-            ], 
-            "16": [
-                1356
-            ], 
-            "23": [
-                2172
-            ], 
-            "32": [
-                2932
-            ], 
-            "31": [
-                2864, 
-                2871
-            ], 
-            "30": [
-                2667
-            ], 
-            "44": [
-                4026, 
-                4027, 
-                4034, 
-                4035, 
-                4053, 
-                4079, 
-                4080, 
-                4115, 
-                4116, 
-                4149, 
-                4150, 
-                4157, 
-                4158, 
-                4165, 
-                4166, 
-                4173, 
-                4174, 
-                4192, 
-                4201, 
-                4202
-            ]
-        }, 
         "there's": {
             "46": [
                 4752, 
@@ -4871,9 +4818,36 @@
                 1051
             ]
         }, 
-        "[adpositions": {
-            "18": [
-                1516
+        "q_ola": {
+            "46": [
+                4603, 
+                4629, 
+                4666, 
+                4727, 
+                4815, 
+                4832
+            ], 
+            "47": [
+                4999, 
+                5058, 
+                5221, 
+                5316, 
+                5326, 
+                5346, 
+                5399
+            ], 
+            "44": [
+                4183, 
+                4201
+            ], 
+            "45": [
+                4213, 
+                4288, 
+                4419, 
+                4499
+            ], 
+            "43": [
+                3812
             ]
         }, 
         "classes": {
@@ -4921,6 +4895,23 @@
                 4905, 
                 4924, 
                 5047
+            ]
+        }, 
+        "interlinear]": {
+            "46": [
+                4595
+            ], 
+            "47": [
+                4845
+            ], 
+            "44": [
+                3951
+            ], 
+            "45": [
+                4205
+            ], 
+            "43": [
+                3798
             ]
         }, 
         "feeling": {
@@ -5749,17 +5740,6 @@
                 4459
             ]
         }, 
-        "[this": {
-            "0": [
-                0
-            ], 
-            "42": [
-                3797
-            ], 
-            "35": [
-                3226
-            ]
-        }, 
         "ending": {
             "47": [
                 5316
@@ -6480,15 +6460,10 @@
                 4234
             ]
         }, 
-        "yes": {
-            "32": [
-                3032, 
-                3056, 
-                3079, 
-                3084
-            ], 
-            "47": [
-                4888
+        "composed": {
+            "36": [
+                3291, 
+                3326
             ]
         }, 
         "best": {
@@ -6947,11 +6922,6 @@
             ], 
             "20": [
                 1894
-            ]
-        }, 
-        "holds": {
-            "45": [
-                4454
             ]
         }, 
         "hills": {
@@ -9334,6 +9304,7 @@
                 5525
             ], 
             "24": [
+                2268, 
                 2355, 
                 2358, 
                 2389, 
@@ -9632,6 +9603,9 @@
                 3945, 
                 3946
             ], 
+            "40": [
+                3555
+            ], 
             "1": [
                 15
             ], 
@@ -9712,6 +9686,7 @@
                 553
             ], 
             "8": [
+                422, 
                 548
             ], 
             "51": [
@@ -9756,6 +9731,7 @@
                 3497
             ], 
             "15": [
+                1127, 
                 1129, 
                 1135, 
                 1152, 
@@ -9928,6 +9904,7 @@
                 2871
             ], 
             "30": [
+                2655, 
                 2658, 
                 2659, 
                 2678, 
@@ -9942,6 +9919,7 @@
                 2758
             ], 
             "37": [
+                3431, 
                 3439, 
                 3440, 
                 3441, 
@@ -10288,9 +10266,15 @@
                 261
             ]
         }, 
-        "[adverbs": {
-            "19": [
-                1652
+        "yes": {
+            "32": [
+                3032, 
+                3056, 
+                3079, 
+                3084
+            ], 
+            "47": [
+                4888
             ]
         }, 
         "jusi": {
@@ -10485,11 +10469,6 @@
             "6": [
                 405, 
                 417
-            ]
-        }, 
-        "[deixis": {
-            "22": [
-                2001
             ]
         }, 
         "gave": {
@@ -10905,40 +10884,9 @@
                 4892
             ]
         }, 
-        "animate": {
-            "39": [
-                3520, 
-                3529, 
-                3534
-            ], 
-            "12": [
-                855
-            ], 
-            "15": [
-                1175, 
-                1210, 
-                1265
-            ], 
-            "23": [
-                2017, 
-                2078
-            ], 
-            "18": [
-                1639
-            ], 
-            "51": [
-                5539
-            ], 
-            "20": [
-                1780, 
-                1801, 
-                1811, 
-                1814, 
-                1817, 
-                1820, 
-                1848, 
-                1941, 
-                1942
+        "indirect": {
+            "16": [
+                1350
             ]
         }, 
         "rili": {
@@ -12163,9 +12111,40 @@
                 3462
             ]
         }, 
-        "indirect": {
-            "16": [
-                1350
+        "animate": {
+            "39": [
+                3520, 
+                3529, 
+                3534
+            ], 
+            "12": [
+                855
+            ], 
+            "15": [
+                1175, 
+                1210, 
+                1265
+            ], 
+            "23": [
+                2017, 
+                2078
+            ], 
+            "18": [
+                1639
+            ], 
+            "51": [
+                5539
+            ], 
+            "20": [
+                1780, 
+                1801, 
+                1811, 
+                1814, 
+                1817, 
+                1820, 
+                1848, 
+                1941, 
+                1942
             ]
         }, 
         "constriction": {
@@ -14799,9 +14778,12 @@
                 877
             ]
         }, 
-        "[auxiliaries": {
-            "17": [
-                1373
+        "tapa": {
+            "47": [
+                4931
+            ], 
+            "21": [
+                1987
             ]
         }, 
         "dasikka": {
@@ -15430,6 +15412,7 @@
                 1871
             ], 
             "17": [
+                1373, 
                 1467, 
                 1515
             ], 
@@ -16364,18 +16347,9 @@
                 1915
             ]
         }, 
-        "[high": {
-            "1": [
-                15
-            ], 
-            "11": [
-                835
-            ], 
-            "2": [
-                18
-            ], 
-            "28": [
-                2594
+        "cabadisi": {
+            "45": [
+                4503
             ]
         }, 
         "years": {
@@ -16416,10 +16390,10 @@
                 3770
             ]
         }, 
-        "composed": {
-            "36": [
-                3291, 
-                3326
+        "nitrogen": {
+            "40": [
+                3576, 
+                3746
             ]
         }, 
         "pitch": {
@@ -17213,6 +17187,7 @@
                 854
             ], 
             "20": [
+                1768, 
                 1770, 
                 1796, 
                 1816, 
@@ -18564,17 +18539,6 @@
                 4993
             ]
         }, 
-        "[a": {
-            "32": [
-                2873
-            ], 
-            "13": [
-                908
-            ], 
-            "21": [
-                1963
-            ]
-        }, 
         "harudattusa'usiqa": {
             "43": [
                 3841
@@ -19024,9 +18988,10 @@
                 4428
             ]
         }, 
-        "[intransitive": {
-            "14": [
-                944
+        "television": {
+            "17": [
+                1506, 
+                1507
             ]
         }, 
         "neptunium": {
@@ -19962,9 +19927,12 @@
                 3813
             ]
         }, 
-        "[phonemically": {
-            "5": [
-                341
+        "'a'ima": {
+            "17": [
+                1487, 
+                1488, 
+                1490, 
+                1491
             ]
         }, 
         "rixi": {
@@ -20443,7 +20411,8 @@
             ], 
             "23": [
                 2021, 
-                2066
+                2066, 
+                2170
             ], 
             "46": [
                 4671, 
@@ -22326,6 +22295,9 @@
                 3346, 
                 3353
             ], 
+            "27": [
+                2581
+            ], 
             "20": [
                 1771, 
                 1797, 
@@ -22339,6 +22311,7 @@
                 3112
             ], 
             "23": [
+                2008, 
                 2105, 
                 2108
             ], 
@@ -22418,6 +22391,9 @@
             ], 
             "53": [
                 5586
+            ], 
+            "41": [
+                3796
             ], 
             "33": [
                 3120
@@ -22499,20 +22475,6 @@
             "40": [
                 3589, 
                 3678
-            ]
-        }, 
-        "[there": {
-            "9": [
-                550
-            ], 
-            "10": [
-                668
-            ], 
-            "26": [
-                2572
-            ], 
-            "4": [
-                297
             ]
         }, 
         "pagupa": {
@@ -23622,38 +23584,6 @@
             ], 
             "20": [
                 1821
-            ]
-        }, 
-        "q_ola": {
-            "46": [
-                4603, 
-                4629, 
-                4666, 
-                4727, 
-                4815, 
-                4832
-            ], 
-            "47": [
-                4999, 
-                5058, 
-                5221, 
-                5316, 
-                5326, 
-                5346, 
-                5399
-            ], 
-            "44": [
-                4183, 
-                4201
-            ], 
-            "45": [
-                4213, 
-                4288, 
-                4419, 
-                4499
-            ], 
-            "43": [
-                3812
             ]
         }, 
         "kiladikka": {
@@ -25271,13 +25201,22 @@
             ]
         }, 
         "there": {
+            "39": [
+                3536, 
+                3538
+            ], 
+            "47": [
+                4933, 
+                4951
+            ], 
+            "26": [
+                2572
+            ], 
+            "10": [
+                668
+            ], 
             "13": [
                 911
-            ], 
-            "45": [
-                4590, 
-                4591, 
-                4592
             ], 
             "20": [
                 1876, 
@@ -25305,19 +25244,16 @@
             "31": [
                 2761
             ], 
-            "39": [
-                3536, 
-                3538
+            "45": [
+                4590, 
+                4591, 
+                4592
             ], 
             "36": [
                 3338, 
                 3344, 
                 3352, 
                 3363
-            ], 
-            "47": [
-                4933, 
-                4951
             ], 
             "3": [
                 229
@@ -25329,6 +25265,7 @@
                 343
             ], 
             "4": [
+                297, 
                 317
             ], 
             "7": [
@@ -25337,6 +25274,9 @@
             "6": [
                 350, 
                 372
+            ], 
+            "9": [
+                550
             ], 
             "44": [
                 4089
@@ -27009,6 +26949,11 @@
                 1023
             ]
         }, 
+        "deixis": {
+            "22": [
+                2001
+            ]
+        }, 
         "children": {
             "33": [
                 3171
@@ -27902,17 +27847,6 @@
                 4598
             ]
         }, 
-        "[these": {
-            "27": [
-                2581
-            ], 
-            "41": [
-                3796
-            ], 
-            "23": [
-                2008
-            ]
-        }, 
         "robes": {
             "45": [
                 4489
@@ -28451,9 +28385,10 @@
                 3936
             ]
         }, 
-        "[numerals": {
-            "36": [
-                3227
+        "gaxiki": {
+            "40": [
+                3606, 
+                3699
             ]
         }, 
         "stood": {
@@ -31740,6 +31675,9 @@
         "numerals": {
             "20": [
                 1889
+            ], 
+            "36": [
+                3227
             ]
         }, 
         "generation": {
@@ -33362,11 +33300,6 @@
             "40": [
                 3629, 
                 3767
-            ]
-        }, 
-        "patterns": {
-            "53": [
-                5600
             ]
         }, 
         "check": {
@@ -35244,11 +35177,6 @@
                 2593
             ]
         }, 
-        "[conjunctions": {
-            "25": [
-                2543
-            ]
-        }, 
         "verbs": {
             "24": [
                 2392, 
@@ -35389,6 +35317,7 @@
         }, 
         "consonants": {
             "3": [
+                116, 
                 161, 
                 173, 
                 229
@@ -35991,7 +35920,8 @@
             "23": [
                 2024, 
                 2086, 
-                2107
+                2107, 
+                2170
             ], 
             "44": [
                 4005, 
@@ -37645,15 +37575,19 @@
                 677, 
                 775
             ], 
-            "2": [
-                32, 
-                72
+            "48": [
+                5431
+            ], 
+            "49": [
+                5435
             ], 
             "46": [
+                4595, 
                 4600, 
                 4665
             ], 
             "47": [
+                4845, 
                 4861, 
                 4916, 
                 4960, 
@@ -37666,12 +37600,14 @@
                 5417
             ], 
             "44": [
+                3951, 
                 4017, 
                 4052, 
                 4078, 
                 4106
             ], 
             "45": [
+                4205, 
                 4239, 
                 4257, 
                 4286, 
@@ -37681,6 +37617,25 @@
                 4497, 
                 4545, 
                 4574
+            ], 
+            "51": [
+                5528
+            ], 
+            "43": [
+                3798
+            ], 
+            "53": [
+                5581
+            ], 
+            "50": [
+                5526
+            ], 
+            "2": [
+                32, 
+                72
+            ], 
+            "52": [
+                5579
             ]
         }, 
         "semi": {
@@ -37689,12 +37644,6 @@
             ], 
             "13": [
                 911
-            ]
-        }, 
-        "possessives": {
-            "39": [
-                3506, 
-                3537
             ]
         }, 
         "follows": {
@@ -37740,11 +37689,6 @@
             "53": [
                 5613, 
                 5614
-            ]
-        }, 
-        "cabadisi": {
-            "45": [
-                4503
             ]
         }, 
         "duci": {
@@ -38676,6 +38620,7 @@
         }, 
         "adverbs": {
             "19": [
+                1652, 
                 1653, 
                 1694, 
                 1735
@@ -39234,12 +39179,6 @@
         "qirisunarakka": {
             "44": [
                 4073
-            ]
-        }, 
-        "gaxiki": {
-            "40": [
-                3606, 
-                3699
             ]
         }, 
         "gnomic": {
@@ -41555,11 +41494,22 @@
                 4547, 
                 4582
             ], 
+            "43": [
+                3844, 
+                3845, 
+                3846, 
+                3895
+            ], 
             "48": [
                 5432
             ], 
-            "29": [
-                2610
+            "36": [
+                3308, 
+                3310, 
+                3324, 
+                3326, 
+                3349, 
+                3426
             ], 
             "47": [
                 4851, 
@@ -41582,17 +41532,19 @@
                 5398, 
                 5399
             ], 
-            "36": [
-                3308, 
-                3310, 
-                3324, 
-                3326, 
-                3349, 
-                3426
-            ], 
             "49": [
                 5436, 
                 5494
+            ], 
+            "46": [
+                4653, 
+                4654, 
+                4751, 
+                4752, 
+                4759, 
+                4760, 
+                4831, 
+                4832
             ], 
             "20": [
                 1781, 
@@ -41602,6 +41554,11 @@
             "32": [
                 2970, 
                 3111
+            ], 
+            "53": [
+                5582, 
+                5584, 
+                5595
             ], 
             "24": [
                 2375, 
@@ -41614,6 +41571,9 @@
                 2497, 
                 2540, 
                 2541
+            ], 
+            "51": [
+                5529
             ], 
             "26": [
                 2574
@@ -41662,33 +41622,21 @@
                 2219, 
                 2252
             ], 
-            "51": [
-                5529
+            "42": [
+                3797
             ], 
-            "43": [
-                3844, 
-                3845, 
-                3846, 
-                3895
+            "29": [
+                2610
             ], 
-            "53": [
-                5582, 
-                5584, 
-                5595
+            "35": [
+                3226
             ], 
             "34": [
                 3185, 
                 3205
             ], 
-            "46": [
-                4653, 
-                4654, 
-                4751, 
-                4752, 
-                4759, 
-                4760, 
-                4831, 
-                4832
+            "0": [
+                0
             ], 
             "3": [
                 161, 
@@ -41995,6 +41943,9 @@
             ]
         }, 
         "high": {
+            "11": [
+                835
+            ], 
             "14": [
                 1025
             ], 
@@ -42007,6 +41958,9 @@
             "45": [
                 4427
             ], 
+            "28": [
+                2594
+            ], 
             "29": [
                 2597, 
                 2602
@@ -42018,12 +41972,16 @@
             "41": [
                 3796
             ], 
+            "1": [
+                15
+            ], 
             "0": [
                 0, 
                 2, 
                 6
             ], 
             "2": [
+                18, 
                 21, 
                 23
             ], 
@@ -42189,12 +42147,11 @@
                 3721
             ]
         }, 
-        "tapa": {
-            "47": [
-                4931
-            ], 
-            "21": [
-                1987
+        "six": {
+            "43": [
+                3844, 
+                3845, 
+                3846
             ]
         }, 
         "strontium": {
@@ -42644,11 +42601,9 @@
                 3468
             ]
         }, 
-        "six": {
-            "43": [
-                3844, 
-                3845, 
-                3846
+        "holds": {
+            "45": [
+                4454
             ]
         }, 
         "gupikunaqi": {
@@ -43371,36 +43326,9 @@
                 5249
             ]
         }, 
-        "[the": {
-            "24": [
-                2268
-            ], 
-            "38": [
-                3450
-            ], 
-            "15": [
-                1127
-            ], 
-            "33": [
-                3120
-            ], 
-            "8": [
-                422
-            ], 
-            "31": [
-                2759
-            ], 
-            "30": [
-                2655
-            ], 
-            "37": [
-                3431
-            ], 
-            "40": [
-                3555
-            ], 
-            "34": [
-                3180
+        "kal..ulu": {
+            "44": [
+                4169
             ]
         }, 
         "tikunarra": {
@@ -43827,6 +43755,7 @@
                 220
             ], 
             "12": [
+                836, 
                 837, 
                 838, 
                 883
@@ -44747,6 +44676,7 @@
                 2991
             ], 
             "18": [
+                1516, 
                 1549, 
                 1564
             ], 
@@ -45205,6 +45135,9 @@
             "3": [
                 161
             ], 
+            "5": [
+                341
+            ], 
             "49": [
                 5494
             ]
@@ -45616,9 +45549,68 @@
                 3500
             ]
         }, 
-        "partially": {
-            "3": [
-                174
+        "he": {
+            "45": [
+                4446, 
+                4447, 
+                4454, 
+                4455, 
+                4464, 
+                4465, 
+                4472, 
+                4473, 
+                4583, 
+                4584, 
+                4591, 
+                4592
+            ], 
+            "47": [
+                4917, 
+                5357, 
+                5382, 
+                5383, 
+                5390, 
+                5391, 
+                5399, 
+                5400
+            ], 
+            "16": [
+                1356
+            ], 
+            "23": [
+                2172
+            ], 
+            "32": [
+                2932
+            ], 
+            "31": [
+                2864, 
+                2871
+            ], 
+            "30": [
+                2667
+            ], 
+            "44": [
+                4026, 
+                4027, 
+                4034, 
+                4035, 
+                4053, 
+                4079, 
+                4080, 
+                4115, 
+                4116, 
+                4149, 
+                4150, 
+                4157, 
+                4158, 
+                4165, 
+                4166, 
+                4173, 
+                4174, 
+                4192, 
+                4201, 
+                4202
             ]
         }, 
         "hope": {
@@ -46557,12 +46549,6 @@
             "45": [
                 4382, 
                 4390
-            ]
-        }, 
-        "nitrogen": {
-            "40": [
-                3576, 
-                3746
             ]
         }, 
         "pronoun": {
@@ -47530,11 +47516,6 @@
         "deteminers": {
             "24": [
                 2535
-            ]
-        }, 
-        "[ambitransitive": {
-            "16": [
-                1301
             ]
         }, 
         "orange": {
@@ -48759,12 +48740,9 @@
                 3838
             ]
         }, 
-        "'a'ima": {
-            "17": [
-                1487, 
-                1488, 
-                1490, 
-                1491
+        "patterns": {
+            "53": [
+                5600
             ]
         }, 
         "sets": {
@@ -49189,6 +49167,11 @@
                 2839
             ]
         }, 
+        "ambitransitive": {
+            "16": [
+                1301
+            ]
+        }, 
         "loss": {
             "44": [
                 4131, 
@@ -49598,11 +49581,6 @@
                 4157
             ]
         }, 
-        "kal..ulu": {
-            "44": [
-                4169
-            ]
-        }, 
         "kiddo": {
             "47": [
                 4872
@@ -49720,12 +49698,6 @@
         "imaginary": {
             "36": [
                 3372
-            ]
-        }, 
-        "television": {
-            "17": [
-                1506, 
-                1507
             ]
         }, 
         "noisy": {
@@ -50659,9 +50631,9 @@
                 3211
             ]
         }, 
-        "[common": {
-            "12": [
-                836
+        "partially": {
+            "3": [
+                174
             ]
         }, 
         "count": {
@@ -51597,6 +51569,7 @@
                 1943
             ], 
             "14": [
+                944, 
                 1036, 
                 1091
             ], 
@@ -51945,7 +51918,7 @@
         "demoticlulani/appendices/diachrony.html"
     ], 
     "sentences": [
-        "[This reference guide is for the Tinellbian languages that descend from High Lulani", 
+        "This reference guide is for the Tinellbian languages that descend from High Lulani", 
         "Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu", 
         "High Lulani", 
         "Created by Queen Loren on Mala Ptokonoi", 
@@ -51960,10 +51933,10 @@
         "So much so in fact that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt", 
         "The Tinellbian languages are a range of constructed languages as befits the constructed universe of Tinellb", 
         "In that world the ancestor language was created by Queen Loren of the Ptokonoi and then evolved naturally as different groups of people moved through space time and reality", 
-        "[High Lulani is the language created by Loren queen of the Ptokonoi", 
+        "High Lulani is the language created by Loren queen of the Ptokonoi", 
         "It features a semi-closed verb class and extensive compounding", 
         "It has a featural script", 
-        "[High Lulani phonology has 18 consonant sounds and 3 vowels", 
+        "High Lulani phonology has 18 consonant sounds and 3 vowels", 
         "Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless and resonants are prototypically voiced", 
         "Vowels are defined in terms of openness and frontness; there are no oral length or tone distinctions", 
         "All High Lulani words are formed from alternating consonant-vowel pairs", 
@@ -52061,7 +52034,7 @@
         "", 
         "", 
         "The suprasegmental symbols are all exemplified in", 
-        "[Consonants are differentiated by manner and place of articulation and by word-internal gemination", 
+        "Consonants are differentiated by manner and place of articulation and by word-internal gemination", 
         "Plosives also have contrasting voice", 
         "", 
         "h labial", 
@@ -52242,7 +52215,7 @@
         " hannaku &nbsp; cat", 
         " tihu &nbsp; to dwell", 
         " quhha &nbsp; river ", 
-        "[There are three phonemic vowels with two main allophones for each", 
+        "There are three phonemic vowels with two main allophones for each", 
         "The vowels are distinguished by closeness and frontness", 
         "", 
         "h front", 
@@ -52286,7 +52259,7 @@
         " mulu &nbsp; blood", 
         " hulla &nbsp; to have sex", 
         " riccu &nbsp; sphere ", 
-        "[Phonemically all syllables are CV that is one consonant followed by one vowel", 
+        "Phonemically all syllables are CV that is one consonant followed by one vowel", 
         "Word-internal consonants can be geminated", 
         "The only consonant clusters are geminate consonants and there are no phonemic vowel clusters or long vowels", 
         "Syllabication", 
@@ -52364,10 +52337,10 @@
         "Interrogative and imperative sentences questions and orders are denoted by tone", 
         "This tone is either a rising tone &#x1ce; or a falling tone &acirc;  placed on the syllable of the appropriate word which has the greatest stress", 
         "Falling tone can also be used to bring focus to a particular word", 
-        "[As well as the syllabary for most written use there are also special-use syllabaries", 
+        "As well as the syllabary for most written use there are also special-use syllabaries", 
         "One of these encodes more redundancy for use with noisy channels", 
         "The other is a non-visual written code for blind and other visually impaired users", 
-        "[The Lulani syllabary was developed as a featural script with similar sounds having similar symbols", 
+        "The Lulani syllabary was developed as a featural script with similar sounds having similar symbols", 
         "It is written in horizontal rows right-to-left and top-to-bottom", 
         "", 
         "h stop", 
@@ -52495,7 +52468,7 @@
         "", 
         "Geminate consonants are shown as  placed before the geminated consonant", 
         "A central dot is placed between words and sentences begin and end with a symbol", 
-        "[There is a spelling syllabary used for transmitting words across potentially noisy communication channels such as telephone lines", 
+        "There is a spelling syllabary used for transmitting words across potentially noisy communication channels such as telephone lines", 
         "It is also used for communicaing in situations where every syllable is important such as giving names", 
         "Each syllable corresponds to a disyllabic word which begins with the same consonant and ends with its vowel", 
         "The geminate symbol is represented by the word fa&#x294;a language", 
@@ -52613,7 +52586,7 @@
         "xu xa&#x294;u child", 
         "hu halu algorithm", 
         "", 
-        "[There is a tactile syllabary for use by blind and visually-impaired language users", 
+        "There is a tactile syllabary for use by blind and visually-impaired language users", 
         "Each cell is three rows by two columns of raised dots", 
         "The upper four dots generally denote the consonant with syllables beginning with b d j g f or x being the exceptions", 
         "The lowest pair generally denote the vowel", 
@@ -52780,8 +52753,8 @@
         "Dot 5 &#x2810; by itself is the geminate", 
         "Word separation is shown by &#x2800; an empty space clause separation by &#x2824; the comma and sentence separation by &#x2814; the period", 
         "Numbers are prefixed with &#x2828; the number sign and the first syllable of each number is used", 
-        "[High Lulani is an analytic agglutinative language as morphemes tend to keep their own shape even when forming words", 
-        "[Common and proper nouns are open classes; the pronouns are closed", 
+        "High Lulani is an analytic agglutinative language as morphemes tend to keep their own shape even when forming words", 
+        "Common and proper nouns are open classes; the pronouns are closed", 
         "Common Nouns", 
         "Common nouns can refer to abstract or concrete items", 
         "", 
@@ -52853,7 +52826,7 @@
         " &#x294;irri&rsquo;a &nbsp; &nbsp; Ir&igrave;a name of a city", 
         " Lulani &nbsp; &nbsp; Lulani name of a language", 
         " Xuci pura Cula &nbsp; &nbsp; The Crackled Egg name of a story ", 
-        "[A verb is a necessary part of any sentence except when making copular sentences", 
+        "A verb is a necessary part of any sentence except when making copular sentences", 
         "Verbs can be categorised on the basis of how many elements compose them", 
         "Stem Verbs", 
         "The class of stem verbs is semi-closed &mdash; there are only about 100 pure verbs in the entire language", 
@@ -52889,7 +52862,7 @@
         " think - surroundings", 
         "&ldquo;to be conscious&rdquo;", 
         "", 
-        "[Intransitive verbs are monovalent", 
+        "Intransitive verbs are monovalent", 
         "For the archetypal intransitives the verbal patient is the subject", 
         "", 
         " Badiri ru cura", 
@@ -53072,7 +53045,7 @@
         " haru &nbsp; &nbsp; to accompany", 
         " hulla &nbsp; &nbsp; to copulate; to have consumated", 
         "", 
-        "[The divalent verbs are called transitive and these require an object to complete its meaning", 
+        "The divalent verbs are called transitive and these require an object to complete its meaning", 
         "It is possible to elide this object if it is obvious or irrelevant", 
         "The subject is the agent and the object is the patient", 
         "", 
@@ -53246,7 +53219,7 @@
         " naqa &nbsp; &nbsp; to need", 
         " tapu to look forward to; to enjoy", 
         "", 
-        "[Ambitransitive verbs can be used with or without an argument in the object position", 
+        "Ambitransitive verbs can be used with or without an argument in the object position", 
         "Perceptive Verbs", 
         "These verbs deal with the subject&rsquo;s ability to perceive stimuli", 
         "When used purely intransitively i", 
@@ -53318,7 +53291,7 @@
         " buma &nbsp; &nbsp; to draw", 
         " pa &nbsp; &nbsp; to think", 
         " ma &nbsp; &nbsp; to consider ", 
-        "[Auxiliaries are a type of verb  however they are sufficiently different from main verbs for them to be treated separately in this grammar", 
+        "Auxiliaries are a type of verb  however they are sufficiently different from main verbs for them to be treated separately in this grammar", 
         "They are used to mark tense the time at which an action takes place and aspect the nature of the passage of time during the action", 
         "The auxiliary can be dropped from a sentence if it is obvious from context or is the same as that of the sentence immediately prior", 
         "They are a closed class", 
@@ -53461,7 +53434,7 @@
         "The negative aspect is used for actions attributes and perceptions which do not occur", 
         "These act as the negation of any other aspectual marker", 
         "That is while positive sentences can be classified by aspect negative sentences all use the same auxiliaries", 
-        "[Adpositions are a closed class", 
+        "Adpositions are a closed class", 
         "They can be used in three different ways", 
         "As a Preposition", 
         "The most basic use for an adposition is prefixed to a noun to signify where the action is taking place with relation to a reference", 
@@ -53597,7 +53570,7 @@
         " nina &nbsp; &nbsp; used for a purpose", 
         " sata &nbsp; &nbsp; in order to obtain", 
         " &rsquo;arri &nbsp; &nbsp; along with ", 
-        "[Adverbs are a closed class", 
+        "Adverbs are a closed class", 
         "Adverbs can be used either as a verbal suffix or independently to describe the entire utterance", 
         "See Also Adverbial Clauses", 
         "", 
@@ -53713,7 +53686,7 @@
         " &ldquo; 1 -day&rdquo;", 
         "&ldquo;two years ago&rdquo;", 
         "", 
-        "[Suffixes can be used to derive new word from existing vocabulary", 
+        "Suffixes can be used to derive new word from existing vocabulary", 
         "A suffix beginning with a vowel replaces the final vowel of the base", 
         "Derivational Suffixes", 
         "These derive words within a class i", 
@@ -53908,7 +53881,7 @@
         " bataniqqi &nbsp; &nbsp; carefully", 
         " bufiniqqi &nbsp; &nbsp; stonily", 
         " ga&rsquo;iniqqi &nbsp; &nbsp; in time ", 
-        "[A determiner can be used to narrow the reference of a noun", 
+        "A determiner can be used to narrow the reference of a noun", 
         "They appear at the end of a noun phrase after any normal suffixes", 
         "They do not move the stress of the noun and can only receive up to secondary stress themselves", 
         "", 
@@ -53946,14 +53919,14 @@
         " nata &nbsp; &nbsp; complete", 
         " naci &nbsp; &nbsp; somewhat", 
         " ji&rsquo;a &nbsp; &nbsp; not ", 
-        "[Deixis encompasses words and phrases which rely on an external context to complete their meaning", 
+        "Deixis encompasses words and phrases which rely on an external context to complete their meaning", 
         "Topicality", 
         "Once a topic is introduced in a discourse or narrative it can be assumed to be the subject until changed", 
         "Pro-forms", 
         "The two groups of pro-forms are classified on the basis of their semantic properties", 
         "Personal pro-forms  otherwise known as definite pro-forms are those that encode case person animacy and topicality", 
         "Indefinite pro-forms comprise the remaining deictic terms", 
-        "[These are a closed class", 
+        "These are a closed class", 
         "They are marked for case and person", 
         "The third person pronouns are additionally marked for topicality or animacy", 
         "The alienable genitive acts as the nominal head of a possessive phrase the inalienable genitive is a determiner and the other pronouns all act as nouns", 
@@ -54089,33 +54062,33 @@
         "", 
         "", 
         "first person inclusive", 
-        "intransitive &rsquo;usufu &nbsp;", 
-        "transitive sumafu &nbsp;", 
-        "ablative puttufu &nbsp;", 
-        "dative pixifu &nbsp;", 
-        "alienable genitive pagufu &nbsp;", 
+        "intransitive &rsquo;usufu", 
+        "transitive sumafu", 
+        "ablative puttufu", 
+        "dative pixifu", 
+        "alienable genitive pagufu", 
         "first person exclusive", 
-        "intransitive &rsquo;usupa &nbsp;", 
-        "transitive sumapa &nbsp;", 
-        "ablative puttupa &nbsp;", 
-        "dative pixipa &nbsp;", 
-        "alienable genitive pagupa &nbsp;", 
+        "intransitive &rsquo;usupa", 
+        "transitive sumapa", 
+        "ablative puttupa", 
+        "dative pixipa", 
+        "alienable genitive pagupa", 
         "second person inclusive", 
-        "intransitive fillipa &nbsp;", 
-        "transitive fupa &nbsp;", 
-        "ablative sacupa &nbsp;", 
-        "dative ba&rsquo;upa &nbsp;", 
-        "alienable genitive bapa &nbsp;", 
+        "intransitive fillipa", 
+        "transitive fupa", 
+        "ablative sacupa", 
+        "dative ba&rsquo;upa", 
+        "alienable genitive bapa", 
         "all persons", 
-        "intransitive &rsquo;usufupa &nbsp;", 
-        "transitive sumafupa &nbsp;", 
-        "ablative puttufupa &nbsp;", 
-        "dative pixifupa &nbsp;", 
-        "alienable genitive pagufupa &nbsp; ", 
+        "intransitive &rsquo;usufupa", 
+        "transitive sumafupa", 
+        "ablative puttufupa", 
+        "dative pixifupa", 
+        "alienable genitive pagufupa ", 
         "", 
         " Fillipa pixi guqqipullata", 
         "", 
-        " Fillipa pixi guqqipullata", 
+        " filli -pa pixi guqqipullata", 
         " - betray", 
         "&ldquo;You and he have betrayed me", 
         "&rdquo;", 
@@ -54213,7 +54186,7 @@
         "&ldquo;the face&rdquo; / &ldquo;his face&rdquo;", 
         "Some kinship terms have suppletive forms when used with a plain possessive pronoun", 
         "See that section for details", 
-        "[The indefinite pro-forms are sets of deictic words which can be placed into a table", 
+        "The indefinite pro-forms are sets of deictic words which can be placed into a table", 
         "hr2", 
         "hc2 object", 
         "hr2 place", 
@@ -54488,7 +54461,7 @@
         " This treasure-somehow", 
         "&ldquo;This is some kind of treasure", 
         "&rdquo;", 
-        "[Conjunctions are a closed class of words which are used to join phrases or clauses together", 
+        "Conjunctions are a closed class of words which are used to join phrases or clauses together", 
         "Phrase-level Conjunctions", 
         "These conjunctions are used to join words or phrases", 
         "They are enclitics on the second and subsequent nouns", 
@@ -54517,7 +54490,7 @@
         " rika and thus", 
         " haru &nbsp; &nbsp; while", 
         " fati &nbsp; &nbsp; enough to ", 
-        "[There are very few particles", 
+        "There are very few particles", 
         "These are simply words that do not fit neatly into any other category", 
         "This includes", 
         " interjections ", 
@@ -54526,7 +54499,7 @@
         "content and relative clause introductory markers and", 
         "the superlative marker", 
         "", 
-        "[These are exclamations that do not fit the syntactic rules of the other parts of speech hence their classification among the particles", 
+        "These are exclamations that do not fit the syntactic rules of the other parts of speech hence their classification among the particles", 
         "All interjections end with the same vowel either naturally", 
         "", 
         " ta &nbsp; &nbsp; um", 
@@ -54539,7 +54512,7 @@
         " hacca &nbsp; &nbsp; good morning", 
         " kica &nbsp; &nbsp; what", 
         " hira &nbsp; &nbsp; please; thank-you ", 
-        "[High Lulani is head-initial in compounds but tends to be head-final in phrases and clauses", 
+        "High Lulani is head-initial in compounds but tends to be head-final in phrases and clauses", 
         "The language has Subject-Verb-Object order but shows signs of an SOV nature as dative and ablative complements become more common", 
         "Alignment", 
         "The three basic arguments for any verb intransitive subjects transitive subjects and transitive objects are marked in High Lulani", 
@@ -54600,7 +54573,7 @@
         " ku- lulani kuffa", 
         " - queen give", 
         "&ldquo;give to the queen&rdquo;", 
-        "[The standard word order for matrix clauses is", 
+        "The standard word order for matrix clauses is", 
         "Subject &dash; Auxiliary &dash; Adposition - Oblique &dash; Verb &dash; Object &dash; Adverb", 
         "None of these slots are compulsorily filled", 
         "If a subject is obvious from context or is the same as that of the immediately prior sentence it can be dropped", 
@@ -54704,7 +54677,7 @@
         "&ldquo;She was eating it", 
         "&rdquo;", 
         "As can be seen the only time the transitive case is used for the subject of a clause is in transitive as well as copular sentences using dynamic or iterative auxiliaries", 
-        "[The first noun in a clause is the subject which is prototypically the agent in transitive sentences and the patient in intransitive sentences", 
+        "The first noun in a clause is the subject which is prototypically the agent in transitive sentences and the patient in intransitive sentences", 
         "However suffixes can be added to the verb to promote other nouns in the clause other than the genitive", 
         "There are three such verbal suffixes which can be stacked however once something has been shifted from the subject position it can&rsquo;t be promoted again", 
         "Passive", 
@@ -54818,7 +54791,7 @@
         " sand -strawberry in-eat", 
         "&ldquo;It was in the sand that he was eating the strawberry", 
         "&rdquo;", 
-        "[A dependent clause is a clause that is unable to stand meaningfully by itself", 
+        "A dependent clause is a clause that is unable to stand meaningfully by itself", 
         "They are marked by having the auxiliary at the end", 
         "Subordinate Clauses", 
         "A subordinate clause is one introduced by a subordinating conjunction in the matrix clause", 
@@ -55065,7 +55038,7 @@
         " Queen love-", 
         "&ldquo;Love the queen", 
         "&rdquo;", 
-        "[The full noun phrase is made up of these components in the following order", 
+        "The full noun phrase is made up of these components in the following order", 
         "adposition-", 
         "case marker-", 
         "number", 
@@ -55125,7 +55098,7 @@
         "the faces of the mothers and the men who left", 
         "", 
         "", 
-        "[The gerund suffix -ru &nbsp; changes basic verbs into nouns describing the activity", 
+        "The gerund suffix -ru &nbsp; changes basic verbs into nouns describing the activity", 
         "", 
         " huba ru &nbsp; breathing", 
         " mala ru reflecting", 
@@ -55171,8 +55144,8 @@
         " look- - - moon", 
         "&ldquo;looking at the moon&rdquo;", 
         "", 
-        "[This section details particular categories of vocabulary items", 
-        "[Numerals and mathematical operations are particles", 
+        "This section details particular categories of vocabulary items", 
+        "Numerals and mathematical operations are particles", 
         "Cardinal Numbers", 
         "The number system in High Lulani uses balanced sesquidecimal base 15  and so numbers are written with the positive digits 1 2 3 4 5 6 and 7  their negative counterparts 1  2  3  4  5  6 and 7 and a zero 0", 
         "A period fractional point", 
@@ -55376,7 +55349,7 @@
         " luffura &nbsp; &nbsp; eyes", 
         " &rsquo;itikkura &nbsp; &nbsp; breasts", 
         " tibara &nbsp; &nbsp; legs ", 
-        "[The basic colour terms are all verbs", 
+        "The basic colour terms are all verbs", 
         "", 
         " baju &nbsp; &nbsp; blue", 
         " sa &nbsp; &nbsp; yellow", 
@@ -55395,7 +55368,7 @@
         " miku mulu &nbsp; &nbsp; blood red", 
         " baju kunubi &nbsp; &nbsp; sky blue", 
         " ki&#x294;a masi &nbsp; &nbsp; snow white ", 
-        "[The comparative marker is an adposition su &nbsp; &nbsp; than placed on the noun being compared against", 
+        "The comparative marker is an adposition su &nbsp; &nbsp; than placed on the noun being compared against", 
         "", 
         " Hannaku suqikanni xusina", 
         "", 
@@ -55500,7 +55473,7 @@
         "", 
         "Other kinship terms began as nuclear family names but were thence extended across a generation", 
         "So kaqqa &nbsp; &nbsp; elder sibling and kica &nbsp; &nbsp; younger sibling can also be applied to cousins", 
-        "[The first 118 chemical elements have been named", 
+        "The first 118 chemical elements have been named", 
         " li&rsquo;a helium", 
         "kuxalu neon", 
         "laqa argon", 
@@ -55741,9 +55714,9 @@
         " hika &nbsp; &nbsp; zinc", 
         " pusu &nbsp; &nbsp; zirconium ", 
         "", 
-        "[These are sample texts in High Lulani", 
-        "[This comes from an early draft of The Coelacanth Quartet &ndash; The Crackled Egg", 
-        "", 
+        "These are sample texts in High Lulani", 
+        "This comes from an early draft of The Coelacanth Quartet &ndash; The Crackled Egg", 
+        "d interlinear]", 
         "", 
         "", 
         " Disinnamuka", 
@@ -55896,7 +55869,7 @@
         "", 
         "", 
         "  ", 
-        "", 
+        "d interlinear]", 
         "", 
         "", 
         " Kassurula musaqapi", 
@@ -56150,7 +56123,7 @@
         "He motioned to his daughter to move across to allow Corla to ascend", 
         " ", 
         "", 
-        "", 
+        "d interlinear]", 
         "", 
         "", 
         " Kurila ni&rsquo;u&rsquo;ilikasi kikacaqaraluminisa pi maqa raqura tuhhisa gupi fihaniqqi", 
@@ -56540,7 +56513,7 @@
         "Realising there was nothing further to do he went back to the draughtsbeast and his waiting daughter", 
         " ", 
         "", 
-        "", 
+        "d interlinear]", 
         "", 
         "", 
         " Kurila jajifadi gajannidillu qu ji kalu&rsquo;umi hussudiccaha dumihita", 
@@ -56790,7 +56763,7 @@
         " ", 
         "", 
         "", 
-        "", 
+        "d interlinear]", 
         "", 
         "", 
         " Kujannuluruqa sassu&rsquo;a gupi na mani Turassi ra&rsquo;u kutujanaracam&middot;mari gasu&rsquo;a nidaruqa narra tuhiru tujaramirra", 
@@ -57376,11 +57349,11 @@
         " She thought by seeing that Lharen will be standing at the wall-door and so she moved her with finger-speech", 
         "Toresh noticed Lharen standing in the doorway and motioned her over", 
         "  ", 
-        "", 
+        "d message]", 
         "Warning This section is a work in progress", 
         "", 
         "While High Lulani continued being used in the Palace and its surrounds the living language continued to evolve in the mouths of the people", 
-        "", 
+        "d message]", 
         "Warning This section is a work in progress", 
         "", 
         "Consonants", 
@@ -57471,9 +57444,9 @@
         "e", 
         " &rarr; and &rarr;  before peripheral consonants", 
         "The latter change also occurs at the ends of words", 
-        "", 
+        "d message]", 
         "Warning This section is a work in progress", 
-        "", 
+        "d message]", 
         "Warning This section is a work in progress", 
         "", 
         "Regular Verbs", 
@@ -57524,9 +57497,9 @@
         "", 
         "Irregular Verbs", 
         "These are derived from monosyllables", 
-        "", 
+        "d message]", 
         "Warning This section is a work in progress", 
-        "", 
+        "d message]", 
         "Warning This section is a work in progress", 
         "", 
         "This page includes a list of changes from High Lulani to Demotic Lulani", 
