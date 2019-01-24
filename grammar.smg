@@ -160,6 +160,29 @@
       "High Lulani", 
       "Morphology", 
       "Suffixes"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Verbs", 
+      "Intransitivity"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Verbs", 
+      "Transitivity"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Verbs", 
+      "Ambitransitivity"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Auxiliaries"
     ]
   ]
 }

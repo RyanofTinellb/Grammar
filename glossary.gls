@@ -48,10 +48,12 @@
     "dtv": "dative promotion",
     "ger": "gerund",
     "gen": "genitive",
+    "inc": "inceptive",
     "inj": "interjection",
     "nmn": "nominaliser",
     "psv": "passive",
     "rel": "relativiser",
     "trm": "terminative"
 }
+
 

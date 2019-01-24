@@ -13710,6 +13710,9 @@
                 56, 
                 90
             ], 
+            "17": [
+                1476
+            ], 
             "46": [
                 4662
             ], 
@@ -19708,6 +19711,11 @@
                 1360
             ]
         }, 
+        "annaxa": {
+            "17": [
+                1476
+            ]
+        }, 
         "dasi": {
             "24": [
                 2475, 
@@ -25309,8 +25317,7 @@
             "17": [
                 1472, 
                 1473, 
-                1475, 
-                1476
+                1475
             ], 
             "23": [
                 2094, 
@@ -52854,8 +52861,8 @@
         "", 
         " Badiri ru cura", 
         "", 
-        " Badiri ru cura", 
-        " World change", 
+        " badiri ru cura", 
+        " world change", 
         "&ldquo;The world is always changing", 
         "&rdquo;", 
         "", 
@@ -52949,7 +52956,7 @@
         " Luna kalujifiru&rsquo;i mala; luna kalu&rsquo;ilupahi mala", 
         "", 
         " luna kalu- jifiru&rsquo;i mala ; luna kalu- &rsquo;ilu -pahi mala", 
-        " Moon - lake reflect; moon - heart - reflect", 
+        " moon - lake reflect; moon - heart - reflect", 
         "&ldquo;The moon is reflected in the lake; the moon is reflected in my heart", 
         "&rdquo;", 
         "", 
@@ -52964,8 +52971,8 @@
         "", 
         " Nimalu kuquliruxita runihi", 
         "", 
-        " Nimalu ku- quliru - xita runihi", 
-        " Bear - family-one similar", 
+        " nimalu ku- quliru - xita runihi", 
+        " bear - family-one similar", 
         "&ldquo;The bear is like one of the family", 
         "&rdquo;", 
         "", 
@@ -52973,7 +52980,7 @@
         "", 
         " &#x294;usu ra&rsquo;u haruxissatanissa runihi", 
         "", 
-        " &#x294;usu ra&rsquo;u haru - xissatanissa runihi", 
+        " &rsquo;usu ra&rsquo;u haru - xissatanissa runihi", 
         " with-musician similar", 
         "&ldquo;I am somewhat of a musician", 
         "&rdquo;", 
@@ -52982,8 +52989,8 @@
         "", 
         " Mari ra&rsquo;u xidupajiga tina", 
         "", 
-        " Mari ra&rsquo;u xidu - pajiga tina", 
-        " This far-olive different", 
+        " mari ra&rsquo;u xidu - pajiga tina", 
+        " this far-olive different", 
         "&ldquo;This is nothing like an olive", 
         "&rdquo;", 
         "", 
@@ -53160,7 +53167,7 @@
         "/ Filli ka&rsquo;aggami xi", 
         "", 
         " filli ka - &rsquo;aggami xu", 
-        "/ Filli ka - &rsquo;aggami xi", 
+        "/ filli ka - &rsquo;aggami xi", 
         " as-police officer appear", 
         "/ as-police officer seem", 
         "&ldquo;You look like a police officer", 
@@ -53381,9 +53388,9 @@
         "/ Pannaxa na &rsquo;ibibu", 
         "", 
         " pannaxa cani &rsquo;ibibu", 
-        "/ Pannaxa na &rsquo;ibibu", 
+        "/ p annaxa na &rsquo;ibibu", 
         " warrior complain", 
-        "/ Warrior complain", 
+        "/ warrior complain", 
         "Episodic &ldquo;The warrior is complaining now", 
         "&rdquo; / Generic &ldquo;The warrior always complains", 
         "&rdquo;", 
