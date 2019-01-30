@@ -1724,9 +1724,6 @@
             ]
         }, 
         "tuhi": {
-            "14": [
-                999
-            ], 
             "46": [
                 4605
             ], 
@@ -1742,8 +1739,8 @@
             "45": [
                 4490
             ], 
-            "43": [
-                3942
+            "14": [
+                999
             ]
         }, 
         "adult": {
@@ -10634,9 +10631,9 @@
                 5528
             ]
         }, 
-        "kalularuni": {
-            "47": [
-                5316
+        "nikunaqi": {
+            "45": [
+                4446
             ]
         }, 
         "cu'i": {
@@ -11128,6 +11125,11 @@
             "44": [
                 4157, 
                 4165
+            ]
+        }, 
+        "kalularuni": {
+            "47": [
+                5316
             ]
         }, 
         "ice": {
@@ -15019,11 +15021,6 @@
         "fly": {
             "12": [
                 852
-            ]
-        }, 
-        "batta": {
-            "43": [
-                3942
             ]
         }, 
         "pushed": {
@@ -20188,6 +20185,11 @@
                 5195
             ]
         }, 
+        "tuhinuhu": {
+            "43": [
+                3942
+            ]
+        }, 
         "lafuca": {
             "46": [
                 4718
@@ -20998,9 +21000,6 @@
             ], 
             "44": [
                 3969
-            ], 
-            "43": [
-                3943
             ]
         }, 
         "predicted": {
@@ -28056,9 +28055,6 @@
             ]
         }, 
         "small": {
-            "20": [
-                1779
-            ], 
             "46": [
                 4606, 
                 4607, 
@@ -28084,8 +28080,8 @@
                 4495, 
                 4496
             ], 
-            "43": [
-                3943
+            "20": [
+                1779
             ]
         }, 
         "biological": {
@@ -28964,14 +28960,14 @@
                 4558, 
                 4567
             ], 
-            "43": [
-                3942
-            ], 
             "29": [
                 2624, 
                 2626, 
                 2643, 
                 2645
+            ], 
+            "34": [
+                3194
             ], 
             "47": [
                 4846, 
@@ -28990,9 +28986,6 @@
                 5329, 
                 5419, 
                 5421
-            ], 
-            "34": [
-                3194
             ]
         }, 
         "vii": {
@@ -38898,7 +38891,8 @@
                 3820, 
                 3835, 
                 3861, 
-                3862
+                3862, 
+                3943
             ], 
             "0": [
                 5
@@ -40359,9 +40353,9 @@
                 1026
             ]
         }, 
-        "nikunaqi": {
-            "45": [
-                4446
+        "fold": {
+            "43": [
+                3943
             ]
         }, 
         "noise": {
@@ -46071,6 +46065,11 @@
                 430
             ]
         }, 
+        "jannibitta": {
+            "43": [
+                3942
+            ]
+        }, 
         "married": {
             "39": [
                 3502
@@ -46505,9 +46504,6 @@
             "32": [
                 2993, 
                 2995
-            ], 
-            "43": [
-                3942
             ]
         }, 
         "ruthenium": {
@@ -47520,9 +47516,6 @@
         "folding": {
             "32": [
                 2996
-            ], 
-            "43": [
-                3943
             ]
         }, 
         "an": {
@@ -50884,9 +50877,6 @@
             ], 
             "45": [
                 4233
-            ], 
-            "43": [
-                3943
             ]
         }, 
         "jannidifirunisa": {
@@ -55774,7 +55764,7 @@
         "", 
         " Piba kuppura&rsquo;u rubaqa ci&#x294;a du&rsquo;ikalumusa", 
         "", 
-        " Piba kuppu - ra&rsquo;u ruba - qa ci&#x294;a du&rsquo;i - kalu - musa", 
+        " piba kuppu - ra&rsquo;u ruba - qa ci&#x294;a du&rsquo;i - kalu - musa", 
         " Most strong - sense image - life opposite - - sun", 
         "The strongest sense of life is from the other side of the sun", 
         "The strongest sense of life was opposite the sun", 
@@ -55782,7 +55772,7 @@
         "", 
         " Ji li kikami ru cikki gi&rsquo;a li cu&rsquo;i kalugupinuru sa&rsquo;ibassilu ji palinu", 
         "", 
-        " Ji li kika - mi ru cikki gi&rsquo;a li cu&rsquo;i kalu - gupi - nu - ru sa&rsquo;i - bassa - ilu ji pa - linu", 
+        " ji li kika - mi ru cikki  gi&rsquo;a li cu&rsquo;i kalu - gupi - nu - ru sa&rsquo;i - bassa -ilu ji pa - linu", 
         " interval-some telepath and nothing - sit-stop - fix-situation - think-realisation", 
         " She doesn&rsquo;t sense over what distance it is and realises that nothing isn&rsquo;t fixed from sitting still", 
         "She couldn&rsquo;t tell how far but she realised that nothing was going to be solved by sitting still", 
@@ -55791,8 +55781,8 @@
         "", 
         " Tuhinuhulu nin&middot;niga kibbasu&rsquo;a qu canisi jannibattaru bataniqqi", 
         "", 
-        " Tuhi - nuhu - ulu nina - niga kibba - su&rsquo;a qu cani - si janni - batta - ru bata - niqqi", 
-        " Small-folding paper-undo for-guide stick-self and - inc move-time - care-qal", 
+        " tuhinuhu -ulu nina - niga kibba - su&rsquo;a  qu cani  -si jannibitta - ru bata -niqqi", 
+        " fold up-undo for-guide stick-self and - move-time - care-qal", 
         " She unfolds her own guide stick and with care starts the time-travel", 
         "She unfolded her cane and carefully began following the roadway away from the sun", 
         "  ", 
