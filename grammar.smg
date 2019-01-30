@@ -25,6 +25,31 @@
     "ExternalDictionary": "http://dictionary.tinellb.com"
   }, 
   "history": [
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Matrix Clauses"
+    ], 
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Argument Promotion"
+    ], 
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Matrix Clauses"
+    ], 
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Case"
+    ], 
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Matrix Clauses"
+    ], 
     [], 
     [], 
     [
@@ -199,6 +224,72 @@
       "Morphology", 
       "Suffixes", 
       "Determiners"
+    ], 
+    [
+      "High Lulani", 
+      "Sample Texts", 
+      "Prelude", 
+      "Corla"
+    ], 
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Case"
+    ], 
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Matrix Clauses"
+    ], 
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Argument Promotion"
+    ], 
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Dependent Clauses"
+    ], 
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Noun Phrases"
+    ], 
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Gerunds"
+    ], 
+    [
+      "High Lulani", 
+      "Apocrypha"
+    ], 
+    [
+      "High Lulani", 
+      "Apocrypha", 
+      "Numbers"
+    ], 
+    [
+      "High Lulani", 
+      "Apocrypha", 
+      "Colours"
+    ], 
+    [
+      "High Lulani", 
+      "Apocrypha", 
+      "Comparatives"
+    ], 
+    [
+      "High Lulani", 
+      "Apocrypha", 
+      "Kinship"
+    ], 
+    [
+      "High Lulani", 
+      "Sample Texts", 
+      "Prelude", 
+      "Corla"
     ]
   ]
 }
