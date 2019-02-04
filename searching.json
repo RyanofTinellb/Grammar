@@ -19578,11 +19578,6 @@
                 276
             ]
         }, 
-        "ana": {
-            "24": [
-                2538
-            ]
-        }, 
         "remained": {
             "47": [
                 5391
@@ -27574,6 +27569,7 @@
                 2392, 
                 2397, 
                 2407, 
+                2415, 
                 2423, 
                 2467
             ], 
@@ -31196,6 +31192,7 @@
                 4642
             ], 
             "47": [
+                4902, 
                 5396
             ], 
             "3": [
@@ -35021,7 +35018,8 @@
         "fana": {
             "24": [
                 2313, 
-                2352
+                2352, 
+                2538
             ], 
             "45": [
                 4502, 
@@ -35677,8 +35675,7 @@
         }, 
         "qa'ita": {
             "24": [
-                2413, 
-                2415
+                2413
             ]
         }, 
         "create": {
@@ -37250,11 +37247,6 @@
             ], 
             "30": [
                 2696
-            ]
-        }, 
-        "gurissu": {
-            "47": [
-                4902
             ]
         }, 
         "remaining": {
@@ -41323,8 +41315,8 @@
             ]
         }, 
         "f": {
-            "24": [
-                2538
+            "46": [
+                4665
             ], 
             "10": [
                 670, 
@@ -41334,9 +41326,6 @@
             "2": [
                 34, 
                 74
-            ], 
-            "46": [
-                4665
             ]
         }, 
         "this": {
@@ -52669,7 +52658,7 @@
         " Tinalli &nbsp; &nbsp; Tinellb name of a universe", 
         " &#x294;irri&rsquo;a &nbsp; &nbsp; Ir&igrave;a name of a city", 
         " Lulani &nbsp; &nbsp; Lulani name of a language", 
-        " xucipura Cula &nbsp; &nbsp; The Crackled Egg name of a story ", 
+        " Xucipura Cula &nbsp; &nbsp; The Crackled Egg name of a story ", 
         "A verb is a necessary part of any sentence except when making copular sentences", 
         "Verbs can be categorised on the basis of how many elements compose them", 
         "Stem Verbs", 
@@ -53859,8 +53848,8 @@
         " &#x294;usu ra&rsquo;u pannaxa", 
         "/ &#x294;usu ra&rsquo;u pannaxa&rsquo;uxxi", 
         "", 
-        " &#x294;usu ra&rsquo;u pannaxa", 
-        "/ &#x294;usu ra&rsquo;u pannaxa&rsquo;uxxi", 
+        " &rsquo;usu ra&rsquo;u pannaxa", 
+        "/ &rsquo;usu ra&rsquo;u pannaxa&rsquo;uxxi", 
         " warrior", 
         "/ army", 
         "&ldquo;I am a warrior", 
@@ -53991,7 +53980,7 @@
         "", 
         " kitisuqa lulani", 
         "", 
-        " kitisu-qa lulani", 
+        " kitisu  -qa lulani", 
         " father- queen", 
         "&ldquo;the queen&rsquo;s father&rdquo;", 
         "", 
@@ -54003,13 +53992,13 @@
         "", 
         " Ra&rsquo;aniqa &#x294;Ikinnisa", 
         "", 
-        "Ra&rsquo;ani- qa &#x294;Ikinnisa", 
+        "Ra&rsquo;ani -qa &#x294;Ikinnisa", 
         " Ryan - Eakins", 
         "&ldquo;Ryan of the family Eakins&rdquo;", 
         "", 
         " Sa&rsquo;imiqa Tinalli", 
         "", 
-        " Sa&rsquo;imi - qa Tinalli", 
+        " Sa&rsquo;imi -qa Tinalli", 
         " Caemi- Tinellb", 
         "&ldquo;Caemi of Tinellb&rdquo;", 
         "", 
@@ -54177,7 +54166,7 @@
         "", 
         " qa&rsquo;i qa&rsquo;ita", 
         "", 
-        " qa&rsquo;i qa&rsquo;ita", 
+        " qa&rsquo;i qa&rsquo;i  -ta", 
         " nowhere nowhere-and", 
         " lit", 
         " &ldquo;never and nowhere&rdquo;", 
@@ -54300,7 +54289,7 @@
         "", 
         " Mari ra&rsquo;u gajitafana", 
         "", 
-        " mari ra&rsquo;u gajita -f ana", 
+        " mari ra&rsquo;u gajita - fana", 
         " This treasure-somehow", 
         "&ldquo;This is some kind of treasure", 
         "&rdquo;", 
@@ -56664,7 +56653,7 @@
         "", 
         " Pi&rsquo;aduqa kahi cani ditudisiqa pa&rsquo;aka qu du&rsquo;ikugurissu jannikiluqukka quhu", 
         "", 
-        " Pi&rsquo;adu - qa kahi cani di - tu - disi - qa pa&rsquo;aka qu  du&rsquo;i - ku - gurissu janni - kiluqu -kka quhu", 
+        " Pi&rsquo;adu - qa kahi cani di - tu - disi - qa pa&rsquo;aka qu  du&rsquo;i - ku-  gurrisu janni - kiluqu -kka quhu", 
         " KF/p&#x2b0;&#x26a;", 
         "&#x2c8;a", 
         "d&#x26f ;/- arm atop-child - - shoulder and opposite - - door move-walk -", 
@@ -57083,7 +57072,7 @@
         "", 
         " Kurila pi cikkixi &rsquo;adisu&rsquo;a kuruci qaxatu&rsquo;i fati mari parasi kassumisama nagi lamadusi nuki lakadusi kukuffaruqa dir&middot;raqi mafatti&rsquo;ika qu qacca mahakassuru", 
         "", 
-        " Kurila pi cikki - xi &rsquo;adi - su&rsquo;a ku - ruci qaxa -tu&rsquo;i fati  mari pa - rasi  kassu - mi - sama nagi la - madusi nuki la - kadusi  ku - kuffa - ru - qa diru -raqi ma - fatti  -ka qu  qacca maha - kassu - ru", 
+        " Kurila pi cikki - xi &rsquo;adi - su&rsquo;a ku - ruci qaxa -tu&rsquo;i fati  mari pa - rasi  kassu - mi - sama nagi la - madusi nuki la - kadusi  ku - kuffa - ru - qa diru -raqi ma - fatti -ka qu  qacca maha - kassu - ru", 
         " CT/&#x2c8;&#x1c2;&#x2b0;&#x254;&#x2d0;", 
         "l&#x259 ;/ hear-project near-3top - mental plane hope-positive enough to this think-future trade - - what do-this manner or do-that manner  - give - - money-more think-good idea - and choose swap-trade -", 
         "Q&#x14d;la hoped she was listening to projections in the mental plane near herself enough to predict this which traders will be doing this or doing that being persuaded to think the giving of more money is a good idea and which choose to swap", 
@@ -57102,7 +57091,7 @@
         "", 
         " Quhu kudiru &rsquo;assija purakassu&rsquo;ika batusu&rsquo;a na daru&rsquo;i na kikamusa tuhipacca naru", 
         "", 
-        " quhu ku - diru &rsquo;assa -sija pura - kassu  -ka batu - su&rsquo;a na  daru&rsquo;i na kika - musa tuhi - pacca naru", 
+        " quhu ku - diru &rsquo;assa -sija pura - kassu -ka batu - su&rsquo;a na  daru&rsquo;i na kika - musa tuhi - pacca naru", 
         " - money goods-or change-trade - store - prs;itr because 3prs;itr over-day small-number slow", 
         "Because someone changed their stores into money or goods by trading them their stores slowly became small in number during the day", 
         "Slowly through the day their stores diminished as they were bought or traded for", 
