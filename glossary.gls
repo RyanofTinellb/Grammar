@@ -45,6 +45,7 @@
     "abv": "ablative promotion",
     "com": "complementiser",
     "dat": "dative",
+    "dim": "diminutive",
     "dtv": "dative promotion",
     "ger": "gerund",
     "gen": "genitive",
@@ -55,5 +56,6 @@
     "rel": "relativiser",
     "trm": "terminative"
 }
+
 
 
