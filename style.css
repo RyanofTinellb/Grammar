@@ -133,7 +133,9 @@ h6 {
 }
 
 .content .toc p::before {
-    content: '\1f65a';
+    content: '\227b';
+    font-size: large;
+    line-height: 1;
     padding-right: 1em;
 }
 
