@@ -15,7 +15,7 @@
 
         <script type="text/javascript">
 let href = window.location.href;
-if (href.indexOf("?") != -1) {
+if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
     let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
     window.location.href = `../search.html?${term}&andOr=and`;
 }
@@ -44,6 +44,7 @@ if (href.indexOf("?") != -1) {
 <li><a href="morphology/index.html">Morphology</a></li>
 <li><a href="appendices/index.html">Appendices</a></li>
 </ul>
+</ul>
    </div></ul></label>
         </div>
         <div class="content">
@@ -71,7 +72,7 @@ if (href.indexOf("?") != -1) {
 <tr><th>lateral </th><td></td><td><ipa>l</ipa> </td><td><ipa>&#x28e;</ipa> &lt;&#x200a;l&#x330;&#x200a;&gt;</td><td></td><td></td></tr>
 <tr><th>trill </th><td></td><td><ipa>r</ipa> </td><td></td><td></td><td></td></tr>
 <tr><th>sibilant </th><td></td><td><ipa>s</ipa> </td><td><ipa>&#x255;</ipa> &lt;&#x200a;x&#x200a;&gt; </td><td></td><td></td></tr>
-<tr><th>fricative </th><td><ipa>f v</ipa> </td><td><ipa>&eth;</ipa> </td><td><ipa>&ccedil;</ipa> &lt;&#x200a;h&#x330;&#x200a;&gt; </td><td></td><td><ipa>h</ipa></td></tr>
+<tr><th>fricative </th><td><ipa>f v</ipa> </td><td><ipa>&eth;</ipa> </td><td><ipa>&c&#x2d0;edil;</ipa> &lt;&#x200a;h&#x330;&#x200a;&gt; </td><td></td><td><ipa>h</ipa></td></tr>
 <tr><th>approximant </th><td><ipa>w</ipa> </td><td></td><td><ipa>j</ipa> &lt;&#x200a;y&#x200a;&gt; </td><td></td><td></td></tr>
 </table>
 
@@ -125,7 +126,7 @@ if (href.indexOf("?") != -1) {
 <p class="example_no_lines">
 <strong>dental:</strong> <ipa>&eth;</ipa></p>
 <p class="example_no_lines">
-<strong>palatal:</strong> <ipa>&ccedil;</ipa> &lt;&#x200a;h&#x330;&#x200a;&gt;</p>
+<strong>palatal:</strong> <ipa>&c&#x2d0;edil;</ipa> &lt;&#x200a;h&#x330;&#x200a;&gt;</p>
 <p class="example_no_lines">
 <strong>glottal:</strong> <ipa>h</ipa></p>
 <p><strong>approximants:</strong></p>
@@ -197,9 +198,21 @@ if (href.indexOf("?") != -1) {
         for (elt of document.getElementsByClassName('javascript')) {
             elt.style.display = "block";
         }
+        let terms = window.location.href.split("?highlight=")[1];
+        terms = terms.split("+");
+        let loc = document.getElementsByClassName("main-contents")[0];
+        let text = loc.innerHTML;
+        for (term of terms) {
+            let rep = "<highlight>" + term + "</highlight>";
+            text = text.split(term).join(rep);
+            term = term.charAt(0).toUpperCase() + term.slice(1);
+            rep = "<highlight>" + term + "</highlight>";
+            text = text.split(term).join(rep);
+        }
+        loc.innerHTML = text;
+
     </script>
+    
 </body>
 
 </html>
-
-

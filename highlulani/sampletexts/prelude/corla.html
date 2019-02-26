@@ -15,7 +15,7 @@
 
         <script type="text/javascript">
 let href = window.location.href;
-if (href.indexOf("?") != -1) {
+if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
     let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
     window.location.href = `../../../search.html?${term}&andOr=and`;
 }
@@ -55,6 +55,7 @@ if (href.indexOf("?") != -1) {
 </ul>
 </ul>
 <li><a href="../../../demoticlulani/index.html">Demotic Lulani</a></li>
+</ul>
    </div></ul></label>
         </div>
         <div class="content">
@@ -98,7 +99,7 @@ if (href.indexOf("?") != -1) {
 <p class="example_no_lines">
 <a href="http://dictionary.tinellb.com/k/$kurila.html#highlulani">Kurila</a> <a href="http://dictionary.tinellb.com/c/cani.html#highlulani">cani</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>-<a href="http://dictionary.tinellb.com/m/milami.html#highlulani">milami</a> <a href="http://dictionary.tinellb.com/m/matta.html#highlulani">matta</a> <a href="http://dictionary.tinellb.com/n/naru.html#highlulani">naru</a>, <a href="http://dictionary.tinellb.com/a/'ala.html#highlulani">&rsquo;ala</a> <a href="http://dictionary.tinellb.com/q/qira.html#highlulani">qira</a>-<a href="http://dictionary.tinellb.com/a/'a.html#highlulani">&rsquo;a</a>-<a href="http://dictionary.tinellb.com/t/ta.html#highlulani">ta</a>-<a href="http://dictionary.tinellb.com/q/qa.html#highlulani">qa</a> <a href="http://dictionary.tinellb.com/n/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/g/gupi.html#highlulani">gupi</a>-<a href="http://dictionary.tinellb.com/p/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/j/jagaru.html#highlulani">jagaru</a> <a href="http://dictionary.tinellb.com/p/pa.html#highlulani">pa</a>-<a href="http://dictionary.tinellb.com/m/mana.html#highlulani">mana</a>.</p>
 <p class="example_no_lines">
-<ipa>CT:/&#x2c8;&#x1c2;&#x2b0;&#x254;&#x2d0;.l&#x259;/</ipa> <span class="tooltip"><small-caps>prs;dyn</small-caps><span class="tooltip-text">present dynamic</span></span> <em>think-surroundings again slowly, heat rough</em>-<span class="tooltip"><small-caps>nmn</small-caps><span class="tooltip-text">nominaliser</span></span>-<em>and</em>-<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span> <em>in-sit</em>-<span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>sand think-realisation</em>.</p>
+<ipa>CT:/&#x2c8;&#x1c2;&#x2b0;&#x254;&#x2d0;l&#x259;/</ipa> <span class="tooltip"><small-caps>prs;dyn</small-caps><span class="tooltip-text">present dynamic</span></span> <em>think-surroundings again slowly, heat rough</em>-<span class="tooltip"><small-caps>nmn</small-caps><span class="tooltip-text">nominaliser</span></span>-<em>and</em>-<span class="tooltip"><small-caps>gen</small-caps><span class="tooltip-text">genitive</span></span> <em>in-sit</em>-<span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> <em>sand think-realisation</em>.</p>
 <p class="example_no_lines">
 Q&#x14d;la is becoming slowly conscious again, realising the heat and roughness of the sand in which (she) is sitting.</p>
 <p class="example_no_lines">
@@ -408,9 +409,21 @@ She unfolded her cane and carefully began following the roadway away from the su
         for (elt of document.getElementsByClassName('javascript')) {
             elt.style.display = "block";
         }
+        let terms = window.location.href.split("?highlight=")[1];
+        terms = terms.split("+");
+        let loc = document.getElementsByClassName("main-contents")[0];
+        let text = loc.innerHTML;
+        for (term of terms) {
+            let rep = "<highlight>" + term + "</highlight>";
+            text = text.split(term).join(rep);
+            term = term.charAt(0).toUpperCase() + term.slice(1);
+            rep = "<highlight>" + term + "</highlight>";
+            text = text.split(term).join(rep);
+        }
+        loc.innerHTML = text;
+
     </script>
+    
 </body>
 
 </html>
-
-

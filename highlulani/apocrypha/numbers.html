@@ -15,7 +15,7 @@
 
         <script type="text/javascript">
 let href = window.location.href;
-if (href.indexOf("?") != -1) {
+if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
     let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
     window.location.href = `../../search.html?${term}&andOr=and`;
 }
@@ -53,6 +53,7 @@ if (href.indexOf("?") != -1) {
 <li><a href="../sampletexts/index.html">Sample Texts</a></li>
 </ul>
 <li><a href="../../demoticlulani/index.html">Demotic Lulani</a></li>
+</ul>
    </div></ul></label>
         </div>
         <div class="content">
@@ -408,9 +409,21 @@ sak&middot;<a href="http://dictionary.tinellb.com/k/kifi.html#highlulani">kifi</
         for (elt of document.getElementsByClassName('javascript')) {
             elt.style.display = "block";
         }
+        let terms = window.location.href.split("?highlight=")[1];
+        terms = terms.split("+");
+        let loc = document.getElementsByClassName("main-contents")[0];
+        let text = loc.innerHTML;
+        for (term of terms) {
+            let rep = "<highlight>" + term + "</highlight>";
+            text = text.split(term).join(rep);
+            term = term.charAt(0).toUpperCase() + term.slice(1);
+            rep = "<highlight>" + term + "</highlight>";
+            text = text.split(term).join(rep);
+        }
+        loc.innerHTML = text;
+
     </script>
+    
 </body>
 
 </html>
-
-
