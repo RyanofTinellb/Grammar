@@ -358,7 +358,7 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
 <p class="example_no_lines">
 <a href="http://dictionary.tinellb.com/n/naqa.html#highlulani">naqa</a>&nbsp;<high-lulani>nq</high-lulani>&nbsp;<em>to need</em></p>
 <p class="example_no_lines">
-<a href="http://dictionary.tinellb.com/t/tapu.html#highlulani">tapu</a> <em>to look forward to; to enjoy</em></p>
+<a href="http://dictionary.tinellb.com/t/tapu.html#highlulani">tapu</a>&nbsp;<high-lulani>to</high-lulani>&nbsp;<em>to look forward to; to enjoy</em></p>
 </div>
 </div>
             
@@ -375,7 +375,7 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="no-breaks">
-                    Last updated: Friday, January 25th, 2019.
+                    Last updated: Friday, March 1st, 2019.
                 </span>
             </div>
         </div>
@@ -394,6 +394,8 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
             term = term.charAt(0).toUpperCase() + term.slice(1);
             rep = "<highlight>" + term + "</highlight>";
             text = text.split(term).join(rep);
+            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
+            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
         }
         loc.innerHTML = text;
 
@@ -402,3 +404,17 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

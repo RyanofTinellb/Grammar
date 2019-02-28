@@ -93,7 +93,7 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="no-breaks">
-                    Last updated: Thursday, February 14th, 2019.
+                    Last updated: Friday, March 1st, 2019.
                 </span>
             </div>
         </div>
@@ -112,6 +112,8 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
             term = term.charAt(0).toUpperCase() + term.slice(1);
             rep = "<highlight>" + term + "</highlight>";
             text = text.split(term).join(rep);
+            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
+            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
         }
         loc.innerHTML = text;
 
@@ -120,3 +122,17 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

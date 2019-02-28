@@ -166,6 +166,8 @@ offspring-link-2<span class="tooltip"><small-caps>gen</small-caps><span class="t
             term = term.charAt(0).toUpperCase() + term.slice(1);
             rep = "<highlight>" + term + "</highlight>";
             text = text.split(term).join(rep);
+            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
+            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
         }
         loc.innerHTML = text;
 
@@ -174,3 +176,17 @@ offspring-link-2<span class="tooltip"><small-caps>gen</small-caps><span class="t
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

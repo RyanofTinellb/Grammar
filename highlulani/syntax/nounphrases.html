@@ -217,6 +217,8 @@ the faces of the mothers <highlight>and the men who left</highlight>.</p>
             term = term.charAt(0).toUpperCase() + term.slice(1);
             rep = "<highlight>" + term + "</highlight>";
             text = text.split(term).join(rep);
+            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
+            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
         }
         loc.innerHTML = text;
 
@@ -225,3 +227,17 @@ the faces of the mothers <highlight>and the men who left</highlight>.</p>
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -466,6 +466,8 @@ Ra&rsquo;ani:<a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</
             term = term.charAt(0).toUpperCase() + term.slice(1);
             rep = "<highlight>" + term + "</highlight>";
             text = text.split(term).join(rep);
+            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
+            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
         }
         loc.innerHTML = text;
 
@@ -474,3 +476,17 @@ Ra&rsquo;ani:<a href="http://dictionary.tinellb.com/q/-qa.html#highlulani">-qa</
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
