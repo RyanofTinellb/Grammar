@@ -212,6 +212,8 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
 <div class="wordlist">
 
 <p class="example">
+<a href="http://dictionary.tinellb.com/m/malu.html#highlulani">malu</a>&nbsp;<high-lulani>mW</high-lulani>&nbsp;<em>to move to; to be in a place</em></p>
+<p class="example_no_lines">
 <a href="http://dictionary.tinellb.com/j/janni.html#highlulani">janni</a>&nbsp;<high-lulani>j;N</high-lulani>&nbsp;<em>to accelerate; to move around</em></p>
 <p class="example_no_lines">
 <a href="http://dictionary.tinellb.com/u/'ussa.html#highlulani">&rsquo;ussa</a>&nbsp;<high-lulani>u;s</high-lulani>&nbsp;<em>to follow</em></p>
@@ -235,8 +237,6 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
 <a href="http://dictionary.tinellb.com/f/fiqu.html#highlulani">fiqu</a>&nbsp;<high-lulani>FA</high-lulani>&nbsp;<em>to float; to be floating</em></p>
 <p class="example_no_lines">
 <a href="http://dictionary.tinellb.com/t/tihu.html#highlulani">tihu</a>&nbsp;<high-lulani>TV</high-lulani>&nbsp;<em>to move to; to abide</em></p>
-<p class="example_no_lines">
-<a href="http://dictionary.tinellb.com/m/malu.html#highlulani">malu</a>&nbsp;<high-lulani>mW</high-lulani>&nbsp;<em>to move to; to be in a place</em></p>
 </div>
 
 <h2 id="quasi-transitiveverbs">Quasi-Transitive Verbs</h2>
@@ -395,7 +395,7 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="no-breaks">
-                    Last updated: Friday, January 25th, 2019.
+                    Last updated: Friday, March 1st, 2019.
                 </span>
             </div>
         </div>
@@ -409,11 +409,8 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
         let loc = document.getElementsByClassName("main-contents")[0];
         let text = loc.innerHTML;
         for (term of terms) {
-            let rep = "<highlight>" + term + "</highlight>";
-            text = text.split(term).join(rep);
-            term = term.charAt(0).toUpperCase() + term.slice(1);
-            rep = "<highlight>" + term + "</highlight>";
-            text = text.split(term).join(rep);
+            const rep = new RegExp(`(^|\\W)(${term})($|\\W)`, "gim");
+            text = text.replace(rep, "$1<highlight>$2</highlight>$3");
             text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
             text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
         }
@@ -424,17 +421,4 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
 </body>
 
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
 

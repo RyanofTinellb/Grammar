@@ -590,11 +590,8 @@ Lharen put something she could smell into a cup of the water, and she gathered h
         let loc = document.getElementsByClassName("main-contents")[0];
         let text = loc.innerHTML;
         for (term of terms) {
-            let rep = "<highlight>" + term + "</highlight>";
-            text = text.split(term).join(rep);
-            term = term.charAt(0).toUpperCase() + term.slice(1);
-            rep = "<highlight>" + term + "</highlight>";
-            text = text.split(term).join(rep);
+            const rep = new RegExp(`(^|\\W)(${term})($|\\W)`, "gim");
+            text = text.replace(rep, "$1<highlight>$2</highlight>$3");
             text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
             text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
         }
@@ -605,17 +602,4 @@ Lharen put something she could smell into a cup of the water, and she gathered h
 </body>
 
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
