@@ -58,6 +58,11 @@ h1 {
     background-color: #47236B;
 }
 
+h1 a:link, h1 a:visited {
+    color: yellow;
+    text-decoration: none;
+}
+
 h2 {
     margin-right: 10%;
     background-color: rebeccapurple;

@@ -93,7 +93,7 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="no-breaks">
-                    Last updated: Saturday, May 4th, 2019.
+                    Last updated: Monday, May 6th, 2019.
                 </span>
             </div>
         </div>
@@ -111,10 +111,20 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
             text = text.replace(rep, "$1<highlight>$2</highlight>$3");
             text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
             text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
+            text = text.replace(/<highlight>/g, "<highlight id=\"searchterm\">");
         }
         loc.innerHTML = text;
-
+        loc = document.getElementsByTagName("h1")[0];
+        loc.innerHTML += " <a href=\"#searchterm\">&rarr;</a>";
     </script>
     
 </body>
 </html>
+
+
+
+
+
+
+
+

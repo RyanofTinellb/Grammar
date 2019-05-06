@@ -341,9 +341,6 @@
                 3758, 
                 3760
             ], 
-            "45": [
-                3423
-            ], 
             "20": [
                 1675
             ], 
@@ -502,9 +499,6 @@
         "tiba": {
             "38": [
                 3092
-            ], 
-            "45": [
-                3422
             ], 
             "48": [
                 4184, 
@@ -2000,7 +1994,8 @@
             "45": [
                 3378, 
                 3380, 
-                3420
+                3420, 
+                3422
             ]
         }, 
         "bassa": {
@@ -4951,6 +4946,11 @@
                 4655
             ]
         }, 
+        "ku..": {
+            "45": [
+                3420
+            ]
+        }, 
         "pacca": {
             "9": [
                 450, 
@@ -6035,9 +6035,6 @@
             ]
         }, 
         "di": {
-            "30": [
-                2340
-            ], 
             "20": [
                 1538, 
                 1546, 
@@ -6057,8 +6054,8 @@
                 1263, 
                 1349
             ], 
-            "45": [
-                3422
+            "30": [
+                2340
             ], 
             "35": [
                 2822
@@ -10262,6 +10259,7 @@
                 1283
             ], 
             "45": [
+                3413, 
                 3463, 
                 3479, 
                 3488, 
@@ -11398,13 +11396,9 @@
                 2234
             ]
         }, 
-        "o": {
-            "51": [
-                5026, 
-                5036
-            ], 
-            "53": [
-                5061
+        "rolled": {
+            "47": [
+                3997
             ]
         }, 
         "polysyllabic": {
@@ -11488,6 +11482,11 @@
             "47": [
                 3815, 
                 3816
+            ]
+        }, 
+        "dara": {
+            "47": [
+                3804
             ]
         }, 
         "potato": {
@@ -12820,8 +12819,7 @@
             ], 
             "45": [
                 3390, 
-                3391, 
-                3423
+                3391
             ], 
             "48": [
                 4186
@@ -13471,22 +13469,23 @@
             ]
         }, 
         "'usa": {
+            "49": [
+                4695, 
+                4697, 
+                4964
+            ], 
             "13": [
                 681
             ], 
-            "30": [
-                2319, 
-                2321
+            "48": [
+                4307, 
+                4361
             ], 
             "17": [
                 1239, 
                 1240, 
                 1242, 
                 1243
-            ], 
-            "48": [
-                4307, 
-                4361
             ], 
             "16": [
                 1072, 
@@ -13508,8 +13507,9 @@
                 4034, 
                 4036
             ], 
-            "45": [
-                3422
+            "30": [
+                2319, 
+                2321
             ], 
             "42": [
                 3210, 
@@ -13517,11 +13517,6 @@
             ], 
             "36": [
                 2899
-            ], 
-            "49": [
-                4695, 
-                4697, 
-                4964
             ]
         }, 
         "'assija": {
@@ -18105,7 +18100,6 @@
             ], 
             "45": [
                 3398, 
-                3423, 
                 3497
             ]
         }, 
@@ -23224,6 +23218,9 @@
                 1953, 
                 1991
             ], 
+            "45": [
+                3422
+            ], 
             "49": [
                 4754, 
                 4837, 
@@ -23772,24 +23769,21 @@
             ]
         }, 
         "kuli": {
-            "15": [
-                1031
+            "46": [
+                3589, 
+                3749
             ], 
             "49": [
                 4599
+            ], 
+            "15": [
+                1031
             ], 
             "48": [
                 4270
             ], 
             "6": [
                 394
-            ], 
-            "46": [
-                3589, 
-                3749
-            ], 
-            "45": [
-                3420
             ]
         }, 
         "bench": {
@@ -25605,8 +25599,8 @@
             "31": [
                 2399
             ], 
-            "49": [
-                4489
+            "45": [
+                3423
             ], 
             "51": [
                 5045
@@ -25619,6 +25613,9 @@
             ], 
             "3": [
                 203
+            ], 
+            "49": [
+                4489
             ], 
             "15": [
                 917, 
@@ -31206,9 +31203,15 @@
                 769
             ]
         }, 
-        "'allaxi": {
-            "46": [
-                3696
+        "'usaju'i": {
+            "47": [
+                3839
+            ], 
+            "45": [
+                3422
+            ], 
+            "48": [
+                4359
             ]
         }, 
         "itr": {
@@ -34019,8 +34022,7 @@
                 2025
             ], 
             "45": [
-                3405, 
-                3413
+                3405
             ], 
             "15": [
                 943, 
@@ -34837,7 +34839,6 @@
                 681
             ], 
             "45": [
-                3423, 
                 3472
             ], 
             "48": [
@@ -37373,9 +37374,9 @@
                 4270
             ]
         }, 
-        "dara": {
-            "47": [
-                3804
+        "realis": {
+            "45": [
+                3423
             ]
         }, 
         "down": {
@@ -38107,9 +38108,6 @@
             ], 
             "12": [
                 641
-            ], 
-            "45": [
-                3420
             ]
         }, 
         "pet": {
@@ -38856,7 +38854,6 @@
                 4148
             ], 
             "45": [
-                3423, 
                 3497
             ]
         }, 
@@ -39163,6 +39160,7 @@
             "45": [
                 3382, 
                 3383, 
+                3423, 
                 3424, 
                 3425, 
                 3506
@@ -39436,6 +39434,11 @@
             "42": [
                 3230, 
                 3349
+            ]
+        }, 
+        "'allaxi": {
+            "46": [
+                3696
             ]
         }, 
         "'aru'u": {
@@ -40728,6 +40731,9 @@
             ]
         }, 
         "find": {
+            "45": [
+                3423
+            ], 
             "48": [
                 4363, 
                 4364
@@ -42240,6 +42246,7 @@
                 2336
             ], 
             "45": [
+                3423, 
                 3424
             ], 
             "32": [
@@ -42461,7 +42468,8 @@
                 2550
             ], 
             "45": [
-                3381
+                3381, 
+                3423
             ], 
             "48": [
                 4187
@@ -42578,11 +42586,6 @@
             "42": [
                 3235, 
                 3291
-            ]
-        }, 
-        "collection": {
-            "45": [
-                3423
             ]
         }, 
         "bothered": {
@@ -42993,15 +42996,29 @@
             ]
         }, 
         "la": {
+            "46": [
+                3515
+            ], 
             "15": [
                 1058
+            ], 
+            "48": [
+                4281
             ], 
             "17": [
                 1181, 
                 1183
             ], 
-            "48": [
-                4281
+            "6": [
+                349
+            ], 
+            "9": [
+                461, 
+                519
+            ], 
+            "8": [
+                408, 
+                435
             ], 
             "49": [
                 4522, 
@@ -43018,8 +43035,10 @@
                 4940, 
                 4942
             ], 
-            "46": [
-                3515
+            "42": [
+                3205, 
+                3235, 
+                3282
             ], 
             "47": [
                 3812, 
@@ -43027,25 +43046,6 @@
                 3974, 
                 4052, 
                 4147
-            ], 
-            "45": [
-                3422
-            ], 
-            "42": [
-                3205, 
-                3235, 
-                3282
-            ], 
-            "6": [
-                349
-            ], 
-            "9": [
-                461, 
-                519
-            ], 
-            "8": [
-                408, 
-                435
             ]
         }, 
         "voiceless": {
@@ -43133,6 +43133,7 @@
             "45": [
                 3403, 
                 3405, 
+                3420, 
                 3494, 
                 3496
             ], 
@@ -43964,14 +43965,6 @@
                 2254
             ]
         }, 
-        "'usaju'i": {
-            "47": [
-                3839
-            ], 
-            "48": [
-                4359
-            ]
-        }, 
         "proviso": {
             "6": [
                 391
@@ -44241,9 +44234,6 @@
             "31": [
                 2402, 
                 2404
-            ], 
-            "45": [
-                3422
             ], 
             "41": [
                 3186, 
@@ -45636,6 +45626,15 @@
                 1273
             ]
         }, 
+        "o": {
+            "51": [
+                5026, 
+                5036
+            ], 
+            "53": [
+                5061
+            ]
+        }, 
         "fezhl()e": {
             "0": [
                 8, 
@@ -46844,9 +46843,9 @@
                 2812
             ]
         }, 
-        "rolled": {
-            "47": [
-                3997
+        "'amilaru": {
+            "45": [
+                3420
             ]
         }, 
         "written": {
@@ -49095,11 +49094,6 @@
                 740
             ]
         }, 
-        "absorption": {
-            "45": [
-                3423
-            ]
-        }, 
         "bell": {
             "47": [
                 4056, 
@@ -50127,6 +50121,11 @@
                 381
             ]
         }, 
+        "assess": {
+            "45": [
+                3423
+            ]
+        }, 
         "ninamariqa": {
             "49": [
                 4522
@@ -50864,6 +50863,9 @@
             ]
         }, 
         "madi": {
+            "33": [
+                2576
+            ], 
             "46": [
                 3755, 
                 3757
@@ -50874,14 +50876,8 @@
             "48": [
                 4201
             ], 
-            "33": [
-                2576
-            ], 
             "47": [
                 4050
-            ], 
-            "45": [
-                3422
             ]
         }, 
         "excitement": {
@@ -53421,11 +53417,11 @@
         "These can only be used to refer to locations in space", 
         "", 
         " jimuli &nbsp; &nbsp; outside", 
-        " qu&rsquo;u in; inside", 
+        " qu&rsquo;u &nbsp; in; inside", 
         " nifi &nbsp; &nbsp; beside", 
         " raqu &nbsp; &nbsp; among", 
         " ca &nbsp; &nbsp; encircling", 
-        " du&rsquo;i beyond", 
+        " du&rsquo;i &nbsp; beyond", 
         " la&rsquo;a &nbsp; &nbsp; on a horizontal surface", 
         " kadu &nbsp; &nbsp; on a vertical surface ", 
         "Motion", 
@@ -55474,17 +55470,17 @@
         "", 
         " Kikafasa dissu kal&middot;li kal&middot;lu&rsquo;ipu&rsquo;a nura dukku na kixina hibu", 
         "", 
-        " kika - fasa dissu kal&middot;li ku - lu&rsquo;i -pu&rsquo;a nura dukku na kixina hibu", 
+        " kika - fasa dissu kal&middot;li kalu- lu&rsquo;i -pu&rsquo;a nura dukku na kixina hibu", 
         " over-moment feel grief allow oneself ; - - love - separate must prs;itr grief", 
         " She allows herself for a moment to feel grief from the fact that she must repeatedly be separated from her lover", 
         "She allowed herself to feel grief for a moment grief at being continually separated from her beloved", 
         " ", 
         "", 
         "", 
-        " Kuli laru piba kuppu xiku racaxa mihuqa &rsquo;usaju&rsquo;illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami", 
+        " Ku&middot; li &rsquo;amilaru piba kuppu xiku racaxa mihuqa &rsquo;usaju&rsquo;illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami", 
         "", 
-        " ku&middot;li la -ru piba kuppu xiku raca -xa mihu -qa &rsquo;usa - ju&rsquo;i -illu -ru lanu qapi ru palinu qixa  surra di madi - tiba  cani pajagaru milami", 
-        " - do - most strong hang - - see-collection - - rope think-realisation  because rise-legs  think-absorption surroundings", 
+        " ku&middot;li &rsquo;amila -ru piba kuppu xiku raca -xa mihu -qa &rsquo;usaju&rsquo;i -illu -ru lanu qapi ru palinu qixa  surra maditiba  cani pajagaru milami", 
+        " - do something - most strong hang - - find - - rope realis e  because stand up  assess surroundings", 
         "Because she realises the fact that doing something is the strongest rope to hang his finding on she stands up she assesses her surroundings", 
         "Realising that activity was the surest way to finding him again she stood up to take stock of her situation", 
         "", 
@@ -55492,7 +55488,7 @@
         " Bufiqa daru ra&rsquo;u qapaccafuni harujagaru nacca gupikunaqi jamicussi", 
         "", 
         " bufi - qa daru ra&rsquo;u qa - pacca - funi haru - jagaru nacca gupi - kunaqi jami - cussi", 
-        " Stone - road down-number-without with-sand covering sit-dirt evidentially-touch", 
+        " stone - road down-number-without with-sand covering sit-dirt evidentially-touch", 
         "A road of stone seems to be sitting on the ground under the covering with numberless sand", 
         "Underneath the thin layer of sand she could feel paving stones", 
         "", 

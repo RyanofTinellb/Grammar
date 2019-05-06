@@ -279,7 +279,7 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
 <p class="example">
 <a href="http://dictionary.tinellb.com/j/jimuli.html#highlulani">jimuli</a>&nbsp;<high-lulani>JUL</high-lulani>&nbsp;<em>outside</em></p>
 <p class="example_no_lines">
-<a href="http://dictionary.tinellb.com/q/qu'u.html#highlulani">qu&rsquo;u</a><high-lulani>Au</high-lulani>  <em>in; inside</em></p>
+<a href="http://dictionary.tinellb.com/q/qu'u.html#highlulani">qu&rsquo;u</a>&nbsp;<high-lulani>Au</high-lulani>  <em>in; inside</em></p>
 <p class="example_no_lines">
 <a href="http://dictionary.tinellb.com/n/nifi.html#highlulani">nifi</a>&nbsp;<high-lulani>NF</high-lulani>&nbsp;<em>beside</em></p>
 <p class="example_no_lines">
@@ -287,7 +287,7 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
 <p class="example_no_lines">
 <a href="http://dictionary.tinellb.com/c/ca.html#highlulani">ca</a>&nbsp;<high-lulani>c</high-lulani>&nbsp;<em>encircling</em></p>
 <p class="example_no_lines">
-<a href="http://dictionary.tinellb.com/d/du'i.html#highlulani">du&rsquo;i</a><high-lulani>Ei</high-lulani>  <em>beyond</em></p>
+<a href="http://dictionary.tinellb.com/d/du'i.html#highlulani">du&rsquo;i</a>&nbsp;<high-lulani>Ei</high-lulani>  <em>beyond</em></p>
 <p class="example_no_lines">
 <a href="http://dictionary.tinellb.com/l/la'a.html#highlulani">la&rsquo;a</a>&nbsp;<high-lulani>la</high-lulani>&nbsp;<em>on a horizontal surface</em></p>
 <p class="example_no_lines">
@@ -359,7 +359,7 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="no-breaks">
-                    Last updated: Saturday, May 4th, 2019.
+                    Last updated: Monday, May 6th, 2019.
                 </span>
             </div>
         </div>
@@ -377,10 +377,20 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
             text = text.replace(rep, "$1<highlight>$2</highlight>$3");
             text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
             text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
+            text = text.replace(/<highlight>/g, "<highlight id=\"searchterm\">");
         }
         loc.innerHTML = text;
-
+        loc = document.getElementsByTagName("h1")[0];
+        loc.innerHTML += " <a href=\"#searchterm\">&rarr;</a>";
     </script>
     
 </body>
 </html>
+
+
+
+
+
+
+
+
