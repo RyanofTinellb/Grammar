@@ -273,6 +273,12 @@ input:checked:not(#All) ~ .paragraph input {
         margin-right: 0;
     }
 
+    div.content div.paragraph p.example,
+    div.content div.paragraph p.example_no_lines {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
     .content div.wordlist p.example, .content div.wordlist p.example_no_lines {
         margin-left: 5%;
     }
