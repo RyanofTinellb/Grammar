@@ -25,19 +25,6 @@
     "ExternalDictionary": "http://dictionary.tinellb.com"
   }, 
   "history": [
-    [], 
-    [
-      "High Lulani", 
-      "Sample Texts", 
-      "Prelude", 
-      "Corla"
-    ], 
-    [], 
-    [
-      "High Lulani", 
-      "Syntax", 
-      "Argument Promotion"
-    ], 
     [
       "High Lulani", 
       "Morphology", 
@@ -1051,6 +1038,28 @@
       "Morphology", 
       "Nouns", 
       "Adverbs"
+    ], 
+    [
+      "High Lulani", 
+      "Syntax", 
+      "Dependent Clauses"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Nouns", 
+      "Adverbs"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Suffixes"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Suffixes", 
+      "Determiners"
     ]
   ]
 }
