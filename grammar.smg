@@ -25,12 +25,6 @@
     "ExternalDictionary": "http://dictionary.tinellb.com"
   }, 
   "history": [
-    [
-      "High Lulani", 
-      "Syntax", 
-      "Matrix Clauses"
-    ], 
-    [], 
     [], 
     [
       "High Lulani", 
@@ -1046,6 +1040,17 @@
       "Sample Texts", 
       "Waterfall", 
       "City"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Nouns"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Nouns", 
+      "Adverbs"
     ]
   ]
 }
