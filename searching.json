@@ -634,6 +634,7 @@
         }, 
         "niga": {
             "45": [
+                3505, 
                 3507
             ], 
             "49": [
@@ -642,6 +643,9 @@
             ]
         }, 
         "hisuba": {
+            "54": [
+                5059
+            ], 
             "18": [
                 1331
             ], 
@@ -708,6 +712,15 @@
             ]
         }, 
         "disi": {
+            "49": [
+                4472, 
+                4592, 
+                4732, 
+                4738, 
+                4740, 
+                4756, 
+                4944
+            ], 
             "48": [
                 4195
             ], 
@@ -732,14 +745,9 @@
                 4012, 
                 4065
             ], 
-            "49": [
-                4472, 
-                4592, 
-                4732, 
-                4738, 
-                4740, 
-                4756, 
-                4944
+            "45": [
+                3422, 
+                3424
             ], 
             "36": [
                 2895
@@ -1421,11 +1429,6 @@
                 3163
             ]
         }, 
-        "qapaccafuni": {
-            "45": [
-                3430
-            ]
-        }, 
         "spoke": {
             "47": [
                 3979
@@ -1665,6 +1668,7 @@
                 3465, 
                 3471, 
                 3473, 
+                3488, 
                 3490
             ], 
             "40": [
@@ -2021,6 +2025,7 @@
                 432
             ], 
             "45": [
+                3496, 
                 3498
             ]
         }, 
@@ -2304,6 +2309,7 @@
                 1341
             ], 
             "45": [
+                3479, 
                 3481
             ]
         }, 
@@ -2655,6 +2661,7 @@
         }, 
         "pa'aka": {
             "45": [
+                3463, 
                 3465
             ], 
             "49": [
@@ -2685,11 +2692,6 @@
             ], 
             "27": [
                 2231
-            ]
-        }, 
-        "jannibattaru": {
-            "45": [
-                3505
             ]
         }, 
         "danna": {
@@ -2933,9 +2935,15 @@
                 5069
             ]
         }, 
-        "harujagaru": {
-            "45": [
-                3430
+        "cipu": {
+            "47": [
+                4083
+            ], 
+            "48": [
+                4250
+            ], 
+            "49": [
+                4581
             ]
         }, 
         "suhuri": {
@@ -3673,6 +3681,7 @@
                 2003
             ], 
             "45": [
+                3388, 
                 3390, 
                 3422, 
                 3424, 
@@ -5824,9 +5833,9 @@
                 4926
             ]
         }, 
-        "decide": {
-            "49": [
-                4844
+        "jannibittaru": {
+            "45": [
+                3505
             ]
         }, 
         "wearing": {
@@ -6162,17 +6171,6 @@
                 3397
             ]
         }, 
-        "cipu": {
-            "47": [
-                4083
-            ], 
-            "48": [
-                4250
-            ], 
-            "49": [
-                4581
-            ]
-        }, 
         "bat": {
             "6": [
                 327
@@ -6257,11 +6255,6 @@
         "daruli": {
             "20": [
                 1572
-            ]
-        }, 
-        "tussuli'i": {
-            "54": [
-                5059
             ]
         }, 
         "gaxiku": {
@@ -6359,11 +6352,6 @@
             ], 
             "18": [
                 1257
-            ]
-        }, 
-        "sumikasija": {
-            "45": [
-                3479
             ]
         }, 
         "diminutive": {
@@ -10191,9 +10179,12 @@
             ], 
             "45": [
                 3415, 
+                3463, 
                 3465, 
                 3481, 
+                3488, 
                 3490, 
+                3496, 
                 3498
             ], 
             "29": [
@@ -10666,11 +10657,6 @@
                 1021, 
                 1022, 
                 1023
-            ]
-        }, 
-        "du'ikalumusa": {
-            "45": [
-                3488
             ]
         }, 
         "night": {
@@ -11257,11 +11243,6 @@
                 5070
             ]
         }, 
-        "dattusaqa": {
-            "45": [
-                3405
-            ]
-        }, 
         "jifiru'inulli": {
             "12": [
                 651
@@ -11280,9 +11261,9 @@
                 1138
             ]
         }, 
-        "bufiqa": {
-            "45": [
-                3430
+        "chapter": {
+            "53": [
+                5051
             ]
         }, 
         "malaki": {
@@ -11772,11 +11753,6 @@
                 976
             ]
         }, 
-        "ku'ahati": {
-            "45": [
-                3405
-            ]
-        }, 
         "encodes": {
             "7": [
                 400
@@ -12189,7 +12165,9 @@
                 1354
             ], 
             "45": [
+                3372, 
                 3374, 
+                3388, 
                 3390
             ], 
             "42": [
@@ -12627,23 +12605,9 @@
             ]
         }, 
         "'i": {
-            "33": [
-                2604, 
-                2607
-            ], 
             "13": [
                 679, 
                 693
-            ], 
-            "46": [
-                3585, 
-                3593, 
-                3674, 
-                3683, 
-                3700, 
-                3722, 
-                3724, 
-                3759
             ], 
             "48": [
                 4195, 
@@ -12672,13 +12636,21 @@
                 1128, 
                 1133
             ], 
-            "9": [
-                468, 
-                525
+            "33": [
+                2604, 
+                2607
             ], 
-            "8": [
-                418, 
-                423
+            "47": [
+                3834, 
+                3873, 
+                3883, 
+                3891, 
+                3976, 
+                4004, 
+                4052, 
+                4054, 
+                4083, 
+                4101
             ], 
             "31": [
                 2426, 
@@ -12698,17 +12670,26 @@
                 4944, 
                 4966
             ], 
-            "47": [
-                3834, 
-                3873, 
-                3883, 
-                3891, 
-                3976, 
-                4004, 
-                4052, 
-                4054, 
-                4083, 
-                4101
+            "46": [
+                3585, 
+                3593, 
+                3674, 
+                3683, 
+                3700, 
+                3722, 
+                3724, 
+                3759
+            ], 
+            "54": [
+                5059
+            ], 
+            "9": [
+                468, 
+                525
+            ], 
+            "8": [
+                418, 
+                423
             ]
         }, 
         "loren": {
@@ -13012,6 +12993,7 @@
                 169
             ], 
             "45": [
+                3505, 
                 3507
             ]
         }, 
@@ -13752,6 +13734,11 @@
                 4033
             ]
         }, 
+        "cur..": {
+            "45": [
+                3388
+            ]
+        }, 
         "round": {
             "38": [
                 2956
@@ -14036,11 +14023,6 @@
                 4850, 
                 4953, 
                 4955
-            ]
-        }, 
-        "kal..lu'ipu'a": {
-            "45": [
-                3413
             ]
         }, 
         "yttrium": {
@@ -14507,13 +14489,16 @@
                 3017, 
                 3022
             ], 
-            "47": [
-                4021
-            ], 
             "14": [
                 805, 
                 807, 
                 814
+            ], 
+            "54": [
+                5059
+            ], 
+            "47": [
+                4021
             ], 
             "36": [
                 2862
@@ -14527,9 +14512,9 @@
                 2979
             ]
         }, 
-        "mihuqa": {
-            "45": [
-                3422
+        "stew": {
+            "47": [
+                3809
             ]
         }, 
         "glory": {
@@ -14921,9 +14906,9 @@
                 4526
             ]
         }, 
-        "kalugupinuru": {
-            "45": [
-                3496
+        "xatu": {
+            "49": [
+                4490
             ]
         }, 
         "today": {
@@ -15303,11 +15288,6 @@
                 1286
             ]
         }, 
-        "chapter": {
-            "53": [
-                5051
-            ]
-        }, 
         "samarium": {
             "42": [
                 3230, 
@@ -15341,11 +15321,6 @@
             "42": [
                 3207, 
                 3286
-            ]
-        }, 
-        "nicur..ru": {
-            "45": [
-                3388
             ]
         }, 
         "figure": {
@@ -15558,6 +15533,15 @@
             ], 
             "17": [
                 1251
+            ]
+        }, 
+        "tajihu": {
+            "47": [
+                3974, 
+                3976
+            ], 
+            "49": [
+                4806
             ]
         }, 
         "pink": {
@@ -16521,6 +16505,11 @@
                 1741
             ]
         }, 
+        "decide": {
+            "49": [
+                4844
+            ]
+        }, 
         "prefixing": {
             "38": [
                 2974
@@ -17202,6 +17191,7 @@
                 3976
             ], 
             "45": [
+                3438, 
                 3440
             ], 
             "21": [
@@ -17588,6 +17578,11 @@
             "20": [
                 1548, 
                 1574
+            ]
+        }, 
+        "gupinuru": {
+            "45": [
+                3496
             ]
         }, 
         "cart": {
@@ -20297,6 +20292,11 @@
                 4544
             ]
         }, 
+        "maniki": {
+            "54": [
+                5059
+            ]
+        }, 
         "'iffa": {
             "3": [
                 260
@@ -20591,9 +20591,6 @@
         "hisubaqa": {
             "47": [
                 3841
-            ], 
-            "54": [
-                5059
             ]
         }, 
         "analytic": {
@@ -20885,7 +20882,9 @@
                 1355
             ], 
             "45": [
+                3413, 
                 3415, 
+                3496, 
                 3498
             ], 
             "49": [
@@ -22037,7 +22036,9 @@
         }, 
         "ruba": {
             "45": [
+                3438, 
                 3440, 
+                3488, 
                 3490
             ]
         }, 
@@ -23096,9 +23097,9 @@
                 3304
             ]
         }, 
-        "nigup..pi": {
-            "45": [
-                3372
+        "t:depet": {
+            "47": [
+                4106
             ]
         }, 
         "actions": {
@@ -23451,11 +23452,6 @@
                 4894
             ]
         }, 
-        "xatu": {
-            "49": [
-                4490
-            ]
-        }, 
         "world": {
             "9": [
                 497, 
@@ -23654,6 +23650,14 @@
         "kaluma'iliguna": {
             "14": [
                 742
+            ]
+        }, 
+        "satadu": {
+            "46": [
+                3541
+            ], 
+            "47": [
+                3787
             ]
         }, 
         "caba": {
@@ -23945,6 +23949,9 @@
             ]
         }, 
         "laruni": {
+            "54": [
+                5059
+            ], 
             "48": [
                 4323, 
                 4325
@@ -24632,11 +24639,6 @@
             "45": [
                 3422, 
                 3424
-            ]
-        }, 
-        "t:depet": {
-            "47": [
-                4106
             ]
         }, 
         "or": {
@@ -25388,11 +25390,17 @@
                 744
             ]
         }, 
+        "nin..": {
+            "45": [
+                3505
+            ]
+        }, 
         "mici": {
             "46": [
                 3566
             ], 
             "45": [
+                3405, 
                 3407
             ], 
             "4": [
@@ -26247,6 +26255,7 @@
         }, 
         "tihutuja": {
             "45": [
+                3397, 
                 3399
             ], 
             "20": [
@@ -26720,6 +26729,11 @@
         "original": {
             "2": [
                 22
+            ]
+        }, 
+        "'ajjatuja": {
+            "54": [
+                5059
             ]
         }, 
         "external": {
@@ -27701,7 +27715,9 @@
                 4149
             ], 
             "45": [
+                3372, 
                 3374, 
+                3405, 
                 3407
             ], 
             "42": [
@@ -28051,11 +28067,6 @@
         "swirling": {
             "49": [
                 4895
-            ]
-        }, 
-        "qira'ataqa": {
-            "45": [
-                3372
             ]
         }, 
         "lharen": {
@@ -29045,6 +29056,7 @@
                 4141
             ], 
             "45": [
+                3505, 
                 3507
             ]
         }, 
@@ -29112,9 +29124,9 @@
                 4482
             ]
         }, 
-        "kibbasu'a": {
-            "45": [
-                3505
+        "eye": {
+            "46": [
+                3675
             ]
         }, 
         "phonemic": {
@@ -29715,6 +29727,11 @@
             ], 
             "21": [
                 1726
+            ]
+        }, 
+        "paccafuni": {
+            "45": [
+                3430
             ]
         }, 
         "scan": {
@@ -31107,6 +31124,7 @@
                 1347
             ], 
             "45": [
+                3397, 
                 3399
             ], 
             "35": [
@@ -31739,7 +31757,9 @@
                 4955
             ], 
             "45": [
+                3405, 
                 3407, 
+                3430, 
                 3432
             ], 
             "35": [
@@ -32077,6 +32097,9 @@
                 3834, 
                 4021
             ], 
+            "54": [
+                5059
+            ], 
             "49": [
                 4507, 
                 4542, 
@@ -32259,6 +32282,7 @@
                 1364
             ], 
             "45": [
+                3488, 
                 3490
             ], 
             "49": [
@@ -32966,11 +32990,6 @@
                 3708
             ]
         }, 
-        "kuppura'u": {
-            "45": [
-                3488
-            ]
-        }, 
         "kunukki": {
             "32": [
                 2546
@@ -33240,6 +33259,7 @@
                 167
             ], 
             "45": [
+                3430, 
                 3432
             ]
         }, 
@@ -33766,6 +33786,7 @@
                 2027
             ], 
             "45": [
+                3405, 
                 3407
             ], 
             "15": [
@@ -33868,6 +33889,9 @@
                 2502, 
                 2509, 
                 2548
+            ], 
+            "54": [
+                5059
             ]
         }, 
         "lukku": {
@@ -35034,6 +35058,7 @@
         }, 
         "dattusa": {
             "45": [
+                3405, 
                 3407
             ], 
             "20": [
@@ -35450,11 +35475,6 @@
                 4912
             ]
         }, 
-        "hulu'anisa": {
-            "45": [
-                3438
-            ]
-        }, 
         "context": {
             "30": [
                 2299
@@ -35686,6 +35706,7 @@
             "45": [
                 3422, 
                 3424, 
+                3488, 
                 3490
             ], 
             "14": [
@@ -35849,12 +35870,6 @@
                 424
             ]
         }, 
-        "rubaqa": {
-            "45": [
-                3438, 
-                3488
-            ]
-        }, 
         "pi": {
             "30": [
                 2374, 
@@ -35906,6 +35921,7 @@
                 2548
             ], 
             "45": [
+                3372, 
                 3374, 
                 3388, 
                 3390
@@ -36047,11 +36063,6 @@
         "gas": {
             "47": [
                 3826
-            ]
-        }, 
-        "nin..niga": {
-            "45": [
-                3505
             ]
         }, 
         "else": {
@@ -36279,11 +36290,6 @@
         "replaced": {
             "6": [
                 393
-            ]
-        }, 
-        "haru'usi": {
-            "45": [
-                3405
             ]
         }, 
         "ku'ita'i": {
@@ -37296,6 +37302,7 @@
                 607
             ], 
             "45": [
+                3405, 
                 3407
             ], 
             "49": [
@@ -37771,11 +37778,6 @@
                 3282
             ]
         }, 
-        "'aditihutuja": {
-            "45": [
-                3397
-            ]
-        }, 
         "pronounced": {
             "3": [
                 275
@@ -37838,11 +37840,6 @@
         "benefit": {
             "18": [
                 1380
-            ]
-        }, 
-        "bigusuli": {
-            "45": [
-                3438
             ]
         }, 
         "batusu'a": {
@@ -38039,6 +38036,7 @@
                 425
             ], 
             "45": [
+                3438, 
                 3440
             ], 
             "42": [
@@ -38276,11 +38274,6 @@
                 2586
             ]
         }, 
-        "micita": {
-            "45": [
-                3405
-            ]
-        }, 
         "goods": {
             "46": [
                 3534, 
@@ -38471,6 +38464,11 @@
                 4510
             ]
         }, 
+        "qira'a": {
+            "45": [
+                3372
+            ]
+        }, 
         "currency": {
             "49": [
                 4895
@@ -38632,6 +38630,7 @@
         }, 
         "fasa": {
             "45": [
+                3413, 
                 3415
             ]
         }, 
@@ -39820,6 +39819,7 @@
                 431
             ], 
             "45": [
+                3463, 
                 3465
             ], 
             "47": [
@@ -40197,11 +40197,6 @@
         "curriqa": {
             "46": [
                 3608
-            ]
-        }, 
-        "eye": {
-            "46": [
-                3675
             ]
         }, 
         "kassuruji'a": {
@@ -40795,12 +40790,9 @@
                 2258
             ]
         }, 
-        "satadu": {
-            "46": [
-                3541
-            ], 
-            "47": [
-                3787
+        "thin": {
+            "45": [
+                3435
             ]
         }, 
         "'ilusu'a": {
@@ -41690,9 +41682,9 @@
                 1139
             ]
         }, 
-        "thin": {
+        "kal..": {
             "45": [
-                3435
+                3413
             ]
         }, 
         "gemination": {
@@ -42460,11 +42452,6 @@
         "tilt": {
             "47": [
                 3997
-            ]
-        }, 
-        "kikafasa": {
-            "45": [
-                3413
             ]
         }, 
         "cussi'alarali": {
@@ -43402,11 +43389,6 @@
         "papifa": {
             "49": [
                 4754
-            ]
-        }, 
-        "stew": {
-            "47": [
-                3809
             ]
         }, 
         "buma": {
@@ -44932,6 +44914,9 @@
             ], 
             "48": [
                 4169
+            ], 
+            "54": [
+                5059
             ]
         }, 
         "who": {
@@ -45007,6 +44992,11 @@
         "purakassu": {
             "46": [
                 3531
+            ]
+        }, 
+        "gup..": {
+            "45": [
+                3372
             ]
         }, 
         "digestive": {
@@ -45527,13 +45517,9 @@
                 4184
             ]
         }, 
-        "tajihu": {
-            "47": [
-                3974, 
-                3976
-            ], 
-            "49": [
-                4806
+        "hulu'a": {
+            "45": [
+                3438
             ]
         }, 
         "watching": {
@@ -45712,6 +45698,11 @@
         "dissutarratu'i": {
             "49": [
                 4898
+            ]
+        }, 
+        "tisiqq..": {
+            "54": [
+                5059
             ]
         }, 
         "qu": {
@@ -46028,12 +46019,16 @@
                 1350
             ], 
             "45": [
+                3372, 
                 3374, 
                 3399, 
+                3405, 
                 3407, 
-                3424, 
+                3430, 
                 3432, 
+                3438, 
                 3440, 
+                3488, 
                 3490
             ], 
             "36": [
@@ -46085,6 +46080,9 @@
             "8": [
                 414, 
                 434
+            ], 
+            "54": [
+                5059
             ]
         }, 
         "tinalli": {
@@ -47192,6 +47190,7 @@
             "45": [
                 3372, 
                 3374, 
+                3430, 
                 3432
             ]
         }, 
@@ -48566,11 +48565,6 @@
                 1707
             ]
         }, 
-        "kikami": {
-            "45": [
-                3496
-            ]
-        }, 
         "stores": {
             "49": [
                 4912, 
@@ -48656,6 +48650,9 @@
             ]
         }, 
         "lu'ipu'a": {
+            "45": [
+                3413
+            ], 
             "20": [
                 1690
             ]
@@ -48926,11 +48923,6 @@
         "variants": {
             "4": [
                 299
-            ]
-        }, 
-        "kalupa'akagi": {
-            "45": [
-                3463
             ]
         }, 
         "fools": {
@@ -49351,6 +49343,11 @@
                 4431
             ]
         }, 
+        "tussuli": {
+            "54": [
+                5059
+            ]
+        }, 
         "gi'assa": {
             "46": [
                 3531
@@ -49366,6 +49363,7 @@
                 2190
             ], 
             "45": [
+                3479, 
                 3481
             ], 
             "49": [
@@ -49794,6 +49792,50 @@
             ]
         }, 
         "mihu": {
+            "46": [
+                3672, 
+                3674, 
+                3714, 
+                3716, 
+                3749, 
+                3751
+            ], 
+            "16": [
+                1089, 
+                1091
+            ], 
+            "49": [
+                4461, 
+                4463, 
+                4881, 
+                4964, 
+                4966
+            ], 
+            "48": [
+                4175, 
+                4177, 
+                4258, 
+                4307, 
+                4309, 
+                4344, 
+                4346, 
+                4363, 
+                4389
+            ], 
+            "23": [
+                1754, 
+                1783
+            ], 
+            "33": [
+                2604, 
+                2607
+            ], 
+            "32": [
+                2525, 
+                2527, 
+                2539, 
+                2541
+            ], 
             "30": [
                 2304, 
                 2306, 
@@ -49808,61 +49850,14 @@
                 2391, 
                 2393
             ], 
-            "48": [
-                4175, 
-                4177, 
-                4258, 
-                4307, 
-                4309, 
-                4344, 
-                4346, 
-                4363, 
-                4389
-            ], 
-            "16": [
-                1089, 
-                1091
-            ], 
-            "46": [
-                3672, 
-                3674, 
-                3714, 
-                3716, 
-                3749, 
-                3751
-            ], 
             "47": [
                 4019, 
                 4021, 
                 4030
             ], 
-            "23": [
-                1754, 
-                1783
-            ], 
-            "45": [
-                3424
-            ], 
             "34": [
                 2727, 
                 2729
-            ], 
-            "33": [
-                2604, 
-                2607
-            ], 
-            "49": [
-                4461, 
-                4463, 
-                4881, 
-                4964, 
-                4966
-            ], 
-            "32": [
-                2525, 
-                2527, 
-                2539, 
-                2541
             ]
         }, 
         "si'abassa": {
@@ -50656,6 +50651,9 @@
             ]
         }, 
         "sabufi": {
+            "54": [
+                5059
+            ], 
             "21": [
                 1709
             ]
@@ -50916,6 +50914,7 @@
                 3473, 
                 3479, 
                 3481, 
+                3488, 
                 3490
             ], 
             "15": [
@@ -55018,7 +55017,7 @@
         "Prelude ", 
         "", 
         "", 
-        " Kurila cani pamilami matta naru &rsquo;ala qira&rsquo;ataqa nigup&middot;pi jagaru pamana", 
+        " Kurila cani pamilami matta naru &rsquo;ala qira&rsquo;a-ta-qa ni-gup&middot;-pi jagaru pamana", 
         "", 
         " Kurila cani pamilami matta naru  &rsquo;ala qira - &rsquo;a - ta - qa ni - gupi - pi jagaru pamana", 
         " be conscious again slowly heat rough - - and - in-sit - sand realise", 
@@ -55034,7 +55033,7 @@
         "She gingerly stood up", 
         "", 
         "", 
-        " Kanura ra&rsquo;u kal&middot;li nicur&middot;ru gupikarafi pi bi&rsquo;u", 
+        " Kanura ra&rsquo;u kal&middot;li ni-cur&middot;-ru gupikarafi pi bi&rsquo;u", 
         "", 
         " kanu -ra ra&rsquo;u kal&middot;li ni - cura -ru gupi - karafi pi bi&rsquo;u", 
         " Leg - pair - in-time passes - - sit-enlightenment hurt", 
@@ -55043,7 +55042,7 @@
         " ", 
         "", 
         "", 
-        " Kifiqa qixa turubasillu xitaqa lanu turubasillu &rsquo;aditihutuja cani pa", 
+        " Kifiqa qixa turubasillu xitaqa lanu turubasillu &rsquo;adi-tihutuja cani pa", 
         "", 
         " kifi -qa qixa turubasi -illu  xita -qa lanu turubasi -illu  &rsquo;adi - tihutuja  cani pa", 
         " Three - cover -  one - cover -  near-home  think", 
@@ -55051,7 +55050,7 @@
         "Three down one to go she thought to herself", 
         "", 
         "", 
-        " Haru&rsquo;usi dattusaqa Tinalli li &rsquo;usi marila canari ku&rsquo;ahati micita dissuka &rsquo;usu", 
+        " Haru-&rsquo;usi dattusa-qa Tinalli li &rsquo;usi marila canari ku-&rsquo;ahati mici-ta dissuka &rsquo;usu", 
         "", 
         " haru - &rsquo;usi dattusa - qa Tinalli  li &rsquo;usu marila canari ku- &rsquo;ahati mici - ta dissu -ka &rsquo;usu", 
         " With-six god - Tinellb  com 1int do this &lt; &gt; - happiness peace-and feel", 
@@ -55059,7 +55058,7 @@
         "By the six gods of Tinellb I&rsquo;ll be glad to finish this and have some peace", 
         "", 
         "", 
-        " Kikafasa dissu kal&middot;li kal&middot;lu&rsquo;ipu&rsquo;a nura dukku na kixina hibu", 
+        " Kika-fasa dissu kal&middot;li kal&middot;-lu&rsquo;ipu&rsquo;a nura dukku na kixina hibu", 
         "", 
         " kika - fasa dissu kal&middot;li kalu- lu&rsquo;i -pu&rsquo;a nura dukku na kixina hibu", 
         " over-moment feel grief allow oneself ; - - love - separate must prs;itr grief", 
@@ -55068,15 +55067,15 @@
         " ", 
         "", 
         "", 
-        " Ku&middot;li &rsquo;amilaru piba kuppu xiku racaxa mihuqa &rsquo;usaju&rsquo;illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami", 
+        " Ku&middot;li &rsquo;amilaru piba kuppu xiku racaxa disi &rsquo;usaju&rsquo;illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami", 
         "", 
-        " ku&middot;li &rsquo;amila -ru piba kuppu xiku raca -xa mihu -qa &rsquo;usaju&rsquo;i -illu -ru lanu qapi ru palinu qixa  surra maditiba  cani pajagaru milami", 
-        " - do something - most strong hang - - find - - rope realis e  because stand up  assess surroundings", 
+        " ku&middot;li &rsquo;amila -ru piba kuppu xiku raca -xa disi &rsquo;usaju&rsquo;i -illu -ru lanu qapi ru palinu qixa  surra maditiba  cani pajagaru milami", 
+        " - do something - most strong hang - find - - rope realis e  because stand up  assess surroundings", 
         "Because she realises the fact that doing something is the strongest rope to hang his finding on she stands up she assesses her surroundings", 
         "Realising that activity was the surest way to finding him again she stood up to take stock of her situation", 
         "", 
         "", 
-        " Bufiqa daru ra&rsquo;u qapaccafuni harujagaru nacca gupikunaqi jamicussi", 
+        " Bufi-qa daru ra&rsquo;u qa-paccafuni haru-jagaru nacca gupikunaqi jamicussi", 
         "", 
         " bufi - qa daru ra&rsquo;u qa - pacca - funi haru - jagaru nacca gupi - kunaqi jami - cussi", 
         " stone - road down-number-without with-sand covering sit-dirt evidentially-touch", 
@@ -55084,7 +55083,7 @@
         "Underneath the thin layer of sand she could feel paving stones", 
         "", 
         "", 
-        " Hulu&rsquo;anisa ji bigusuli qu rubaqa gusuli ra&rsquo;u xidu dissillu", 
+        " Hulu&rsquo;a-nisa ji bi-gusuli qu ruba-qa gusuli ra&rsquo;u xidu dissillu", 
         "", 
         " hulu -&rsquo;a -nisa ji bi - gusuli qu ruba - qa gusuli ra&rsquo;u xidu dissu -illu", 
         " hear - - onl y from-people and sense image - people far away feel -", 
@@ -55109,7 +55108,7 @@
         "At least I hope so", 
         "", 
         "", 
-        " &#x294;alamusa ra&rsquo;u kalupa&rsquo;akagi cussixa", 
+        " &#x294;alamusa ra&rsquo;u kalu-pa&rsquo;aka-gi cussixa", 
         "", 
         " &rsquo;ala - musa ra&rsquo;u kalu - pa&rsquo;aka - gi cussi -xa", 
         " Heat-sun - shoulder-left feel -", 
@@ -55125,7 +55124,7 @@
         "Is it sunrise or sunset", 
         "", 
         "", 
-        " &#x294;usu gibi sumikasija nakalu ra&rsquo;u", 
+        " &#x294;usu gibi sumika-sija nakalu ra&rsquo;u", 
         "", 
         " &rsquo;usu gibi sumika -sija na - kalu ra&rsquo;u", 
         " east west-or point-body", 
@@ -55134,7 +55133,7 @@
         " ", 
         "", 
         "", 
-        " Piba kuppura&rsquo;u rubaqa ci&#x294;a du&rsquo;ikalumusa", 
+        " Piba kuppu-ra&rsquo;u ruba-qa ci&#x294;a du&rsquo;i-kalu-musa", 
         "", 
         " piba kuppu - ra&rsquo;u ruba - qa ci&#x294;a du&rsquo;i - kalu - musa", 
         " Most strong - sense image - life opposite - - sun", 
@@ -55142,7 +55141,7 @@
         "The strongest sense of life was opposite the sun", 
         "", 
         "", 
-        " Ji li kikami ru cikki gi&rsquo;a li cu&rsquo;i kalugupinuru sa&rsquo;ibassilu ji palinu", 
+        " Ji li kika-mi ru cikki gi&rsquo;a li cu&rsquo;i kalu-gupinuru sa&rsquo;ibassilu ji palinu", 
         "", 
         " ji li kika - mi ru cikki  gi&rsquo;a li cu&rsquo;i kalu - gupi - nu - ru sa&rsquo;i - bassa -ilu ji pa - linu", 
         " interval-some telepath and nothing - sit-stop - fix-situation - think-realisation", 
@@ -55151,7 +55150,7 @@
         " ", 
         "", 
         "", 
-        " Tuhinuhulu nin&middot;niga kibbasu&rsquo;a qu canisi jannibattaru bataniqqi", 
+        " Tuhinuhulu nin&middot;-niga kibba-su&rsquo;a qu canisi jannibittaru bataniqqi", 
         "", 
         " tuhinuhu -ulu nina - niga kibba - su&rsquo;a  qu cani -si jannibitta - ru bata -niqqi", 
         " fold up-undo for-guide stick-self and - move-time - care-qal", 
@@ -56705,7 +56704,7 @@
         "", 
         "", 
         "When Tussol head of the Department of Intercultural Relations at Lusov University reached his office that morning he found Lharen already waiting outside", 
-        " Tussuli&rsquo;i hisubaqa", 
+        " Tussuli-&rsquo;i hisuba-qa Lusubi-mala Tisiqq&middot;-qa Maniki-sabufi &rsquo;ari-Laruni ku-&rsquo;ajjatuja mala", 
         "", 
         "d message]", 
         "Warning This section is a work in progress", 
