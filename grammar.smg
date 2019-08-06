@@ -28,16 +28,6 @@
     [
       "High Lulani", 
       "Morphology", 
-      "Particles"
-    ], 
-    [
-      "High Lulani", 
-      "Apocrypha", 
-      "Numbers"
-    ], 
-    [
-      "High Lulani", 
-      "Morphology", 
       "Deixis", 
       "Personal Pro-forms"
     ], 
@@ -1060,6 +1050,16 @@
       "Morphology", 
       "Suffixes", 
       "Determiners"
+    ], 
+    [
+      "High Lulani", 
+      "Morphology", 
+      "Nouns", 
+      "Adverbs"
+    ], 
+    [
+      "High Lulani", 
+      "Phonology"
     ]
   ]
 }
