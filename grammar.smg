@@ -1,7 +1,7 @@
 {
   "current": {
     "position": "27.18", 
-    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/grammar.mkd", 
+    "markdown": "C:/Users/Ryan/TinellbianLanguages/grammar/grammar.mkd", 
     "fontsize": 18, 
     "page": [
       "High Lulani", 
@@ -13,15 +13,15 @@
   }, 
   "site": {
     "files": {
-      "source": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/data.json", 
-      "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/searching.json", 
-      "template_file": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/template.html"
+      "source": "C:/Users/Ryan/TinellbianLanguages/grammar/data.json", 
+      "searchindex": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json", 
+      "template_file": "C:/Users/Ryan/TinellbianLanguages/grammar/template.html"
     }, 
-    "destination": "c:/users/ryan/documents/tinellbianlanguages/grammar", 
+    "destination": "c:/users/ryan/tinellbianlanguages/grammar", 
     "name": "Grammar"
   }, 
   "links": {
-    "Glossary": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
+    "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/glossary.gls", 
     "ExternalDictionary": "http://dictionary.tinellb.com"
   }, 
   "history": [
