@@ -26,39 +26,6 @@
   },
   "history": [
     [
-      "High Lulani",
-      "Morphology",
-      "Deixis",
-      "Personal Pro-forms"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Deixis"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Deixis",
-      "Personal Pro-forms"
-    ],
-    [
-      "High Lulani",
-      "Apocrypha",
-      "Kinship"
-    ],
-    [
-      "Demotic Lulani"
-    ],
-    [
-      "Demotic Lulani",
-      "Phonology"
-    ],
-    [
-      "Demotic Lulani",
-      "Morphology"
-    ],
-    [
       "Demotic Lulani",
       "Appendices"
     ],
@@ -1060,6 +1027,35 @@
     [
       "High Lulani",
       "Phonology"
-    ]
+    ],
+    [
+      "High Lulani",
+      "Orthography"
+    ],
+    [
+      "High Lulani",
+      "Phonology",
+      "Suprasegmentals"
+    ],
+    [
+      "High Lulani",
+      "Phonology",
+      "Phonotactics"
+    ],
+    [
+      "High Lulani",
+      "Phonology",
+      "Vowels"
+    ],
+    [
+      "High Lulani",
+      "Phonology",
+      "Consonants"
+    ],
+    [
+      "High Lulani",
+      "Phonology"
+    ],
+    []
   ]
 }
