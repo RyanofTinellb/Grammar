@@ -9,42 +9,35 @@
       "Prelude",
       "Lusov"
     ],
-    "language": "hl: High Lulani"
+    "language": "en: English"
   },
   "site": {
     "files": {
       "source": "C:/Users/Ryan/TinellbianLanguages/grammar/data.src",
       "searchindex": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json",
-      "template_file": "C:/Users/Ryan/TinellbianLanguages/grammar/template.html"
+      "template_file": "C:/Users/Ryan/TinellbianLanguages/grammar/template.html",
+      "wholepage": {
+        "template": "",
+        "file": ""
+      },
+      "search": {
+        "template": "",
+        "template404": "",
+        "page": "",
+        "page404": "",
+        "index": ""
+      },
+      "wordlist": ""
     },
     "destination": "c:/users/ryan/tinellbianlanguages/grammar",
-    "name": "Grammar"
+    "name": "A Grammar of the Tinellbian Languages"
   },
   "links": {
     "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/glossary.gls",
     "ExternalDictionary": "http://dictionary.tinellb.com"
   },
+  "sample texts": "C:/Users/Ryan/TinellbianLanguages/encyclopedia/data.src",
   "history": [
-    [
-      "Demotic Lulani",
-      "Appendices"
-    ],
-    [
-      "Demotic Lulani",
-      "Appendices",
-      "Diachrony"
-    ],
-    [
-      "Demotic Lulani",
-      "Morphology",
-      "Verbs"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Deixis",
-      "Indefinite Pro-forms"
-    ],
     [
       "High Lulani",
       "Morphology",
@@ -1056,6 +1049,20 @@
       "High Lulani",
       "Phonology"
     ],
-    []
+    [],
+    [
+      "High Lulani",
+      "Kilo"
+    ],
+    [
+      "High Lulani"
+    ],
+    [
+      "High Lulani",
+      "Kilo"
+    ],
+    [
+      "High Lulani"
+    ]
   ]
 }
