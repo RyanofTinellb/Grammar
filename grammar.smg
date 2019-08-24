@@ -17,17 +17,17 @@
       "searchindex": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json",
       "template_file": "C:/Users/Ryan/TinellbianLanguages/grammar/template.html",
       "wholepage": {
-        "template": "",
-        "file": ""
+        "template": "C:/Users/Ryan/TinellbianLanguages/grammar/wholetemplate.html",
+        "file": "C:/Users/Ryan/TinellbianLanguages/grammar/wholepage.html"
       },
       "search": {
-        "template": "",
-        "template404": "",
-        "page": "",
-        "page404": "",
-        "index": ""
+        "template": "C:/Users/Ryan/TinellbianLanguages/grammar/searchtemplate.html",
+        "template404": "C:/Users/Ryan/TinellbianLanguages/grammar/404template.html",
+        "page": "C:/Users/Ryan/TinellbianLanguages/grammar/search.html",
+        "page404": "C:/Users/Ryan/TinellbianLanguages/grammar/404.html",
+        "index": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json"
       },
-      "wordlist": ""
+      "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json"
     },
     "destination": "c:/users/ryan/tinellbianlanguages/grammar",
     "name": "A Grammar of the Tinellbian Languages"
@@ -38,38 +38,6 @@
   },
   "sample texts": "C:/Users/Ryan/TinellbianLanguages/encyclopedia/data.src",
   "history": [
-    [
-      "High Lulani",
-      "Morphology",
-      "Deixis",
-      "Personal Pro-forms"
-    ],
-    [
-      "High Lulani",
-      "Phonology",
-      "Consonants"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Auxiliaries"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Particles"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Nouns"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Verbs",
-      "Intransitivity"
-    ],
     [
       "High Lulani",
       "Morphology",
@@ -1064,6 +1032,36 @@
       "Sample Texts",
       "Prelude",
       "Lusov"
+    ],
+    [
+      "High Lulani",
+      "Sample Texts",
+      "Prelude"
+    ],
+    [
+      "High Lulani",
+      "Sample Texts",
+      "Prelude"
+    ],
+    [
+      "High Lulani",
+      "Sample Texts",
+      "Prelude"
+    ],
+    [
+      "High Lulani",
+      "Sample Texts",
+      "Prelude"
+    ],
+    [
+      "High Lulani",
+      "Sample Texts",
+      "Prelude"
+    ],
+    [
+      "High Lulani",
+      "Sample Texts",
+      "Prelude"
     ]
   ]
 }
