@@ -34,12 +34,12 @@ overline {
 }
 
 @font-face {
-  font-family: high-lulani;
-  src: url('highlulani.ttf');
+  font-family: tinellb;
+  src: url('tinellb.ttf');
 }
 
 high-lulani {
-  font-family: lulani, high-lulani;
+  font-family: tinellbian, tinellb;
   font-size: larger;
   direction: rtl;
   unicode-bidi: bidi-override;
@@ -301,6 +301,11 @@ input[type='checkbox'] {
     .content div.mobile-table table {
         display: block;
         margin-left: 15%;
+    }
+
+    .content div.mobile-table ul {
+        padding-left: 0;
+        margin-left: 10%;
     }
 
     .desktop {
