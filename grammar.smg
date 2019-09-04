@@ -42,22 +42,6 @@
       "High Lulani",
       "Morphology",
       "Verbs",
-      "Ambitransitivity"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Auxiliaries"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Suffixes"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Verbs",
       "Intransitivity"
     ],
     [
@@ -142,6 +126,20 @@
       "High Lulani",
       "Apocrypha",
       "Colours"
+    ],
+    [
+      "Demotic Lulani",
+      "Sample Texts",
+      "Waterfall",
+      "City"
+    ],
+    [
+      "Demotic Lulani",
+      "Sample Texts"
+    ],
+    [
+      "Demotic Lulani",
+      "Sample Texts"
     ]
   ]
 }
