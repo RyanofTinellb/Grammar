@@ -42,12 +42,6 @@
       "High Lulani",
       "Morphology",
       "Verbs",
-      "Intransitivity"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Verbs",
       "Transitivity"
     ],
     [
@@ -132,6 +126,10 @@
       "Sample Texts",
       "Waterfall",
       "City"
+    ],
+    [
+      "Demotic Lulani",
+      "Sample Texts"
     ],
     [
       "Demotic Lulani",
