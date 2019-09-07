@@ -17,7 +17,7 @@
       "searchindex": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json",
       "template_file": "C:/Users/Ryan/TinellbianLanguages/grammar/template.html",
       "wholepage": {
-        "template": "C:/Users/Ryan/TinellbianLanguages/grammar/wholetemplate.html",
+        "template": "C:/Users/Ryan/TinellbianLanguages/main/sections/wholepage.html",
         "file": "C:/Users/Ryan/TinellbianLanguages/grammar/wholepage.html"
       },
       "search": {
@@ -27,7 +27,14 @@
         "page404": "C:/Users/Ryan/TinellbianLanguages/grammar/404.html",
         "index": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json"
       },
-      "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json"
+      "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json",
+      "sections": {
+        "copyright": "C:/Users/Ryan/TinellbianLanguages/main/sections/copyright.html",
+        "show javascript": "C:/Users/Ryan/TinellbianLanguages/main/sections/show_javascipt.html",
+        "highlight search term": "C:/Users/Ryan/TinellbianLanguages/main/sections/highlight_search_term.html",
+        "title": "C:/Users/Ryan/TinellbianLanguages/grammar/titletemplate.html",
+        "links": "C:/Users/Ryan/TinellbianLanguages/grammar/linkstemplate.html"
+      }
     },
     "destination": "c:/users/ryan/tinellbianlanguages/grammar",
     "name": "A Grammar of the Tinellbian Languages"
@@ -38,28 +45,6 @@
   },
   "sample texts": "C:/Users/Ryan/TinellbianLanguages/encyclopedia/data.src",
   "history": [
-    [
-      "High Lulani",
-      "Morphology",
-      "Verbs",
-      "Transitivity"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Verbs",
-      "Ambitransitivity"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Auxiliaries"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Nouns"
-    ],
     [
       "High Lulani",
       "Morphology",
@@ -138,6 +123,45 @@
     [
       "Demotic Lulani",
       "Sample Texts"
-    ]
-  ]
+    ],
+    [
+      "High Lulani"
+    ],
+    [],
+    [
+      "High Lulani"
+    ],
+    []
+  ],
+  "sections": {
+    "copyright": "C:/Users/Ryan/TinellbianLanguages/main/sections/copyright.html",
+    "show javascript": "C:/Users/Ryan/TinellbianLanguages/main/sections/show_javascipt.html",
+    "highlight search term": "C:/Users/Ryan/TinellbianLanguages/main/sections/highlight_search_term.html",
+    "title": "C:/Users/Ryan/TinellbianLanguages/grammar/titletemplate.html",
+    "links": "C:/Users/Ryan/TinellbianLanguages/grammar/linkstemplate.html"
+  },
+  "files": {
+    "source": "C:/Users/Ryan/TinellbianLanguages/grammar/data.src",
+    "searchindex": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json",
+    "template_file": "C:/Users/Ryan/TinellbianLanguages/grammar/template.html",
+    "wholepage": {
+      "template": "C:/Users/Ryan/TinellbianLanguages/main/sections/wholepage.html",
+      "file": "C:/Users/Ryan/TinellbianLanguages/grammar/wholepage.html"
+    },
+    "search": {
+      "template": "C:/Users/Ryan/TinellbianLanguages/grammar/searchtemplate.html",
+      "template404": "C:/Users/Ryan/TinellbianLanguages/grammar/404template.html",
+      "page": "C:/Users/Ryan/TinellbianLanguages/grammar/search.html",
+      "page404": "C:/Users/Ryan/TinellbianLanguages/grammar/404.html",
+      "index": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json"
+    },
+    "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json",
+    "sections": {
+      "copyright": "C:/Users/Ryan/TinellbianLanguages/main/sections/copyright.html",
+      "show javascript": "C:/Users/Ryan/TinellbianLanguages/main/sections/show_javascipt.html",
+      "highlight search term": "C:/Users/Ryan/TinellbianLanguages/main/sections/highlight_search_term.html",
+      "title": "C:/Users/Ryan/TinellbianLanguages/grammar/titletemplate.html",
+      "links": "C:/Users/Ryan/TinellbianLanguages/grammar/linkstemplate.html"
+    }
+  }
 }
