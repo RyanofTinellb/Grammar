@@ -48,11 +48,6 @@
     [
       "High Lulani",
       "Morphology",
-      "Suffixes"
-    ],
-    [
-      "High Lulani",
-      "Morphology",
       "Suffixes",
       "Determiners"
     ],
@@ -131,7 +126,11 @@
     [
       "High Lulani"
     ],
-    []
+    [],
+    [
+      "High Lulani",
+      "Phonology"
+    ]
   ],
   "sections": {
     "copyright": "C:/Users/Ryan/TinellbianLanguages/main/sections/copyright.html",

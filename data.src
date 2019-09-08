@@ -2,9 +2,9 @@
     "name": "A Grammar of the Tinellbian Languages",
     "text": [
         "This reference guide is for the Tinellbian languages that descend from High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.\n",
-        "1]<a href=\"highlulani/index.html\">High Lulani</a>\n<high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi.\nI have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <a href=\"http://dictionary.tinellb.com/m/mica.html#highlulani\">mica</a>&nbsp;<high-lulani>Mc</high-lulani>&nbsp;<em>hello</em></span> dates from that time.f\nWhen I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information.\nThe Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality."
+        "1]<a href=\"highlulani/index.html\">High Lulani</a>\n<high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi.\nI have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <a href=\"http://dictionary.tinellb.com/m/mica.html#highlulani\">mica</a>&nbsp;<high-lulani>Mc</high-lulani>&nbsp;<em>hello</em> dates from that time.\nWhen I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information.\nThe Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality."
     ],
-    "date": "2019-09-07",
+    "date": "2019-09-08",
     "position": "4.208",
     "children": [
         {
@@ -18,7 +18,7 @@
                 {
                     "name": "Phonology",
                     "text": [
-                        "Highly Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated, which can palatalise or change the voicing of the original sound.\nThis page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.\n",
+                        "High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated, which can palatalise or change the voicing of the original sound.\nThis page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.\n",
                         "d columns]\n",
                         "t]h Consonant |h Example\n <ipa>b</ipa> | <strong>b</strong>a’u\n <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a\n <ipa>c</ipa> | qa<strong>cc</strong>a\n <ipa>c&#x2b0;</ipa> | <strong>c</strong>u’i\n <ipa>&#x255;</ipa> | <strong>x</strong>u’a\n <ipa>&ccedil;</ipa> | tu<strong>hh</strong>i\n <ipa>d</ipa> | <strong>d</strong>aru\n <ipa>d&#x2b1;</ipa> | ’a<strong>dd</strong>a\n <ipa>f</ipa> | <strong>f</strong>ara\n <ipa>g</ipa> | <strong>g</strong>usu\n <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i\n",
                         "/t]\n",
@@ -31,7 +31,7 @@
                         "t]h Consonant |h Example\n <ipa>b</ipa> | <strong>b</strong>a’u\n <ipa>b&#x2b1;</ipa> | sa<strong>bb</strong>a\n <ipa>c</ipa> | qa<strong>cc</strong>a\n <ipa>c&#x2b0;</ipa> | <strong>c</strong>u’i\n <ipa>&#x255;</ipa> | <strong>x</strong>u’a\n <ipa>&ccedil;</ipa> | tu<strong>hh</strong>i\n <ipa>d</ipa> | <strong>d</strong>aru\n <ipa>d&#x2b1;</ipa> | ’a<strong>dd</strong>a\n <ipa>f</ipa> | <strong>f</strong>ara\n <ipa>g</ipa> | <strong>g</strong>usu\n <ipa>g&#x2b1;</ipa> | sa<strong>gg</strong>i\n <ipa>h</ipa> | <strong>h</strong>isuba\n <ipa>j</ipa> | fa<strong>ʔ</strong>a<sup>1</sup>\n <ipa>&#x25f;</ipa> | <strong>j</strong>usi\n <ipa>&#x25f;&#x2b1;</ipa> | ma<strong>jj</strong>a\n <ipa>k</ipa> | ta<strong>kk</strong>i\n <ipa>k&#x2b0;</ipa> | <strong>k</strong>a’u\n <ipa>l</ipa> | <strong>l</strong>isa\n <ipa>&#x28e;</ipa> | mu<strong>ll</strong>u\n <ipa>m</ipa> | <strong>m</strong>ullu\n <ipa>n</ipa> | <strong>n</strong>isa\n <ipa>&#x272;</ipa> | ja<strong>nn</strong>i\n <ipa>&#x14b;</ipa> | <strong>q</strong>a\n <ipa>p</ipa> | ’a<strong>pp</strong>u\n <ipa>p&#x2b0;</ipa> | <strong>p</strong>uttu\n <ipa>r</ipa> | gu<strong>rr</strong>isu\n <ipa>&#x27e;</ipa> | <strong>r</strong>usa\n <ipa>s</ipa> | <strong>s</strong>ippa\n <ipa>t</ipa> | ni<strong>tt</strong>u\n <ipa>t&#x2b0;</ipa> | <strong>t</strong>a’i\n <ipa>ʔ</ipa> | <strong>x</strong>u’a\n",
                         "/t]\n",
                         "/d]\n",
-                        "e]\n<sup>1</sup>The phone <ipa>/j/</ipa> only appears as the second segment of an allophonic variant of <ipa>/ʔ/</ipa>, when that sound is geminated.\n",
+                        "e ]\n<sup>1</sup>The phone <ipa>/j/</ipa> only appears as the second segment of an allophonic variant of <ipa>/ʔ/</ipa>, when that sound is geminated.\n",
                         "d columns]\n",
                         "t]h Vowel |h Example\n <ipa>a</ipa> | b<strong>a</strong>tu\n <ipa>i</ipa> | b<strong>i</strong>tta\n <ipa>u</ipa> | c<strong>u</strong>ra\n",
                         "/t]\n",
@@ -39,8 +39,8 @@
                         "/t]\n",
                         "/d]\nThe suprasegmental symbols are all exemplified in <ipa>/&#x2cc;p&#x2b0;a&#x2d0;m&#x268;&#x2c8;lam&#x268;/</ipa>.\n"
                     ],
-                    "date": "2019-08-20",
-                    "position": "81.21",
+                    "date": "2019-09-08",
+                    "position": "1.0",
                     "children": [
                         {
                             "date": "2019-05-04",
