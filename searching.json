@@ -9851,6 +9851,13 @@
                 127
             ]
         },
+        "]]": {
+            "2": [
+                61,
+                96,
+                110
+            ]
+        },
         "phone": {
             "2": [
                 98
@@ -49344,7 +49351,7 @@
         "ni tt u",
         "t a’i",
         "xu ’ a",
-        " ",
+        " ]]",
         "",
         "h Consonant Example",
         "b a’u",
@@ -49379,7 +49386,7 @@
         "t a’i",
         "x u’a",
         "",
-        "",
+        "]]",
         "",
         "1 The phone only appears as the second segment of an allophonic variant of  when that sound is geminated",
         "",
@@ -49393,7 +49400,7 @@
         "kas i",
         "l u lani",
         "",
-        "",
+        "]]",
         "The suprasegmental symbols are all exemplified in",
         "Consonants are differentiated by manner and place of articulation and by word-internal gemination",
         "Plosives also have contrasting voice",

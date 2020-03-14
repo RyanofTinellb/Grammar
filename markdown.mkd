@@ -1,57 +1,287 @@
-<div class="stars"></div> | *** | <br>
-<span title="summer">夏</span> | &summer; | <br>
-&summer; | 夏 | <br>
-Qōla | Qola | s<br>
-</link>&nbsp;<high-lulani> | </link> <high-lulani> | <br>
-</high-lulani>&nbsp;<em> | </high-lulani> <em> | <br>
-</high-lulani>&nbsp;<small-caps> | </high-lulani> <small-caps> | <br>
-</link><link> | </link>:<link> | <br>
-<em>CT:/ˈǂʰɔː.lə/</em> | ipaCorla | s<br>
-&lt;  | << | s<br>
- &gt; | >> | s<br>
-<a href=" | {{ | <br>
-"> | :: | <br>
-</a> | }} | <br>
-{{http://coelacanthquartet.tinellb.com/ | {{c  | <br>
-' | &quot; | <br>
-" | &dblquot; | <br>
-≈ | ~= | s<br>
-’ | ' | s<br>
-‘ | ` | s<br>
-ʔ | '' | s<br>
-” | " | s<br>
-'" | ' " | s<br>
-“ | '" | s<br>
-" | `` | s<br>
-&dblquot; | "" | <br>
-· | (.) | s<br>
-‐ | -- | s<br>
-– | --- | s<br>
-ì | )i | s<br>
-… | ... | s<br>
-→ | => | s<br>
-<overline>1</overline> | &rone; | <br>
-<overline>2</overline> | &rwo; | <br>
-<overline>3</overline> | &ree; | <br>
-<overline>4</overline> | &rour; | <br>
-<overline>5</overline> | &rive; | <br>
-<overline>6</overline> | &rix; | <br>
-<overline>7</overline> | &reven; | <br>
-[d wordlist] | [[w | <br>
-[d folding] | [[f | <br>
-[d paragraph] | [[p | <br>
-[d interlinear] | [[i | <br>
-[d literal] | [[l | <br>
-[/d] | ]] | <br>
-Fezhl&ecirc; | Fezhle | s<br>
-Brequ&eacute; | Breque | <br>
-Brequ&egrave;n | Brequen | <br>
-Fezhlê | Fezhle | s<br>
-Brequé | Breque | s<br>
-Brequèn | Brequen | s<br>
-M<sup>204</sup>ν | &Ptoko; | s<br>
-F<sup>996</sup>ξ | &Solaji; | s<br>
-A<sup>376</sup>γ | &Zhalad; | s<br>
-D<sup>578</sup>η | &Breque; | s<br>
-E<sup>415</sup>χ | &Tsarein; | s<br>
-<br> |  //  | <br>
+[
+  {
+    "markup": "<div class=\"stars\"></div>",
+    "markdown": "***",
+    "display_markdown": false
+  },
+  {
+    "markup": "<span title=\"summer\">夏</span>",
+    "markdown": "&summer;",
+    "display_markdown": false
+  },
+  {
+    "markup": "&summer;",
+    "markdown": "夏",
+    "display_markdown": false
+  },
+  {
+    "markup": "Qōla",
+    "markdown": "Qola",
+    "display_markdown": true
+  },
+  {
+    "markup": "</link>&nbsp;<high-lulani>",
+    "markdown": "</link> <high-lulani>",
+    "display_markdown": false
+  },
+  {
+    "markup": "</high-lulani>&nbsp;<em>",
+    "markdown": "</high-lulani> <em>",
+    "display_markdown": false
+  },
+  {
+    "markup": "</high-lulani>&nbsp;<small-caps>",
+    "markdown": "</high-lulani> <small-caps>",
+    "display_markdown": false
+  },
+  {
+    "markup": "</link><link>",
+    "markdown": "</link>:<link>",
+    "display_markdown": false
+  },
+  {
+    "markup": "<em>CT:/ˈǂʰɔː.lə/</em>",
+    "markdown": "ipaCorla",
+    "display_markdown": true
+  },
+  {
+    "markup": "&lt; ",
+    "markdown": "<<",
+    "display_markdown": true
+  },
+  {
+    "markup": " &gt;",
+    "markdown": ">>",
+    "display_markdown": true
+  },
+  {
+    "markup": "<a href=\"",
+    "markdown": "{{",
+    "display_markdown": false
+  },
+  {
+    "markup": "\">",
+    "markdown": "::",
+    "display_markdown": false
+  },
+  {
+    "markup": "</a>",
+    "markdown": "}}",
+    "display_markdown": false
+  },
+  {
+    "markup": "{{http://coelacanthquartet.tinellb.com/",
+    "markdown": "{{c ",
+    "display_markdown": false
+  },
+  {
+    "markup": "'",
+    "markdown": "&quot;",
+    "display_markdown": false
+  },
+  {
+    "markup": "\"",
+    "markdown": "&dblquot;",
+    "display_markdown": false
+  },
+  {
+    "markup": "≈",
+    "markdown": "~=",
+    "display_markdown": true
+  },
+  {
+    "markup": "’",
+    "markdown": "'",
+    "display_markdown": true
+  },
+  {
+    "markup": "‘",
+    "markdown": "`",
+    "display_markdown": true
+  },
+  {
+    "markup": "ʔ",
+    "markdown": "''",
+    "display_markdown": true
+  },
+  {
+    "markup": "”",
+    "markdown": "\"",
+    "display_markdown": true
+  },
+  {
+    "markup": "'\"",
+    "markdown": "' \"",
+    "display_markdown": true
+  },
+  {
+    "markup": "“",
+    "markdown": "'\"",
+    "display_markdown": true
+  },
+  {
+    "markup": "\"",
+    "markdown": "``",
+    "display_markdown": true
+  },
+  {
+    "markup": "&dblquot;",
+    "markdown": "\"\"",
+    "display_markdown": false
+  },
+  {
+    "markup": "·",
+    "markdown": "(.)",
+    "display_markdown": true
+  },
+  {
+    "markup": "‐",
+    "markdown": "--",
+    "display_markdown": true
+  },
+  {
+    "markup": "–",
+    "markdown": "---",
+    "display_markdown": true
+  },
+  {
+    "markup": "ì",
+    "markdown": ")i",
+    "display_markdown": true
+  },
+  {
+    "markup": "…",
+    "markdown": "...",
+    "display_markdown": true
+  },
+  {
+    "markup": "→",
+    "markdown": "=>",
+    "display_markdown": true
+  },
+  {
+    "markup": "<overline>1</overline>",
+    "markdown": "&rone;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>2</overline>",
+    "markdown": "&rwo;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>3</overline>",
+    "markdown": "&ree;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>4</overline>",
+    "markdown": "&rour;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>5</overline>",
+    "markdown": "&rive;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>6</overline>",
+    "markdown": "&rix;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>7</overline>",
+    "markdown": "&reven;",
+    "display_markdown": false
+  },
+  {
+    "markup": "[d wordlist]",
+    "markdown": "[[w",
+    "display_markdown": false
+  },
+  {
+    "markup": "[d folding]",
+    "markdown": "[[f",
+    "display_markdown": false
+  },
+  {
+    "markup": "[d paragraph]",
+    "markdown": "[[p",
+    "display_markdown": false
+  },
+  {
+    "markup": "[d interlinear]",
+    "markdown": "[[i",
+    "display_markdown": false
+  },
+  {
+    "markup": "[d literal]",
+    "markdown": "[[l",
+    "display_markdown": false
+  },
+  {
+    "markup": "[/d]",
+    "markdown": "]]",
+    "display_markdown": false
+  },
+  {
+    "markup": "Fezhl&ecirc;",
+    "markdown": "Fezhle",
+    "display_markdown": true
+  },
+  {
+    "markup": "Brequ&eacute;",
+    "markdown": "Breque",
+    "display_markdown": false
+  },
+  {
+    "markup": "Brequ&egrave;n",
+    "markdown": "Brequen",
+    "display_markdown": false
+  },
+  {
+    "markup": "Fezhlê",
+    "markdown": "Fezhle",
+    "display_markdown": true
+  },
+  {
+    "markup": "Brequé",
+    "markdown": "Breque",
+    "display_markdown": true
+  },
+  {
+    "markup": "Brequèn",
+    "markdown": "Brequen",
+    "display_markdown": true
+  },
+  {
+    "markup": "M<sup>204</sup>ν",
+    "markdown": "&Ptoko;",
+    "display_markdown": true
+  },
+  {
+    "markup": "F<sup>996</sup>ξ",
+    "markdown": "&Solaji;",
+    "display_markdown": true
+  },
+  {
+    "markup": "A<sup>376</sup>γ",
+    "markdown": "&Zhalad;",
+    "display_markdown": true
+  },
+  {
+    "markup": "D<sup>578</sup>η",
+    "markdown": "&Breque;",
+    "display_markdown": true
+  },
+  {
+    "markup": "E<sup>415</sup>χ",
+    "markdown": "&Tsarein;",
+    "display_markdown": true
+  },
+  {
+    "markup": "<br>",
+    "markdown": " // ",
+    "display_markdown": false
+  }
+]
