@@ -7,281 +7,281 @@
   {
     "markup": "<span title=\"summer\">夏</span>",
     "markdown": "&summer;",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "&summer;",
     "markdown": "夏",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "Qōla",
     "markdown": "Qola",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "</link>&nbsp;<high-lulani>",
     "markdown": "</link> <high-lulani>",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "</high-lulani>&nbsp;<em>",
     "markdown": "</high-lulani> <em>",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "</high-lulani>&nbsp;<small-caps>",
     "markdown": "</high-lulani> <small-caps>",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "</link><link>",
     "markdown": "</link>:<link>",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "<em>CT:/ˈǂʰɔː.lə/</em>",
     "markdown": "ipaCorla",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "&lt; ",
     "markdown": "<<",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": " &gt;",
     "markdown": ">>",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "<a href=\"",
     "markdown": "{{",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "\">",
     "markdown": "::",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "</a>",
     "markdown": "}}",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "{{http://coelacanthquartet.tinellb.com/",
     "markdown": "{{c ",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "'",
     "markdown": "&quot;",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "\"",
     "markdown": "&dblquot;",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "≈",
     "markdown": "~=",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "’",
     "markdown": "'",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "‘",
     "markdown": "`",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "ʔ",
     "markdown": "''",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "”",
     "markdown": "\"",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "'\"",
     "markdown": "' \"",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "“",
     "markdown": "'\"",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "\"",
     "markdown": "``",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "&dblquot;",
     "markdown": "\"\"",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "·",
     "markdown": "(.)",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "‐",
     "markdown": "--",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "–",
     "markdown": "---",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "ì",
     "markdown": ")i",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "…",
     "markdown": "...",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "→",
     "markdown": "=>",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "<overline>1</overline>",
     "markdown": "&rone;",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "<overline>2</overline>",
     "markdown": "&rwo;",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "<overline>3</overline>",
     "markdown": "&ree;",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "<overline>4</overline>",
     "markdown": "&rour;",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "<overline>5</overline>",
     "markdown": "&rive;",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "<overline>6</overline>",
     "markdown": "&rix;",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "<overline>7</overline>",
     "markdown": "&reven;",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "[d wordlist]",
     "markdown": "[[w",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "[d folding]",
     "markdown": "[[f",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "[d paragraph]",
     "markdown": "[[p",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "[d interlinear]",
     "markdown": "[[i",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "[d literal]",
     "markdown": "[[l",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "[/d]",
     "markdown": "]]",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "Fezhl&ecirc;",
     "markdown": "Fezhle",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "Brequ&eacute;",
     "markdown": "Breque",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "Brequ&egrave;n",
     "markdown": "Brequen",
-    "display_markdown": false
+    "display_markdown": true
   },
   {
     "markup": "Fezhlê",
     "markdown": "Fezhle",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "Brequé",
     "markdown": "Breque",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "Brequèn",
     "markdown": "Brequen",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "M<sup>204</sup>ν",
     "markdown": "&Ptoko;",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "F<sup>996</sup>ξ",
     "markdown": "&Solaji;",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "A<sup>376</sup>γ",
     "markdown": "&Zhalad;",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "D<sup>578</sup>η",
     "markdown": "&Breque;",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "E<sup>415</sup>χ",
     "markdown": "&Tsarein;",
-    "display_markdown": true
+    "display_markdown": false
   },
   {
     "markup": "<br>",
     "markdown": " // ",
-    "display_markdown": false
+    "display_markdown": true
   }
 ]
