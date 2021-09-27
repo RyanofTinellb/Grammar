@@ -1,9 +1,11 @@
 a:link {
-  color: #5555FF; /* light blue */
+    color: #5555FF;
+    /* light blue */
 }
 
 a:visited {
-  color: #95A; /* light violet */
+    color: #95A;
+    /* light violet */
 }
 
 .symbol {
@@ -17,7 +19,7 @@ a:visited {
 }
 
 ipa {
-  font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
+    font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
 }
 
 ipa strong {
@@ -26,23 +28,23 @@ ipa strong {
 }
 
 small-caps {
-  font-variant: small-caps;
+    font-variant: small-caps;
 }
 
 overline {
-  text-decoration: overline;
+    text-decoration: overline;
 }
 
 @font-face {
-  font-family: tinellb;
-  src: url('tinellb.ttf');
+    font-family: tinellb;
+    src: url('../assets/tinellb.ttf');
 }
 
 high-lulani {
-  font-family: tinellbian, tinellb;
-  font-size: larger;
-  direction: rtl;
-  unicode-bidi: bidi-override;
+    font-family: tinellbian, tinellb;
+    font-size: larger;
+    direction: rtl;
+    unicode-bidi: bidi-override;
 }
 
 high-lulani::after {
@@ -51,10 +53,10 @@ high-lulani::after {
 }
 
 high-lulani:hover {
-  font-size: xx-large;
-  font-weight: normal;
-  padding: 0em 0.5em;
-  cursor: none;
+    font-size: xx-large;
+    font-weight: normal;
+    padding: 0em 0.5em;
+    cursor: none;
 }
 
 table high-lulani:hover {
@@ -64,27 +66,29 @@ table high-lulani:hover {
     cursor: inherit;
 }
 
-h1 a:visited, h1 a:link {
+h1 a:visited,
+h1 a:link {
     color: black;
     text-decoration: none;
 }
 
 .flex {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 
 .nav-pane {
-  text-align: left;
-  width: 25%;
+    text-align: left;
+    width: 25%;
 }
 
 .nav-pane input.menu {
     display: none;
 }
 
-.javascript, .hidden {
+.javascript,
+.hidden {
     display: none;
 }
 
@@ -93,33 +97,34 @@ input[type='checkbox'] {
 }
 
 .content {
-  display: flex;
-  flex-direction: column;
-  margin-left: 5%;
-  width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+    width: 60%;
 }
 
 .content p {
-  text-align: justify;
-  margin-top: 0;
-  margin-bottom: 0;
+    text-align: justify;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .content p.example {
-  margin-top: 1em;
+    margin-top: 1em;
 }
 
 .content table {
-	border-collapse: collapse;
+    border-collapse: collapse;
 }
 
-.content td, .content th {
-	border: 1px solid darkgrey;
+.content td,
+.content th {
+    border: 1px solid darkgrey;
     white-space: nowrap;
 }
 
 .content th {
-  padding: 0 1em;
+    padding: 0 1em;
 }
 
 .content th a {
@@ -128,11 +133,11 @@ input[type='checkbox'] {
 }
 
 .content th:first-child {
-  text-align: right;
+    text-align: right;
 }
 
 .content td {
-  text-align: center;
+    text-align: center;
 }
 
 .content .message p {
@@ -143,12 +148,12 @@ input[type='checkbox'] {
 }
 
 .content div.mobile-table {
-  display: none;
+    display: none;
 }
 
 .content .wordlist {
-  border-left: 1px solid green;
-  border-bottom: 1px solid green;
+    border-left: 1px solid green;
+    border-bottom: 1px solid green;
 }
 
 .content .universe {
@@ -172,20 +177,20 @@ input[type='checkbox'] {
     left: 3%;
 }
 
-.content input.folder:checked + div.folding p {
+.content input.folder:checked+div.folding p {
     display: inherit;
 }
 
 .content div.folding p:not(:first-child):not(:last-child) {
-  display: none;
+    display: none;
 }
 
 .content div.folding div.literal {
     display: none;
 }
 
-.content input.folder:checked + div.folding div.literal p,
-.content input.folder:checked + div.folding div.literal {
+.content input.folder:checked+div.folding div.literal p,
+.content input.folder:checked+div.folding div.literal {
     display: inherit;
 }
 
@@ -201,129 +206,111 @@ input[type='checkbox'] {
 }
 
 .content span.tooltip-text {
-  display: none;
+    display: none;
 }
 
 .content span.tooltip-text::before {
-  content: "(";
-  padding-left: 0.5em;
+    content: "(";
+    padding-left: 0.5em;
 }
 
 .content span.tooltip-text::after {
-  content: ")"
+    content: ")"
 }
 
 .content span.tooltip:active .tooltip-text,
 .content div.folding span.tooltip:hover .tooltip-text {
-  display: inline;
-  cursor: none;
+    display: inline;
+    cursor: none;
 }
 
 .content span.tooltip .tooltip-text:hover {
-  display: inline;
-  cursor: none;
+    display: inline;
+    cursor: none;
 }
 
 .content .nav-footer {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-top: 1em;
-  margin-bottom: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 .content .copyright {
-  font-size: smaller;
-  font-family: serif;
-  text-align: right;
-  margin-top: 1em;
+    font-size: smaller;
+    font-family: serif;
+    text-align: right;
+    margin-top: 1em;
 }
 
 .no-breaks {
-  white-space: nowrap;
+    white-space: nowrap;
 }
 
 @media screen and (max-width: 800px) {
-
-  .flex {
-    flex-direction: column;
-  }
-
-  .content {
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
-  }
-
-  .content p {
-    text-align: left;
-  }
-
-  .nav-pane {
-    width: 100%;
-  }
-
-  .nav-pane label::before {
-    content: "Menu";
-    font-weight: bold;
-  }
-
-  .nav-pane input.menu {
-      display: inherit;
-  }
-
-  input.menu + ul {
-      display: none;
-  }
-
-  input.menu:checked + ul {
-      display: inherit;
-  }
-
-  .content input.folder:checked + div.folding .tooltip-text {
-      display: inline;
-  }
-
-  .content span.tooltip:hover .tooltip-text {
-    display: inline;
-  }
+    .flex {
+        flex-direction: column;
+    }
+    .content {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .content p {
+        text-align: left;
+    }
+    .nav-pane {
+        width: 100%;
+    }
+    .nav-pane label::before {
+        content: "Menu";
+        font-weight: bold;
+    }
+    .nav-pane input.menu {
+        display: inherit;
+    }
+    input.menu+ul {
+        display: none;
+    }
+    input.menu:checked+ul {
+        display: inherit;
+    }
+    .content input.folder:checked+div.folding .tooltip-text {
+        display: inline;
+    }
+    .content span.tooltip:hover .tooltip-text {
+        display: inline;
+    }
 }
 
 @media screen and (max-width: 600px) {
     table {
-      display: none;
+        display: none;
     }
-
     .content div.mobile-table {
-      display: block;
+        display: block;
     }
-
     .content div.mobile-table table {
         display: block;
         margin-left: 15%;
     }
-
     .content div.mobile-table ul {
         padding-left: 0;
         margin-left: 10%;
     }
-
     .desktop {
         display: none;
     }
-
     .mobile {
         display: initial;
     }
-
-    .content input.folder:checked + div.folding .tooltip-text {
+    .content input.folder:checked+div.folding .tooltip-text {
         display: none;
     }
-
     .content span.tooltip:hover .tooltip-text {
         display: none;
     }
-
     .content span.tooltip::after {
         content: none;
     }

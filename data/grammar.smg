@@ -1,0 +1,69 @@
+{
+  "entries": [
+    [
+      "High Lulani",
+      "Sample Texts",
+      "Prelude",
+      "Lusov"
+    ],
+    [
+      "High Lulani",
+      "Morphology",
+      "Nouns"
+    ]
+  ],
+  "language": "en: English",
+  "site": {
+    "name": "A Grammar of the Tinellbian Languages",
+    "directory": "c:/users/ryan/tinellbianlanguages/grammar"
+  },
+  "files": {
+    "source": "C:/Users/Ryan/TinellbianLanguages/grammar/data/data.src",
+    "searchindex": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json",
+    "main_template": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/page.tpl",
+    "wholepage": {
+      "template": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/wholepage.tpl",
+      "file": "C:/Users/Ryan/TinellbianLanguages/grammar/wholepage.html"
+    },
+    "search": {
+      "template": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/search.tpl",
+      "template404": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/404.tpl",
+      "page": "C:/Users/Ryan/TinellbianLanguages/grammar/search.html",
+      "page404": "C:/Users/Ryan/TinellbianLanguages/grammar/404.html",
+      "index": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json"
+    },
+    "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json",
+    "sections": {
+      "copyright": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/copyright.tpl",
+      "show javascript": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/show_javascipt.tpl",
+      "highlight search term": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/highlight_search_term.tpl",
+      "search script": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/seach_script.tpl",
+      "family links": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/family_links.tpl"
+    }
+  },
+  "markdown": "",
+  "styles": {
+    "default": {
+      "font": "Verdana",
+      "size": 14
+    },
+    "h1": {
+      "size": 16,
+      "bold": true,
+      "indent": 0.6
+    },
+    "h2": {
+      "size": 13,
+      "bold": true,
+      "indent": 0.6
+    },
+    "tinellbian": {
+      "language": "x-tlb-%l"
+    }
+  },
+  "links": {
+    "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/glossary.gls",
+    "ExternalDictionary": "http://dictionary.tinellb.com"
+  },
+  "sample texts": "C:/Users/Ryan/TinellbianLanguages/encyclopedia/data.src"
+}
