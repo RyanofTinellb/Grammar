@@ -13,39 +13,12 @@
     ]
   ],
   "language": "en: English",
-  "site": {
-    "name": "A Grammar of the Tinellbian Languages",
-    "directory": "c:/users/ryan/tinellbianlanguages/grammar"
-  },
-  "files": {
-    "source": "C:/Users/Ryan/TinellbianLanguages/grammar/data/data.src",
-    "searchindex": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json",
-    "main_template": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/page.tpl",
-    "wholepage": {
-      "template": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/wholepage.tpl",
-      "file": "C:/Users/Ryan/TinellbianLanguages/grammar/wholepage.html"
-    },
-    "search": {
-      "template": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/search.tpl",
-      "template404": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/404.tpl",
-      "page": "C:/Users/Ryan/TinellbianLanguages/grammar/search.html",
-      "page404": "C:/Users/Ryan/TinellbianLanguages/grammar/404.html",
-      "index": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json"
-    },
-    "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json",
-    "sections": {
-      "copyright": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/copyright.tpl",
-      "show javascript": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/show_javascipt.tpl",
-      "highlight search term": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/highlight_search_term.tpl",
-      "search script": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/seach_script.tpl",
-      "family links": "C:/Users/Ryan/TinellbianLanguages/toplevel/sections/family_links.tpl"
-    }
-  },
-  "markdown": "",
   "styles": {
     "default": {
+      "end": "\n",
       "font": "Verdana",
-      "size": 14
+      "size": 14,
+      "block": "default"
     },
     "h1": {
       "size": 16,
@@ -62,8 +35,33 @@
     }
   },
   "links": {
-    "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/glossary.gls",
+    "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/data/assets/glossary.gls",
     "ExternalDictionary": "http://dictionary.tinellb.com"
   },
-  "sample texts": "C:/Users/Ryan/TinellbianLanguages/encyclopedia/data.src"
+  "assets": {
+    "source": "C:/Users/Ryan/TinellbianLanguages/grammar/data/data.src",
+    "searchindex": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json",
+    "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json",
+    "samples": "C:/Users/Ryan/TinellbianLanguages/encyclopedia/data.src"
+  },
+  "templates": {
+    "main": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/page.tpl",
+    "wholepage": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/wholepage.tpl",
+    "search": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/search.tpl",
+    "search404": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/404.tpl",
+    "sections": {
+      "copyright": "c:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/copyright.tpl",
+      "show javascript": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/show_javascipt.tpl",
+      "highlight search term": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/highlight_search_term.tpl",
+      "search script": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/seach_script.tpl",
+      "family links": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/family_links.tpl"
+    }
+  },
+  "locations": {
+    "directory": "c:/users/ryan/tinellbianlanguages/grammar",
+    "wholepage": "C:/Users/Ryan/TinellbianLanguages/grammar/special/wholepage.html",
+    "search": "C:/Users/Ryan/TinellbianLanguages/grammar/search.html",
+    "search404": "C:/Users/Ryan/TinellbianLanguages/grammar/404.html"
+  },
+  "markdown": ""
 }
