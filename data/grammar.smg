@@ -1,67 +1,44 @@
 {
-  "entries": [
-    [
-      "High Lulani",
-      "Sample Texts",
-      "Prelude",
-      "Lusov"
+    "entries": [
+        [
+            "Languages",
+            "High Lulani"
+        ]
     ],
-    [
-      "High Lulani",
-      "Morphology",
-      "Nouns"
-    ]
-  ],
-  "language": "en: English",
-  "styles": {
-    "default": {
-      "end": "\n",
-      "font": "Verdana",
-      "size": 14,
-      "block": "default"
+    "language": "en: English",
+    "styles": "c:/users/ryan/tinellbianlanguages/grammar/data/assets/styles.tag",
+    "links": {
+        "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/data/assets/glossary.gls",
+        "ExternalDictionary": "http://dictionary.tinellb.com"
     },
-    "h1": {
-      "size": 16,
-      "bold": true,
-      "indent": 0.6
+    "assets": {
+        "source": "C:/Users/Ryan/TinellbianLanguages/grammar/data/data.src",
+        "searchindex": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json",
+        "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json",
+        "samples": [
+            "C:/Users/Ryan/TinellbianLanguages/encyclopedia/data/data.src",
+            "c:/users/ryan/tinellbianlanguages/coelacanth/data/data.src",
+            "c:/users/ryan/tinellbianlanguages/writings/data/data.src"
+        ]
     },
-    "h2": {
-      "size": 13,
-      "bold": true,
-      "indent": 0.6
+    "templates": {
+        "main": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/page.tpl",
+        "wholepage": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/wholepage.tpl",
+        "search": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/search.tpl",
+        "search404": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/404.tpl",
+        "sections": {
+            "copyright": "c:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/copyright.tpl",
+            "show javascript": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/show_javascipt.tpl",
+            "highlight search term": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/highlight_search_term.tpl",
+            "search script": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/seach_script.tpl",
+            "family links": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/family_links.tpl"
+        }
     },
-    "tinellbian": {
-      "language": "x-tlb-%l"
-    }
-  },
-  "links": {
-    "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/data/assets/glossary.gls",
-    "ExternalDictionary": "http://dictionary.tinellb.com"
-  },
-  "assets": {
-    "source": "C:/Users/Ryan/TinellbianLanguages/grammar/data/data.src",
-    "searchindex": "C:/Users/Ryan/TinellbianLanguages/grammar/searching.json",
-    "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json",
-    "samples": "C:/Users/Ryan/TinellbianLanguages/encyclopedia/data.src"
-  },
-  "templates": {
-    "main": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/page.tpl",
-    "wholepage": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/wholepage.tpl",
-    "search": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/search.tpl",
-    "search404": "C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/404.tpl",
-    "sections": {
-      "copyright": "c:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/copyright.tpl",
-      "show javascript": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/show_javascipt.tpl",
-      "highlight search term": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/highlight_search_term.tpl",
-      "search script": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/seach_script.tpl",
-      "family links": "C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/family_links.tpl"
-    }
-  },
-  "locations": {
-    "directory": "c:/users/ryan/tinellbianlanguages/grammar",
-    "wholepage": "C:/Users/Ryan/TinellbianLanguages/grammar/special/wholepage.html",
-    "search": "C:/Users/Ryan/TinellbianLanguages/grammar/search.html",
-    "search404": "C:/Users/Ryan/TinellbianLanguages/grammar/404.html"
-  },
-  "markdown": ""
+    "locations": {
+        "directory": "c:/users/ryan/tinellbianlanguages/grammar",
+        "wholepage": "C:/Users/Ryan/TinellbianLanguages/grammar/special/wholepage.html",
+        "search": "C:/Users/Ryan/TinellbianLanguages/grammar/search.html",
+        "search404": "C:/Users/Ryan/TinellbianLanguages/grammar/404.html"
+    },
+    "markdown": ""
 }
