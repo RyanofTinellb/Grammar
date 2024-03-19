@@ -1,54 +1,54 @@
 directory:
-  A Grammar of the Tinellbian Languages:
-  - Languages:
-    - High Lulani:
-      - Phonology:
-        - Consonants
-        - Vowels
-        - Phonotactics
-        - Suprasegmentals
-      - Orthography:
-        - Spelling Syllabary
-        - Tactile Syllabary
-      - Morphology:
-        - Nouns:
-          - Adverbs
-        - Verbs:
-          - Intransitivity
-          - Transitivity
-          - Ambitransitivity
-        - Auxiliaries
-        - Adpositions
-        - Suffixes:
-          - Determiners
-        - Deixis:
-          - Personal Pro-forms
-          - Indefinite Pro-forms
-        - Conjunctions
-        - Particles:
-          - Interjections
-      - Syntax:
-        - Case
-        - Matrix Clauses:
-          - Negative Complements
-        - Argument Promotion
-        - Dependent Clauses:
-          - Relative Clauses
-        - Noun Phrases
-        - Gerunds
-      - Apocrypha:
-        - Numbers
-        - Colours
-        - Comparatives
-        - Kinship
-        - Elements
-      - Sample Texts:
-        - Prelude
-    - Demotic Lulani:
-      - Phonology
-      - Sample Texts
-      - Appendices:
-        - Diachrony
+- A Grammar of the Tinellbian Languages
+- - Languages
+  - - High Lulani
+    - - Phonology
+      - - Consonants
+      - - Vowels
+      - - Phonotactics
+      - - Suprasegmentals
+    - - Orthography
+      - - Spelling Syllabary
+      - - Tactile Syllabary
+    - - Morphology
+      - - Nouns
+        - - Adverbs
+      - - Verbs
+        - - Intransitivity
+        - - Transitivity
+        - - Ambitransitivity
+      - - Auxiliaries
+      - - Adpositions
+      - - Suffixes
+        - - Determiners
+      - - Deixis
+        - - Personal Pro-forms
+        - - Indefinite Pro-forms
+      - - Conjunctions
+      - - Particles
+        - - Interjections
+    - - Syntax
+      - - Case
+        - - Matrix Clauses
+          - - Negative Complements
+        - - Argument Promotion
+        - - Dependent Clauses
+          - - Relative Clauses
+        - - Noun Phrases
+        - - Gerunds
+    - - Apocrypha
+      - - Numbers
+      - - Colours
+      - - Comparatives
+      - - Kinship
+      - - Elements
+    - - Sample Texts
+      - - Prelude
+  - - Demotic Lulani
+    - - Phonology
+    - - Sample Texts
+    - - Appendices
+      - - Diachrony
 entries:
   A Grammar of the Tinellbian Languages:
     date: '2019-09-08'
@@ -71,8 +71,6 @@ entries:
       of people moved through space, time and reality.
     children:
       Languages:
-        date: '2021-09-21'
-        text: []
         children:
           High Lulani:
             date: '2019-09-07'
