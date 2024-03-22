@@ -7,7 +7,8 @@ assets:
   source: C:/Users/Ryan/TinellbianLanguages/grammar/data/data.src
   wordlist: C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json
 entries:
-- - Languages
+- - A Grammar of the Tinellbian Languages
+  - Languages
   - High Lulani
   - Sample Texts
   - Prelude
