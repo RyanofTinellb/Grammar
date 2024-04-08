@@ -1,36 +1,32 @@
 assets:
   samples:
-  - C:/Users/Ryan/TinellbianLanguages/encyclopedia/data/data.src
-  - c:/users/ryan/tinellbianlanguages/coelacanth/data/data.src
-  - c:/users/ryan/tinellbianlanguages/writings/data/data.src
-  searchindex: C:/Users/Ryan/TinellbianLanguages/grammar/searching.json
-  source: C:/Users/Ryan/TinellbianLanguages/grammar/data/data.src
-  wordlist: C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json
+  - C:\Users\Ryan\TinellbianLanguages\encyclopedia\data\data.src
+  - c:\users\ryan\tinellbianlanguages\coelacanth\data\data.src
+  - c:\users\ryan\tinellbianlanguages\writings\data\data.src
+  searchindex: C:\Users\Ryan\TinellbianLanguages\grammar\searching.json
+  source: C:\Users\Ryan\TinellbianLanguages\grammar\data\data.src
+  wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\wordlist.json
 entries:
 - - A Grammar of the Tinellbian Languages
-  - Languages
-  - High Lulani
-  - Sample Texts
-  - Prelude
 language: 'en: English'
 links:
   ExternalDictionary: http://dictionary.tinellb.com
-  Glossary: C:/Users/Ryan/TinellbianLanguages/grammar/data/assets/glossary.gls
+  Glossary: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\glossary.gls
 locations:
-  directory: c:/users/ryan/tinellbianlanguages/grammar
-  search: C:/Users/Ryan/TinellbianLanguages/grammar/search.html
-  page404: C:/Users/Ryan/TinellbianLanguages/grammar/404.html
-  wholepage: C:/Users/Ryan/TinellbianLanguages/grammar/special/wholepage.html
+  directory: c:\users\ryan\tinellbianlanguages\grammar
+  search: C:\Users\Ryan\TinellbianLanguages\grammar\search.html
+  page404: C:\Users\Ryan\TinellbianLanguages\grammar\404.html
+  wholepage: C:\Users\Ryan\TinellbianLanguages\grammar\special\wholepage.html
 markdown: ''
-styles: c:/users/ryan/tinellbianlanguages/grammar/data/assets/styles.tag
+styles: c:\users\ryan\tinellbianlanguages\grammar\data\assets\styles.tag
 templates:
-  main: C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/page.tpl
-  search: C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/search.tpl
-  page404: C:/Users/Ryan/TinellbianLanguages/grammar/data/templates/404.tpl
+  main: C:\Users\Ryan\TinellbianLanguages\grammar\data\templates\page.tpl
+  search: C:\Users\Ryan\TinellbianLanguages\grammar\data\templates\search.tpl
+  page404: C:\Users\Ryan\TinellbianLanguages\grammar\data\templates\404.tpl
   sections:
-    copyright: c:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/copyright.tpl
-    family links: C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/family_links.tpl
-    highlight search term: C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/highlight_search_term.tpl
-    search script: C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/seach_script.tpl
-    show javascript: C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/show_javascipt.tpl
-  wholepage: C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/wholepage.tpl
+    copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
+    family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
+    highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
+    search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
+    show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
+  wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\wholepage.tpl

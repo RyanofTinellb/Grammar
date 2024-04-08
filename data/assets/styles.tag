@@ -3,62 +3,50 @@
   tags:
     name: default
 - tags:
-    block: true
     end: </div>
     name: columns
     start: <div class="columns">
 - tags:
-    block: true
     end: </div>
     name: mobiletable
     start: <div class="mobile-table">
 - tags:
-    block: true
     end: </div>
     name: leftcolumns
     start: <div class="left-columns">
 - tags:
-    block: true
     name: table
     separator: tr
 - tags:
-    block: true
     name: ol
     separator: li
 - tags:
-    block: true
     name: ul
     separator: li
 - props:
-    border: true
     left: 5
   tags:
-    block: true
     end: </div>
     name: sentencelist
     separator: p
     start: <div class="sentence-list">
 - props:
-    border: true
+    background: '#ffffcc'
     left: 5
   tags:
-    block: true
     end: </div>
     name: wordlist
     separator: p
     start: <div class="wordlist">
 - tags:
-    block: true
     end: </div>
     name: interlinear
     start: <div class="interlinear">
 - tags:
-    block: true
     end: </div>
     name: paragraph
     start: <div class="paragraph">
 - tags:
-    block: true
     end: </div></div>
     name: folding
     pipe: </div><div class="block">
@@ -66,38 +54,32 @@
 - props:
     justify: right
   tags:
-    block: true
     end: </div>
     name: stars
     start: <div class="stars">
 - props:
     bold: true
-    size: '+5'
+    size: 150
   tags:
-    block: true
     name: h1
 - props:
     bold: true
-    size: '+4'
+    size: 140
   tags:
-    block: true
     name: h2
 - props:
     bold: true
-    size: '+3'
+    size: 130
   tags:
-    block: true
     name: h3
 - props:
     bold: true
-    size: '+2'
+    size: 120
   tags:
-    block: true
     name: h4
 - props:
     colour: red
   tags:
-    block: true
     end: </div>
     name: message
     start: <div class="message">
@@ -154,6 +136,9 @@
     start: <span class="transliteration">
 - tags:
     name: abbr
+  props:
+    font: Felix Titling
+    size: 70
 - props:
     background: yellow
   tags:
@@ -185,12 +170,6 @@
     name: overline
     start: <span class="overline">
 - props:
-    font: Alegreya SC
-  tags:
-    end: </span>
-    name: smallcaps
-    start: <span class="small-caps">
-- props:
     bold: true
   tags:
     name: strong
@@ -199,7 +178,7 @@
   tags:
     name: sup
 - props:
-    size: '+2'
+    size: 2
   tags:
     end: </span>
     name: season
