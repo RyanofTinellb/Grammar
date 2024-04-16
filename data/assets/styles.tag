@@ -1,186 +1,186 @@
-- props:
+default:
+  props:
     size: 18
+  tags: {}
+columns:
   tags:
-    name: default
-- tags:
     end: </div>
-    name: columns
     start: <div class="columns">
-- tags:
+mobiletable:
+  tags:
     end: </div>
-    name: mobiletable
     start: <div class="mobile-table">
-- tags:
+leftcolumns:
+  tags:
     end: </div>
-    name: leftcolumns
     start: <div class="left-columns">
-- tags:
-    name: table
+table:
+  tags:
     separator: tr
-- tags:
-    name: ol
+ol:
+  tags:
     separator: li
-- tags:
-    name: ul
+ul:
+  tags:
     separator: li
-- props:
+sentencelist:
+  props:
     left: 5
   tags:
     end: </div>
-    name: sentencelist
     separator: p
     start: <div class="sentence-list">
-- props:
+wordlist:
+  props:
     background: '#ffffcc'
     left: 5
   tags:
     end: </div>
-    name: wordlist
     separator: p
     start: <div class="wordlist">
-- tags:
+interlinear:
+  tags:
     end: </div>
-    name: interlinear
     start: <div class="interlinear">
-- tags:
+paragraph:
+  tags:
     end: </div>
-    name: paragraph
     start: <div class="paragraph">
-- tags:
+folding:
+  tags:
     end: </div></div>
-    name: folding
     pipe: </div><div class="block">
     start: <div class="folding"><div class="block">
-- props:
+stars:
+  props:
     justify: right
   tags:
     end: </div>
-    name: stars
     start: <div class="stars">
-- props:
+h1:
+  props:
     bold: true
     size: 150
-  tags:
-    name: h1
-- props:
+  tags: {}
+h2:
+  props:
     bold: true
     size: 140
-  tags:
-    name: h2
-- props:
+  tags: {}
+h3:
+  props:
     bold: true
     size: 130
-  tags:
-    name: h3
-- props:
+  tags: {}
+h4:
+  props:
     bold: true
     size: 120
-  tags:
-    name: h4
-- props:
+  tags: {}
+message:
+  props:
     colour: red
   tags:
     end: </div>
-    name: message
     start: <div class="message">
-- props:
+gloss:
+  props:
     italics: true
   tags:
     end: </span>
-    name: gloss
     start: <span class="gloss">
-- tags:
+multiline:
+  tags:
     end: ' '
-    name: multiline
     pipe: <br>
     start: ' '
-- props:
+external:
+  props:
     colour: blue
     underline: true
   tags:
     end: </a>
     hyperlink: true
-    name: external
     pipe: '">'
     start: <a href="
-- props:
+internal:
+  props:
     colour: blue
     underline: true
   tags:
     end: </a>
     hyperlink: true
-    name: internal
     pipe: '">'
     start: <a href="
-- tags:
+dictionary:
+  tags:
     end: '">'
-    name: dictionary
     start: <a href="dictionary.tinellb.com/lex/
-- tags:
+image:
+  tags:
     end: '">'
-    name: image
     start: <img src="
-- props:
+tinellbian:
+  props:
     font: tinellbian
   tags:
     end: </span>
     language: x-tlb-%l
-    name: tinellbian
     start: <span class="tinellbian">
-- props:
+transliteration:
+  props:
     bold: true
   tags:
     end: </span>
     language: x-tlb-%l
-    name: transliteration
     start: <span class="transliteration">
-- tags:
-    name: abbr
+abbr:
+  tags: {}
   props:
     font: Felix Titling
     size: 70
-- props:
+highlight:
+  props:
     background: yellow
   tags:
     end: <span>
-    name: highlight
     start: <span class="highlight">
-- props:
+meaning:
+  props:
     italics: true
   tags:
     end: </span>
-    name: meaning
     start: <span class="meaning">
-- props:
+ipa:
+  props:
     font: lucida sans unicode
   tags:
     end: </span>
-    name: ipa
     start: <span class="ipa">
-- props:
+symbol:
+  props:
     italics: true
   tags:
     end: </span>
-    name: symbol
     start: <span class="symbol">
-- props:
+overline:
+  props:
     underline: true
   tags:
     end: </span>
-    name: overline
     start: <span class="overline">
-- props:
+strong:
+  props:
     bold: true
-  tags:
-    name: strong
-- props:
+  tags: {}
+sup:
+  props:
     offset: superscript
-  tags:
-    name: sup
-- props:
+  tags: {}
+season:
+  props:
     size: 2
   tags:
     end: </span>
-    name: season
     pipe: '">'
     start: <span class="season" title=">

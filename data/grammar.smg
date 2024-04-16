@@ -30,3 +30,4 @@ templates:
     search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
     show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
   wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\wholepage.tpl
+port: 20024
