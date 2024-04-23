@@ -42,7 +42,7 @@ text:
 - <content>
 - <param>nav-footer</param>
 - <param>title heading</param>
-- <template>contents</template>
+- <data>contents</data>
 - <param>toc</param>
 - <template>copyright</template>
 - <template>show javascript</template>

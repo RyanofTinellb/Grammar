@@ -31,3 +31,4 @@ templates:
     show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
   wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\wholepage.tpl
 port: 20024
+languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
