@@ -1,4 +1,4 @@
-tagger:
+styles:
   content:
     end: </div
     start: <div class="content">
@@ -39,7 +39,7 @@ text:
 - <navpane>
 - <template>family links</template>
 - </navpane>
-- <content>
+- <main>
 - <param>nav-footer</param>
 - <param>title heading</param>
 - <data>contents</data>
@@ -48,7 +48,7 @@ text:
 - <template>show javascript</template>
 - <template>highlight search term</template>
 - <param>scripts</param>
-- </content>
+- </main>
 - </flex>
 - </body>
 - </html>

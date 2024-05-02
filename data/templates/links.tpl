@@ -1,2 +1,2 @@
-null
-...
+styles: {}
+text: []

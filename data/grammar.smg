@@ -8,6 +8,11 @@ assets:
   wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\wordlist.json
 entries:
 - - A Grammar of the Tinellbian Languages
+  - Languages
+  - High Lulani
+  - Morphology
+  - Nouns
+  - Stems
 language: 'en: English'
 links:
   ExternalDictionary: http://dictionary.tinellb.com

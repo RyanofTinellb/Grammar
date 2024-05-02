@@ -1,186 +1,151 @@
 default:
   props:
     size: 18
-  tags: {}
 columns:
-  tags:
-    end: </div>
-    start: <div class="columns">
+  end: </div>
+  start: <div class="columns">
 mobiletable:
-  tags:
-    end: </div>
-    start: <div class="mobile-table">
+  end: </div>
+  start: <div class="mobile-table">
 leftcolumns:
-  tags:
-    end: </div>
-    start: <div class="left-columns">
+  end: </div>
+  start: <div class="left-columns">
 table:
-  tags:
-    separator: tr
+  separator: tr
 ol:
-  tags:
-    separator: li
+  separator: li
 ul:
-  tags:
-    separator: li
+  separator: li
 sentencelist:
   props:
     left: 5
-  tags:
-    end: </div>
-    separator: p
-    start: <div class="sentence-list">
+  end: </div>
+  separator: p
+  start: <div class="sentence-list">
 wordlist:
   props:
     background: '#ffffcc'
     left: 5
-  tags:
-    end: </div>
-    separator: p
-    start: <div class="wordlist">
+  end: </div>
+  separator: p
+  start: <div class="wordlist">
 interlinear:
-  tags:
-    end: </div>
-    start: <div class="interlinear">
+  end: </div>
+  start: <div class="interlinear">
 paragraph:
-  tags:
-    end: </div>
-    start: <div class="paragraph">
+  end: </div>
+  start: <div class="paragraph">
 folding:
-  tags:
-    end: </div></div>
-    pipe: </div><div class="block">
-    start: <div class="folding"><div class="block">
+  end: </div></div>
+  pipe: </div><div class="block">
+  start: <div class="folding"><div class="block">
 stars:
   props:
     justify: right
-  tags:
-    end: </div>
-    start: <div class="stars">
-h1:
-  props:
-    bold: true
-    size: 150
-  tags: {}
+  end: </div>
+  start: <div class="stars">
 h2:
   props:
     bold: true
-    size: 140
-  tags: {}
+    size: 150
 h3:
   props:
     bold: true
-    size: 130
-  tags: {}
+    size: 140
 h4:
   props:
     bold: true
+    size: 130
+h5:
+  props:
+    bold: true
     size: 120
-  tags: {}
 message:
   props:
     colour: red
-  tags:
-    end: </div>
-    start: <div class="message">
+  end: </div>
+  start: <div class="message">
 gloss:
   props:
     italics: true
-  tags:
-    end: </span>
-    start: <span class="gloss">
+  end: </span>
+  start: <span class="gloss">
 multiline:
-  tags:
-    end: ' '
-    pipe: <br>
-    start: ' '
+  end: ' '
+  pipe: <br>
+  start: ' '
 external:
   props:
     colour: blue
     underline: true
-  tags:
-    end: </a>
-    hyperlink: true
-    pipe: '">'
-    start: <a href="
+  end: </a>
+  hyperlink: true
+  pipe: '">'
+  start: <a href="
 internal:
   props:
     colour: blue
     underline: true
-  tags:
-    end: </a>
-    hyperlink: true
-    pipe: '">'
-    start: <a href="
+  end: </a>
+  hyperlink: true
+  pipe: '">'
+  start: <a href="
 dictionary:
-  tags:
-    end: '">'
-    start: <a href="dictionary.tinellb.com/lex/
+  end: '">'
+  start: <a href="dictionary.tinellb.com/lex/
 image:
-  tags:
-    end: '">'
-    start: <img src="
+  end: '">'
+  start: <img src="
 tinellbian:
   props:
     font: tinellbian
-  tags:
-    end: </span>
-    language: x-tlb-%l
-    start: <span class="tinellbian">
+  end: </span>
+  language: x-tlb-%l
+  start: <span class="tinellbian">
 transliteration:
   props:
     bold: true
-  tags:
-    end: </span>
-    language: x-tlb-%l
-    start: <span class="transliteration">
+  end: </span>
+  language: x-tlb-%l
+  start: <span class="transliteration">
 abbr:
-  tags: {}
   props:
     font: Felix Titling
     size: 70
 highlight:
   props:
     background: yellow
-  tags:
-    end: <span>
-    start: <span class="highlight">
+  end: <span>
+  start: <span class="highlight">
 meaning:
   props:
     italics: true
-  tags:
-    end: </span>
-    start: <span class="meaning">
+  end: </span>
+  start: <span class="meaning">
 ipa:
   props:
     font: lucida sans unicode
-  tags:
-    end: </span>
-    start: <span class="ipa">
+  end: </span>
+  start: <span class="ipa">
 symbol:
   props:
     italics: true
-  tags:
-    end: </span>
-    start: <span class="symbol">
+  end: </span>
+  start: <span class="symbol">
 overline:
   props:
     underline: true
-  tags:
-    end: </span>
-    start: <span class="overline">
+  end: </span>
+  start: <span class="overline">
 strong:
   props:
     bold: true
-  tags: {}
 sup:
   props:
     offset: superscript
-  tags: {}
 season:
   props:
     size: 2
-  tags:
-    end: </span>
-    pipe: '">'
-    start: <span class="season" title=">
+  end: </span>
+  pipe: '">'
+  start: <span class="season" title=">

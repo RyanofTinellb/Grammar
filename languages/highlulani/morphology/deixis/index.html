@@ -1,140 +1,29 @@
-<!DOCTYPE html>
+<doctype>html</doctype>
 <html>
-
 <head>
-    <meta name="viewport" content="width=device-width,
-                                initial-scale=1.0, user-scalable=yes">
-    <meta charset="utf-8">
-    <title>
-        High Lulani Deixis - Tinellbian Languages
-    </title>
-    <link rel="stylesheet" type="text/css" href="../../../basic_style.css">
-<link rel="stylesheet" type="text/css" href="../../../style.css">
-
-    <link rel="icon" type="image/png" href="../../../favicon.png">
-
-        <script type="text/javascript">
-let href = window.location.href;
-if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
-    let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
-    window.location.href = `../../../search.html?${term}&andOr=and`;
-}
-</script>
-
+<meta>name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"</meta>
+<meta>charset="utf-8"</meta>
+<title><param>category title</param> - Tinellbian Languages</title>
+<stylesheet>data/stylesheets/basic_style.css</stylesheet>
+<stylesheet>data/stylesheets/style.css</stylesheet>
+<icon>data/images/favicon.png</icon>
+<template>search script</template>
 </head>
-
 <body>
-    <div class="flex">
-        <div class="nav-pane">
-            <label>
-  <input type="checkbox" class="menu">
-  <ul>
-  <li><a href="../../../index.html">A Grammar of the Tinellbian Languages</a></li>
-    <div class="javascript">
-      <form id="search">
-        <li class="search">
-          <input type="text" name="term">
-          <button type="submit">Search</button>
-        </li>
-      </form>
-    </div>
-   <div class="links">  <ul class="level-1"><li><a href="../../index.html">High Lulani</a></li>
-<ul class="level-2"><li><a href="../../phonology/index.html">Phonology</a></li>
-<li><a href="../../orthography/index.html">Orthography</a></li>
-<li><a href="../index.html">Morphology</a></li>
-<ul class="level-3"><li><a href="../nouns/index.html">Nouns</a></li>
-<li><a href="../verbs/index.html">Verbs</a></li>
-<li><a href="../auxiliaries.html">Auxiliaries</a></li>
-<li><a href="../adpositions.html">Adpositions</a></li>
-<li><a href="../suffixes/index.html">Suffixes</a></li>
-<li class="normal">Deixis</li>
-<ul class="level-4"><li><a href="personalpro-forms.html">Personal Pro-forms</a></li>
-<li><a href="indefinitepro-forms.html">Indefinite Pro-forms</a></li>
-</ul>
-<li><a href="../conjunctions.html">Conjunctions</a></li>
-<li><a href="../particles/index.html">Particles</a></li>
-</ul>
-<li><a href="../../syntax/index.html">Syntax</a></li>
-<li><a href="../../apocrypha/index.html">Apocrypha</a></li>
-<li><a href="../../sampletexts/index.html">Sample Texts</a></li>
-</ul>
-<li><a href="../../../demoticlulani/index.html">Demotic Lulani</a></li>
-</ul>
-   </div></ul></label>
-        </div>
-        <div class="content">
-            <div class="nav-footer"><div>
-<a href="../suffixes/determiners.html">&larr; Previous page</a>
-</div>
-
-<div>
-<a href="personalpro-forms.html">Next page &rarr;</a>
-</div>
-</div>
-            <h1 id="deixis">Deixis</h1>
-
-            <div class="main-contents">
-<p>Deixis encompasses words and phrases which rely on an external context to complete their meaning.</p>
-<h2 id="topicality">Topicality</h2>
-
-<p>Once a topic is introduced in a discourse or narrative, it can be assumed to be the subject until changed.</p>
-<h2 id="pro-forms">Pro-forms</h2>
-
-<p>The two groups of pro-forms are classified on the basis of their semantic properties.</p>
-<p><a href="personalpro-forms.html">Personal pro-forms</a>, otherwise known as definite pro-forms, are those that encode case, person, animacy and topicality.  <a href="indefinitepro-forms.html">Indefinite pro-forms</a> comprise the remaining deictic terms.</p></div>
-            <div class="toc">
-<p><a href="personalpro-forms.html">Personal Pro-forms</a></p>
-<p><a href="indefinitepro-forms.html">Indefinite Pro-forms</a></p>
-</div>
-            <div class="nav-footer"><div>
-<a href="../suffixes/determiners.html">&larr; Previous page</a>
-</div>
-
-<div>
-<a href="personalpro-forms.html">Next page &rarr;</a>
-</div>
-</div>
-            <div class="copyright">
-    <span class="no-breaks">
-        &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>,
-    </span>
-    <span class="no-breaks">
-        using the <a href="https://github.com/RyanofTinellb/Smeagol">Sméagol</a> web editor.
-    </span>
-    <span class="no-breaks">
-        Last updated: Saturday, May 4th, 2019.
-    </span>
-            </div>
-        </div>
-    </div>  
-    <script type="text/javascript">
-        for (elt of document.getElementsByClassName('javascript')) {
-            elt.style.display = "block";
-        }        
-</script>
-        <script type="text/javascript">
-        let terms = window.location.href.split("?highlight=")[1];
-        terms = terms.split("+");
-        let loc = document.getElementsByClassName("main-contents")[0];
-        let text = loc.innerHTML;
-        for (term of terms) {
-            const rep = new RegExp(`(^|\\W)(${term})($|\\W)`, "gim");
-            text = text.replace(rep, "$1<highlight>$2</highlight>$3");
-            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
-            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
-            text = text.replace(/<highlight>/g, "<highlight id=\"searchterm\">");
-        }
-        loc.innerHTML = text;
-        loc = document.getElementsByTagName("h1")[0];
-        loc.innerHTML += " <a href=\"#searchterm\">&rarr;</a>";        
-    // imaginary comment
-    </script>
-    
+<flex>
+<navpane>
+<template>family links</template>
+</navpane>
+<content>
+<param>nav-footer</param>
+<param>title heading</param>
+<data>contents</data>
+<param>toc</param>
+<template>copyright</template>
+<template>show javascript</template>
+<template>highlight search term</template>
+<param>scripts</param>
+</content>
+</flex>
 </body>
 </html>
-
-
-
-
-
-

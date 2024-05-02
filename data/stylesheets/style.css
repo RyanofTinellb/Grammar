@@ -93,40 +93,40 @@ h6 {
     background-color: #b49cce;
 }
 
-.content p {
+main p {
     line-height: 2;
     text-indent: 1em;
 }
 
-.content p.example, .content p.example_no_lines {
+main p.example, main p.example_no_lines {
     margin-left: 10%;
     line-height: 1.5;
 }
 
-.content ul, .content ol {
+main ul, main ol {
     margin-left: 10%;
 }
 
-.content ol {
+main ol {
     list-style: lower-roman;
 }
 
-.content table {
+main table {
     margin-left: 5%;
     margin-top: 2em;
     margin-bottom: 2em;
 }
 
-.content table td, .content table th {
+main table td, main table th {
     padding: 2px 1em;
 }
 
-.content .hierarchy table td {
+main .hierarchy table td {
     border: none;
     height: 1em;
 }
 
-.content .toc {
+main .toc {
     margin-top: 1em;
     margin-left: 10%;
     margin-bottom: 3em;
@@ -135,7 +135,7 @@ h6 {
     border-bottom: 1px solid purple;
 }
 
-.content .toc::before {
+main .toc::before {
     content: 'Continue with:';
     font-size: larger;
     font-style: italic;
@@ -143,18 +143,18 @@ h6 {
     top: -0.5em;
 }
 
-.content .toc p::before {
+main .toc p::before {
     content: '\227b';
     font-size: large;
     line-height: 1;
     padding-right: 1em;
 }
 
-.content .toc a {
+main .toc a {
     color: black;
 }
 
-.content div.wordlist {
+main div.wordlist {
     margin-top: 1em;
     margin-left: 5%;
     margin-bottom: 3em;
@@ -162,47 +162,47 @@ h6 {
     padding-bottom: 1em;
 }
 
-.content div.wordlist p.example, .content div.wordlist p.example_no_lines {
+main div.wordlist p.example, main div.wordlist p.example_no_lines {
     margin-left: 10%;
 }
 
-.content div.folding {
+main div.folding {
     margin-top: 1em;
     margin-bottom: 1em;
 }
 
-.content div.columns, .content div.left-columns {
+main div.columns, main div.left-columns {
     display: flex;
     flex-flow: row wrap;
 }
 
-.content div.columns table th, .content div.columns table td,
-.content div.left-columns table th, .content div.left-columns table td {
+main div.columns table th, main div.columns table td,
+main div.left-columns table th, main div.left-columns table td {
     border: none;
     padding: 0.5em 0.5em;
 }
 
-.content div.left-columns table th, .content div.left-columns table td {
+main div.left-columns table th, main div.left-columns table td {
     text-align: left;
 }
 
-.content div.columns table th:first-child,
-.content div.left-columns table th:first-child {
+main div.columns table th:first-child,
+main div.left-columns table th:first-child {
     text-align: center;
 }
 
-.content .paragraph {
+main .paragraph {
     padding-top: 1em;
     font-family: georgia, serif;
 }
 
-.content .stars {
+main .stars {
     text-align: center;
     margin-bottom: 1em;
     letter-spacing: 2vw;
 }
 
-.content .stars::after {
+main .stars::after {
     content: "* * *"
 }
 
@@ -268,31 +268,31 @@ input:checked:not(#All) ~ .paragraph input {
 }
 
 @media screen and (max-width: 800px) {
-    div.content {
+    divmain {
         width: 100%;
         margin-left: 0;
     }
 
-    div.content p {
+    divmain p {
         margin-left: 5%;
         margin-right: 5%;
     }
 
-    div.content .folding p {
+    divmain .folding p {
         margin-right: 0;
     }
 
-    div.content div.paragraph p.example,
-    div.content div.paragraph p.example_no_lines {
+    divmain div.paragraph p.example,
+    divmain div.paragraph p.example_no_lines {
         margin-left: 5%;
         margin-right: 5%;
     }
 
-    .content div.wordlist p.example, .content div.wordlist p.example_no_lines {
+    main div.wordlist p.example, main div.wordlist p.example_no_lines {
         margin-left: 5%;
     }
 
-    .content div.wordlist {
+    main div.wordlist {
         margin-left: 10%;
     }
 

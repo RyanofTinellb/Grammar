@@ -1,139 +1,29 @@
-<!DOCTYPE html>
+<doctype>html</doctype>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta charset="utf-8">
+<meta>name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"</meta>
+<meta>charset="utf-8"</meta>
 <title><param>category title</param> - Tinellbian Languages</title>
-<link rel="stylesheet" type="text/css" href="/data/stylesheets/basic_style.css">
-<link rel="stylesheet" type="text/css" href="/data/stylesheets/style.css">
-<link rel="icon" type="image/png" href="/data/images/favicon.png">
-<script type="text/javascript">
-let href = window.location.href;
-if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
-    let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
-    window.location.href = `<link>/search.html</link>?${{term}}&andOr=and`;
-}
-</script>
+<stylesheet>data/stylesheets/basic_style.css</stylesheet>
+<stylesheet>data/stylesheets/style.css</stylesheet>
+<icon>data/images/favicon.png</icon>
+<template>search script</template>
 </head>
 <body>
-<div class="flex">
-<div class="nav-pane">
-<label>
-  <input type="checkbox" class="menu">
-  <ul>
-  <li><a href="../../index.html">A Grammar of the Tinellbian Languages</a></li>
-    <div class="javascript">
-      <form id="search">
-        <li class="search">
-          <input type="text" name="term">
-          <button type="submit">Search</button>
-        </li>
-      </form>
-    </div>
-   <div class="links">
-<ul class="level-1"><li><a href="../index.html">High Lulani</a></li>
-<ul class="level-2"><li><a href="../phonology/index.html">Phonology</a></li>
-<li><a href="../orthography/index.html">Orthography</a></li>
-<li><a href="../morphology/index.html">Morphology</a></li>
-<li><a href="index.html">Syntax</a></li>
-<ul class="level-3"><li><a href="case.html">Case</a></li>
-<li><a href="matrixclauses/index.html">Matrix Clauses</a></li>
-<li><a href="argumentpromotion.html">Argument Promotion</a></li>
-<li><a href="dependentclauses/index.html">Dependent Clauses</a></li>
-<li class="normal">Noun Phrases</li>
-<li><a href="gerunds.html">Gerunds</a></li>
-</ul>
-<li><a href="../apocrypha/index.html">Apocrypha</a></li>
-<li><a href="../sampletexts/index.html">Sample Texts</a></li>
-</ul>
-<li><a href="../../demoticlulani/index.html">Demotic Lulani</a></li>
-</ul>
-   </div></ul></label>
-</div>
-<div class="content">
+<flex>
+<navpane>
+<template>family links</template>
+</navpane>
+<content>
 <param>nav-footer</param>
 <param>title heading</param>
-Common and proper nouns are open classes; the pronouns are closed.
-Common Nouns
-Common nouns can refer to abstract or concrete items.
-<wordlist><block><link>lu’i</link> ヲイ <em>love</em>
-bata バタ <em>caution</em>
-’ahati アハテ <em>happiness</em>
-caga ヤガ <em>mouth</em>
-purissiji プリッセジ <em>circle</em></block></wordlist>
-Stem Nouns
-Stem nouns are those that are neither compounded nor derived.
-<h3>Mass Nouns</h3>
-Mass nouns refer to an undifferentiated aggregation rather than separate units. These cannot take numbers, except for a postpended <link>xita</link> <em>one</em> to denote the smallest individual piece of that aggregate.
-<wordlist><block><link>’iti</link> イテ <em>milk</em> / ’itixita イテシタ <em>drop of milk</em>
-marru マッル <em>flies</em> / marruxita マッルシタ <em>fly</em></block></wordlist>
-<h3>Animacy</h3>
-This determines which derivational suffixes can be applied, and which pronouns are used as reference.
-<h4>Animate Noun</h4>
-These refer to people and other multicellular organisms capable of independent movement.
-<wordlist><block><link>gusu</link> グス <em>person</em>
-lulani ヲワニ <em>queen</em>
-kitisu キテス <em>father</em>
-sula スワ <em>goat</em></block></wordlist>
-<h4>Inanimate Noun</h4>
-These refer to things such as natural phenomena, plants, fungi and unicellular life.
-<wordlist><block><link>tissa</link> テッサ <em>wind</em>
-linu エヌ <em>tree</em>
-hurru ホッル <em>yeast</em></block></wordlist>
-<h4>Abstract Noun</h4>
-This category encompasses concepts, ideas and other intangibles. They are referred to by inanimate pronouns.
-<wordlist><block><link>sutti</link> スッテ <em>fear</em>
-’adda アッダ <em>past</em>
-tuhhi トッヒ <em>agriculture</em>
-laru ワル <em>year</em>
-sajja サッヂ <em>silence</em></block></wordlist>
-Compound Nouns
-The first part of a compound noun must be a noun, and the subsequent parts specify the meaning of that noun. These parts can be nouns or verbs. The whole noun is usually written without spaces. The syllabification and stress of nonce words are determined on a stem-by-stem basis. However, a compound in common use will start being treated whole.
-<wordlist><folding><block><transliteration>jifiru’inulli</transliteration>
-ジベルイヌッエ
-<link>jifiru’i</link>-<link>nulli</link>
-<gloss>lake-mountain</gloss>
-“mountain lake”</block></folding>
-<folding><block>xu’abaju</block>
-ズアバヨ
-<link>xu’a</link>-<link>baju</link>
-<gloss>bird-blue</gloss>
-“bluebird”</folding></wordlist>
-Proper Nouns
-Proper nouns begin with a capital letter in the transliteration. These are names that refer to individual people, places or things.
-<wordlist><block><link>Ra’ani</link> ラアニ <em>Ryan</em> (name of a person)
-<strong>ʔikinnisa</strong> イキッニサ <em>Eakins</em> (name of a family)
-Sa’imi サイミ <em>Caemi</em> (name of a deity)
-Tinalli テナッエ <em>Tinellb</em> (name of a universe)
-ʔirri’a イッリア <em>Irìa</em> (name of a city)
-Lulani ヲワニ <em>Lulani</em> (name of a language)
-Xucipura Cula ズチプラ ・ ユワ <em>The Crackled Egg</em> (name of a story)</block></wordlist>
+<data>contents</data>
 <param>toc</param>
-<copyright>
-    <no-breaks>&copy;2017-<param>year</param> <link>http://www.tinellb.com/about.html|Ryan Eakins</link>,}</no-breaks> <no-breaks>using the <link>https://github.com/RyanofTinellb/Smeagol|Sméagol</link> web editor.</no-breaks> <no-breaks>Last updated: <param>full date</param>.</no-breaks>
-<script type="text/javascript">
-        for (elt of document.getElementsByClassName('javascript')) {
-            elt.style.display = "block";
-        }        
-</script>
-    <script type="text/javascript">
-        let terms = window.location.href.split("?highlight=")[1];
-        terms = terms.split("+");
-        let loc = document.getElementsByClassName("main-contents")[0];
-        let text = loc.innerHTML;
-        for (term of terms) {
-            const rep = new RegExp(`(^|\\W)(${term})($|\\W)`, "gim");
-            text = text.replace(rep, "$1<highlight>$2</highlight>$3");
-            text = text.replace(/(<[^>]*?)<highlight>([^<]*?)>.highlight<([^>]*?<)/g, "$1$2$3");
-            text = text.replace(/(>[^<]*?)>highlight<([^>]*?)<.highlight>([^<]*?>)/g, "$1$2$3");
-            text = text.replace(/<highlight>/g, "<highlight id=\"searchterm\">");
-        }
-        loc.innerHTML = text;
-        loc = document.getElementsByTagName("h1")[0];
-        loc.innerHTML += " <a href=\"#searchterm\">&rarr;</a>";        
-    </script>
+<template>copyright</template>
+<template>show javascript</template>
+<template>highlight search term</template>
 <param>scripts</param>
-</div
-</div>
+</content>
+</flex>
 </body>
 </html>
