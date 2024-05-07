@@ -2,94 +2,95 @@ default:
   props:
     size: 18
 columns:
-  end: </div>
-  start: <div class="columns">
-mobiletable:
-  end: </div>
-  start: <div class="mobile-table">
-leftcolumns:
+  type: div
+mobile-table:
+  type: div
+left-columns:
   end: </div>
   start: <div class="left-columns">
 table:
-  separator: tr
+  type: table
 ol:
-  separator: li
+  start: <li>
+  end: </li>
 ul:
-  separator: li
-sentencelist:
+  start: <li>
+  end: </li>
+sentence-list:
   props:
     left: 5
-  end: </div>
-  separator: p
-  start: <div class="sentence-list">
+  type: div
 wordlist:
+  type: div
   props:
-    background: '#ffffcc'
+    background: '#cccc99'
     left: 5
-  end: </div>
-  separator: p
-  start: <div class="wordlist">
 interlinear:
-  end: </div>
-  start: <div class="interlinear">
+  type: div
 paragraph:
-  end: </div>
-  start: <div class="paragraph">
+  type: div
+folded:
+  type: line
+  open: <summary class="folding">
+  close: </summary>
 folding:
-  end: </div></div>
-  pipe: </div><div class="block">
-  start: <div class="folding"><div class="block">
+  type: block
+  open: <details class="folding">
+  close: </details>
 stars:
   props:
     justify: right
-  end: </div>
-  start: <div class="stars">
+  type: div
 h2:
+  type: heading
   props:
     bold: true
     size: 150
 h3:
+  type: heading
   props:
     bold: true
     size: 140
 h4:
+  type: heading
   props:
     bold: true
     size: 130
 h5:
+  type: heading
   props:
     bold: true
     size: 120
 message:
+  type: div
   props:
     colour: red
-  end: </div>
-  start: <div class="message">
 gloss:
+  type: span
   props:
     italics: true
-  end: </span>
-  start: <span class="gloss">
 multiline:
-  end: ' '
+  open: ' '
   pipe: <br>
-  start: ' '
+  close: ' '
+  rank: -100
 external:
   props:
     colour: blue
     underline: true
-  end: </a>
+  open: <a href="
+  close: </a>
   hyperlink: true
   pipe: '">'
-  start: <a href="
 internal:
+  type: link
   props:
     colour: blue
     underline: true
-  end: </a>
+  close: </a>
   hyperlink: true
   pipe: '">'
-  start: <a href="
+  open: <a href="
 dictionary:
   end: '">'
   start: <a href="dictionary.tinellb.com/lex/
@@ -120,8 +121,7 @@ highlight:
 meaning:
   props:
     italics: true
-  end: </span>
-  start: <span class="meaning">
+  type: span
 ipa:
   props:
     font: lucida sans unicode

@@ -78,12 +78,13 @@ h1 a:link {
     flex-direction: row;
 }
 
-.nav-pane {
-    text-align: left;
+nav {
+    text-align: center;
     width: 25%;
+    margin-top: 2rem;
 }
 
-.nav-pane input.menu {
+nav input.menu {
     display: none;
 }
 
@@ -260,14 +261,14 @@ main .copyright {
     main p {
         text-align: left;
     }
-    .nav-pane {
+    nav {
         width: 100%;
     }
-    .nav-pane label::before {
+    nav label::before {
         content: "Menu";
         font-weight: bold;
     }
-    .nav-pane input.menu {
+    nav input.menu {
         display: inherit;
     }
     input.menu+ul {

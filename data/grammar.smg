@@ -12,11 +12,7 @@ entries:
   - High Lulani
   - Morphology
   - Nouns
-  - Stems
 language: 'en: English'
-links:
-  ExternalDictionary: http://dictionary.tinellb.com
-  Glossary: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\glossary.gls
 locations:
   directory: c:\users\ryan\tinellbianlanguages\grammar
   search: C:\Users\Ryan\TinellbianLanguages\grammar\search.html
@@ -25,15 +21,15 @@ locations:
 markdown: ''
 styles: c:\users\ryan\tinellbianlanguages\grammar\data\assets\styles.tag
 templates:
-  main: C:\Users\Ryan\TinellbianLanguages\grammar\data\templates\page.tpl
-  search: C:\Users\Ryan\TinellbianLanguages\grammar\data\templates\search.tpl
-  page404: C:\Users\Ryan\TinellbianLanguages\grammar\data\templates\404.tpl
+  main: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\page.tpl
   sections:
     copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
     highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
     search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
     show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
+    navigation pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navpane.tpl
   wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\wholepage.tpl
 port: 20024
 languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
+links: {}

@@ -13,37 +13,37 @@ highlight {
     line-height: 2;
 }
 
-.nav-pane {
+nav {
     line-height: 1.75;
 }
 
-.nav-pane ul {
+nav ul {
     list-style: none;
     padding-left: 1.2em;
 }
 
-.nav-pane ul.level-1 > li {
+nav ul.level-1 > li {
     padding-top: 0.5em;
     font-size: larger;
 }
 
-.nav-pane ul.level-1 > li::before {
+nav ul.level-1 > li::before {
     content: ">\a0";
 }
-.nav-pane ul.level-1 > li::after {
+nav ul.level-1 > li::after {
     content: "\a0<";
 }
 
-.nav-pane .links-root ul.level-3 {
+nav .links-root ul.level-3 {
     display: none;
 }
 
-.nav-pane li.normal {
+nav li.normal {
     font-weight: bold;
     text-decoration: underline;
 }
 
-.nav-pane a {
+nav a {
     color: black;
     text-decoration: none;
 }
@@ -96,11 +96,6 @@ h6 {
 main p {
     line-height: 2;
     text-indent: 1em;
-}
-
-main p.example, main p.example_no_lines {
-    margin-left: 10%;
-    line-height: 1.5;
 }
 
 main ul, main ol {

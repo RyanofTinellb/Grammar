@@ -1,54 +1,68 @@
 styles:
-  content:
-    end: </div
-    start: <div class="content">
-  doctype:
-    end: '>'
-    start: '<!DOCTYPE '
-  flex:
-    end: </div>
-    start: <div class="flex">
-  icon:
-    end: '">'
-    hyperlink: true
-    start: <link rel="icon" type="image/png" href="/
+  '!doctype':
+    type: complete
+  html:
+    type: block
+    language: true
+  head:
+    type: block
   meta:
-    end: '>'
-    start: '<meta '
-  navpane:
-    end: </div>
-    start: <div class="nav-pane">
-  stylesheet:
-    end: '">'
-    hyperlink: true
-    start: <link rel="stylesheet" type="text/css" href="/
+    type: complete
+  title:
+    type: line
+  h1:
+    type: heading
+  entry-data:
+    type: data
+  data:
+    type: data
+  link:
+    type: complete
+  internal-link:
+    type: link
+  inline-script:
+    type: line
+    open: <script>
+    close: </script>
+  script:
+    type: complete
+    close: '></script>'
+  body:
+    type: block
+    start: <p>
+    end: </p>
+  main:
+    type: block
+  flex:
+    type: div
+  template:
+    type: template
+  content:
+    type: div
+  javascript:
+    type: line
+  input:
+    type: complete
+  footer:
+    type: block
 text:
-- <doctype>html</doctype>
-- <html>
-- <head>
-- <meta>name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"</meta>
+- <!doctype>html</!doctype>
+- <html@en><head><meta>name="viewport" content="width=device-width/initial-scale=1.0"</meta>
 - <meta>charset="utf-8"</meta>
-- <title><param>category title</param> - Tinellbian Languages</title>
-- <stylesheet>data/stylesheets/basic_style.css</stylesheet>
-- <stylesheet>data/stylesheets/style.css</stylesheet>
-- <icon>data/images/favicon.png</icon>
-- <template>search script</template>
-- </head>
-- <body>
-- <flex>
-- <navpane>
-- <template>family links</template>
-- </navpane>
-- <main>
-- <param>nav-footer</param>
-- <param>title heading</param>
-- <data>contents</data>
-- <param>toc</param>
-- <template>copyright</template>
-- <template>show javascript</template>
-- <template>highlight search term</template>
-- <param>scripts</param>
-- </main>
-- </flex>
-- </body>
-- </html>
+- <title><entry-data>name</entry-data></title>
+- <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/basic_style.css</internal-link>"</link>
+- <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/style.css</internal-link>"</link>
+- <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link>
+- <inline-script>let href = window.location.href;
+- if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
+- let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
+- window.location.href = `<internal-link>special/search</internal-link>?${term}&andOr=and`;
+- '}</inline-script>'
+- <script>src="<internal-link>data/scripts/search.js</internal-link>"</script>
+- <body><flex><template>navigation pane</template>
+- <main><h1><data>name</data></h1>
+- <data>contents</data></main></flex>
+- <footer><template>copyright</template></footer>
+- <inline-script>
+- for (elt of document.getElementsByClassName('javascript')) {
+- elt.style.display = "block";}</inline-script></body></html@en>

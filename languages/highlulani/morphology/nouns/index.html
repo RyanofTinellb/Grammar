@@ -1,29 +1,83 @@
-<doctype>html</doctype>
-<html>
-<head>
-<meta>name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"</meta>
-<meta>charset="utf-8"</meta>
-<title><param>category title</param> - Tinellbian Languages</title>
-<stylesheet>data/stylesheets/basic_style.css</stylesheet>
-<stylesheet>data/stylesheets/style.css</stylesheet>
-<icon>data/images/favicon.png</icon>
-<template>search script</template>
+<!doctype html>
+<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<meta charset="utf-8">
+<title>Nouns</title>
+<link rel="stylesheet" type="text/css" href="../../../../data/stylesheets/basic_style.css">
+<link rel="stylesheet" type="text/css" href="../../../../data/stylesheets/style.css">
+<link rel="icon" type="image/png" href="../../../../data/assets/favicon.png">
+<script> let href = window.location.href; 
+ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `../../../../special/search.html?${term}&andOr=and`; 
+ } </script>
+<script src="../../../../data/scripts/search.js"></script>
+<body><div class="flex"><nav><details><summary> Menu </summary>
+<ul><li><a href="../../../../index.html">A Grammar of the Tinellbian Languages</a></li>
+<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
+<li class="search"><button>Search</button></li></form></div></ul></details></nav>
+
+<main><h1>Nouns</h1>
+<p>Common and proper nouns are open classes; the pronouns are closed.</p>
+<p><h1>Common Nouns</h1></p>
+<p>Common nouns can refer to abstract or concrete items.</p>
+<div class="wordlist"><a href="dictionary.tinellb.com/lex/<dictionary>lu’i</dictionary> <tinellbian lang="x-tlb-hl">をい</tinellbian> <span class="meaning">love</span>">
+<p>bata <tinellbian lang="x-tlb-hl">ばた</tinellbian> <span class="meaning">caution</span></p>
+<p>’ahati <tinellbian lang="x-tlb-hl">あはて</tinellbian> <span class="meaning">happiness</span></p>
+<p>caga <tinellbian lang="x-tlb-hl">やが</tinellbian> <span class="meaning">mouth</span></p>
+<p>purissiji <tinellbian lang="x-tlb-hl">ぷりっせじ</tinellbian> <span class="meaning">circle</span></p></div>
+<h2> Stem Nouns </h2>
+<p>Stem nouns are those that are neither compounded nor derived.</p>
+<h3> Mass Nouns </h3>
+<p>Mass nouns refer to an undifferentiated aggregation rather than separate units. These cannot take numbers, except for a postpended <dictionary>xita</dictionary> <span class="meaning">one</span> to denote the smallest individual piece of that aggregate.</p>
+<div class="wordlist"><a href="dictionary.tinellb.com/lex/<dictionary>’iti</dictionary> <tinellbian lang="x-tlb-hl">いて</tinellbian> <span class="meaning">milk</span> / ’itixita <tinellbian lang="x-tlb-hl">いてした</tinellbian> <span class="meaning">drop of milk</span>">
+<p>marru <tinellbian lang="x-tlb-hl">まっる</tinellbian> <span class="meaning">flies</span> / marruxita <tinellbian lang="x-tlb-hl">まっるした</tinellbian> <span class="meaning">fly</span></p></div>
+<h3> Animacy </h3>
+<p>This determines which derivational suffixes can be applied, and which pronouns are used as reference.</p>
+<h4> Animate Noun </h4>
+<p>These refer to people and other multicellular organisms capable of independent movement.</p>
+<div class="wordlist"><a href="dictionary.tinellb.com/lex/<dictionary>gusu</dictionary> <tinellbian lang="x-tlb-hl">ぐす</tinellbian> <span class="meaning">person</span>">
+<p>lulani <tinellbian lang="x-tlb-hl">をわに</tinellbian> <span class="meaning">queen</span></p>
+<p>kitisu <tinellbian lang="x-tlb-hl">きてす</tinellbian> <span class="meaning">father</span></p>
+<p>sula <tinellbian lang="x-tlb-hl">すわ</tinellbian> <span class="meaning">goat</span></p></div>
+<h4> Inanimate Noun </h4>
+<p>These refer to things such as natural phenomena, plants, fungi and unicellular life.</p>
+<div class="wordlist"><a href="dictionary.tinellb.com/lex/<dictionary>tissa</dictionary> <tinellbian lang="x-tlb-hl">てっさ</tinellbian> <span class="meaning">wind</span>">
+<p>linu <tinellbian lang="x-tlb-hl">えぬ</tinellbian> <span class="meaning">tree</span></p>
+<p>hurru <tinellbian lang="x-tlb-hl">ほっる</tinellbian> <span class="meaning">yeast</span></p></div>
+<h4> Abstract Noun </h4>
+<p>This category encompasses concepts, ideas and other intangibles. They are referred to by inanimate pronouns.</p>
+<div class="wordlist"><a href="dictionary.tinellb.com/lex/<dictionary>sutti</dictionary> <tinellbian lang="x-tlb-hl">すって</tinellbian> <span class="meaning">fear</span>">
+<p>’adda <tinellbian lang="x-tlb-hl">あっだ</tinellbian> <span class="meaning">past</span></p>
+<p>tuhhi <tinellbian lang="x-tlb-hl">とっひ</tinellbian> <span class="meaning">agriculture</span></p>
+<p>laru <tinellbian lang="x-tlb-hl">わる</tinellbian> <span class="meaning">year</span></p>
+<p>sajja <tinellbian lang="x-tlb-hl">さっぢ</tinellbian> <span class="meaning">silence</span></p></div>
+<h2> Compound Nouns </h2>
+<p>The first part of a compound noun must be a noun, and the subsequent parts specify the meaning of that noun. These parts can be nouns or verbs. The whole noun is usually written without spaces. The syllabification and stress of nonce words are determined on a stem-by-stem basis. However, a compound in common use will start being treated whole.</p>
+<p><sentencelist><transliteration lang="x-tlb-hl">jifiru’inulli</transliteration></p>
+<span class="tinellbian"><tinellbian lang="x-tlb-hl">じべるいぬっえ</tinellbian></span>
+<a href="dictionary.tinellb.com/lex/<dictionary>jifiru’i</dictionary>-<dictionary>nulli</dictionary>">
+<p><span class="gloss">lake-mountain</span></p>
+<p>“mountain lake”</p>
+<p>|</p>
+<p>xu’abaju</p>
+<span class="tinellbian"><tinellbian lang="x-tlb-hl">ずあばよ</tinellbian></span>
+<a href="dictionary.tinellb.com/lex/<dictionary>xu’a</dictionary>-<dictionary>baju</dictionary>">
+<p><span class="gloss">bird-blue</span></p>
+<p>“bluebird”</sentencelist></p>
+<p><h1>Proper Nouns</h1></p>
+<p>Proper nouns begin with a capital letter in the transliteration. These are names that refer to individual people, places or things.</p>
+<div class="wordlist"><a href="dictionary.tinellb.com/lex/<dictionary>Ra’ani</dictionary> <tinellbian lang="x-tlb-hl">らあに</tinellbian> <span class="meaning">Ryan</span> (name of a person)">
+<p><strong>ʔikinnisa</strong> <tinellbian lang="x-tlb-hl">いきっにさ</tinellbian> <span class="meaning">Eakins</span> (name of a family)</p>
+<p>Sa’imi <tinellbian lang="x-tlb-hl">さいみ</tinellbian> <span class="meaning">Caemi</span> (name of a deity)</p>
+<p>Tinalli <tinellbian lang="x-tlb-hl">てなっえ</tinellbian> <span class="meaning">Tinellb</span> (name of a universe)</p>
+<p>ʔirri’a <tinellbian lang="x-tlb-hl">いっりあ</tinellbian> <span class="meaning">Irìa</span> (name of a city)</p>
+<p>Lulani <tinellbian lang="x-tlb-hl">をわに</tinellbian> <span class="meaning">Lulani</span> (name of a language)</p>
+<p>Xucipura Cula <tinellbian lang="x-tlb-hl">ずちぷら ・ ゆわ</tinellbian> <span class="meaning">The Crackled Egg</span> (name of a story)</p></div>
+</main></div>
+<footer><p><copyright></p>
+<p>    <nobreaks>&copy;2017-<param>year</param> <link>http://www.tinellb.com/about.html|Ryan Eakins</link>,}</nobreaks> <nobreaks>using the <link>https://github.com/RyanofTinellb/Smeagol|Sméagol</link> web editor.</nobreaks> <nobreaks>Last updated: <param>full date</param>.</nobreaks></p>
+</copyright></footer>
+<script>
+ for (elt of document.getElementsByClassName('javascript')) { 
+ elt.style.display = "block";} </script></body></html>
 </head>
-<body>
-<flex>
-<navpane>
-<template>family links</template>
-</navpane>
-<content>
-<param>nav-footer</param>
-<param>title heading</param>
-<data>contents</data>
-<param>toc</param>
-<template>copyright</template>
-<template>show javascript</template>
-<template>highlight search term</template>
-<param>scripts</param>
-</content>
-</flex>
-</body>
-</html>

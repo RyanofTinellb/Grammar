@@ -820,7 +820,7 @@ entries:
                     tend to keep their own shape, even when forming words.
                   children:
                     Nouns:
-                      date: '2024-04-29'
+                      date: '2024-05-07'
                       position: '9.17'
                       text:
                       - Common and proper nouns are open classes; the pronouns are
