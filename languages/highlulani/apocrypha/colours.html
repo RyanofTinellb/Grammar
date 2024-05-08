@@ -1,29 +1,44 @@
-<doctype>html</doctype>
-<html>
-<head>
-<meta>name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"</meta>
-<meta>charset="utf-8"</meta>
-<title><param>category title</param> - Tinellbian Languages</title>
-<stylesheet>data/stylesheets/basic_style.css</stylesheet>
-<stylesheet>data/stylesheets/style.css</stylesheet>
-<icon>data/images/favicon.png</icon>
-<template>search script</template>
+<!doctype html>
+<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<meta charset="utf-8">
+<title>Colours</title>
+<link rel="stylesheet" type="text/css" href="../../../data/stylesheets/basic_style.css">
+<link rel="stylesheet" type="text/css" href="../../../data/stylesheets/style.css">
+<link rel="icon" type="image/png" href="../../../data/assets/favicon.png">
+<script> let href = window.location.href; 
+ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `../../../special/search.html?${term}&andOr=and`; 
+ } </script>
+<script src="../../../data/scripts/search.js"></script>
+<body><div class="flex"><nav><details><summary> Menu </summary>
+<ul><li><a href="../../../index.html">A Grammar of the Tinellbian Languages</a></li>
+<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
+<li class="search"><button>Search</button></li></form></div></ul></details></nav>
+
+<main><h1>Colours</h1>
+<p>The basic colour terms are all verbs:</p>
+<div class="wordlist"><p><a href="http://dictionary.tinellb.com/lex/baju.html#">baju</a> <span class="tinellbian" lang="x-tlb-hl">ばよ</span> <span class="gloss">blue</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/sa.html#">sa</a> <span class="tinellbian" lang="x-tlb-hl">さ</span> <span class="gloss">yellow</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/miku.html#">miku</a> <span class="tinellbian" lang="x-tlb-hl">みく</span> <span class="gloss">red</span></p>
+<p>|</p>
+<p><a href="http://dictionary.tinellb.com/lex/millu.html#">millu</a> <span class="tinellbian" lang="x-tlb-hl">みっを</span> <span class="gloss">brown</span></p>
+<p>|</p>
+<p><a href="http://dictionary.tinellb.com/lex/kiʔa.html#">kiʔa</a> <span class="tinellbian" lang="x-tlb-hl">きっあ</span> <span class="gloss">white</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/ga.html#">ga</a> <span class="tinellbian" lang="x-tlb-hl">が</span> <span class="gloss">black</span></p></div>
+<p><img src="/images/colourwheel.png"></p>
+<p>Both light and dark blue and covered by <a href="http://dictionary.tinellb.com/lex/baju.html#">baju</a> <span class="tinellbian" lang="x-tlb-hl">ばよ</span> <span class="gloss">blue</span>, as well as the darkest violets, and all but the lightest shades of green. Standard yellow is <a href="http://dictionary.tinellb.com/lex/sa.html#">sa</a> <span class="tinellbian" lang="x-tlb-hl">さ</span> <span class="gloss">yellow</span>, which also covers the lightest shades of orange and green. All of red and pink, light purples and most of the orange spectrum is referred to as <a href="http://dictionary.tinellb.com/lex/miku.html#">miku</a> <span class="tinellbian" lang="x-tlb-hl">みく</span> <span class="gloss">red</span>, however, dark orange is subsumed under <a href="http://dictionary.tinellb.com/lex/millu.html#">millu</a> <span class="tinellbian" lang="x-tlb-hl">みっを</span> <span class="gloss">brown</span>.</p>
+<p><img src="/images/nineshadesofgrey.png"></p>
+<p>The figure above shows which shades are referred to by which term. White and light grey are <a href="http://dictionary.tinellb.com/lex/kiʔa.html#">kiʔa</a> <span class="tinellbian" lang="x-tlb-hl">きっあ</span>, as opposed to <a href="http://dictionary.tinellb.com/lex/ga.html#">ga</a> <span class="tinellbian" lang="x-tlb-hl">が</span> <span class="gloss">black</span> for darker shades.</p>
+<p>All colour terms can be compounded to refer to specific hues.</p>
+<div class="wordlist"><p><a href="http://dictionary.tinellb.com/lex/miku.html#">miku</a><a href="http://dictionary.tinellb.com/lex/mulu.html#">mulu</a> <span class="tinellbian" lang="x-tlb-hl">みくむを</span> <span class="gloss">blood red</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/baju.html#">baju</a><a href="http://dictionary.tinellb.com/lex/kunubi.html#">kunubi</a> <span class="tinellbian" lang="x-tlb-hl">ばよくぬび</span> <span class="gloss">sky blue</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/kiʔa.html#">kiʔa</a><a href="http://dictionary.tinellb.com/lex/masi.html#">masi</a> <span class="tinellbian" lang="x-tlb-hl">きっあませ</span> <span class="gloss">snow white</span></p></div>
+</main></div>
+<footer><p><copyright></p>
+<p>    <nobreaks>&copy;2017-<param>year</param> <link>http://www.tinellb.com/about.html|Ryan Eakins</link>,}</nobreaks> <nobreaks>using the <link>https://github.com/RyanofTinellb/Smeagol|Sméagol</link> web editor.</nobreaks> <nobreaks>Last updated: <param>full date</param>.</nobreaks></p>
+</copyright></footer>
+<script>
+ for (elt of document.getElementsByClassName('javascript')) { 
+ elt.style.display = "block";} </script></body></html>
 </head>
-<body>
-<flex>
-<navpane>
-<template>family links</template>
-</navpane>
-<content>
-<param>nav-footer</param>
-<param>title heading</param>
-<data>contents</data>
-<param>toc</param>
-<template>copyright</template>
-<template>show javascript</template>
-<template>highlight search term</template>
-<param>scripts</param>
-</content>
-</flex>
-</body>
-</html>

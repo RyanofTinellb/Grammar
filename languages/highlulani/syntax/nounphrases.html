@@ -1,29 +1,77 @@
-<doctype>html</doctype>
-<html>
-<head>
-<meta>name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"</meta>
-<meta>charset="utf-8"</meta>
-<title><param>category title</param> - Tinellbian Languages</title>
-<stylesheet>data/stylesheets/basic_style.css</stylesheet>
-<stylesheet>data/stylesheets/style.css</stylesheet>
-<icon>data/images/favicon.png</icon>
-<template>search script</template>
+<!doctype html>
+<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<meta charset="utf-8">
+<title>Noun Phrases</title>
+<link rel="stylesheet" type="text/css" href="../../../data/stylesheets/basic_style.css">
+<link rel="stylesheet" type="text/css" href="../../../data/stylesheets/style.css">
+<link rel="icon" type="image/png" href="../../../data/assets/favicon.png">
+<script> let href = window.location.href; 
+ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `../../../special/search.html?${term}&andOr=and`; 
+ } </script>
+<script src="../../../data/scripts/search.js"></script>
+<body><div class="flex"><nav><details><summary> Menu </summary>
+<ul><li><a href="../../../index.html">A Grammar of the Tinellbian Languages</a></li>
+<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
+<li class="search"><button>Search</button></li></form></div></ul></details></nav>
+
+<main><h1>Noun Phrases</h1>
+<p>The full noun phrase is made up of these components in the following order:</p>
+<li><ol>adposition-</li>
+<li>case marker-</li>
+<li>number</li>
+<li>relative clause</li>
+<li><span class="highlight">main noun</span></li>
+<li>-determiner</li>
+<li>-conjunction</li>
+<li>-genitive marker</ol></li>
+<p>The highlighted component denotes the only one that is compulsory, <span class="gloss">i.e.</span>: the main noun itself. The hyphens represent the lack of a word space in both the Tinellbian script and the transcription.</p>
+<div class="wordlist"><p><a href="http://dictionary.tinellb.com/lex/faluki.html#">faluki</a> <span class="tinellbian" lang="x-tlb-hl">へをき</span> (v) <span class="gloss">journey</span><details class="folding"><span class="transliteration" lang="x-tlb-hl">kukimilli</span> (ii-v)</p>
+<p><span class="tinellbian" lang="x-tlb-hl">くきみっえ</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/ku-.html#">ku-</a><a href="http://dictionary.tinellb.com/lex/kimilli.html#">kimilli</a></p>
+<p><span class="gloss"><abbr>abl</abbr>-king</span></p>
+<p>“to the king”</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">diku’i’uja</span> (i-ii-v)</p>
+<p><span class="tinellbian" lang="x-tlb-hl">でくいうぢ</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/di.html#">di</a>-<a href="http://dictionary.tinellb.com/lex/ku-.html#">ku-</a><a href="http://dictionary.tinellb.com/lex/’i’uja.html#">’i’uja</a></p>
+<p><span class="gloss">up-<abbr>dat</abbr>-table</span></p>
+<p>“onto the table”</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">harubijju nimalu </span>(i-iii v)</p>
+<p><span class="tinellbian" lang="x-tlb-hl"> はるびっよ ・ にまを </span></p>
+<p><a href="http://dictionary.tinellb.com/lex/haru.html#">haru</a>-<a href="http://dictionary.tinellb.com/lex/bijju.html#">bijju</a> <a href="http://dictionary.tinellb.com/lex/nimalu.html#">nimalu</a></p>
+<p><span class="gloss">with-first bear</span></p>
+<p>“with the first bear”</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">xiku dasi nukki na gusulumi</span> (iv v-vi)</p>
+<p><span class="tinellbian" lang="x-tlb-hl">しく ・ だせ ・ ぬっき ・ な ・ ぐすをみ</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/xiku.html#">xiku</a> <a href="http://dictionary.tinellb.com/lex/dasi.html#">dasi</a> <a href="http://dictionary.tinellb.com/lex/nukki.html#">nukki</a> <a href="http://dictionary.tinellb.com/lex/na.html#">na</a> <a href="http://dictionary.tinellb.com/lex/gusu.html#">gusu</a><a href="http://dictionary.tinellb.com/lex/-lumi.html#">-lumi</a></p>
+<p><span class="gloss"><abbr>rel</abbr> eat strawberry <abbr>prs;hab</abbr> person-several</span></p>
+<p>“several people who eat strawberries”</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">kaluxiku kuluna ’usi na ’aba</span> (ii-iv v)</p>
+<p><span class="tinellbian" lang="x-tlb-hl">かをしく ・ くをな ・ うせ ・ な ・ あば</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/kalu-.html#">kalu-</a><a href="http://dictionary.tinellb.com/lex/xiku.html#">xiku</a> <a href="http://dictionary.tinellb.com/lex/ku-.html#">ku-</a><a href="http://dictionary.tinellb.com/lex/luna.html#">luna</a> <a href="http://dictionary.tinellb.com/lex/’usi.html#">’usi</a> <a href="http://dictionary.tinellb.com/lex/na.html#">na</a> <a href="http://dictionary.tinellb.com/lex/’aba.html#">’aba</a></p>
+<p><span class="gloss"><abbr>abl</abbr>-<abbr>rel</abbr> <abbr>dat</abbr>-moon see <abbr>prs;hab</abbr> all</span></p>
+<p>“because of everyone who looks at the moon”</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">’adira qikannihisupi xaʔu</span> (i-iii iv v)</p>
+<p><span class="tinellbian" lang="x-tlb-hl">あでら ・ねかっにひすぴ ・ ざっう</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/’adi.html#">’adi</a>-<a href="http://dictionary.tinellb.com/lex/ra.html#">ra</a> <a href="http://dictionary.tinellb.com/lex/qikanni.html#">qikanni</a>-<a href="http://dictionary.tinellb.com/lex/hisu.html#">hisu</a>-<a href="http://dictionary.tinellb.com/lex/pi.html#">pi</a> <a href="http://dictionary.tinellb.com/lex/xaʔu.html#">xaʔu</a></p>
+<p><span class="gloss">near-two dog-administer-<abbr>pst;sta</abbr> child</span></p>
+<p>“near the two children who had looked after dogs”</p></details>
+<details class="folding"><p><span class="transliteration" lang="x-tlb-hl">julliga <span class="highlight">nuraqixa kasataqa</span> ’ara</span> (iv v-vii-viii)</p>
+<p><span class="tinellbian" lang="x-tlb-hl">よっえが ・ ぬらねざ ・ かさたげ ・ あら</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/julliga.html#">julliga</a> <a href="http://dictionary.tinellb.com/lex/nura.html#">nura</a>-<a href="http://dictionary.tinellb.com/lex/qixa.html#">qixa</a> <a href="http://dictionary.tinellb.com/lex/kasa.html#">kasa</a><a href="http://dictionary.tinellb.com/lex/-ta.html#">-ta</a><a href="http://dictionary.tinellb.com/lex/-qa.html#">-qa</a> <a href="http://dictionary.tinellb.com/lex/’ara.html#">’ara</a></p>
+<p><span class="gloss">mother leave-<abbr>pst;dyn</abbr> man-and-<abbr>gen</abbr> face</span></p>
+<p>the faces of the mothers <span class="highlight">and the men who left</span>.</p></details></div>
+</main></div>
+<footer><p><copyright></p>
+<p>    <nobreaks>&copy;2017-<param>year</param> <link>http://www.tinellb.com/about.html|Ryan Eakins</link>,}</nobreaks> <nobreaks>using the <link>https://github.com/RyanofTinellb/Smeagol|Sméagol</link> web editor.</nobreaks> <nobreaks>Last updated: <param>full date</param>.</nobreaks></p>
+</copyright></footer>
+<script>
+ for (elt of document.getElementsByClassName('javascript')) { 
+ elt.style.display = "block";} </script></body></html>
 </head>
-<body>
-<flex>
-<navpane>
-<template>family links</template>
-</navpane>
-<content>
-<param>nav-footer</param>
-<param>title heading</param>
-<data>contents</data>
-<param>toc</param>
-<template>copyright</template>
-<template>show javascript</template>
-<template>highlight search term</template>
-<param>scripts</param>
-</content>
-</flex>
-</body>
-</html>

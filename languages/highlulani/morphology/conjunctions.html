@@ -1,29 +1,49 @@
-<doctype>html</doctype>
-<html>
-<head>
-<meta>name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"</meta>
-<meta>charset="utf-8"</meta>
-<title><param>category title</param> - Tinellbian Languages</title>
-<stylesheet>data/stylesheets/basic_style.css</stylesheet>
-<stylesheet>data/stylesheets/style.css</stylesheet>
-<icon>data/images/favicon.png</icon>
-<template>search script</template>
+<!doctype html>
+<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<meta charset="utf-8">
+<title>Conjunctions</title>
+<link rel="stylesheet" type="text/css" href="../../../data/stylesheets/basic_style.css">
+<link rel="stylesheet" type="text/css" href="../../../data/stylesheets/style.css">
+<link rel="icon" type="image/png" href="../../../data/assets/favicon.png">
+<script> let href = window.location.href; 
+ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `../../../special/search.html?${term}&andOr=and`; 
+ } </script>
+<script src="../../../data/scripts/search.js"></script>
+<body><div class="flex"><nav><details><summary> Menu </summary>
+<ul><li><a href="../../../index.html">A Grammar of the Tinellbian Languages</a></li>
+<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
+<li class="search"><button>Search</button></li></form></div></ul></details></nav>
+
+<main><h1>Conjunctions</h1>
+<p>Conjunctions are a closed class of words which are used to join phrases or clauses together.</p>
+<h2> Phrase-level Conjunctions </h2>
+<p>These conjunctions are used to join words or phrases. They are enclitics on the second and subsequent nouns.</p>
+<div class="wordlist"><p><a href="http://dictionary.tinellb.com/lex/-ta.html#">-ta</a> <span class="tinellbian" lang="x-tlb-hl">た</span> <span class="gloss">and</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/-sija.html#">-sija</a> <span class="tinellbian" lang="x-tlb-hl">せぢ</span> <span class="gloss">or</span></p></div>
+<h2> Clause-level Conjunctions </h2>
+<p>These conjunctions are used to join clauses or sentences. They are used as independent words.</p>
+<h3> Coordinating Conjunctions </h3>
+<p>Coordinating conjunctions are used to separate two matrix clauses. They are placed at the beginning of the second clause.</p>
+<div class="wordlist"><p><a href="http://dictionary.tinellb.com/lex/qu.html#">qu</a> <span class="tinellbian" lang="x-tlb-hl">も</span> <span class="gloss">and</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/nuki.html#">nuki</a> <span class="tinellbian" lang="x-tlb-hl">ぬき</span> <span class="gloss">or</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/pada.html#">pada</a> <span class="tinellbian" lang="x-tlb-hl">ぱだ</span> <span class="gloss">and then</span></p></div>
+<h3> Subordinating Conjunctions </h3>
+<p>Subordinating conjunctions are used to introduce a dependent clause. See the section on ../../../../syntax/dependentclauses.html#subordinateclauses|subordinate clauses for syntactical information.</p>
+<div class="wordlist"><p><a href="http://dictionary.tinellb.com/lex/surra.html#">surra</a> <span class="gloss">if</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/daru’i.html#">daru’i</a> <span class="gloss">because</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/gi’a.html#">gi’a</a> <span class="tinellbian" lang="x-tlb-hl">ぎあ</span> <span class="gloss">that is</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/gi’ika.html#">gi’ika</a> <span class="tinellbian" lang="x-tlb-hl">ぎいか</span> <span class="gloss">in order to</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/ma.html#">ma</a> <span class="gloss">when</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/rika.html#">rika</a> <span class="gloss">and thus</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/haru.html#">haru</a> <span class="tinellbian" lang="x-tlb-hl">はる</span> <span class="gloss">while</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/fati.html#">fati</a> <span class="tinellbian" lang="x-tlb-hl">へて</span> <span class="gloss">enough to</span></p></div>
+</main></div>
+<footer><p><copyright></p>
+<p>    <nobreaks>&copy;2017-<param>year</param> <link>http://www.tinellb.com/about.html|Ryan Eakins</link>,}</nobreaks> <nobreaks>using the <link>https://github.com/RyanofTinellb/Smeagol|Sméagol</link> web editor.</nobreaks> <nobreaks>Last updated: <param>full date</param>.</nobreaks></p>
+</copyright></footer>
+<script>
+ for (elt of document.getElementsByClassName('javascript')) { 
+ elt.style.display = "block";} </script></body></html>
 </head>
-<body>
-<flex>
-<navpane>
-<template>family links</template>
-</navpane>
-<content>
-<param>nav-footer</param>
-<param>title heading</param>
-<data>contents</data>
-<param>toc</param>
-<template>copyright</template>
-<template>show javascript</template>
-<template>highlight search term</template>
-<param>scripts</param>
-</content>
-</flex>
-</body>
-</html>

@@ -153,17 +153,21 @@ main div.wordlist {
     margin-top: 1em;
     margin-left: 5%;
     margin-bottom: 3em;
-    padding-top: 0;
+    padding-top: 0.5em;
     padding-bottom: 1em;
 }
 
-main div.wordlist p.example, main div.wordlist p.example_no_lines {
-    margin-left: 10%;
+main .wordlist p, main .wordlist summary {
+    margin-left: 5%;
+    line-height: 1.5;
 }
 
-main div.folding {
-    margin-top: 1em;
-    margin-bottom: 1em;
+main details.folding {
+    margin-top: 0.5rem;
+}
+
+main details.folding p,main details.folding + p {
+    line-height: 1.5;
 }
 
 main div.columns, main div.left-columns {
@@ -199,6 +203,10 @@ main .stars {
 
 main .stars::after {
     content: "* * *"
+}
+
+main .gloss {
+    font-style: italic;
 }
 
 input#Transliteration:checked ~ .paragraph p:nth-child(1) {

@@ -11,8 +11,14 @@ entries:
   - Languages
   - High Lulani
   - Morphology
-  - Nouns
+  - Verbs
+imes:
+  autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime
 language: 'en: English'
+languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
+links:
+  season: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\seasons.gls
+  lang: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 locations:
   directory: c:\users\ryan\tinellbianlanguages\grammar
   search: C:\Users\Ryan\TinellbianLanguages\grammar\search.html
@@ -31,5 +37,3 @@ templates:
     navigation pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navpane.tpl
   wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\wholepage.tpl
 port: 20024
-languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
-links: {}

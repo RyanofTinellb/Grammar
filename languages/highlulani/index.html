@@ -1,29 +1,29 @@
-<doctype>html</doctype>
-<html>
-<head>
-<meta>name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"</meta>
-<meta>charset="utf-8"</meta>
-<title><param>category title</param> - Tinellbian Languages</title>
-<stylesheet>data/stylesheets/basic_style.css</stylesheet>
-<stylesheet>data/stylesheets/style.css</stylesheet>
-<icon>data/images/favicon.png</icon>
-<template>search script</template>
+<!doctype html>
+<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<meta charset="utf-8">
+<title>High Lulani</title>
+<link rel="stylesheet" type="text/css" href="../../data/stylesheets/basic_style.css">
+<link rel="stylesheet" type="text/css" href="../../data/stylesheets/style.css">
+<link rel="icon" type="image/png" href="../../data/assets/favicon.png">
+<script> let href = window.location.href; 
+ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `../../special/search.html?${term}&andOr=and`; 
+ } </script>
+<script src="../../data/scripts/search.js"></script>
+<body><div class="flex"><nav><details><summary> Menu </summary>
+<ul><li><a href="../../index.html">A Grammar of the Tinellbian Languages</a></li>
+<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
+<li class="search"><button>Search</button></li></form></div></ul></details></nav>
+
+<main><h1>High Lulani</h1>
+<p>High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.</p>
+<p>I once had the beginnings of what was to be the Ptokan language, and the language of the Fezhlê. The latter was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhlê have been forced to change somewhat to adapt.</p>
+</main></div>
+<footer><p><copyright></p>
+<p>    <nobreaks>&copy;2017-<param>year</param> <link>http://www.tinellb.com/about.html|Ryan Eakins</link>,}</nobreaks> <nobreaks>using the <link>https://github.com/RyanofTinellb/Smeagol|Sméagol</link> web editor.</nobreaks> <nobreaks>Last updated: <param>full date</param>.</nobreaks></p>
+</copyright></footer>
+<script>
+ for (elt of document.getElementsByClassName('javascript')) { 
+ elt.style.display = "block";} </script></body></html>
 </head>
-<body>
-<flex>
-<navpane>
-<template>family links</template>
-</navpane>
-<content>
-<param>nav-footer</param>
-<param>title heading</param>
-<data>contents</data>
-<param>toc</param>
-<template>copyright</template>
-<template>show javascript</template>
-<template>highlight search term</template>
-<param>scripts</param>
-</content>
-</flex>
-</body>
-</html>

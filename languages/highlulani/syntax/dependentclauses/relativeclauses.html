@@ -1,29 +1,102 @@
-<doctype>html</doctype>
-<html>
-<head>
-<meta>name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"</meta>
-<meta>charset="utf-8"</meta>
-<title><param>category title</param> - Tinellbian Languages</title>
-<stylesheet>data/stylesheets/basic_style.css</stylesheet>
-<stylesheet>data/stylesheets/style.css</stylesheet>
-<icon>data/images/favicon.png</icon>
-<template>search script</template>
+<!doctype html>
+<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<meta charset="utf-8">
+<title>Relative Clauses</title>
+<link rel="stylesheet" type="text/css" href="../../../../data/stylesheets/basic_style.css">
+<link rel="stylesheet" type="text/css" href="../../../../data/stylesheets/style.css">
+<link rel="icon" type="image/png" href="../../../../data/assets/favicon.png">
+<script> let href = window.location.href; 
+ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `../../../../special/search.html?${term}&andOr=and`; 
+ } </script>
+<script src="../../../../data/scripts/search.js"></script>
+<body><div class="flex"><nav><details><summary> Menu </summary>
+<ul><li><a href="../../../../index.html">A Grammar of the Tinellbian Languages</a></li>
+<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
+<li class="search"><button>Search</button></li></form></div></ul></details></nav>
+
+<main><h1>Relative Clauses</h1>
+<h2> Relative Clauses </h2>
+<p>Relative clauses specify the noun by describing it. They begin with the relativiser <a href="http://dictionary.tinellb.com/lex/xiku.html#">xiku</a> <span class="tinellbian" lang="x-tlb-hl">しく</span> and are placed before the modified noun, The auxiliary is not optional, and is given a rising tone. Only subjects can be relativised. Other cases must be promoted to subject.</p>
+<details class="folding"><p><span class="transliteration" lang="x-tlb-hl">Xiku lu’i kimilli pi lulani.</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">。しく ・ をい ・ きみっえ ・ ぴ ・ をわに。</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/xiku.html#">xiku</a> <a href="http://dictionary.tinellb.com/lex/lu’i.html#">lu’i</a> <a href="http://dictionary.tinellb.com/lex/kimilli.html#">kimilli</a> <a href="http://dictionary.tinellb.com/lex/pi.html#">pi</a> <a href="http://dictionary.tinellb.com/lex/lulani.html#">lulani</a>.</p>
+<p><span class="gloss"><abbr>rel</abbr> love king <abbr>pst;sta</abbr> queen</span></p>
+<p>“The queen who loved the king.”</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">Xiku kalukimilli lu’illu pi lulani.</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">。しく ・ かをきみっえ ・ をいっを ・ ぴ ・ をわに。</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/xiku.html#">xiku</a> <a href="http://dictionary.tinellb.com/lex/kalu-.html#">kalu-</a><a href="http://dictionary.tinellb.com/lex/kimilli.html#">kimilli</a> <a href="http://dictionary.tinellb.com/lex/lu’i.html#">lu’i</a><a href="http://dictionary.tinellb.com/lex/-illu.html#">-illu</a> <a href="http://dictionary.tinellb.com/lex/pi.html#">pi</a> <a href="http://dictionary.tinellb.com/lex/lulani.html#">lulani</a>.</p>
+<p><span class="gloss"><abbr>rel</abbr> <abbr>abl</abbr>-king love-<abbr>psv</abbr> <abbr>pst;sta</abbr> queen.</span></p>
+<p>“The queen whom the king loved.”</p></details>
+<p>Any noun can be modified by relative clauses, including pronouns and proper nouns.</p>
+<details class="folding"><p><span class="transliteration" lang="x-tlb-hl">Xiku lu’i kimilli pi mihu.</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">。しく ・ をい ・ きみっえ ・ ぴ ・ みほ。</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/xiku.html#">xiku</a> <a href="http://dictionary.tinellb.com/lex/lu’i.html#">lu’i</a> <a href="http://dictionary.tinellb.com/lex/kimilli.html#">kimilli</a> <a href="http://dictionary.tinellb.com/lex/pi.html#">pi</a> <a href="http://dictionary.tinellb.com/lex/mihu.html#">mihu</a>.</p>
+<p><span class="gloss"><abbr>rel</abbr> love king <abbr>pst;sta</abbr> <abbr>3ani;int</abbr></span></p>
+<p>“The one who loved the king.”</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">Xiku lu’i kimilli pi Sa’imi.</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">。しく ・ をい ・ きみっえ ・ ぴ ・ さいみ。</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/xiku.html#">xiku</a> <a href="http://dictionary.tinellb.com/lex/lu’i.html#">lu’i</a> <a href="http://dictionary.tinellb.com/lex/kimilli.html#">kimilli</a> <a href="http://dictionary.tinellb.com/lex/pi.html#">pi</a> <a href="http://dictionary.tinellb.com/lex/Sa’imi.html#">Sa’imi</a>.</p>
+<p><span class="gloss"><abbr>rel</abbr> love king <abbr>pst;sta</abbr> Caemi</span></p>
+<p>“Caemi, who loved the king.”</p></details>
+<h3> Intransitives </h3>
+<p>If the only argument of the relative verb is the modified noun, the auxiliary is appended to the verb, and the relativiser is dropped. This auxiliary is given a mid-tone.</p>
+<p><span class="transliteration" lang="x-tlb-hl">dissu’ahatira’u mulisa.</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">。でっすあはてらう ・ むえさ。</span></p>
+<p><span class="gloss">feel_happy-<abbr>prs;sta</abbr> fool</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/dissu’ahati.html#">dissu’ahati</a><a href="http://dictionary.tinellb.com/lex/ra’u.html#">ra’u</a> <a href="http://dictionary.tinellb.com/lex/mulisa.html#">mulisa</a></p>
+<p>“the happy fool”</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">’ibibuna suma</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">いびぶな ・ すま</span></p>
+<p><span class="gloss">complain-<abbr>prs;hab</abbr> <abbr>1tra</abbr></span></p>
+<p><a href="http://dictionary.tinellb.com/lex/’ibibu.html#">’ibibu</a><a href="http://dictionary.tinellb.com/lex/na.html#">na</a> <a href="http://dictionary.tinellb.com/lex/suma.html#">suma</a></p>
+<p>“the occasionally complaining me”</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">ka’ucani Ra’ani</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">かうやに ・ らあに</span></p>
+<p><span class="gloss">jump-<abbr>prs;dyn</abbr> Ryan</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/ka’u.html#">ka’u</a><a href="http://dictionary.tinellb.com/lex/cani.html#">cani</a> <a href="http://dictionary.tinellb.com/lex/Ra’ani.html#">Ra’ani</a></p>
+<p><span class="gloss">the jumping Ryan</span></p>
+<p>Similar are intransitives utilising the case markers and other adpositions.</p>
+<p><span class="transliteration" lang="x-tlb-hl">kalukimilli nuhu.</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">。かをきみっえ ・ ぬほ。</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/kalu-.html#">kalu-</a><a href="http://dictionary.tinellb.com/lex/kimilli.html#">kimilli</a> <a href="http://dictionary.tinellb.com/lex/nuhu.html#">nuhu</a></p>
+<p><span class="gloss"><abbr>abl</abbr>-king folding_paper</span></p>
+<p>“the letter from the king”</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">kul·lani nukki</span>.</p>
+<p><span class="tinellbian" lang="x-tlb-hl">。くをわに ・ ぬっき。</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/ku-.html#">ku-</a><a href="http://dictionary.tinellb.com/lex/lulani.html#">lulani</a> <a href="http://dictionary.tinellb.com/lex/nukki.html#">nukki</a></p>
+<p><span class="gloss"><abbr>abl</abbr>-queen strawberry</span></p>
+<p>”the strawberry for the queen“</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">di’i’uja pa</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">でいうぢ ・ ぱ</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/di.html#">di</a><a href="http://dictionary.tinellb.com/lex/’i’uja.html#">’i’uja</a> <a href="http://dictionary.tinellb.com/lex/pa.html#">pa</a></p>
+<p><span class="gloss">up-table <abbr>3ina;int</abbr></span></p>
+<p>“the thing atop the table”</p>
+<h3> Transitives </h3>
+<p>If the only arguments of the relative verb are the modified noun and a direct object, the verb is appended to the object, with or without the auxiliary, and the relativiser is dropped.</p>
+<details class="folding"><p><span class="transliteration" lang="x-tlb-hl">xucipura cula</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">ずちぷら ・ ゆわ</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/xuci.html#">xuci</a>-<a href="http://dictionary.tinellb.com/lex/pura.html#">pura</a> <a href="http://dictionary.tinellb.com/lex/cula.html#">cula</a></p>
+<p><span class="gloss">feather-change egg</span></p>
+<p>“hatching egg”</p>
+<p>|</p>
+<p><span class="transliteration" lang="x-tlb-hl">hafidasira’u kipu</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">はべだせらう ・ きぷ</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/hafi.html#">hafi</a>-<a href="http://dictionary.tinellb.com/lex/dasi.html#">dasi</a>-<a href="http://dictionary.tinellb.com/lex/ra’u.html#">ra’u</a> <a href="http://dictionary.tinellb.com/lex/kipu.html#">kipu</a></p>
+<p><span class="gloss">grass-eat-<abbr>prs;sta</abbr> ox</span></p>
+<p>“the grass-eating cow.”</p></details>
+</main></div>
+<footer><p><copyright></p>
+<p>    <nobreaks>&copy;2017-<param>year</param> <link>http://www.tinellb.com/about.html|Ryan Eakins</link>,}</nobreaks> <nobreaks>using the <link>https://github.com/RyanofTinellb/Smeagol|Sméagol</link> web editor.</nobreaks> <nobreaks>Last updated: <param>full date</param>.</nobreaks></p>
+</copyright></footer>
+<script>
+ for (elt of document.getElementsByClassName('javascript')) { 
+ elt.style.display = "block";} </script></body></html>
 </head>
-<body>
-<flex>
-<navpane>
-<template>family links</template>
-</navpane>
-<content>
-<param>nav-footer</param>
-<param>title heading</param>
-<data>contents</data>
-<param>toc</param>
-<template>copyright</template>
-<template>show javascript</template>
-<template>highlight search term</template>
-<param>scripts</param>
-</content>
-</flex>
-</body>
-</html>

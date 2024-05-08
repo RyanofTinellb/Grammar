@@ -38,34 +38,36 @@ overline {
 @font-face {
     font-family: tinellb;
     src: url('../assets/tinellb.ttf');
-}
-
-high-lulani {
+  }
+  
+  .tinellbian {
     font-family: tinellbian, tinellb;
     font-size: larger;
+  }
+  
+  .tinellbian:lang(x-tlb-hl) {
     direction: rtl;
     unicode-bidi: bidi-override;
-}
-
-high-lulani::after {
+  }
+  
+  .tinellbia:lang(x-tlb-hl)::after {
     content: "\202c\00e8";
     font-size: 0;
-}
-
-high-lulani:hover {
+  }
+  
+  .tinellbian:hover {
     font-size: xx-large;
     font-weight: normal;
     padding: 0em 0.5em;
     cursor: none;
-}
-
-table high-lulani:hover {
+  }
+  
+  table .tinellbian:hover {
     font-size: larger;
     font-weight: inherit;
     padding: inherit;
     cursor: inherit;
-}
-
+  }
 h1 a:visited,
 h1 a:link {
     color: black;
@@ -230,20 +232,14 @@ main span.tooltip .tooltip-text:hover {
     cursor: none;
 }
 
-main .nav-footer {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin-top: 1em;
-    margin-bottom: 1em;
+footer {
+	margin-top: 1rem;
+	font-size: smaller;
+	font-family: serif;
+	text-align: right;
+	width: 75%;
 }
 
-main .copyright {
-    font-size: smaller;
-    font-family: serif;
-    text-align: right;
-    margin-top: 1em;
-}
 
 .no-breaks {
     white-space: nowrap;

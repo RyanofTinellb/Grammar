@@ -1,29 +1,48 @@
-<doctype>html</doctype>
-<html>
-<head>
-<meta>name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"</meta>
-<meta>charset="utf-8"</meta>
-<title><param>category title</param> - Tinellbian Languages</title>
-<stylesheet>data/stylesheets/basic_style.css</stylesheet>
-<stylesheet>data/stylesheets/style.css</stylesheet>
-<icon>data/images/favicon.png</icon>
-<template>search script</template>
+<!doctype html>
+<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<meta charset="utf-8">
+<title>Negative Complements</title>
+<link rel="stylesheet" type="text/css" href="../../../../data/stylesheets/basic_style.css">
+<link rel="stylesheet" type="text/css" href="../../../../data/stylesheets/style.css">
+<link rel="icon" type="image/png" href="../../../../data/assets/favicon.png">
+<script> let href = window.location.href; 
+ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `../../../../special/search.html?${term}&andOr=and`; 
+ } </script>
+<script src="../../../../data/scripts/search.js"></script>
+<body><div class="flex"><nav><details><summary> Menu </summary>
+<ul><li><a href="../../../../index.html">A Grammar of the Tinellbian Languages</a></li>
+<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
+<li class="search"><button>Search</button></li></form></div></ul></details></nav>
+
+<main><h1>Negative Complements</h1>
+<p>Use of <strong>ci’u</strong> <span class="tinellbian" lang="x-tlb-hl">ゆい</span> <span class="gloss">no one</span> to fill the object argument in a sentence is avoided where possible, thus verbs have a <strong>negative complement</strong>, i.e.: a syntactically positive word with a semantically negative meaning.</p>
+<details class="folding"><p><span class="transliteration" lang="x-tlb-hl">Lulanaku ju’i sisa</span>.</p>
+<p><span class="tinellbian" lang="x-tlb-hl">。をわなく ・ よい ・ せさ。</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/lulani.html#">lulani</a><a href="http://dictionary.tinellb.com/lex/-aku.html#">-aku</a> <a href="http://dictionary.tinellb.com/lex/ju’i.html#">ju’i</a> <a href="http://dictionary.tinellb.com/lex/sisa.html#">sisa</a>.</p>
+<p><span class="gloss">monarch-aug link nudity.</span></p>
+<p><span class="gloss">lit. “The emperor is wearing nudity.” </span></p>
+<p>“The emperor isn’t wearing anything.”</p></details>
+<p>These complements can form compounds with the noun.</p>
+<details class="folding"><p><span class="transliteration" lang="x-tlb-hl">Musa harusa.</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">。むさ ・ はるさ。</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/musa.html#">musa</a> <a href="http://dictionary.tinellb.com/lex/harusa.html#">harusa</a>.</p>
+<p><span class="gloss">sun accompany-solitude.</span></p>
+<p><span class="gloss">lit. “The Sun is with solitude.”</span></p>
+<p>“The Sun is alone.”</p></details>
+<p>When using such an object, the sentence can use either positive or negative auxiliaries without changing the meaning.</p>
+<details class="folding"><p><span class="transliteration" lang="x-tlb-hl">ʔi sajja funi!</span> / <span class="transliteration" lang="x-tlb-hl">ʔi sajja lanu!</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">。い ・ さっぢ ・ わぬ 。 い ・ さっぢ ・ ふに。</span></p>
+<p><a href="http://dictionary.tinellb.com/lex/’i.html#">’i</a> <a href="http://dictionary.tinellb.com/lex/sajja.html#">sajja</a> <a href="http://dictionary.tinellb.com/lex/funi.html#">funi</a>! / <a href="http://dictionary.tinellb.com/lex/’i.html#">’i</a> <a href="http://dictionary.tinellb.com/lex/sajja.html#">sajja</a> <a href="http://dictionary.tinellb.com/lex/lanu.html#">lanu</a>!</p>
+<p><span class="gloss">speak silence <abbr>fut;neg</abbr>! / speak silence <abbr>fut’dyn</abbr>!</span></p>
+<p><span class="gloss">lit. “Speak silence!”</span></p>
+<p>“Be quiet!”</p></details>
+</main></div>
+<footer><p><copyright></p>
+<p>    <nobreaks>&copy;2017-<param>year</param> <link>http://www.tinellb.com/about.html|Ryan Eakins</link>,}</nobreaks> <nobreaks>using the <link>https://github.com/RyanofTinellb/Smeagol|Sméagol</link> web editor.</nobreaks> <nobreaks>Last updated: <param>full date</param>.</nobreaks></p>
+</copyright></footer>
+<script>
+ for (elt of document.getElementsByClassName('javascript')) { 
+ elt.style.display = "block";} </script></body></html>
 </head>
-<body>
-<flex>
-<navpane>
-<template>family links</template>
-</navpane>
-<content>
-<param>nav-footer</param>
-<param>title heading</param>
-<data>contents</data>
-<param>toc</param>
-<template>copyright</template>
-<template>show javascript</template>
-<template>highlight search term</template>
-<param>scripts</param>
-</content>
-</flex>
-</body>
-</html>

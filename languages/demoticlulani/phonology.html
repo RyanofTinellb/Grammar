@@ -1,29 +1,89 @@
-<doctype>html</doctype>
-<html>
-<head>
-<meta>name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"</meta>
-<meta>charset="utf-8"</meta>
-<title><param>category title</param> - Tinellbian Languages</title>
-<stylesheet>data/stylesheets/basic_style.css</stylesheet>
-<stylesheet>data/stylesheets/style.css</stylesheet>
-<icon>data/images/favicon.png</icon>
-<template>search script</template>
+<!doctype html>
+<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<meta charset="utf-8">
+<title>Phonology</title>
+<link rel="stylesheet" type="text/css" href="../../data/stylesheets/basic_style.css">
+<link rel="stylesheet" type="text/css" href="../../data/stylesheets/style.css">
+<link rel="icon" type="image/png" href="../../data/assets/favicon.png">
+<script> let href = window.location.href; 
+ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `../../special/search.html?${term}&andOr=and`; 
+ } </script>
+<script src="../../data/scripts/search.js"></script>
+<body><div class="flex"><nav><details><summary> Menu </summary>
+<ul><li><a href="../../index.html">A Grammar of the Tinellbian Languages</a></li>
+<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
+<li class="search"><button>Search</button></li></form></div></ul></details></nav>
+
+<main><h1>Phonology</h1>
+<div class="message"><p>Warning: This section is a work in progress.</p></div>
+<h2> Consonants </h2>
+<table><tr><td></td><th>labial</th><th>dental </th><th>palatal</th><th>velar</th><th>glottal</th></tr>
+<tr><th>stop</th><td><span class="ipa">p b</span></td><td><span class="ipa">t d</span></td><td></td><td><span class="ipa">k g</span></td><td></td></tr>
+<tr><th>affricate</th><td></td><td></td><td><span class="ipa">tɕ</span> &lt; c &gt; <span class="ipa">dʑ</span> &lt; j &gt;</td><td></td><td></td></tr>
+<tr><th>nasal</th><td><span class="ipa">m</span></td><td><span class="ipa">n</span></td><td><span class="ipa">ɲ</span> &lt; ñ &gt;</td><td><span class="ipa">ŋ</span> &lt; q &gt;</td><td></td></tr>
+<tr><th>lateral</th><td></td><td><span class="ipa">l</span></td><td><span class="ipa">ʎ</span> &lt; l̰ &gt;</td><td></td><td></td></tr>
+<tr><th>trill</th><td></td><td><span class="ipa">r</span></td><td></td><td></td><td></td></tr>
+<tr><th>sibilant</th><td></td><td><span class="ipa">s</span></td><td><span class="ipa">ɕ</span> &lt; x &gt;</td><td></td><td></td></tr>
+<tr><th>fricative</th><td><span class="ipa">f v</span></td><td><span class="ipa">ð</span></td><td><span class="ipa">ç</span> &lt; h̰ &gt;</td><td></td><td><span class="ipa">h</span></td></tr>
+<tr><th>approximant</th><td><span class="ipa">w</span></td><td></td><td><span class="ipa">j</span> &lt; y &gt;</td><td></td><td></td></tr></table>
+<p><mobiletable><strong>stops</strong>:</p>
+<p><strong>labial:</strong> <span class="ipa">p</span></p>
+<p><strong>dental:</strong> <span class="ipa">t</span></p>
+<p><strong>velar:</strong> <span class="ipa">k</span></p>
+<p><strong>voiced</strong>:</p>
+<p><strong>labial:</strong> <span class="ipa">b</span></p>
+<p><strong>alveolar:</strong> <span class="ipa">d</span></p>
+<p><strong>velar:</strong> <span class="ipa">g</span></p>
+<p><strong>affricates:</strong></p>
+<p><strong>voiceless palatal:</strong> <span class="ipa">tɕ</span> &lt; c &gt;</p>
+<p><strong>voiced palatal:</strong> <span class="ipa">dʑ</span> &lt; j &gt;</p>
+<p><strong>nasals</strong>:</p>
+<p><strong>labial:</strong> <span class="ipa">m</span></p>
+<p><strong>alveolar:</strong> <span class="ipa">n</span></p>
+<p><strong>palatal:</strong> <span class="ipa">ɲ</span> &lt; ñ &gt;</p>
+<p><strong>velar:</strong> <span class="ipa">ŋ</span> &lt; q &gt;</p>
+<p><strong>liquids</strong>:</p>
+<p><strong>alveolar lateral:</strong> <span class="ipa">l</span></p>
+<p><strong>alveolar trill:</strong> <span class="ipa">r</span></p>
+<p><strong>sibilants:</strong></p>
+<p><strong>alveolar:</strong> <span class="ipa">s</span></p>
+<p><strong>palatal:</strong> <span class="ipa">ɕ</span> &lt; x &gt;</p>
+<p><strong>non-sibilant fricatives:</strong></p>
+<p><strong>voiceless labial:</strong> <span class="ipa">f</span></p>
+<p><strong>voiced labial:</strong> <span class="ipa">v</span></p>
+<p><strong>dental:</strong> <span class="ipa">ð</span></p>
+<p><strong>palatal:</strong> <span class="ipa">ç</span> &lt; h̰ &gt;</p>
+<p><strong>glottal:</strong> <span class="ipa">h</span></p>
+<p><strong>approximants:</strong></p>
+<p><strong>labio-velar:</strong> <span class="ipa">w</span></p>
+<p><strong>palatal:</strong> <span class="ipa">j</span> &lt; y &gt;</mobiletable></p>
+<p>This table shows the consonants phonemically, using the International Phonetic Alphabet. Where it differs from IPA, the transliteration is given in &lt; triangular brackets &gt;.</p>
+<h2> Vowels </h2>
+<table><tr><td></td><th>front</th><th>central</th><th>back</th></tr>
+<tr><th>close</th><td><span class="ipa">i y</span> &lt; ü &gt;</td><td></td><td><span class="ipa">u</span></td></tr>
+<tr><th>mid</th><td><span class="ipa">e</span> (<span class="ipa">ø</span> &lt; ö &gt;)</td><td><span class="ipa">(ə)</span></td><td>(<span class="ipa">o</span>)</td></tr>
+<tr><th>open</th><td><span class="ipa">æ</span></td><td></td><td></td></tr></table>
+<p><mobiletable><strong>close:</strong></p>
+<p><strong>front unrounded:</strong> <span class="ipa">i</span></p>
+<p><strong>front rounded:</strong> <span class="ipa">y</span> &lt; ü &gt;</p>
+<p><strong>back rounded:</strong> <span class="ipa">u</span></p>
+<p><strong>mid:</strong></p>
+<p><strong>front unrounded:</strong> <span class="ipa">e</span></p>
+<p><strong>front rounded:</strong> (<span class="ipa">ø</span> &lt; ö &gt;)</p>
+<p><strong>central:</strong> <span class="ipa">(ə)</span></p>
+<p><strong>back rounded:</strong> (<span class="ipa">o</span>)</p>
+<p><strong>open:</strong></p>
+<p><strong>front:</strong> <span class="ipa">æ</span></mobiletable></p>
+<h3> Allophony </h3>
+<p>Unstressed vowels are realised as <strong><span class="ipa">ə</span></strong>.</p>
+<p>Rounded vowels are lowered, <span class="gloss">i.e.:</span> <strong><span class="ipa">u</span></strong> → <strong><span class="ipa">o</span></strong> and <strong><span class="ipa">y</span></strong> → <strong><span class="ipa">ø</span></strong>, before peripheral consonants. The latter change also occurs at the ends of words.</p>
+</main></div>
+<footer><p><copyright></p>
+<p>    <nobreaks>&copy;2017-<param>year</param> <link>http://www.tinellb.com/about.html|Ryan Eakins</link>,}</nobreaks> <nobreaks>using the <link>https://github.com/RyanofTinellb/Smeagol|Sméagol</link> web editor.</nobreaks> <nobreaks>Last updated: <param>full date</param>.</nobreaks></p>
+</copyright></footer>
+<script>
+ for (elt of document.getElementsByClassName('javascript')) { 
+ elt.style.display = "block";} </script></body></html>
 </head>
-<body>
-<flex>
-<navpane>
-<template>family links</template>
-</navpane>
-<content>
-<param>nav-footer</param>
-<param>title heading</param>
-<data>contents</data>
-<param>toc</param>
-<template>copyright</template>
-<template>show javascript</template>
-<template>highlight search term</template>
-<param>scripts</param>
-</content>
-</flex>
-</body>
-</html>

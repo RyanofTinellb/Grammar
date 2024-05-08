@@ -1,30 +1,23 @@
 default:
   props:
     size: 18
+    ime: autocorrect
+abbr:
+  props:
+    font: Felix Titling
+    size: 70
 columns:
   type: div
-mobile-table:
-  type: div
-left-columns:
-  end: </div>
-  start: <div class="left-columns">
-table:
-  type: table
-ol:
-  start: <li>
-  end: </li>
-ul:
-  start: <li>
-  end: </li>
-sentence-list:
+dictionary:
   props:
-    left: 5
-  type: div
-wordlist:
-  type: div
-  props:
-    background: '#cccc99'
-    left: 5
+    colour: '#0000ff'
+  open: <a href="
+  pipe: '">'
+  close: '</a>'
+  param: http://dictionary.tinellb.com/lex/$text$.html#$url(lookup:lang)$|$upper(text)$
+  language: true
+  rank: -50
+  key: Alt-d
 interlinear:
   type: div
 paragraph:
@@ -37,10 +30,18 @@ folding:
   type: block
   open: <details class="folding">
   close: </details>
-stars:
+external:
   props:
-    justify: right
-  type: div
+    colour: blue
+    underline: true
+  open: <a href="
+  close: </a>
+  hyperlink: true
+  pipe: '">'
+gloss:
+  type: span
+  props:
+    italics: true
 h2:
   type: heading
   props:
@@ -61,27 +62,17 @@ h5:
   props:
     bold: true
     size: 120
-message:
-  type: div
-  props:
-    colour: red
-gloss:
+highlight:
   type: span
   props:
-    italics: true
-multiline:
-  open: ' '
-  pipe: <br>
-  close: ' '
-  rank: -100
-external:
+    background: yellow
+ipa:
   props:
-    colour: blue
-    underline: true
-  open: <a href="
-  close: </a>
-  hyperlink: true
-  pipe: '">'
+    font: lucida sans unicode
+  type: span
+image:
+  open: <img src="
+  close: '">'
 internal:
   type: link
   props:
@@ -91,61 +82,69 @@ internal:
   hyperlink: true
   pipe: '">'
   open: <a href="
-dictionary:
-  end: '">'
-  start: <a href="dictionary.tinellb.com/lex/
-image:
-  end: '">'
-  start: <img src="
-tinellbian:
+left-columns:
+  end: </div>
+  start: <div class="left-columns">
+message:
+  type: div
   props:
-    font: tinellbian
-  end: </span>
-  language: x-tlb-%l
-  start: <span class="tinellbian">
-transliteration:
+    colour: red
+mobile-table:
+  type: div
+multiline:
+  open: ' '
+  pipe: <br>
+  close: ' '
+  rank: -100
+ol:
+  start: <li>
+  end: </li>
+season:
   props:
-    bold: true
-  end: </span>
-  language: x-tlb-%l
-  start: <span class="transliteration">
-abbr:
+    size: 2
+  start: <dfn class="season" title="
+  pipe: '">'
+  end: </dfn>
+  param: $lookup:season$|$text$
+sentence-list:
   props:
-    font: Felix Titling
-    size: 70
-highlight:
+    left: 5
+  type: div
+stars:
   props:
-    background: yellow
-  end: <span>
-  start: <span class="highlight">
-meaning:
-  props:
-    italics: true
-  type: span
-ipa:
-  props:
-    font: lucida sans unicode
-  end: </span>
-  start: <span class="ipa">
-symbol:
-  props:
-    italics: true
-  end: </span>
-  start: <span class="symbol">
-overline:
-  props:
-    underline: true
-  end: </span>
-  start: <span class="overline">
+    justify: right
+  type: div
 strong:
   props:
     bold: true
 sup:
   props:
     offset: superscript
-season:
+symbol:
+  type: span
   props:
-    size: 2
-  end: </span>
-  pipe: '">'
-  start: <span class="season" title=">
+    italics: true
+overline:
+  type: span
+  props:
+    underline: true
+table:
+  type: table
+tinellbian:
+  props:
+    font: tinellbian
+  language: true
+  type: span
+transliteration:
+  props:
+    bold: true
+  type: span
+  language: true
+ul:
+  start: <li>
+  end: </li>
+wordlist:
+  type: div
+  props:
+    background: '#cccc99'
+    left: 5
