@@ -8,10 +8,6 @@ assets:
   wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\wordlist.json
 entries:
 - - A Grammar of the Tinellbian Languages
-  - Languages
-  - High Lulani
-  - Morphology
-  - Verbs
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime
 language: 'en: English'
@@ -19,6 +15,7 @@ languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 links:
   season: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\seasons.gls
   lang: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
+  grammar: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\internal-links.glk
 locations:
   directory: c:\users\ryan\tinellbianlanguages\grammar
   search: C:\Users\Ryan\TinellbianLanguages\grammar\search.html
@@ -35,5 +32,7 @@ templates:
     search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
     show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
     navigation pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navpane.tpl
+    mini-nav: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navigation
+      arrows.tpl
   wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\wholepage.tpl
 port: 20024

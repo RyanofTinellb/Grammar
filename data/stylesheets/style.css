@@ -13,34 +13,17 @@ highlight {
     line-height: 2;
 }
 
-nav {
+nav li {
     line-height: 1.75;
+    list-style: none;
+}
+
+nav form li {
+    line-height: 0;
 }
 
 nav ul {
-    list-style: none;
-    padding-left: 1.2em;
-}
-
-nav ul.level-1 > li {
-    padding-top: 0.5em;
-    font-size: larger;
-}
-
-nav ul.level-1 > li::before {
-    content: ">\a0";
-}
-nav ul.level-1 > li::after {
-    content: "\a0<";
-}
-
-nav .links-root ul.level-3 {
-    display: none;
-}
-
-nav li.normal {
-    font-weight: bold;
-    text-decoration: underline;
+    padding-left: 0em;
 }
 
 nav a {
@@ -164,10 +147,26 @@ main .wordlist p, main .wordlist summary {
 
 main details.folding {
     margin-top: 0.5rem;
+    list-style: "";
 }
 
 main details.folding p,main details.folding + p {
     line-height: 1.5;
+}
+
+main details.example {
+    margin-top: 1.5rem;
+    list-style: "";
+    margin-left: 15%;
+}
+
+main details.example p,main details.example + p {
+    line-height: 1.5;
+}
+
+main details.example + p {
+    margin-left: 15%;
+    margin-bottom: 1.5rem;
 }
 
 main div.columns, main div.left-columns {
@@ -207,6 +206,11 @@ main .stars::after {
 
 main .gloss {
     font-style: italic;
+}
+
+main .transliteration {
+    font-weight: bold;
+    font-size: 0.95rem;
 }
 
 input#Transliteration:checked ~ .paragraph p:nth-child(1) {
@@ -283,16 +287,6 @@ input:checked:not(#All) ~ .paragraph input {
 
     divmain .folding p {
         margin-right: 0;
-    }
-
-    divmain div.paragraph p.example,
-    divmain div.paragraph p.example_no_lines {
-        margin-left: 5%;
-        margin-right: 5%;
-    }
-
-    main div.wordlist p.example, main div.wordlist p.example_no_lines {
-        margin-left: 5%;
     }
 
     main div.wordlist {

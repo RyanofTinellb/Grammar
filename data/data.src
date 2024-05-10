@@ -52,13 +52,13 @@ directory:
 entries:
   children:
     A Grammar of the Tinellbian Languages:
-      date: '2019-09-08'
+      date: '2024-05-10'
       position: '4.208'
       text:
       - This reference guide is for the Tinellbian languages that descend from High
         Lulani. Lulani and its descendants were taken into each of the Ptokan worlds
         by the Guozu.
-      - <h2><internal>highlulani/index.html|High Lulani</internal></h2>
+      - <heading-link@x-tlb-hl>High Lulani</heading-link@x-tlb-hl>
       - <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> Created by Queen Loren on Mala
         Ptokonoi.
       - I have been interested in language and linguistics since at least the age
@@ -818,7 +818,7 @@ entries:
                       text:
                       - Common and proper nouns are open classes; the pronouns are
                         closed.
-                      - <h2><h3>Common Nouns</h3></h2>
+                      - <h2>Common Nouns</h2>
                       - Common nouns can refer to abstract or concrete items.
                       - <wordlist><dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をい</tinellbian@x-tlb-hl> <gloss>love</gloss>
                       - <dictionary@x-tlb-hl>bata</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばた</tinellbian@x-tlb-hl> <gloss>caution</gloss>
@@ -1029,13 +1029,13 @@ entries:
                           - '<gloss>lit.: “<overline>1</overline>-day”</gloss>'
                           - “two years ago”
                     Verbs:
-                      date: '2024-05-08'
+                      date: '2024-05-10'
                       position: '33.2'
                       text:
                       - A verb is a necessary part of any sentence, except when making
-                        <internal>../../syntax/matrixclauses.html#copularsentences|copular
-                        sentences</internal>. Verbs can be categorised on the basis
-                        of how many elements compose them.
+                        <grammar-link@x-tlb-hl>copular sentences</grammar-link@x-tlb-hl>.
+                        Verbs can be categorised on the basis of how many elements
+                        compose them.
                       - <h3>Stem Verbs</h3>
                       - The class of stem verbs is semi-closed — there are only about
                         100 pure verbs in the entire language. Stem verbs consist
@@ -1053,38 +1053,38 @@ entries:
                       - <dictionary@x-tlb-hl>miku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みく</tinellbian@x-tlb-hl> <gloss>to
                         be red</gloss></wordlist>
                       - <h3>Compound Verbs</h3>
-                      - In order to extend or specify meaning,  verbs can be compounded
+                      - In order to extend or specify meeaning,  verbs can be compounded
                         much as a noun can. Compound verbs are, however, much more
                         common than compound nouns, to make up for the relative lack
                         of stem verbs.
-                      - <transliteration@x-tlb-hl>’isinna</transliteration@x-tlb-hl>
+                      - <wordlist><folding><folded><transliteration@x-tlb-hl>’isinna</transliteration@x-tlb-hl></folded>
                       - <tinellbian@x-tlb-hl>いせっな</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> + <dictionary@x-tlb-hl>sinna</dictionary@x-tlb-hl>
-                      - <gloss>say-story</gloss>
+                      - <gloss>say-story</gloss></folding>
                       - “to tell a story”
-                      - <transliteration@x-tlb-hl>dissu’ahati</transliteration@x-tlb-hl>
+                      - <folding><folded><transliteration@x-tlb-hl>dissu’ahati</transliteration@x-tlb-hl></folded>
                       - <tinellbian@x-tlb-hl>でっすあはて</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> + <dictionary@x-tlb-hl>’ahati</dictionary@x-tlb-hl>
-                      - <gloss>feel-happiness</gloss>
+                      - <gloss>feel-happiness</gloss></folding>
                       - “to be happy”
-                      - <transliteration@x-tlb-hl>pamilami</transliteration@x-tlb-hl>
+                      - <folding><folded><transliteration@x-tlb-hl>pamilami</transliteration@x-tlb-hl></folded>
                       - <tinellbian@x-tlb-hl>ぱみわみ</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> + <dictionary@x-tlb-hl>milami</dictionary@x-tlb-hl>
-                      - <gloss>think-surroundings</gloss>
-                      - “to be conscious”
+                      - <gloss>think-surroundings</gloss></folding>
+                      - “to be conscious”</wordlist>
                       children:
                         Intransitivity:
-                          date: '2019-05-04'
+                          date: '2024-05-10'
                           position: '9.36'
                           text:
                           - Intransitive verbs are monovalent. For the archetypal
                             intransitives, the verbal patient is the <strong>subject</strong>.
-                          - <folding><transliteration@x-tlb-hl>Badiri ru cura</transliteration@x-tlb-hl>.
-                          - <tinellbian@x-tlb-hl>。ばでり ・ る ・ ゆら。</tinellbian@x-tlb-hl>
+                          - <example><folded><transliteration@x-tlb-hl>Badiri ru cura</transliteration@x-tlb-hl>.</folded>
+                          - <tinellbian@x-tlb-hl>。ばでりるゆら。</tinellbian@x-tlb-hl>
                           - <dictionary@x-tlb-hl>badiri</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>cura</dictionary@x-tlb-hl>.
-                          - <gloss>world <abbr>prs;gno</abbr> change.</gloss>
-                          - “The world is always changing.”</folding>
+                          - <gloss>world <abbr>prs;gno</abbr> change.</gloss></example>
+                          - “The world is always changing.”
                           - <wordlist><dictionary@x-tlb-hl>cura</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ゆら</tinellbian@x-tlb-hl> <gloss>to
                             change; to be different</gloss>
                           - <dictionary@x-tlb-hl>huba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ほば</tinellbian@x-tlb-hl> <gloss>to
@@ -1104,33 +1104,34 @@ entries:
                           - <h2>Adjectival Verbs</h2>
                           - These verbs allow the speaker to describe an attribute
                             of the <strong>subject</strong>.
-                          - <folding><transliteration@x-tlb-hl>Linu ra’u ki. / Linu
-                            qixa ki.</transliteration@x-tlb-hl>
-                          - <tinellbian@x-tlb-hl>。えぬ ・ ねざ ・ き 。  ・ えぬ ・ らう ・ き。</tinellbian@x-tlb-hl>
+                          - <example><folded><transliteration@x-tlb-hl>Linu ra’u ki.
+                            / Linu qixa ki.</transliteration@x-tlb-hl></folded>
+                          - <tinellbian@x-tlb-hl>。えぬねざき 。 えぬらうき。</tinellbian@x-tlb-hl>
                           - <dictionary@x-tlb-hl>linu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>ki</dictionary@x-tlb-hl>. / <dictionary@x-tlb-hl>linu</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ki</dictionary@x-tlb-hl>.
                           - <gloss>tree <abbr>prs;sta</abbr> big. / tree <abbr>prs;dyn</abbr>
-                            big.</gloss>
-                          - “The tree is big. / The tree is growing.”</folding>
+                            big.</gloss></example>
+                          - “The tree is big. / The tree is growing.”
                           - The actor who imparts such an attribute is put in the
                             <strong>ablative</strong> case.
-                          - <folding><transliteration@x-tlb-hl>Juffila kaluMa’iliguna
-                            pani.</transliteration@x-tlb-hl>
-                          - <tinellbian@x-tlb-hl>。よっべわ ・ かをまいえぐな ・ ぱに。</tinellbian@x-tlb-hl>
+                          - <example><folded><transliteration@x-tlb-hl>Juffila kaluMa’iliguna
+                            pani.</transliteration@x-tlb-hl></folded>
+                          - <tinellbian@x-tlb-hl>。よっべわかをまいえぐなぱに。</tinellbian@x-tlb-hl>
                           - <dictionary@x-tlb-hl>juffila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl><internal>https://en.wikipedia.org/wiki/Maelgwn_Gwynedd|Ma’iliguna</internal>
                             <dictionary@x-tlb-hl>pani</dictionary@x-tlb-hl>.
-                          - <gloss>dragon <abbr>abl</abbr>-Maelgwn tame.</gloss>
-                          - ”The dragon was tamed by Maelgwn.”</folding>
+                          - <gloss>dragon <abbr>abl</abbr>-Maelgwn tame.</gloss></example>
+                          - ”The dragon was tamed by Maelgwn.”
                           - The experiencer who perceives such an attribute is put
                             in the <strong>dative</strong> case.
-                          - <folding><transliteration@x-tlb-hl>Liqa kuhisuba bi’u.</transliteration@x-tlb-hl>
-                          - <tinellbian@x-tlb-hl>。えげ ・ くひすば ・ びう。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>liqa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl><dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl>
+                          - <example><folded><transliteration@x-tlb-hl>Liqa kuhisuba
+                            bi’u.</transliteration@x-tlb-hl></folded>
+                          - <tinellbian@x-tlb-hl>。えげくひすばびう。</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>liqa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-hisuba</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>bi’u</dictionary@x-tlb-hl>.
                           - <gloss>head <abbr>dat</abbr>-administrator hurt.</gloss>
-                          - '<gloss>lit: “The head seems sore to the administrator.”</gloss>'
-                          - “The administrator has a headache.”</folding>
+                          - '<gloss>lit: “The head seems sore to the administrator.”</gloss></example>'
+                          - “The administrator has a headache.”
                           - <wordlist><dictionary@x-tlb-hl>mu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> <gloss>good</gloss>
                           - <dictionary@x-tlb-hl>’anu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あぬ</tinellbian@x-tlb-hl> <gloss>balanced</gloss>
                           - <dictionary@x-tlb-hl>guqqi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぐっね</tinellbian@x-tlb-hl> <gloss>bad</gloss>
@@ -1191,18 +1192,17 @@ entries:
                           - <h3>Oblique Arguments</h3>
                           - 'These are marked with an <internal>../../syntax/case.html#obliquecases|oblique
                             case marker</internal>:'
-                          - <folding><transliteration@x-tlb-hl>Luna kalujifiru’i mala;
-                            luna kalu’ilupahi mala.</transliteration@x-tlb-hl>
-                          - <tinellbian@x-tlb-hl>。をな ・ かをじべるい ・ まわ 、 をな ・ かをいをぱひ ・
-                            まわ。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl><dictionary@x-tlb-hl>jifiru’i</dictionary@x-tlb-hl>
+                          - <example><folded><transliteration@x-tlb-hl>Luna kalujifiru’i
+                            mala; luna kalu’ilupahi mala.</transliteration@x-tlb-hl></folded>
+                          - <tinellbian@x-tlb-hl>。をなかをじべるいまわ / をなかをいをぱひまわ。</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-jifiru’i</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl>; <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl>
-                            <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl><dictionary@x-tlb-hl>’ilu</dictionary@x-tlb-hl><dictionary@x-tlb-hl>-pahi</dictionary@x-tlb-hl>
+                            <dictionary@x-tlb-hl>kalu-’ilu-pahi</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl>.
                           - <gloss>moon <abbr>abl</abbr>-lake reflect; moon <abbr>abl</abbr>-heart-<abbr>1gen</abbr>
-                            reflect.</gloss>
+                            reflect.</gloss></example>
                           - “The moon is reflected in the lake; the moon is reflected
-                            in my heart.”</folding>
+                            in my heart.”
                           - 'The usual case assignment for objects of each of these
                             verbs is shown here:'
                           - <wordlist><dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まわ</tinellbian@x-tlb-hl> <gloss>to
@@ -1215,36 +1215,35 @@ entries:
                             of different case markers or adpositions.
                           - Case denotes unmarked similarity or difference, <strong>dative</strong>
                             for the former, <strong>ablative</strong> for the latter.
-                          - <folding><transliteration@x-tlb-hl>Nimalu kuquliruxita
-                            runihi.</transliteration@x-tlb-hl>
+                          - <example><folded><transliteration@x-tlb-hl>Nimalu kuquliruxita
+                            runihi.</transliteration@x-tlb-hl></folded>
                           - <tinellbian@x-tlb-hl>。にまを ・ くもえるした ・ るにひ。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl><dictionary@x-tlb-hl>quliru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-quliru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>runihi</dictionary@x-tlb-hl>.
-                          - <gloss>bear <abbr>dat</abbr>-family-one similar.</gloss>
-                          - “The bear is like one of the family.”</folding>
+                          - <gloss>bear <abbr>dat</abbr>-family-one similar.</gloss></example>
+                          - “The bear is like one of the family.”
                           - The adposition <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>with</gloss>
                             denotes a slight similarity or difference.
-                          - <folding><transliteration@x-tlb-hl>ʔusu ra’u haruxissatanissa
-                            runihi.</transliteration@x-tlb-hl>
+                          - <example><folded><transliteration@x-tlb-hl>ʔusu ra’u haruxissatanissa
+                            runihi.</transliteration@x-tlb-hl></folded>
                           - <tinellbian@x-tlb-hl>。うす ・ らう ・ はるしっさたにっさ ・ るにひ。</tinellbian@x-tlb-hl>
-                          - '|'
                           - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xissatanissa</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>runihi</dictionary@x-tlb-hl>.
                           - <gloss><abbr>1int</abbr> <abbr>prs;sta</abbr> with-musician
-                            similar.</gloss>
-                          - “I am somewhat of a musician.”</folding>
+                            similar.</gloss></example>
+                          - “I am somewhat of a musician.”
                           - The adpositions <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あで</tinellbian@x-tlb-hl> <gloss>near</gloss>
                             and <dictionary@x-tlb-hl>xidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しど</tinellbian@x-tlb-hl> <gloss>far</gloss>
                             denote a large similarity or difference.
-                          - <folding><transliteration@x-tlb-hl>Mari ra’u xidupajiga
-                            tina.</transliteration@x-tlb-hl>
+                          - <example><folded><transliteration@x-tlb-hl>Mari ra’u xidupajiga
+                            tina.</transliteration@x-tlb-hl></folded>
                           - <tinellbian@x-tlb-hl>。まり ・ らう ・ しどぱじが ・ てな。</tinellbian@x-tlb-hl>
                           - <dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>xidu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pajiga</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>tina</dictionary@x-tlb-hl>.
-                          - <gloss>this <abbr>prs;sta</abbr> far-olive different.</gloss>
-                          - “This is nothing like an olive.”</folding>
+                          - <gloss>this <abbr>prs;sta</abbr> far-olive different.</gloss></example>
+                          - “This is nothing like an olive.”
                           - <wordlist><dictionary@x-tlb-hl>runihi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るにひ</tinellbian@x-tlb-hl> <gloss>to
                             be similar to</gloss>
                           - <dictionary@x-tlb-hl>tina</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てな</tinellbian@x-tlb-hl> <gloss>to
@@ -1257,26 +1256,29 @@ entries:
                           - '1. Be placed in the object position. Despite the structure,
                             this is not transitive, as the verb has no <internal>../../syntax/argumentpromotion.html#passive|passive</internal>,
                             and pronouns use the intransitive form:'
-                          - <folding><transliteration@x-tlb-hl>ʔallisi sisa Bubu.</transliteration@x-tlb-hl>
+                          - <example><folded><transliteration@x-tlb-hl>ʔallisi sisa
+                            Bubu.</transliteration@x-tlb-hl></folded>
                           - <tinellbian@x-tlb-hl>。あっえせ ・ せさ ・ ぶぶ。</tinellbian@x-tlb-hl>
                           - ʔallisi <dictionary@x-tlb-hl>sisa</dictionary@x-tlb-hl>
                             Bubu.
-                          - <gloss>Alice contact Bob.</gloss>
-                          - “Alice is touching Bob.”</folding>
+                          - <gloss>Alice contact Bob.</gloss></example>
+                          - “Alice is touching Bob.”
                           - '2. Take <strong>dative</strong> marking:'
-                          - <folding><transliteration@x-tlb-hl>ʔallisi kuBubu ju’i.</transliteration@x-tlb-hl>
+                          - <example><folded><transliteration@x-tlb-hl>ʔallisi kuBubu
+                            ju’i.</transliteration@x-tlb-hl></folded>
                           - <tinellbian@x-tlb-hl>。あっえせ ・ くぶぶ ・ よい。</tinellbian@x-tlb-hl>
                           - ʔallisi <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>Bubu
                             <dictionary@x-tlb-hl>ju’i</dictionary@x-tlb-hl>.
-                          - <gloss>Alice <abbr>dat</abbr>-Bob link.</gloss>
-                          - “Alice is married to Bob.”</folding>
+                          - <gloss>Alice <abbr>dat</abbr>-Bob link.</gloss></example>
+                          - “Alice is married to Bob.”
                           - '3. Be conjoined with the <strong>subject</strong>:'
-                          - <folding><transliteration@x-tlb-hl>ʔallisi Bubuta hulla</transliteration@x-tlb-hl>.
+                          - <example><folded><transliteration@x-tlb-hl>ʔallisi Bubuta
+                            hulla</transliteration@x-tlb-hl>.</folded>
                           - <tinellbian@x-tlb-hl>。あっえせ ・ ぶぶた ・ ほっわ。</tinellbian@x-tlb-hl>
                           - ʔallisi Bubu<dictionary@x-tlb-hl>-ta</dictionary@x-tlb-hl>
                             <dictionary@x-tlb-hl>hulla</dictionary@x-tlb-hl>.
-                          - <gloss>Alice Bob-and copulate.</gloss>
-                          - “Alice and Bob are having sex.”</folding>
+                          - <gloss>Alice Bob-and copulate.</gloss></example>
+                          - “Alice and Bob are having sex.”
                           - The basic meaning of these sentences is not changed when
                             swapping the participants or using the alternate structures.
                           - <wordlist><dictionary@x-tlb-hl>ju’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>よい</tinellbian@x-tlb-hl> <gloss>to
@@ -3895,7 +3897,7 @@ entries:
                       - <dictionary@x-tlb-hl>kiʔa</dictionary@x-tlb-hl><dictionary@x-tlb-hl>masi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きっあませ</tinellbian@x-tlb-hl> <gloss>snow
                         white</gloss></wordlist>
                     Comparatives:
-                      date: '2019-05-17'
+                      date: '2024-05-10'
                       position: '37.2'
                       text:
                       - The comparative marker is an adposition <dictionary@x-tlb-hl>su</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>than</gloss>
@@ -3910,8 +3912,7 @@ entries:
                         is affixed to the verb.
                       - <folding><transliteration@x-tlb-hl>Luffuba suhuri bajutuci.</transliteration@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。をっふば ・ すほり ・ ばよとち。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>luffu</dictionary@x-tlb-hl><dictionary@x-tlb-hl>-ba</dictionary@x-tlb-hl>
-                        <dictionary@x-tlb-hl>su</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>huri</dictionary@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>luffu-ba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>su</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>huri</dictionary@x-tlb-hl>
                         <dictionary@x-tlb-hl>baju</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tuci</dictionary@x-tlb-hl>.
                       - <gloss>Eyes-<abbr>2gen</abbr> than-ocean blue-half_do.</gloss>
                       - “Your eyes are slightly bluer than the ocean.”</folding>
@@ -3922,8 +3923,8 @@ entries:
                         <dictionary@x-tlb-hl>cussi’ala</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>rali</dictionary@x-tlb-hl>.
                       - <gloss>Sun than-fire feel_hot-intensely.</gloss>
                       - “The Sun is much hotter than fire.</folding>
-                      - <h2>Equalatives</h2>
-                      - The equalative marker is <dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>as</gloss>,
+                      - <h2>Equilatives</h2>
+                      - The equilative marker is <dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>as</gloss>,
                         an adposition.
                       - <folding><transliteration@x-tlb-hl>ʔusu kafilli qi’iku.</transliteration@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。うす ・ かべっえ ・ ねいく。</tinellbian@x-tlb-hl>
@@ -3931,7 +3932,7 @@ entries:
                         <dictionary@x-tlb-hl>qi’iku</dictionary@x-tlb-hl>.
                       - <gloss><abbr>1int</abbr> as-<abbr>2int</abbr> feel_hungry.</gloss>
                       - “I am as hungry as you are.”</folding>
-                      - <h2>Superlative</h2>
+                      - <h2>Superlatives</h2>
                       - The superlative marker, contrary to the other two, is a particle
                         <dictionary@x-tlb-hl>piba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぴば</tinellbian@x-tlb-hl>
                         placed before the verb.

@@ -11,33 +11,58 @@ columns:
 dictionary:
   props:
     colour: '#0000ff'
-  open: <a href="
-  pipe: '">'
-  close: '</a>'
+  type: anchor
   param: http://dictionary.tinellb.com/lex/$text$.html#$url(lookup:lang)$|$upper(text)$
   language: true
-  rank: -50
   key: Alt-d
 interlinear:
   type: div
 paragraph:
   type: div
+example:
+  type: block
+  open: <details class="example">
+  close: </details>
+  key: Alt-E
+  props:
+    background: '#66ff66'
 folded:
   type: line
   open: <summary class="folding">
   close: </summary>
+  key: f
+  props:
+    left: 30
 folding:
   type: block
   open: <details class="folding">
   close: </details>
+  key: Alt-F
+  props:
+    background: '#ff66ff'
 external:
   props:
     colour: blue
     underline: true
-  open: <a href="
-  close: </a>
-  hyperlink: true
-  pipe: '">'
+  type: anchor
+heading-link:
+  props:
+    bold: true
+    underline: true
+    colour: '#3366cc'
+  type: heading
+  open: <h2><a 
+  pipe: '>'
+  close: </a></h2>
+  param: href="$link:lookup:grammar$"|$text$
+  language: true
+grammar-link:
+  props:
+    colour: '#000099'
+    underline: true
+  type: anchor
+  param: $link:lookup:grammar$|$text$
+  language: true
 gloss:
   type: span
   props:
@@ -74,14 +99,10 @@ image:
   open: <img src="
   close: '">'
 internal:
-  type: link
+  type: anchor
   props:
     colour: blue
     underline: true
-  close: </a>
-  hyperlink: true
-  pipe: '">'
-  open: <a href="
 left-columns:
   end: </div>
   start: <div class="left-columns">

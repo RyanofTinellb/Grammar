@@ -10,7 +10,6 @@ styles:
     start: <div class="flex">
   icon:
     end: '">'
-    hyperlink: true
     start: <link rel="icon" type="image/png" href="
   meta:
     end: '>'
@@ -20,7 +19,6 @@ styles:
     start: <div class="nav-pane">
   stylesheet:
     end: '"'
-    hyperlink: true
     start: <link rel="stylesheet" type="text/css" href="
 text:
 - <doctype>html</doctype>

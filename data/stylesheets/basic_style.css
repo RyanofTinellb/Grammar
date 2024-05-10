@@ -22,6 +22,10 @@ ipa {
     font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
 }
 
+strong {
+    font-size: 0.95rem;
+}
+
 ipa strong {
     font-weight: 900;
     color: red;
@@ -38,36 +42,37 @@ overline {
 @font-face {
     font-family: tinellb;
     src: url('../assets/tinellb.ttf');
-  }
-  
-  .tinellbian {
+}
+
+.tinellbian {
     font-family: tinellbian, tinellb;
     font-size: larger;
-  }
-  
-  .tinellbian:lang(x-tlb-hl) {
+}
+
+.tinellbian:lang(x-tlb-hl) {
     direction: rtl;
     unicode-bidi: bidi-override;
-  }
-  
-  .tinellbia:lang(x-tlb-hl)::after {
+}
+
+.tinellbia:lang(x-tlb-hl)::after {
     content: "\202c\00e8";
     font-size: 0;
-  }
-  
-  .tinellbian:hover {
+}
+
+.tinellbian:hover {
     font-size: xx-large;
     font-weight: normal;
     padding: 0em 0.5em;
     cursor: none;
-  }
-  
-  table .tinellbian:hover {
+}
+
+table .tinellbian:hover {
     font-size: larger;
     font-weight: inherit;
     padding: inherit;
     cursor: inherit;
-  }
+}
+
 h1 a:visited,
 h1 a:link {
     color: black;
@@ -80,14 +85,18 @@ h1 a:link {
     flex-direction: row;
 }
 
-nav {
+nav.main {
     text-align: center;
     width: 25%;
     margin-top: 2rem;
 }
 
-nav input.menu {
-    display: none;
+nav summary {
+    list-style-type: "☰";
+}
+
+nav details[open] summary {
+    list-style-type: '✖';
 }
 
 .javascript,
@@ -170,75 +179,28 @@ main .results .title-results {
     padding-top: 1em;
 }
 
-main label.folder {
-    text-align: left;
-}
-
-main input.folder {
-    position: relative;
-    top: 3em;
-    left: 3%;
-}
-
-main input.folder:checked+div.folding p {
-    display: inherit;
-}
-
-main div.folding p:not(:first-child):not(:last-child) {
-    display: none;
-}
-
-main div.folding div.literal {
-    display: none;
-}
-
-main input.folder:checked+div.folding div.literal p,
-main input.folder:checked+div.folding div.literal {
-    display: inherit;
-}
-
-main .literal p::before {
-    content: "lit.:\a0";
-    font-style: italic;
-}
-
-main span.tooltip::after {
-    content: "?";
-    font-size: smaller;
-    vertical-align: super;
-}
-
-main span.tooltip-text {
-    display: none;
-}
-
-main span.tooltip-text::before {
-    content: "(";
-    padding-left: 0.5em;
-}
-
-main span.tooltip-text::after {
-    content: ")"
-}
-
-main span.tooltip:active .tooltip-text,
-main div.folding span.tooltip:hover .tooltip-text {
-    display: inline;
-    cursor: none;
-}
-
-main span.tooltip .tooltip-text:hover {
-    display: inline;
-    cursor: none;
+nav.mini {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 footer {
-	margin-top: 1rem;
-	font-size: smaller;
-	font-family: serif;
-	text-align: right;
-	width: 75%;
+    margin-top: 2rem;
+    margin-left: 30%;
+    margin-right: 10%
 }
+
+footer .copyright {
+    font-size: smaller;
+    font-family: serif;
+    text-align: right;
+    width: 85%;
+}
+/* 
+footer nav.mini {
+
+} */
 
 
 .no-breaks {
@@ -249,65 +211,55 @@ footer {
     .flex {
         flex-direction: column;
     }
+
     main {
         width: 80%;
         margin-left: 10%;
         margin-right: 10%;
     }
+
     main p {
         text-align: left;
     }
+
     nav {
         width: 100%;
     }
-    nav label::before {
-        content: "Menu";
-        font-weight: bold;
-    }
-    nav input.menu {
-        display: inherit;
-    }
-    input.menu+ul {
-        display: none;
-    }
-    input.menu:checked+ul {
-        display: inherit;
-    }
-    main input.folder:checked+div.folding .tooltip-text {
-        display: inline;
-    }
-    main span.tooltip:hover .tooltip-text {
-        display: inline;
-    }
-}
 
-@media screen and (max-width: 600px) {
     table {
         display: none;
     }
+
     main div.mobile-table {
         display: block;
     }
+
     main div.mobile-table table {
         display: block;
         margin-left: 15%;
     }
+
     main div.mobile-table ul {
         padding-left: 0;
         margin-left: 10%;
     }
+
     .desktop {
         display: none;
     }
+
     .mobile {
         display: initial;
     }
+
     main input.folder:checked+div.folding .tooltip-text {
         display: none;
     }
+
     main span.tooltip:hover .tooltip-text {
         display: none;
     }
+
     main span.tooltip::after {
         content: none;
     }

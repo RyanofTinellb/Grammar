@@ -11,15 +11,17 @@
  window.location.href = `../../../special/search.html?${term}&andOr=and`; 
  } </script>
 <script src="../../../data/scripts/search.js"></script>
-<body><div class="flex"><nav><details><summary> Menu </summary>
+<body><div class="flex"><nav class="main"><details><summary> Menu </summary>
 <ul><li><a href="../../../index.html">A Grammar of the Tinellbian Languages</a></li>
 <div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
 <li class="search"><button>Search</button></li></form></div></ul></details></nav>
 
-<main><h1>Diachrony</h1>
+<main><nav class="mini"><p><a href="index.html">← Previous Page</a></p>
+<p><a href="../../../index.html">Next Page →</a></p></nav>
+<h1>Diachrony</h1>
 <div class="message"><p>Warning: This section is a work in progress.</p></div>
 <p>This page includes a list of changes from High Lulani to Demotic Lulani.</p>
-<h2> Phonology </h2>
+<h2 id="phonology">Phonology </h2>
 <p>A detailed up-to-date list of changes in kept at <a href="https://github.com/RyanofTinellb/ConlangWebsiteCreation/blob/master/cwsmeagol/translation/evolve.py">GitHub</a>, in a Python file that applies these changes to a High Lulani word.</p>
 <li><ul>Lowering of back vowels before peripheral consonants.</li>
 <li>Shifting of geminate consonants: unvoiced plosive → voiced plosive → voiced fricative</li>
@@ -30,9 +32,12 @@
 <li>Elision of unstressed /<strong><span class="ipa">ə</span></strong>/, followed by consonant cluster reduction.</li>
 <li>Reduction of remaining unstressed vowels to schwa.</ul></li>
 </main></div>
-<footer><p><copyright></p>
-<p>    <nobreaks>&copy;2017-<param>year</param> <link>http://www.tinellb.com/about.html|Ryan Eakins</link>,}</nobreaks> <nobreaks>using the <link>https://github.com/RyanofTinellb/Smeagol|Sméagol</link> web editor.</nobreaks> <nobreaks>Last updated: <param>full date</param>.</nobreaks></p>
-</copyright></footer>
+<footer><nav class="mini"><p><a href="index.html">← Previous Page</a></p>
+<p><a href="../../../index.html">Next Page →</a></p></nav>
+
+<div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
+<span class="no-breaks">Last updated: Wednesday, May 15th, 2019</span></div>
+</footer>
 <script>
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>

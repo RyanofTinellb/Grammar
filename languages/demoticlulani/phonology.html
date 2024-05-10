@@ -11,14 +11,16 @@
  window.location.href = `../../special/search.html?${term}&andOr=and`; 
  } </script>
 <script src="../../data/scripts/search.js"></script>
-<body><div class="flex"><nav><details><summary> Menu </summary>
+<body><div class="flex"><nav class="main"><details><summary> Menu </summary>
 <ul><li><a href="../../index.html">A Grammar of the Tinellbian Languages</a></li>
 <div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
 <li class="search"><button>Search</button></li></form></div></ul></details></nav>
 
-<main><h1>Phonology</h1>
+<main><nav class="mini"><p><a href="index.html">← Previous Page</a></p>
+<p><a href="sampletexts.html">Next Page →</a></p></nav>
+<h1>Phonology</h1>
 <div class="message"><p>Warning: This section is a work in progress.</p></div>
-<h2> Consonants </h2>
+<h2 id="consonants">Consonants </h2>
 <table><tr><td></td><th>labial</th><th>dental </th><th>palatal</th><th>velar</th><th>glottal</th></tr>
 <tr><th>stop</th><td><span class="ipa">p b</span></td><td><span class="ipa">t d</span></td><td></td><td><span class="ipa">k g</span></td><td></td></tr>
 <tr><th>affricate</th><td></td><td></td><td><span class="ipa">tɕ</span> &lt; c &gt; <span class="ipa">dʑ</span> &lt; j &gt;</td><td></td><td></td></tr>
@@ -60,7 +62,7 @@
 <p><strong>labio-velar:</strong> <span class="ipa">w</span></p>
 <p><strong>palatal:</strong> <span class="ipa">j</span> &lt; y &gt;</mobiletable></p>
 <p>This table shows the consonants phonemically, using the International Phonetic Alphabet. Where it differs from IPA, the transliteration is given in &lt; triangular brackets &gt;.</p>
-<h2> Vowels </h2>
+<h2 id="vowels">Vowels </h2>
 <table><tr><td></td><th>front</th><th>central</th><th>back</th></tr>
 <tr><th>close</th><td><span class="ipa">i y</span> &lt; ü &gt;</td><td></td><td><span class="ipa">u</span></td></tr>
 <tr><th>mid</th><td><span class="ipa">e</span> (<span class="ipa">ø</span> &lt; ö &gt;)</td><td><span class="ipa">(ə)</span></td><td>(<span class="ipa">o</span>)</td></tr>
@@ -76,13 +78,16 @@
 <p><strong>back rounded:</strong> (<span class="ipa">o</span>)</p>
 <p><strong>open:</strong></p>
 <p><strong>front:</strong> <span class="ipa">æ</span></mobiletable></p>
-<h3> Allophony </h3>
+<h3 id="allophony">Allophony </h3>
 <p>Unstressed vowels are realised as <strong><span class="ipa">ə</span></strong>.</p>
 <p>Rounded vowels are lowered, <span class="gloss">i.e.:</span> <strong><span class="ipa">u</span></strong> → <strong><span class="ipa">o</span></strong> and <strong><span class="ipa">y</span></strong> → <strong><span class="ipa">ø</span></strong>, before peripheral consonants. The latter change also occurs at the ends of words.</p>
 </main></div>
-<footer><p><copyright></p>
-<p>    <nobreaks>&copy;2017-<param>year</param> <link>http://www.tinellb.com/about.html|Ryan Eakins</link>,}</nobreaks> <nobreaks>using the <link>https://github.com/RyanofTinellb/Smeagol|Sméagol</link> web editor.</nobreaks> <nobreaks>Last updated: <param>full date</param>.</nobreaks></p>
-</copyright></footer>
+<footer><nav class="mini"><p><a href="index.html">← Previous Page</a></p>
+<p><a href="sampletexts.html">Next Page →</a></p></nav>
+
+<div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
+<span class="no-breaks">Last updated: Wednesday, May 15th, 2019</span></div>
+</footer>
 <script>
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>
