@@ -75,7 +75,7 @@ entries:
         Languages:
           children:
             High Lulani:
-              date: '2019-09-07'
+              date: '2024-05-11'
               position: '2.349'
               text:
               - High Lulani is the language created by Loren, queen of the Ptokonoi.
@@ -806,14 +806,14 @@ entries:
                         with (⠨) the number sign, and the first syllable of each number
                         is used.
                 Morphology:
-                  date: '2019-05-04'
+                  date: '2024-05-11'
                   position: '1.0'
                   text:
                   - High Lulani is an analytic agglutinative language, as morphemes
                     tend to keep their own shape, even when forming words.
                   children:
                     Nouns:
-                      date: '2024-05-07'
+                      date: '2024-05-11'
                       position: '9.17'
                       text:
                       - Common and proper nouns are open classes; the pronouns are
@@ -900,7 +900,7 @@ entries:
                         (name of a story)</wordlist>
                       children:
                         Adverbs:
-                          date: '2019-06-16'
+                          date: '2024-05-11'
                           position: '81.26'
                           text:
                           - 'A closed subset of nouns can have an adverbial function.
@@ -1012,13 +1012,13 @@ entries:
                           - Numbers can be suffixed to denote other times.
                           - <transliteration@x-tlb-hl>musahha</transliteration@x-tlb-hl>
                           - <tinellbian@x-tlb-hl>むさっは</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl><dictionary@x-tlb-hl>-hha</dictionary@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>musa-hha</dictionary@x-tlb-hl>
                           - <gloss>day-zero</gloss>
                           - '<gloss>lit: “0-day”</gloss>'
                           - “yesterday”
                           - <transliteration@x-tlb-hl>musara</transliteration@x-tlb-hl>
                           - <tinellbian@x-tlb-hl>むさら</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl><dictionary@x-tlb-hl>-ra</dictionary@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>musa-ra</dictionary@x-tlb-hl>
                           - <gloss>day-two</gloss>
                           - '<gloss>lit: “2-day”</gloss>'
                           - “tomorrow”

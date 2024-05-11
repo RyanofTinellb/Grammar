@@ -104,23 +104,6 @@ main .hierarchy table td {
     height: 1em;
 }
 
-main .toc {
-    margin-top: 1em;
-    margin-left: 10%;
-    margin-bottom: 3em;
-    padding: 1em 0 1em 2em;
-    border-left: 1px solid purple;
-    border-bottom: 1px solid purple;
-}
-
-main .toc::before {
-    content: 'Continue with:';
-    font-size: larger;
-    font-style: italic;
-    position: relative;
-    top: -0.5em;
-}
-
 main .toc p::before {
     content: '\227b';
     font-size: large;
@@ -130,6 +113,31 @@ main .toc p::before {
 
 main .toc a {
     color: black;
+}
+
+
+main .toc {
+    border-left: 2px solid purple;
+    border-bottom: 2px solid purple;
+    margin-top: 2rem;
+    margin-left: 10%;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
+
+main .toc p {
+    line-height: 2;
+    margin-left: 10%;
+}
+
+main .toc::before {
+    content: 'Continue with:';
+    font-size: larger;
+    font-style: italic;
+    position: relative;
+    top: -0.5em;
+    left: 5%;
 }
 
 main div.wordlist {

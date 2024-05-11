@@ -86,17 +86,35 @@ h1 a:link {
 }
 
 nav.main {
-    text-align: center;
+    /* text-align: center; */
     width: 25%;
     margin-top: 2rem;
 }
 
 nav summary {
     list-style-type: "☰";
+    text-align: center;
 }
+
+/* nav .javascript {
+    text-align: left;
+} */
 
 nav details[open] summary {
     list-style-type: '✖';
+}
+
+nav details ul ul {
+    margin-left: 5%;
+    text-align: left;
+}
+
+nav details ul {
+    text-align: center;
+}
+
+nav .nav-links {
+    margin-left: 30%;
 }
 
 .javascript,
@@ -196,7 +214,14 @@ footer .copyright {
     font-family: serif;
     text-align: right;
     width: 85%;
+    line-height: 1.5;
 }
+
+nav.mini p {
+    padding-left: 0;
+    margin-left: 0;
+}
+
 /* 
 footer nav.mini {
 
@@ -222,7 +247,7 @@ footer nav.mini {
         text-align: left;
     }
 
-    nav {
+    nav.main{
         width: 100%;
     }
 
@@ -242,6 +267,19 @@ footer nav.mini {
     main div.mobile-table ul {
         padding-left: 0;
         margin-left: 10%;
+    }
+
+    footer {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    footer .copyright {
+        width: 100%;
+    }
+
+    nav.mini p {
+        text-indent: 0;
     }
 
     .desktop {

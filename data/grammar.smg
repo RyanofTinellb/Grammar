@@ -8,6 +8,8 @@ assets:
   wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\wordlist.json
 entries:
 - - A Grammar of the Tinellbian Languages
+  - Languages
+  - High Lulani
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime
 language: 'en: English'
