@@ -180,6 +180,7 @@ main details.example + p {
 main div.columns, main div.left-columns {
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-around;
 }
 
 main div.columns table th, main div.columns table td,

@@ -1,15 +1,13 @@
 assets:
-  samples:
-  - C:\Users\Ryan\TinellbianLanguages\encyclopedia\data\data.src
-  - c:\users\ryan\tinellbianlanguages\coelacanth\data\data.src
-  - c:\users\ryan\tinellbianlanguages\writings\data\data.src
-  searchindex: C:\Users\Ryan\TinellbianLanguages\grammar\searching.json
+  searchindex: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\searching.json
   source: C:\Users\Ryan\TinellbianLanguages\grammar\data\data.src
-  wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\wordlist.json
+  wordlist: c:\users\ryan\tinellbianlanguages\grammar\
 entries:
 - - A Grammar of the Tinellbian Languages
   - Languages
   - High Lulani
+  - Phonology
+  - Consonants
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime
 language: 'en: English'
@@ -20,18 +18,20 @@ links:
   grammar: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\internal-links.glk
 locations:
   directory: c:\users\ryan\tinellbianlanguages\grammar
-  search: C:\Users\Ryan\TinellbianLanguages\grammar\search.html
+  search: C:\Users\Ryan\TinellbianLanguages\grammar\special\search.html
   page404: C:\Users\Ryan\TinellbianLanguages\grammar\404.html
   wholepage: C:\Users\Ryan\TinellbianLanguages\grammar\special\wholepage.html
 markdown: ''
 styles: c:\users\ryan\tinellbianlanguages\grammar\data\assets\styles.tag
 templates:
   main: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\page.tpl
+  search: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search.tpl
   sections:
     copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
     highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
     search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
+    search nav pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search_navpane.tpl
     show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
     navigation pane: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navpane.tpl
     mini-nav: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\navigation

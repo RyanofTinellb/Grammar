@@ -251,11 +251,12 @@ footer nav.mini {
         width: 100%;
     }
 
-    table {
+    main table {
         display: none;
+        margin-left: 0 !important;
     }
 
-    main div.mobile-table {
+    main div.mobile table {
         display: block;
     }
 

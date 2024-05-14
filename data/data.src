@@ -75,7 +75,7 @@ entries:
         Languages:
           children:
             High Lulani:
-              date: '2024-05-11'
+              date: '2024-05-12'
               position: '2.349'
               text:
               - High Lulani is the language created by Loren, queen of the Ptokonoi.
@@ -90,7 +90,7 @@ entries:
                 Ptokan and Fezhlê have been forced to change somewhat to adapt.
               children:
                 Phonology:
-                  date: '2019-09-08'
+                  date: '2024-05-13'
                   position: '1.0'
                   text:
                   - High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives
@@ -137,38 +137,6 @@ entries:
                   - ' <ipa>t</ipa> | ni<strong>tt</strong>u'
                   - ' <ipa>tʰ</ipa> | <strong>t</strong>a’i'
                   - ' <ipa>ʔ</ipa> | xu<strong>’</strong>a</table></columns>'
-                  - <mobiletable><table>h Consonant |h Example
-                  - ' <ipa>b</ipa> | <strong>b</strong>a’u'
-                  - ' <ipa>bʱ</ipa> | sa<strong>bb</strong>a'
-                  - ' <ipa>c</ipa> | qa<strong>cc</strong>a'
-                  - ' <ipa>cʰ</ipa> | <strong>c</strong>u’i'
-                  - ' <ipa>ɕ</ipa> | <strong>x</strong>u’a'
-                  - ' <ipa>ç</ipa> | tu<strong>hh</strong>i'
-                  - ' <ipa>d</ipa> | <strong>d</strong>aru'
-                  - ' <ipa>dʱ</ipa> | ’a<strong>dd</strong>a'
-                  - ' <ipa>f</ipa> | <strong>f</strong>ara'
-                  - ' <ipa>g</ipa> | <strong>g</strong>usu'
-                  - ' <ipa>gʱ</ipa> | sa<strong>gg</strong>i'
-                  - ' <ipa>h</ipa> | <strong>h</strong>isuba'
-                  - ' <ipa>j</ipa> | fa<strong>ʔ</strong>a<sup>1</sup>'
-                  - ' <ipa>ɟ</ipa> | <strong>j</strong>usi'
-                  - ' <ipa>ɟʱ</ipa> | ma<strong>jj</strong>a'
-                  - ' <ipa>k</ipa> | ta<strong>kk</strong>i'
-                  - ' <ipa>kʰ</ipa> | <strong>k</strong>a’u'
-                  - ' <ipa>l</ipa> | <strong>l</strong>isa'
-                  - ' <ipa>ʎ</ipa> | mu<strong>ll</strong>u'
-                  - ' <ipa>m</ipa> | <strong>m</strong>ullu'
-                  - ' <ipa>n</ipa> | <strong>n</strong>isa'
-                  - ' <ipa>ɲ</ipa> | ja<strong>nn</strong>i'
-                  - ' <ipa>ŋ</ipa> | <strong>q</strong>a'
-                  - ' <ipa>p</ipa> | ’a<strong>pp</strong>u'
-                  - ' <ipa>pʰ</ipa> | <strong>p</strong>uttu'
-                  - ' <ipa>r</ipa> | gu<strong>rr</strong>isu'
-                  - ' <ipa>ɾ</ipa> | <strong>r</strong>usa'
-                  - ' <ipa>s</ipa> | <strong>s</strong>ippa'
-                  - ' <ipa>t</ipa> | ni<strong>tt</strong>u'
-                  - ' <ipa>tʰ</ipa> | <strong>t</strong>a’i'
-                  - ' <ipa>ʔ</ipa> | <strong>x</strong>u’a</table></mobiletable>'
                   - <sup>1</sup>The phone <ipa>/j/</ipa> only appears as the second
                     segment of an allophonic variant of <ipa>/ʔ/</ipa>, when that
                     sound is geminated.
@@ -177,20 +145,20 @@ entries:
                   - ' <ipa>i</ipa> | b<strong>i</strong>tta'
                   - ' <ipa>u</ipa> | c<strong>u</strong>ra</table>'
                   - <table>h Vowel |h Example
-                  - ' <ipa>ə</ipa> | su’<strong>a</strong>'
-                  - ' <ipa>ɨ</ipa> | kas<strong>i</strong>'
-                  - ' <ipa>ʉ</ipa> | l<strong>u</strong>lani</table></columns>'
-                  - The suprasegmental symbols are all exemplified in <ipa>/ˌpʰaːmɨˈlamɨ/</ipa>.
+                  - ' <ipa>ə</ipa> | su’<strong>a'
+                  - ' </strong><ipa>ɨ</ipa> | kas<strong>i'
+                  - </strong> <ipa>ʉ</ipa> | l<strong>u</strong>lani</table>
+                  - </columns>The suprasegmental symbols are all exemplified in <ipa>/ˌpʰaːmɨˈlamɨ/</ipa>.
                   children:
                     Consonants:
-                      date: '2019-05-04'
+                      date: '2024-05-13'
                       position: '81.21'
                       text:
                       - Consonants are differentiated by manner and place of articulation,
                         and by word-internal gemination. Plosives also have contrasting
                         voice.
-                      - <table>|h labial |h alveolar |h retroflex |h palatal |h velar
-                        |h glottal
+                      - <table><thead>|h labial |h alveolar |h retroflex |h palatal
+                        |h velar |h glottal</thead>
                       - h stop | <ipa>p b</ipa> | <ipa>t d</ipa> || <ipa>c ɟ</ipa>
                         &lt;j&gt; | <ipa>k g</ipa> | <ipa>ʔ</ipa> &lt;’&gt;
                       - h nasal | <ipa>m</ipa> | <ipa>n</ipa> ||| <ipa>ŋ</ipa> &lt;q&gt;
@@ -199,29 +167,16 @@ entries:
                       - h tap ||| <ipa>ɽ</ipa> &lt;r&gt; |||
                       - h fricative | <ipa>f</ipa> | <ipa>s</ipa> || <ipa>ɕ</ipa>
                         &lt;x&gt; || <ipa>h</ipa></table>
-                      - '<mobiletable><strong>stops</strong>:'
-                      - <strong>labial:</strong> <ipa>p</ipa>
-                      - <strong>alveolar:</strong> <ipa>t</ipa>
-                      - <strong>palatal:</strong> <ipa>c</ipa>
-                      - <strong>velar:</strong> <ipa>k</ipa>
-                      - <strong>glottal:</strong> <ipa>ʔ</ipa> &lt;’&gt;
-                      - '<strong>voiced</strong>:'
-                      - <strong>labial:</strong> <ipa>b</ipa>
-                      - <strong>alveolar:</strong> <ipa>d</ipa>
-                      - <strong>palatal:</strong> <ipa>ɟ</ipa> &lt;j&gt;
-                      - <strong>velar:</strong> <ipa>g</ipa>
-                      - '<strong>nasals</strong>:'
-                      - <strong>labial:</strong> <ipa>m</ipa>
-                      - <strong>alveolar:</strong> <ipa>n</ipa>
-                      - <strong>velar:</strong> <ipa>ŋ</ipa> &lt;q&gt;
-                      - '<strong>liquids</strong>:'
-                      - <strong>alveolar lateral:</strong> <ipa>l</ipa>
-                      - <strong>retroflex tap:</strong> <ipa>ɽ</ipa> &lt;r&gt;
-                      - '<strong>fricatives</strong>:'
-                      - <strong>labial:</strong> <ipa>f</ipa>
-                      - <strong>alveolar:</strong> <ipa>s</ipa>
-                      - <strong>palatal:</strong> <ipa>ɕ</ipa> &lt;x&gt;
-                      - <strong>glottal:</strong> <ipa>h</ipa></mobiletable>
+                      - <mobile><table><thead>|h stop |h nasal |h lateral / //tap
+                        |h fricative </thead>
+                      - h labial | <ipa>p</ipa> <ipa>b</ipa> | <ipa>m</ipa> || <ipa>f</ipa>
+                      - h alveolar / //retroflex | <ipa>t</ipa> <ipa>d</ipa> | <ipa>n</ipa>
+                        | <ipa>l</ipa> <ipa>ɽ</ipa> &lt;r&gt; | <ipa>s</ipa>
+                      - h palatal | <ipa>c</ipa> <ipa>ɟ</ipa> &lt;j&gt; ||| <ipa>ɕ</ipa>
+                        &lt;x&gt;
+                      - h velar | <ipa>k</ipa> <ipa>g</ipa> | <ipa>ŋ</ipa> &lt;q&gt;
+                        ||
+                      - h glottal | <ipa>ʔ</ipa> &lt;’&gt; ||| <ipa>h</ipa></table></mobile>
                       - This table shows the consonants phonemically, using the International
                         Phonetic Alphabet. Where it differs from IPA, the transliteration
                         is given in &lt;triangular brackets&gt;.
@@ -7568,3 +7523,5 @@ entries:
                       - Elision of unstressed /<strong><ipa>ə</ipa></strong>/, followed
                         by consonant cluster reduction.
                       - Reduction of remaining unstressed vowels to schwa.</ul>
+          text: []
+          date: null

@@ -45,17 +45,6 @@ external:
     colour: blue
     underline: true
   type: anchor
-heading-link:
-  props:
-    bold: true
-    underline: true
-    colour: '#3366cc'
-  type: heading
-  open: <h2><a 
-  pipe: '>'
-  close: </a></h2>
-  param: href="$link:lookup:grammar$"|$text$
-  language: true
 grammar-link:
   props:
     colour: '#000099'
@@ -67,6 +56,17 @@ gloss:
   type: span
   props:
     italics: true
+heading-link:
+  props:
+    bold: true
+    underline: true
+    colour: '#3366cc'
+  type: heading
+  open: <h2><a 
+  pipe: '>'
+  close: </a></h2>
+  param: href="$link:lookup:grammar$"|$text$
+  language: true
 h2:
   type: heading
   props:
@@ -95,6 +95,7 @@ ipa:
   props:
     font: lucida sans unicode
   type: span
+  key: Alt-i
 image:
   open: <img src="
   close: '">'
@@ -110,6 +111,11 @@ message:
   type: div
   props:
     colour: red
+mobile:
+  type: div
+  rank: 150
+  props:
+    background: '#ffff33'
 mobile-table:
   type: div
 multiline:
@@ -120,6 +126,10 @@ multiline:
 ol:
   start: <li>
   end: </li>
+overline:
+  type: span
+  props:
+    underline: true
 season:
   props:
     size: 2
@@ -145,12 +155,10 @@ symbol:
   type: span
   props:
     italics: true
-overline:
-  type: span
-  props:
-    underline: true
 table:
   type: table
+thead:
+  type: block
 tinellbian:
   props:
     font: tinellbian
