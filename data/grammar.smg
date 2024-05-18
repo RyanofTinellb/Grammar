@@ -6,16 +6,20 @@ entries:
 - - A Grammar of the Tinellbian Languages
   - Languages
   - High Lulani
-  - Phonology
-  - Consonants
+  - Sample Texts
+  - Prelude
+files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime
+  ipa: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\ipa.ime
+  tinellbian: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\tinellbian.ime
 language: 'en: English'
 languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 links:
   season: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\seasons.gls
   lang: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
   grammar: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\internal-links.glk
+  glossary: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\glossary.gls
 locations:
   directory: c:\users\ryan\tinellbianlanguages\grammar
   search: C:\Users\Ryan\TinellbianLanguages\grammar\special\search.html

@@ -3,7 +3,8 @@ body {
 }
 
 .season {
-    font-size: x-large;
+    font-size: large;
+    font-style: normal;
 }
 
 highlight {
@@ -180,7 +181,6 @@ main details.example + p {
 main div.columns, main div.left-columns {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around;
 }
 
 main div.columns table th, main div.columns table td,
@@ -203,14 +203,10 @@ main .paragraph {
     font-family: georgia, serif;
 }
 
-main .stars {
+main .stars p {
     text-align: center;
     margin-bottom: 1em;
     letter-spacing: 2vw;
-}
-
-main .stars::after {
-    content: "* * *"
 }
 
 main .gloss {
@@ -220,6 +216,22 @@ main .gloss {
 main .transliteration {
     font-weight: bold;
     font-size: 0.95rem;
+}
+
+main .ipa {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Trebuchet MS', Arial, sans-serif;
+    font-size: larger;
+}
+
+main .ipa strong {
+    font-size: inherit;
+    font-weight: 100;
+    color: red;
+}
+
+main form.choices {
+    text-align: center;
+    margin: 1em;
 }
 
 input#Transliteration:checked ~ .paragraph p:nth-child(1) {

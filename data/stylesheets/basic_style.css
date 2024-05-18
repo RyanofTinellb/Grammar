@@ -18,6 +18,10 @@ a:visited {
     display: none;
 }
 
+.multiline .tinellbian {
+    display: block;
+}
+
 ipa {
     font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
 }
@@ -31,12 +35,15 @@ ipa strong {
     color: red;
 }
 
-small-caps {
-    font-variant: small-caps;
+.overline {
+    text-decoration: overline;
 }
 
-overline {
-    text-decoration: overline;
+.highlight {
+    border: 1px solid red;
+    padding: 4px 5px;
+    border-radius: 15px;
+    line-height: 2;
 }
 
 @font-face {
@@ -54,14 +61,13 @@ overline {
     unicode-bidi: bidi-override;
 }
 
-.tinellbia:lang(x-tlb-hl)::after {
+.tinellbian:lang(x-tlb-hl)::after {
     content: "\202c\00e8";
     font-size: 0;
 }
 
 .tinellbian:hover {
     font-size: xx-large;
-    font-weight: normal;
     padding: 0em 0.5em;
     cursor: none;
 }
@@ -71,6 +77,18 @@ table .tinellbian:hover {
     font-weight: inherit;
     padding: inherit;
     cursor: inherit;
+}
+
+main abbr.glossary {
+    font-variant: small-caps;
+    font-style: normal;
+    text-decoration: none;
+}
+
+main abbr.glossary::after {
+    content: "?";
+    vertical-align: super;
+    font-size: smaller;
 }
 
 h1 a:visited,
@@ -127,8 +145,6 @@ input[type='checkbox'] {
 }
 
 main {
-    display: flex;
-    flex-direction: column;
     margin-left: 5%;
     width: 60%;
 }
@@ -177,13 +193,17 @@ main .message p {
     color: red;
 }
 
-main div.mobile-table {
-    display: none;
-}
-
 main .wordlist {
     border-left: 1px solid green;
     border-bottom: 1px solid green;
+}
+
+main .wordlist .block {
+    margin-top: 1rem;
+}
+
+main .wordlist .block:first-child {
+    margin-top: 0;
 }
 
 main .universe {
@@ -247,17 +267,18 @@ footer nav.mini {
         text-align: left;
     }
 
-    nav.main{
+    nav.main {
         width: 100%;
     }
 
     main table {
         display: none;
-        margin-left: 0 !important;
     }
 
     main div.mobile table {
         display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     main div.mobile-table table {
@@ -268,6 +289,12 @@ footer nav.mini {
     main div.mobile-table ul {
         padding-left: 0;
         margin-left: 10%;
+    }
+
+    main abbr.glossary::after {
+        content: "";
+        vertical-align: super;
+        font-size: smaller;
     }
 
     footer {
@@ -289,6 +316,20 @@ footer nav.mini {
 
     .mobile {
         display: initial;
+    }
+
+    .mobile p {
+        margin-left: 10%;
+    }
+
+    .mobile ul {
+        list-style: none;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .mobile ul li {
+        line-height: 1.5;
     }
 
     main input.folder:checked+div.folding .tooltip-text {
