@@ -1,7 +1,6 @@
 assets:
   searchindex: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\searching.json
   source: C:\Users\Ryan\TinellbianLanguages\grammar\data\data.src
-  wordlist: c:\users\ryan\tinellbianlanguages\grammar\
 entries:
 - - A Grammar of the Tinellbian Languages
   - Languages
@@ -30,6 +29,7 @@ styles: c:\users\ryan\tinellbianlanguages\grammar\data\assets\styles.tag
 templates:
   main: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\page.tpl
   search: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search.tpl
+  page404: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search.tpl
   sections:
     copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
