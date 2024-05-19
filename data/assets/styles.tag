@@ -195,6 +195,7 @@ stars:
 strong:
   props:
     bold: true
+  rank: -20
 sup:
   props:
     offset: superscript

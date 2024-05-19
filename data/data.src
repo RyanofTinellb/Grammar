@@ -6989,13 +6989,13 @@ entries:
                       - <ul>Lowering of back vowels before peripheral consonants.
                       - 'Shifting of geminate consonants: unvoiced plosive → voiced
                         plosive → voiced fricative'
-                      - I-mutation of vowels when followed by /<strong><ipa@x-tlb-dl>i</ipa@x-tlb-dl></strong>/
+                      - I-mutation of vowels when followed by /<ipa@x-tlb-dl><strong>i</strong></ipa@x-tlb-dl>/
                         in the next syllable.
-                      - Palatalisation of alveolar sounds when followed by /<strong><ipa@x-tlb-dl>i</ipa@x-tlb-dl></strong>/.
-                      - Loss of /<strong><ipa@x-tlb-dl>i</ipa@x-tlb-dl></strong>/
+                      - Palatalisation of alveolar sounds when followed by /<ipa@x-tlb-dl><strong>i</strong></ipa@x-tlb-dl>/.
+                      - Loss of /<ipa@x-tlb-dl><strong>i</strong></ipa@x-tlb-dl>/
                         after geminate consonants.
                       - Degemination of consonants.
-                      - Elision of unstressed /<strong><ipa@x-tlb-dl>ə</ipa@x-tlb-dl></strong>/,
+                      - Elision of unstressed /<ipa@x-tlb-dl><strong>ə</strong></ipa@x-tlb-dl>/,
                         followed by consonant cluster reduction.
                       - Reduction of remaining unstressed vowels to schwa.</ul>
           text: []
