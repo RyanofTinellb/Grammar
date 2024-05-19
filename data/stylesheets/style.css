@@ -1,0 +1,318 @@
+body {
+    font-family: sans-serif;
+}
+
+.season {
+    font-size: large;
+    font-style: normal;
+}
+
+highlight {
+    border: 1px solid red;
+    padding: 4px 5px;
+    border-radius: 15px;
+    line-height: 2;
+}
+
+nav li {
+    line-height: 1.75;
+    list-style: none;
+}
+
+nav form li {
+    line-height: 0;
+}
+
+nav ul {
+    padding-left: 0em;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: serif;
+    color: yellow;
+    padding-left: 2em;
+}
+
+h1 {
+    background-color: #47236B;
+}
+
+h1 a:link, h1 a:visited {
+    color: yellow;
+    text-decoration: none;
+}
+
+h2 {
+    margin-right: 10%;
+    background-color: rebeccapurple;
+}
+
+h2 a {
+    color: yellow !important;
+    text-decoration: none;
+}
+
+h3 {
+    margin-right: 20%;
+    background-color: #845BAD;
+}
+
+h4 {
+    margin-right: 30%;
+    background-color: #9370B7;
+}
+
+h5 {
+    margin-right: 40%;
+    background-color: #A384C1;
+}
+
+h6 {
+    margin-right: 50%;
+    background-color: #b49cce;
+}
+
+main p {
+    line-height: 2;
+    text-indent: 1em;
+}
+
+main ul, main ol {
+    margin-left: 10%;
+}
+
+main ol {
+    list-style: lower-roman;
+}
+
+main table {
+    margin-left: 5%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+main table td, main table th {
+    padding: 2px 1em;
+}
+
+main .hierarchy table td {
+    border: none;
+    height: 1em;
+}
+
+main .toc p::before {
+    content: '\227b';
+    font-size: large;
+    line-height: 1;
+    padding-right: 1em;
+}
+
+main .toc a {
+    color: black;
+}
+
+
+main .toc {
+    border-left: 2px solid purple;
+    border-bottom: 2px solid purple;
+    margin-top: 2rem;
+    margin-left: 10%;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
+
+main .toc p {
+    line-height: 2;
+    margin-left: 10%;
+}
+
+main .toc::before {
+    content: 'Continue with:';
+    font-size: larger;
+    font-style: italic;
+    position: relative;
+    top: -0.5em;
+    left: 5%;
+}
+
+main div.wordlist {
+    margin-top: 1em;
+    margin-left: 5%;
+    margin-bottom: 3em;
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+}
+
+main .wordlist p, main .wordlist summary {
+    margin-left: 5%;
+    line-height: 1.5;
+}
+
+main details.folding {
+    margin-top: 0.5rem;
+    list-style: "";
+}
+
+main details.folding p,main details.folding + p {
+    line-height: 1.5;
+}
+
+main details.example {
+    margin-top: 1.5rem;
+    list-style: "";
+    margin-left: 15%;
+}
+
+main details.example p,main details.example + p {
+    line-height: 1.5;
+}
+
+main details.example + p {
+    margin-left: 15%;
+    margin-bottom: 1.5rem;
+}
+
+main div.columns, main div.left-columns {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+main div.columns table th, main div.columns table td,
+main div.left-columns table th, main div.left-columns table td {
+    border: none;
+    padding: 0.5em 0.5em;
+}
+
+main div.left-columns table th, main div.left-columns table td {
+    text-align: left;
+}
+
+main div.columns table th:first-child,
+main div.left-columns table th:first-child {
+    text-align: center;
+}
+
+main .paragraph {
+    padding-top: 1em;
+    font-family: georgia, serif;
+}
+
+main .stars p {
+    text-align: center;
+    margin-bottom: 1em;
+    letter-spacing: 2vw;
+}
+
+main .gloss {
+    font-style: italic;
+}
+
+main .transliteration {
+    font-weight: bold;
+    font-size: 0.95rem;
+}
+
+main .ipa {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Trebuchet MS', Arial, sans-serif;
+    font-size: larger;
+    font-style: normal;
+}
+
+main .ipa strong {
+    font-size: inherit;
+    font-weight: 100;
+    color: red;
+}
+
+main form.choices {
+    text-align: center;
+    margin: 1em;
+}
+
+input#english:checked ~ .paragraph {
+    padding-top: 0.5rem;
+    text-align: justify;
+}
+
+input#english:checked ~ .paragraph details.folding {
+    display: none;
+}
+
+input#english:checked ~ .paragraph p {
+    display: inline;
+}
+
+input#english:checked ~ .paragraph p:nth-child(2) {
+    margin-left: 1.5rem;
+}
+
+input#transliteration:checked ~ .paragraph details.folding {
+    display: inline;
+}
+
+input#transliteration:checked ~ .paragraph details.folding summary.folding {
+    display: inline;
+}
+
+input#transliteration:checked ~ .paragraph details.folding summary.folding .transliteration {
+    font-weight: normal;
+}
+
+input#transliteration:checked ~ .paragraph details.folding ~ p {
+    display: none;
+}
+
+input#transliteration:checked ~ .paragraph details.folding p {
+    display: none;
+}
+
+input#tinellbian:checked ~ .paragraph {
+    text-align: right;
+    margin-right: 10%;
+}
+
+input#tinellbian:checked ~ .paragraph details.folding ~ p {
+    display: none;
+}
+
+input#tinellbian:checked ~ .paragraph details summary {
+    display: none;
+}
+
+input#tinellbian:checked ~ .paragraph details p {
+    display: none;
+}
+
+input#tinellbian:checked ~ .paragraph details p:nth-child(2) {
+    display: inline;
+}
+
+@media screen and (max-width: 800px) {
+    divmain {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    divmain p {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    divmain .folding p {
+        margin-right: 0;
+    }
+
+    main div.wordlist {
+        margin-left: 10%;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin-right: 0;
+    }
+}

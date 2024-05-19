@@ -1,179 +1,38 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<meta charset="utf-8">
+<title>A Grammar of the Tinellbian Languages</title>
+<link rel="stylesheet" type="text/css" href="data/stylesheets/basic_style.css">
+<link rel="stylesheet" type="text/css" href="data/stylesheets/style.css">
+<link rel="icon" type="image/png" href="data/assets/favicon.png">
+<script> let href = window.location.href; 
+ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `special/search.html?${term}&andOr=and`; 
+ } </script>
+<script src="data/scripts/search.js"></script>
+<body><div class="flex"><nav class="main"><details open><summary> Menu </summary>
+<ul><li><a href="">A Grammar of the Tinellbian Languages</a></li>
+<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
+<li class="search"><button>Search</button></li></form></div><div class="nav-links"><ul><li><a href="languages/highlulani/index.html">High Lulani</a></li><ul><li><a href="languages/highlulani/phonology/index.html">Phonology</a></li><li><a href="languages/highlulani/orthography/index.html">Orthography</a></li><li><a href="languages/highlulani/morphology/index.html">Morphology</a></li><li><a href="languages/highlulani/syntax/index.html">Syntax</a></li><li><a href="languages/highlulani/apocrypha/index.html">Apocrypha</a></li><li><a href="languages/highlulani/sampletexts/index.html">Sample Texts</a></li></ul><li><a href="languages/demoticlulani/index.html">Demotic Lulani</a></li><ul><li><a href="languages/demoticlulani/phonology.html">Phonology</a></li><li><a href="languages/demoticlulani/sampletexts.html">Sample Texts</a></li><li><a href="languages/demoticlulani/appendices/index.html">Appendices</a></li></ul></ul></div></ul></details></nav>
 
-<head>
-    <meta name="viewport" content="width=device-width,
-                                initial-scale=1.0, user-scalable=yes">
-    <meta charset="utf-8">
-    <title>
-        A Grammar of the Tinellbian Languages - Tinellbian Languages
-    </title>
-    <link rel="stylesheet" type="text/css" href="basic_style.css">
-<link rel="stylesheet" type="text/css" href="style.css">
-
-    <link rel="icon" type="image/png" href="favicon.png">
-
-        <script type="text/javascript">
-let href = window.location.href;
-if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
-    let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
-    window.location.href = `search.html?${term}&andOr=and`;
-}
-</script>
-
-</head>
-
-<body>
-    <div class="flex">
-        <div class="nav-pane">
-            <label>
-  <input type="checkbox" class="menu">
-  <ul>
-  <li class="normal">A Grammar of the Tinellbian Languages</li>
-    <div class="javascript">
-      <form id="search">
-        <li class="search">
-          <input type="text" name="term">
-          <button type="submit">Search</button>
-        </li>
-      </form>
-    </div>
-   <div class="links-root">  <ul class="level-1"><li><a href="highlulani/index.html">High Lulani</a></li>
-<ul class="level-2"><li><a href="highlulani/phonology/index.html">Phonology</a></li>
-<ul class="level-3"><li><a href="highlulani/phonology/consonants.html">Consonants</a></li>
-<li><a href="highlulani/phonology/vowels.html">Vowels</a></li>
-<li><a href="highlulani/phonology/phonotactics.html">Phonotactics</a></li>
-<li><a href="highlulani/phonology/suprasegmentals.html">Suprasegmentals</a></li>
-</ul>
-<li><a href="highlulani/orthography/index.html">Orthography</a></li>
-<ul class="level-3"><li><a href="highlulani/orthography/spellingsyllabary.html">Spelling Syllabary</a></li>
-<li><a href="highlulani/orthography/tactilesyllabary.html">Tactile Syllabary</a></li>
-</ul>
-<li><a href="highlulani/morphology/index.html">Morphology</a></li>
-<ul class="level-3"><li><a href="highlulani/morphology/nouns/index.html">Nouns</a></li>
-<ul class="level-4"><li><a href="highlulani/morphology/nouns/adverbs.html">Adverbs</a></li>
-</ul>
-<li><a href="highlulani/morphology/verbs/index.html">Verbs</a></li>
-<ul class="level-4"><li><a href="highlulani/morphology/verbs/intransitivity.html">Intransitivity</a></li>
-<li><a href="highlulani/morphology/verbs/transitivity.html">Transitivity</a></li>
-<li><a href="highlulani/morphology/verbs/ambitransitivity.html">Ambitransitivity</a></li>
-</ul>
-<li><a href="highlulani/morphology/auxiliaries.html">Auxiliaries</a></li>
-<li><a href="highlulani/morphology/adpositions.html">Adpositions</a></li>
-<li><a href="highlulani/morphology/suffixes/index.html">Suffixes</a></li>
-<ul class="level-4"><li><a href="highlulani/morphology/suffixes/determiners.html">Determiners</a></li>
-</ul>
-<li><a href="highlulani/morphology/deixis/index.html">Deixis</a></li>
-<ul class="level-4"><li><a href="highlulani/morphology/deixis/personalpro-forms.html">Personal Pro-forms</a></li>
-<li><a href="highlulani/morphology/deixis/indefinitepro-forms.html">Indefinite Pro-forms</a></li>
-</ul>
-<li><a href="highlulani/morphology/conjunctions.html">Conjunctions</a></li>
-<li><a href="highlulani/morphology/particles/index.html">Particles</a></li>
-<ul class="level-4"><li><a href="highlulani/morphology/particles/interjections.html">Interjections</a></li>
-</ul>
-</ul>
-<li><a href="highlulani/syntax/index.html">Syntax</a></li>
-<ul class="level-3"><li><a href="highlulani/syntax/case.html">Case</a></li>
-<li><a href="highlulani/syntax/matrixclauses/index.html">Matrix Clauses</a></li>
-<ul class="level-4"><li><a href="highlulani/syntax/matrixclauses/negativecomplements.html">Negative Complements</a></li>
-</ul>
-<li><a href="highlulani/syntax/argumentpromotion.html">Argument Promotion</a></li>
-<li><a href="highlulani/syntax/dependentclauses/index.html">Dependent Clauses</a></li>
-<ul class="level-4"><li><a href="highlulani/syntax/dependentclauses/relativeclauses.html">Relative Clauses</a></li>
-</ul>
-<li><a href="highlulani/syntax/nounphrases.html">Noun Phrases</a></li>
-<li><a href="highlulani/syntax/gerunds.html">Gerunds</a></li>
-</ul>
-<li><a href="highlulani/apocrypha/index.html">Apocrypha</a></li>
-<ul class="level-3"><li><a href="highlulani/apocrypha/numbers.html">Numbers</a></li>
-<li><a href="highlulani/apocrypha/colours.html">Colours</a></li>
-<li><a href="highlulani/apocrypha/comparatives.html">Comparatives</a></li>
-<li><a href="highlulani/apocrypha/kinship.html">Kinship</a></li>
-<li><a href="highlulani/apocrypha/elements.html">Elements</a></li>
-</ul>
-<li><a href="highlulani/sampletexts/index.html">Sample Texts</a></li>
-<ul class="level-3"><li><a href="highlulani/sampletexts/prelude.html">Prelude</a></li>
-</ul>
-</ul>
-<li><a href="demoticlulani/index.html">Demotic Lulani</a></li>
-<ul class="level-2"><li><a href="demoticlulani/phonology.html">Phonology</a></li>
-<li><a href="demoticlulani/sampletexts.html">Sample Texts</a></li>
-<li><a href="demoticlulani/appendices/index.html">Appendices</a></li>
-<ul class="level-3"><li><a href="demoticlulani/appendices/diachrony.html">Diachrony</a></li>
-</ul>
-</ul>
-</ul>
-   </div></ul></label>
-        </div>
-        <div class="content">
-            <div class="nav-footer"><div>
-<a href="http://www.tinellb.com">&uarr; Go to Main Page</a>
-</div>
-
-<div>
-<a href="highlulani/index.html">Next page &rarr;</a>
-</div>
-</div>
-            <h1 id="agrammarofthetinellbianlanguages">A Grammar of the Tinellbian Languages</h1>
-
-            <div class="main-contents">
+<main><nav class="mini"><p><a href="http://www.tinellb.com">↑ Back to Main</a></p>
+<p><a href="languages/index.html">Next Page →</a></p></nav>
+<h1>A Grammar of the Tinellbian Languages</h1>
 <p>This reference guide is for the Tinellbian languages that descend from High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.</p>
-<h2 id="highlulani"><a href="highlulani/index.html">High Lulani</a></h2>
-
-<p><high-lulani>WlN</high-lulani> Created by Queen Loren on Mala Ptokonoi.</p>
-<p>I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <a href="http://dictionary.tinellb.com/m/mica.html#highlulani">mica</a>&nbsp;<high-lulani>Mc</high-lulani>&nbsp;<em>hello</em> dates from that time.</p>
+<h2><a href="languages/highlulani/index.html">High Lulani </a></h2>
+<p><span class="tinellbian" lang="x-tlb-hl">をわに</span> Created by Queen Loren on Mala Ptokonoi.</p>
+<p>I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <a href="http://dictionary.tinellb.com/lex/mica.html#highlulani">mica</a> <span class="tinellbian" lang="x-tlb-hl">みや</span> <span class="gloss">hello</span> dates from that time.</p>
 <p>When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information.</p>
-<p>The Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality.</p></div>
-            
-            <div class="nav-footer"><div>
-<a href="http://www.tinellb.com">&uarr; Go to Main Page</a>
-</div>
+<p>The Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality.</p>
+<div class="toc"><p><a href="languages/highlulani/index.html">High Lulani</a></p><p><a href="languages/demoticlulani/index.html">Demotic Lulani</a></p></div></main></div>
+<footer><nav class="mini"><p><a href="http://www.tinellb.com">↑ Back to Main</a></p>
+<p><a href="languages/index.html">Next Page →</a></p></nav>
 
-<div>
-<a href="highlulani/index.html">Next page &rarr;</a>
-</div>
-</div>
-            <div class="copyright">
-    <span class="no-breaks">
-        &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>,
-    </span>
-    <span class="no-breaks">
-        using the <a href="https://github.com/RyanofTinellb/Smeagol">Sméagol</a> web editor.
-    </span>
-    <span class="no-breaks">
-        Last updated: Tuesday, September 17th, 2019.
-    </span>
-            </div>
-        </div>
-    </div>  
-    <script type="text/javascript">
-        for (elt of document.getElementsByClassName('javascript')) {
-            elt.style.display = "block";
-        }        
-</script>
-        <script type="text/javascript">
-        let terms = window.location.href.split("?highlight=")[1];
-        terms = terms.split("+");
-        let loc = document.getElementsByClassName("main-contents")[0];
-        let text = loc.innerHTML;
-        for (term of terms) {
-            const rep = new RegExp(`(^|\\W)(${term})($|\\W)`, "gim");
-            text = text.replace(rep, "$1<highlight>$2</highlight>$3");
-            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
-            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");
-            text = text.replace(/<highlight>/g, "<highlight id=\"searchterm\">");
-        }
-        loc.innerHTML = text;
-        loc = document.getElementsByTagName("h1")[0];
-        loc.innerHTML += " <a href=\"#searchterm\">&rarr;</a>";        
-    // imaginary comment
-    </script>
-    
-</body>
-</html>
-
-
-
-
-
-
+<div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
+<span class="no-breaks">Last updated: Friday, May 10th, 2024</span></div>
+</footer>
+<script>
+ for (elt of document.getElementsByClassName('javascript')) { 
+ elt.style.display = "block";} </script></body></html>
+</head>

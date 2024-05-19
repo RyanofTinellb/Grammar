@@ -1,0 +1,57 @@
+1abl: first person ablative
+1dat: first person dative
+1gen: first person genitive
+1int: first person intransitive
+1tra: first person transitive
+2abl: second person ablative
+2dat: second person dative
+2gen: second person genitive
+2int: second person intransitive
+2nd: second person
+2tra: second person transitive
+3ani;abl: animate third person ablative
+3ani;dat: animate third person dative
+3ani;gen: animate third person genitive
+3ani;int: animate third person intransitive
+3ani;tra: animate third person transitive
+3ina;abl: inanimate third person ablative
+3ina;dat: inanimate third person dative
+3ina;gen: inanimate third person genitive
+3ina;int: inanimate third person intransitive
+3ina;tra: inanimate third person transitive
+3rd: third person
+3top;abl: third person topic ablative
+3top;dat: third person topic dative
+3top;gen: third person topic genitive
+3top;int: third person topic intransitive
+3top;tra: third person topic transitive
+abl: ablative
+abv: ablative promotion
+com: complementiser
+dat: dative
+dim: diminutive
+drv: derivational suffix
+dtv: dative promotion
+fut;dyn: future dynamic
+fut;gno: future gnomic
+fut;hab: future habitual
+fut;neg: future negative
+fut;sta: future stative
+gen: genitive
+ger: gerund
+inc: inceptive
+inj: interjection
+nmn: nominaliser
+prs;dyn: present dynamic
+prs;gno: present gnomic
+prs;hab: present habitual
+prs;neg: present negative
+prs;sta: present stative
+pst;dyn: past dynamic
+pst;gno: past gnomic
+pst;hab: past habitual
+pst;neg: past negative
+pst;sta: past stative
+psv: passive
+rel: relativiser
+trm: terminative
