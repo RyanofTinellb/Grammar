@@ -29,7 +29,7 @@ styles: c:\users\ryan\tinellbianlanguages\grammar\data\assets\styles.tag
 templates:
   main: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\page.tpl
   search: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search.tpl
-  page404: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search.tpl
+  page404: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\404.tpl
   sections:
     copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
