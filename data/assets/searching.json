@@ -10966,6 +10966,8 @@
       "44": [
         2502,
         2504,
+        2545,
+        2551,
         2573,
         2575,
         2657,
@@ -38889,6 +38891,10 @@
     "ku-": {
       "29": [
         1623
+      ],
+      "44": [
+        2545,
+        2713
       ]
     },
     "kuʔirri’a": {
@@ -45287,6 +45293,7 @@
         2665,
         2669,
         2671,
+        2719,
         2806,
         2808,
         2860,
@@ -45305,6 +45312,7 @@
         3083,
         3124,
         3126,
+        3192,
         3226,
         3228,
         3340,
@@ -45318,7 +45326,8 @@
         3418,
         3420,
         3454,
-        3456
+        3456,
+        3462
       ]
     },
     "’ala": {
@@ -48153,11 +48162,6 @@
         2545
       ]
     },
-    "ku-turassi": {
-      "44": [
-        2545
-      ]
-    },
     "’i-nada": {
       "44": [
         2545
@@ -48281,7 +48285,7 @@
         3005
       ]
     },
-    "’adi-turassi": {
+    "’adi-": {
       "44": [
         2551
       ]
@@ -50873,9 +50877,10 @@
         2713
       ]
     },
-    "ku-lusubi-’i": {
+    "lusubi-’i": {
       "44": [
-        2713
+        2713,
+        3162
       ]
     },
     "nina-kassu-ru": {
@@ -51008,7 +51013,7 @@
         2718
       ]
     },
-    "haru-kurila": {
+    "haru-": {
       "44": [
         2719,
         3462
@@ -52558,7 +52563,8 @@
     "tapassi": {
       "44": [
         2872,
-        2874
+        2874,
+        2891
       ]
     },
     "rusara": {
@@ -52754,7 +52760,7 @@
         2890
       ]
     },
-    "hisuba-tapassi": {
+    "hisuba-": {
       "44": [
         2891
       ]
@@ -55891,11 +55897,6 @@
         3161
       ]
     },
-    "lusubi-’i": {
-      "44": [
-        3162
-      ]
-    },
     "ki-ru": {
       "44": [
         3162,
@@ -56276,7 +56277,8 @@
     "lusubi": {
       "44": [
         3184,
-        3186
+        3186,
+        3414
       ]
     },
     "taritinaci": {
@@ -56369,7 +56371,7 @@
         3192
       ]
     },
-    "hu-kurila": {
+    "hu-": {
       "44": [
         3192
       ]
@@ -56612,7 +56614,13 @@
         3234
       ]
     },
-    "ni-xaladi": {
+    "ni-": {
+      "44": [
+        3234,
+        3414
+      ]
+    },
+    "xaladi": {
       "44": [
         3234
       ]
@@ -58032,11 +58040,6 @@
       ]
     },
     "bi-pa": {
-      "44": [
-        3414
-      ]
-    },
-    "ni-lusubi": {
       "44": [
         3414
       ]
@@ -61822,7 +61825,7 @@
     "***",
     "Kurila cani pamilami matta naru, ’ala qira’a-ta-qa ni-gup·-pi jagaru pamana.",
     "。くりわやにぱみわみまったなる、あわねらあたげ にぐぴぴぢがるぱまな。",
-    "Kurila cani pamilami matta naru, ’ala qira-’a-ta-qa ni-gupi-pi jagaru pamana.",
+    "$kurila cani pamilami matta naru, ’ala qira-’a-ta-qa ni-gupi-pi jagaru pamana.",
     "CT:/ˈǂʰɔːlə/ prs;dyn be_conscious again slowly, heat rough-nmn-and-gen in-sit-pst;sta sand realise.",
     "$qōla is becoming slowly conscious again, realising the heat and roughness of the sand in which (she) is sitting.",
     "Corla came back to consciousness slowly, the heat and the coarseness of the sand on which she sat penetrating her mind.",
@@ -61846,7 +61849,7 @@
     "Three down, one to go, she thought to herself.",
     "Haru-’usi dattusa-qa Tinalli, li ’usi marila canari ku-’ahati mici-ta dissuka ’usu.",
     "。はるうせだっとさげてなっえ、えうせまりわ ・ やなりくあはてみちたでっすかうす。",
-    "haru-’usi dattusa-qa Tinalli, li ’usu marila canari ku-’ahati mici-ta dissu-ka ’usu.",
+    "haru-’usi dattusa-qa $tinalli, li ’usu marila canari ku-’ahati mici-ta dissu-ka ’usu.",
     "With-six god-gen Tinellb, com 1int do_this prs;dyn&lt;trm&gt; dat-happiness peace-and feel 1int.",
     "With the six gods of Tinellb, me finishing doing this will make me feel happiness and peace.",
     "By the six gods of Tinellb, I’ll be glad to finish this and have some peace.",
@@ -61931,7 +61934,7 @@
     "Market week!",
     "ʔiluqa Turassi xisa’i.",
     "。いをげとらっせしさい。",
-    "’ilu-qa Turassi xi-sa’i.",
+    "’ilu-qa $turassi xi-sa’i.",
     "Heart-gen KF:/tr̩ʃ/ seem-light.",
     "The emotional body of Tŗsh projects light.",
     "Toresh’s heart sang within her.",
@@ -61966,19 +61969,19 @@
     "She had helped in the goat pens since she learned to walk, but only been allowed to travel down the hills within the last few years.",
     "Pi’adu cani du’ikaluhafitisaka kumallijakuqa tu rubasika.",
     "。ぴあどやにどいかをはべてさかくまっえぢくげと ・ るばせか。",
-    "Pi’adu cani du’i-kalu-hafi-tisaka ku-malliju-aku-qa tu cikki.",
+    "$pi’adu cani du’i-kalu-hafi-tisaka ku-malliju-aku-qa tu cikki.",
     "KF:/pʰɪ.ˈa.dɯ/ prs;dyn opposite-abl-field-village dat-joy-aug-gen offspring sense_image-drv.",
     "Piadû sensed the great joy of the offspring from the other side of the village-field.",
     "Piado felt his daughter’s excitement from across the compound.",
     "Kiladikka ’ilusu’a, gi’a kuTurassi ’inada ’ixxa’i.",
     "。きわでっかいをすあ、ぎあくとらっせいなだいっざい。",
-    "ki-ladi-kka ’ilu, gi’a ku-Turassi ’i-nada ’ixxa’i.",
+    "ki-ladi-kka ’ilu, gi’a ku-$turassi ’i-nada ’ixxa’i.",
     "Big-spreading-abv heart-self, and dat-KF:/tr̩ʃ/ speak-emotional_plane pride.",
     "(He) spread out his own emotional body, and empathically sent pride to Tŗsh.",
     "He reached out with his own heart, sending the pride he felt for her.",
     "Kutisakaqa hisubajana ’inara, kukitisusu’a matta, qu ma’iki kuli ’adiTurassi ’ita’·’assata cani jannikiluqu.",
     "。くてさかげひすばぢないなら、くきてすすあまった、もまいきくえあでとらっせいたいあっさたやにぢっにきをも。",
-    "ku-tisaka-qa hisu-ba-jana ’i-nara, ku-kitisu-su’a matta, qu ma’iki ku-li ’adi-Turassi ’ita’i-’assa-ta cani janni-kiluqu.",
+    "ku-tisaka-qa hisu-ba-jana ’i-nara, ku-kitisu-su’a matta, qu ma’iki ku-li ’adi-$turassi ’ita’i-’assa-ta cani janni-kiluqu.",
     "dat-town-gen rule-nmn-elder say-goodbye, dat-wife-self also, and across dat-com near-KF:/tr̩ʃ/ car-goods-and prs;dyn move-walk.",
     "(He) said goodbye to the elder-ruler of the town, and also his own wife, and walked across to the (he is) near Tŗsh and the goods-car.",
     "He farewelled the village elder, and his own wife, and walked across to join Toresh and the wagon.",
@@ -61990,7 +61993,7 @@
     "With a slight touch of the reins to the back of the draughtsbeast, the wagon started moving.",
     "Pi’adu kikabijaju curriqa faluki janni’ita’ikka, jafa’akaqa quhha qanulli janni.",
     "。ぴあどきかびぢよゆっりげへをきぢっにいたいっか、ぢへあかげもっはげぬっえぢっに。",
-    "Pi’adu kika-bijju curri-qa faluki janni-’ita’i-kka, ja-fa’aka-qa quhha qa-nulli janni.",
+    "$pi’adu kika-bijju curri-qa faluki janni-’ita’i-kka, ja-fa’aka-qa quhha qa-nulli janni.",
     "KF:/pʰɪ.ˈa.dɯ/ over-first section-gen journey move-car-abv, along-gorge-gen river down-hill move.",
     "Piadû drove over the first part of the journey,  (he) moved along the gorge of the river down the hill.",
     "Piado was driving for the first leg of the journey, following the river gorge down the hills.",
@@ -62002,13 +62005,13 @@
     "The river could be seen far below, little more than a trickle at this time of year.",
     "Qaliʔi mallijakuqa Turassi tuhi cani, haru lanu kalu’ita’iqa janni’issaru nara.",
     "。げえっいまっえぢくげとらっせとひやに、はる わぬかをいたいげぢっにいっさるなら。",
-    "qa-liʔi malliju-aku-qa Turassi tuhi cani, haru lanu kalu-’ita’i-qa janni-’issa-ru nara.",
+    "qa-liʔi malliju-aku-qa $turassi tuhi cani, haru lanu kalu-’ita’i-qa janni-’issa-ru nara.",
     "Down-beginning joy-aug-gen KF:/tr̩ʃ/ small prs;dyn, as fut;dyn abl-car-gen move-vibration-ger sleep.",
     "As the big joy of Tŗsh from since the beginning became small, (she) will sleep because of the vibration of the car.",
     "Toresh’s initial excitement faded as she was lulled into sleep by the gently rocking wagon.",
     "Pi’adu qirisunarakka quhu dumi daru’i, li nirasi kalupamilamirudisi kissa’agudanna nubitu’afuri da’aru lanu pagi.",
     "。ぴあどねりすならっかもほどみだるい、え ・ にらせかをぱみわみるでせきっさあぐだっなぬびとあふりだあるわぬぱぎ。",
-    "Pi’adu qi-risu-nara-kka quhu dumi daru’i, li ni-rasi kalu-pa-milami-ru-disi kissa-’agu-danna naqi-tu’afu-ri da’aru lanu pagi.",
+    "$pi’adu qi-risu-nara-kka quhu dumi daru’i, li ni-rasi kalu-pa-milami-ru-disi kissa-’agu-danna naqi-tu’afu-ri da’aru lanu pagi.",
     "KF:/pʰɪ.ˈa.dɯ/ experience-want-sleep-abv 3ani;tra try because, com at-future abl-think-surroundings-ger-3ani;gen fight-contest-succeed land-plain-nmn experience fut;dyn think-hold.",
     "Piadû tries to make her experience a want for sleep, because (he) knows that in the future her being conscious of her surroundings will have (them) succeed in contest with the people of the plains.",
     "Piado encouraged her sleepiness because he knew he would need her awake if they were to best the flatlanders.",
@@ -62026,7 +62029,7 @@
     "The only sounds were those made by the wagon and the draughtsbeast.",
     "ʔita’i tikunarra janni ra’u, mani Pi’adu nujanniruqa kipu gi’ika, sisa tuhiru kaluqa gusu ga’iniqqi tuci ji.",
     "。いたいてくなっらぢっにらう、まにぴあど ・ ぬぢっにるげきぷぎいか、せさとひるかをげぐすがいにっねとちじ。",
-    "’ita’i tiku-narra janni ra’u, ma-ni Pi’adu nu-janni-ru-qa kipu gi’ika, sisa tuhi-ru kalu-qa gusu ga’i-niqqi tuci ji.",
+    "’ita’i tiku-narra janni ra’u, ma-ni $pi’adu nu-janni-ru-qa kipu gi’ika, sisa tuhi-ru kalu-qa gusu ga’i-niqqi tuci ji.",
     "Car turn-corner move prs;sta, where-at KF:/pʰɪ.ˈa.dɯ/ stop-move-ger-gen horse to, contact small-prs;gno body-gen person time-qal half_do prs;neg.",
     "When the car is moving around the corner, Piadû stopped the movement of the horse in order to not touch a small body of a person in a mostly timely manner.",
     "As the wagon came around a corner, Piado checked the draughtsbeast’s movement just in time to avoid a short figure.",
@@ -62080,25 +62083,25 @@
     "Moving her hand back to her, he learned her name.",
     "Kurila.",
     "。くりわ。",
-    "Kurila.",
+    "$kurila.",
     "CT:/ˈǂʰɔː.lə/.",
     "Qōla",
     "Corla.",
     "Ku’ita’i ’ussakka mihu qu, jusi kulikka Turassi.",
     "。くいたいうっさっかみほも、よせくえっか ・ とらっせ。",
-    "ku-’ita’i ’ussa-kka mihu qu, jusi kuli-kka Turassi.",
+    "ku-’ita’i ’ussa-kka mihu qu, jusi kuli-kka $turassi.",
     "dat-car follow-abv 3ani;int and, 3ani;dat meet-abv KF:/tr̩ʃ/.",
     "(He) makes her follow to the car, and makes Tŗsh meet her.",
     "Piado led the woman over to the wagon and introduced her to Toresh.",
     "Kutu ’ihusabi li jannijarudisi madi Kurila fuca lanu.",
     "。くといほさびえぢっにぢるでせまでくりわ ・ ふやわぬ。",
-    "ku-tu ’i-husabi li janni-ja-ru-disi madi Kurila fuca lanu.",
+    "ku-tu ’i-husabi li janni-ja-ru-disi madi $kurila fuca lanu.",
     "dat-daughter speak-finger com move-across-ger-3ani;gen rise CT:/ˈǂʰɔː.lə/ allow fut;dyn.",
     "(He) finger-speaks to the daughter that her movement across will allow Qōla to rise.",
     "He motioned to his daughter to move across to allow Corla to ascend.",
     "Kurila ni’u’ilikasi kikacaqaraluminisa pi, maqa raqura tuhhisa gupi fihaniqqi.",
     "。くりわにういえかせきかやげらをみにさぴ、まげ ・ らもらとっひさぐぴべはにっね。",
-    "Kurila ni-’u’ili-kasi kika-caqara-lumi-nisa pi ma-qa raqu-ra tuhhi-sa gupi fiha-niqqi.",
+    "$kurila ni-’u’ili-kasi kika-caqara-lumi-nisa pi ma-qa raqu-ra tuhhi-sa gupi fiha-niqqi.",
     "CT:/ˈǂʰɔː.lə/ in-reality-that over-hours-several-only pst;sta, when-down between-two farm-nmn sit safety-adv.",
     "Since Qōla was in that reality for only several hours, (she) sits in safety between two farm people.",
     "Within only a few hours in this world, Corla had found herself firmly ensconced between the two farmers.",
@@ -62116,19 +62119,19 @@
     "She dozed in her seat, letting their conversation pass through her.",
     "Salilu ra’usi, mani Pi’adu nin·nar·ru qacca nifidaru tuja.",
     "。さえをらうせ、まにぴあどになならるげっや ・ にべだるとぢ。",
-    "salilu ra’u-si ma-ni Pi’adu nina-nara-ru qacca nifi-daru tuja.",
+    "salilu ra’u-si ma-ni $pi’adu nina-nara-ru qacca nifi-daru tuja.",
     "Night_sky prs;sta-inc, when-at KF:/pʰɪ.ˈa.dɯ/ for-sleep-ger choose next_to-road place.",
     "When the night sky is starting to exist, Piadû chooses a place next to the road for sleep.",
     "As night fell, Piado chose a place beside the road to rest.",
     "Si’apaqafa ra’u xiku Turassi ’idu qixa jaffaracani dara’idu gapi.",
     "。せあぱげへらうしくとらっせいどねざぢっへらやに だらいどがぴ。",
-    "si’apa-qafa ra’u xiku Turassi ’idu qixa jaffara-cani dara-’idu gapi.",
+    "si’apa-qafa ra’u xiku $turassi ’idu qixa jaffara-cani dara-’idu gapi.",
     "Meal-last prs;sta rel KF:/tr̩ʃ/ make pst;dyn spice-having lentil-made_of soup.",
     "The final meal is a soup with spice made from lentils made by Tŗsh.",
     "Dinner was a spiced lentil stew, prepared by Toresh.",
     "Pi’adu ji nidajju nara hadissuri qu, ra’u niqatidi ’ita’i lagicirri.",
     "。ぴあどじにだっよならはでっすりも、らう にげてでいたいわぎちっり。",
-    "Pi’adu ji ni-dajju nara ha-dissu-ri qu, ra’u ni-qa-tidi ’ita’i la-gicirri.",
+    "$pi’adu ji ni-dajju nara ha-dissu-ri qu, ra’u ni-qa-tidi ’ita’i la-gicirri.",
     "KF:/pʰɪ.ˈa.dɯ/ prs;neg at-tent sleep for-new-nmn and, prs;sta in-down-tarpaulin car do-instead.",
     "Piadû does not sleep in the tent for the new person, and is doing so in the car under the tarpaulin instead.",
     "Piado gave his tent up to the stranger, and slept in the wagon covered with the tarp.",
@@ -62140,19 +62143,19 @@
     "The ground was chill the next morning, but the bright sun soon evaporated the frost and warmed the air.",
     "ʔita’i nibijajubatari kuLusufi’i ninakassuru tisaka janni.",
     "。いたいにびぢよばたりくをすべいになかっするてさか ぢっに。",
-    "’ita’i ni-bijju-batari ku-Lusubi-’i nina-kassu-ru tisaka janni.",
+    "’ita’i ni-bijju-batari ku-$lusubi-’i nina-kassu-ru tisaka janni.",
     "Car at-first-afternoon dat-CZ:/ˈluː.soβ/-called for-buy-ger town move.",
     "The car moves to the town called Lūsob which is for buying, in the first afternoon.",
     "The wagon reached the market town of Lusov early in the afternoon.",
     "Pi’adu haruKurila ’ita’ita gupicadi pi mani, Turassi hisubaqa kassutuja satali cahuri suqanatiha lanu ’usaju’i.",
     "。ぴあどはるくりわいたいたぐぴやでぴまに、とらっせひすばげかっすとぢさたえやほりすげなてはわぬうさよい。",
-    "Pi’adu haru-Kurila ’ita’i-ta gupi-cadi pi ma-ni, Turassi hisu-ba-qa kassu-tuja sata-li cahuri suqa-natiha lanu ’usa-ju’i.",
+    "$pi’adu haru-$kurila ’ita’i-ta gupi-cadi pi ma-ni, $turassi hisu-ba-qa kassu-tuja sata-li cahuri suqa-natiha lanu ’usa-ju’i.",
     "KF:/pʰɪ.ˈa.dɯ/ with-CT:/ˈǂʰɔː.lə/ wagon-and sit-wall pst;sta when-at, KF:/tr̩ʃ/ administer-nmn-gen buy-place for-com stall ready-box fut;dyn see-join.",
     "Piadû did remain with Qōla and the wagon, while Tŗsh seeks out the administrator for the buying-place in order to book the stall.",
     "Piado stayed with Corla and the wagon as Toresh sought out the market authorities to reserve her place in the bazaar.",
     "Pi’adu, fu taku ha’usu lakupira.",
     "。ぴあど、ふたくはうすわくぴら。",
-    "Pi’adu, fu taku ha-’usu la-kupira.",
+    "$pi’adu, fu taku ha-’usu la-kupira.",
     "KF:/pʰɪ.ˈa.dɯ/, 2tra pst;itr for-1int do-intensely.",
     "Piadû, you have repeatedly done many things for me.",
     "Piado, I wanted to thank you for everything you’ve done for me.",
@@ -62163,7 +62166,7 @@
     "Thank-you.",
     "Pi’adu ’irippa.",
     "。ぴあどいりっぱ。",
-    "Pi’adu ’i-rippa.",
+    "$pi’adu ’i-rippa.",
     "KF:/pʰɪ.ˈa.dɯ/ speak-shock.",
     "Piadû speaks in shock.",
     "Piado let out a startled exclamation.",
@@ -62235,7 +62238,7 @@
     "What am I thinking right now, then?",
     "Xiku puttu lilluna tajihu kaku’usu hafaxita ’icussa nisa, Kurila ’itamu.",
     "。しくぷっとえっをなたじほかくうすはへした いゆっさにさ、くりわいたむ。",
-    "xiku puttu la-’illu-na tajihu ka-ku-’usu hafa-xita ’i-cussa-nisa, Kurila ’i-tamu.",
+    "xiku puttu la-’illu-na tajihu ka-ku-’usu hafa-xita ’i-cussa-nisa, $kurila ’i-tamu.",
     "Rel 1abl do-psv-prs;itr ability as-dat-1int race-one speak-subtle_bodies only, CT:/ˈǂʰɔː.lə/ speak-answer.",
     "The ability that is done by me only speaks subtly to one of the race like me, Qōla spoke in answer.",
     "My abilities only seem to work properly on my own people, Corla replied.",
@@ -62247,7 +62250,7 @@
     "I can pick up enough to tell me where population centres are, and apparently to pick up your language, but that is it.",
     "Pi’adu cani kalumatanniruji’a jannitiqaxi liqa.",
     "。ぴあどやにかをまたっにるじあぢっにてげしえげ。",
-    "Pi’adu cani kalu-ma-tanni-ru-ji’a janni-tiqaxi liqa.",
+    "$pi’adu cani kalu-ma-tanni-ru-ji’a janni-tiqaxi liqa.",
     "KF:/pʰɪ.ˈa.dɯ/ prs;dyn abl-think-believe-ger-not move-tilt head.",
     "Piadû tilts his head because of not believing.",
     "Piado rolled his eyes in disbelief.",
@@ -62265,7 +62268,7 @@
     "Once he was on the ground, he grasped Corla’s hand and helped her off.",
     "Cani kura fipacani daruhubaqa Lusufimala bufi’idu hifu ’ussakka mihu.",
     "。やにくらべぱやにだるほばげをすべまわぶべいど ひふうっさっかみほ。",
-    "cani ku-ra fipa-cani daru-huba-qa Lusubi-mala bufi-’idu hifu ’ussa-kka mihu.",
+    "cani ku-ra fipa-cani daru-huba-qa $lusubi-mala bufi-’idu hifu ’ussa-kka mihu.",
     "Prs;dyn dat-two storey-having street-importance-gen TZ:/ˈluː.soβ/-being_in stone-made building follow-abv 3ani;int.",
     "(He) made her follow (him) to the building made of stone and having two storeys, on the main street of Lūsob.",
     "He led her to a two-storey stone building on the main street of Lusov.",
@@ -62289,7 +62292,7 @@
     "She was wearing the officious robes that the flatlanders wore for formal occasions.",
     "Pi’adu qixa ’iqaca qu, Kurila ’i da’aru funi, madi diha latuhiru ta.",
     "。ぴあどねざいげやも、くりわいだあるふに、までではわとひるた。",
-    "Pi’adu qixa ’i-qaca qu, Kurila ’i da’aru funi, ma-di diha la-tuhi-ru ta.",
+    "$pi’adu qixa ’i-qaca qu, $kurila ’i da’aru funi, ma-di diha la-tuhi-ru ta.",
     "KF:/pʰɪ.ˈa.dɯ/ pst;dyn speak-point_of_view and, CT:/ˈǂʰɔː.lə/ speak experience fut;neg, when-before bureaucrat do-small-prs;gno bell.",
     "Piadû gave his perspective, and before Qōla will speak, the official did a small bell.",
     "Piado explained his side of the story, but before Corla had a chance to speak, the bureaucrat rang a small bell.",
@@ -62301,7 +62304,7 @@
     "Her assistant appeared from a side door.",
     "Ku·li Tapassi narini fana rusara?",
     "。くえたぱっせなりにへなるさら。",
-    "ku·li Tapassi nara-ini fana rusara?",
+    "ku·li $tapassi nara-ini fana rusara?",
     "Dat-com TZ:/ʈɛ.ˈpet̪θ̪/ sleep-dim whether pst;gno&lt;trm&gt; speak-ask-dtv",
     "Whether Ṭepet is no longer having a little sleep?",
     "Is Tepeth awoken from her nap yet?",
@@ -62318,7 +62321,7 @@
     "The assistant nodded, and then left the room at a gesture from the official.",
     "HisubaTapassi lanu si’abassa, Pi’adu ’ihucillu.",
     "。ひすばたぱっせわぬせあばっさ、ぴあどいほちっを。",
-    "hisuba-Tapassi lanu si’abassa Pi’adu ’i-hucu-illu.",
+    "hisuba-$tapassi lanu si’abassa $pi’adu ’i-hucu-illu.",
     "Administrator-TZ:/ʈɛ.ˈpet̪θ̪/ fut;dyn fix-situation, KF:/pʰɪ.ˈa.dɯ/ speak-information-psv.",
     "Administrator Ṭepet will fix this situation, Piadû was info-spoken to.",
     "Her Honour will take care of this, Piado was informed.",
@@ -62336,7 +62339,7 @@
     "Come with me.",
     "Pi’adu ’ussa dumi qu, nuxa li gurrisu du’ijannibiqixa gusura turillu cani.",
     "。ぴあどうっさどみも、ぬざえぐっりす ・ どいぢっにびねざぐすらとりっをやに。",
-    "Pi’adu ’ussa dumi qu, nu-xa li gurrisu du’i-janni-bi-qixa gusu-ra turu-illu cani.",
+    "$pi’adu ’ussa dumi qu, nu-xa li gurrisu du’i-janni-bi-qixa gusu-ra turu-illu cani.",
     "KF:/pʰɪ.ˈa.dɯ/ follow try and, stop-dtv com door opposite-move-out-pst;dyn person-two close-psv prs;dyn.",
     "Piadû tries following and, was stopped by the door is closing opposite the two moving-out people.",
     "Piado attempted to follow, but was prevented from doing so by the closing of the door behind the departing pair.",
@@ -62354,7 +62357,7 @@
     "Realising there was nothing further to do, he went back to the draughtsbeast and his waiting daughter.",
     "Kurila jajifadi gajannidillu qu, ji kalu’umi hussudiccaha dumihita.",
     "。くりわぢじへでがぢっにでっをも、じかをうみ ほっすでっやはどみひた。",
-    "Kurila ja-jifadi ga-janni-da-illu qu, ji kalu-’umi hussu-diccaha dumi-hita.",
+    "$kurila ja-jifadi ga-janni-da-illu qu, ji kalu-’umi hussu-diccaha dumi-hita.",
     "CT:/ˈǂʰɔː.lə/ along-corridor put-move-palm-psv and, prs;neg abl-something fall-trip try-neg.",
     "Qōla was pushed along the passage, and didn’t not try to trip because of something.",
     "Corla was pushed along the passageway, trying not to trip on anything.",
@@ -62372,7 +62375,7 @@
     "The official unceremoniously led her to a bench, sat her down, and then left again.",
     "Kurila cani nimixi nili qisa pi janniditiba qu, hu kalucussiruqa cadi pahini.",
     "。くりわやににみしにえねさぴぢっにでてば も、ほかをゆっせるげやでぱひに。",
-    "Kurila cani ni-mixi ni-li qi-sa pi janni-di-tiba qu, hu kalu-cussi-ru-qa cadi pa-hini.",
+    "$kurila cani ni-mixi ni-li qi-sa pi janni-di-tiba qu, hu kalu-cussi-ru-qa cadi pa-hini.",
     "CT:/ˈǂʰɔː.lə/ prs;dyn at-room at-com experience-solitude pst;sta move-up-legs and, fut;itr abl-touch-ger-gen wall think-path.",
     "(She) was in the room experiencing solitude, Qōla does stand up, and will be learning the path by touching the wall.",
     "Alone in the room, Corla got up and felt her way around the wall.",
@@ -62396,7 +62399,7 @@
     "She was just about to try the doors again when one was opened from the outside.",
     "Caba qixa kalufaʔasu’a ’i ’umi pada, Kurila nagi jusi kalukasiqa Pi’adu ’i li su’a kassi gi’i ji.",
     "。やばねざかをへっあすあいうみぱだ、くりわ なぎよせかをかせげぴあどいえすあかっせぎいじ。",
-    "ca-ba qixa kalu-faʔa-su’a ’i ’umi pada, Kurila nagi jusi kalu-kasi-qa Pi’adu ’i li su’a kassi gi-’i ji.",
+    "ca-ba qixa kalu-faʔa-su’a ’i ’umi pada, $kurila nagi jusi kalu-kasi-qa $pi’adu ’i li su’a kassi gi-’i ji.",
     "Help-nmn prs;dyn abl-language-own speak something and_then, CT:/ˈǂʰɔː.lə/ fut;sta 3ani;dat abl-that-gen KF:/pʰɪ.ˈa.dɯ/ speak com self 3ani;abl get-speak prs;neg.",
     "The helper does from the own language say something, and then Qōla will have spoken to her in that of Piadû that the self does not understand from her.",
     "The assistant’s voice said something in her own language, and Corla told her in Piado’s tongue that she could not understand her.",
@@ -62438,7 +62441,7 @@
     "Were you not told about the food there on the counter?",
     "Kalu’iducidatilluqixa saqalapifa qapi cani dissurippa, Kurila lanu kalu lafuca jannidifirunisa.",
     "。かをいどちだてっをねざさげわぴへげぴやにでっすりっぱ、くりわわぬかをわふやぢっにでべるにさ。",
-    "kalu-’idu-cidatu-illu-qixa saqala-pifa qapi cani dissu-rippa, Kurila lanu kalu la-fuca janni-difi-ru-nisa.",
+    "kalu-’idu-cidatu-illu-qixa saqala-pifa qapi cani dissu-rippa, $kurila lanu kalu la-fuca janni-difi-ru-nisa.",
     "Abl-make-sudden-psv-pst;dyn word-make chain prs;dyn feel-shock, CT:/ˈǂʰɔː.lə/ fut;dyn 3ina;abl do-can move-drop-ger-only.",
     "Did feel the shock from the suddenly created chain made of words, Qōla will only do the nod from it.",
     "Taken aback by the sudden stream of words, Corla could only shake her head.",
@@ -62468,7 +62471,7 @@
     "On behalf of the Council, I apologise.",
     "ʔusu ’ixahillu Laruni rapi.",
     "。うすいざひっをわるにらぴ。",
-    "’usu ’i-xaha-illu Laruni rapi.",
+    "’usu ’i-xaha-illu $laruni rapi.",
     "1int speak-name-psv TZ:/ˈɬær.ən/ anyway.",
     "I was named Lharen, but it’s not important.",
     "Anyway, my name is Lharen.",
@@ -62498,7 +62501,7 @@
     "I’m just as bad as they are, assuming that you’ll just find the food on my say-so.",
     "Kurila ru?",
     "。くりわる。",
-    "Kurila ru?",
+    "$kurila ru?",
     "CT:/ˈǂʰɔː.lə/ prs;gno?",
     "It is Qōla?",
     "Corla?",
@@ -62510,7 +62513,7 @@
     "That’s an unusual name.",
     "Kurila qixa pamihu naxuʔa qu, ra’u kusu’a nidibamarika hagaquhu gi’a, la’apa pi tukihagi natiha batuqa ’alatucipi data.",
     "。くりわねざぱみほなずっあも、らうくすあ にでばまりかはがもほぎあ、 わあぱぴときはぎなてはばとげあわとちぴ だた。",
-    "Kurila qixa pa-mihu na-xuʔa qu, ra’u ku-su’a ni-diba-marika ha-ga-quhu gi’a, la’a-pa pi tukiha-gi natiha batu-qa ’ala-tuci-pi da-ta.",
+    "$kurila qixa pa-mihu na-xuʔa qu, ra’u ku-su’a ni-diba-marika ha-ga-quhu gi’a, la’a-pa pi tukiha-gi natiha batu-qa ’ala-tuci-pi da-ta.",
     "Corla pst;dyn toward-3ani;int point-smile and, prs;sta dat-self at-counter-this_state for-put-3ani;tra that_is, on-3ina;int pst;sta biscuit-hold box store-gen hot-half_do-pst;sta water-and.",
     "Qōla did point a smile towards her, and the self is put at this kind of counter for her, that is, a box holding bread and a store of somewhat hot water was on it.",
     "Corla smiled in her direction and she came up and took her over to the counter, where indeed sat a box of biscuits and a store of warm water.",
@@ -62523,13 +62526,13 @@
     "***",
     "Kujannuluruqa sassu’a gupi na, mani Turassi ra’u kutujanaracam·mari gasu’a, nidaruqa narra tuhiru tujaramirra.",
     "。くぢっぬをるげさっすあぐぴな、まにとらっせ らうくとぢならやままりがすあ、にだるげなっらとひるとぢらみっら。",
-    "ku-janni-ulu-ru-qa kitisu gupi na, ma-ni Turassi ra’u ku-tuja-nara-cama-mari ga-su’a, ni-daru-qa narra tuhi-ru tuja-ramirra.",
+    "ku-janni-ulu-ru-qa kitisu gupi na, ma-ni $turassi ra’u ku-tuja-nara-cama-mari ga-su’a, ni-daru-qa narra tuhi-ru tuja-ramirra.",
     "Dat-move-undo-ger-gen father-3top;gen sit prs;itr, where-at KF:/tr̩ʃ/ prs;sta dat-place-sleep-usual-this put-self, at-road-gen corner small-prs;gno place-guest.",
     "When continually waiting for the father’s moving back, Tŗsh put herself at this usual sleeping place, a small guest-house on the corner.",
     "While waiting for her father to return, Toresh sought out their usual sleeping place — a small hotel on the corner.",
     "Pi’adu qu’ukumixi janni ma’adi, Turassi pi gataddi mirisu’apa.",
     "。ぴあどもうくみしぢっにまあで、とらっせぴ ・ がたっでみりすあぱ。",
-    "Pi’adu qu’u-ku-mixi janni ma-’adi, Turassi pi ga-taddi miri-su’a-pa.",
+    "$pi’adu qu’u-ku-mixi janni ma-’adi, $turassi pi ga-taddi miri-su’a-pa.",
     "KF:/pʰɪ.ˈa.dɯ/ inside-dat-room move where-near, KF:/tr̩ʃ/ pst;sta put-order stuff-self-3ina;int.",
     "Piadû moved to inside the room, just as Tŗsh put their stuff in order.",
     "Piado entered the room just as she had finished putting their gear away.",
@@ -62547,13 +62550,13 @@
     "Are you hungry?",
     "Ra’u tucinaci, sabba, Turassi ’itamu.",
     "。らうとちなち、さっば、とらっせいたむ。",
-    "ra’u tucinaci, sabba, Turassi ’i-tamu.",
+    "ra’u tucinaci, sabba, $turassi ’i-tamu.",
     "Prs;sta somewhat, father, KF:/tr̩ʃ/ speak-answer.",
     "Yes, somewhat, father, Tŗsh spoke in answer.",
     "A little, father, Toresh replied.",
     "Kurila mudibada pi?",
     "。くりわむでばだぴ。",
-    "Kurila mu-dibada pi?",
+    "$kurila mu-dibada pi?",
     "CT:/ˈǂʰɔː.lə/ good-life pst;sta?",
     "Was Qōla’s life going ok?",
     "Is Corla alright?",
@@ -62565,7 +62568,7 @@
     "I hope so, but it seems that she’s their problem now.",
     "Pi’aduqa kahi cani ditudisiqa pa’aka qu, du’ikugurissu jannikiluqukka quhu.",
     "。ぴあどげかひやにでとでせげぱあかも、どいくぐりっす ぢっにきをもっかもほ。",
-    "Pi’adu-qa kahi cani di-tu-disi-qa pa’aka qu, du’i-ku-gurrisu janni-kiluqu-kka quhu.",
+    "$pi’adu-qa kahi cani di-tu-disi-qa pa’aka qu, du’i-ku-gurrisu janni-kiluqu-kka quhu.",
     "KF:/pʰɪ.ˈa.dɯ/-gen arm prs;dyn atop-child-3ani;gen-gen shoulder and, opposite-dat-door move-walk-abv 3ani;tra.",
     "Piadû’s arm is now above his child’s shoulder, and (he) walk-moves her to opposite the door.",
     "Piado put his arm around his daughter’s shoulder and walked her out the door.",
@@ -62589,19 +62592,19 @@
     "The next day dawned bright and hot.",
     "Lusubi’i kiru tisaka, japa’ala qixa capa gaqqu.",
     "。をすびいきるてさか、ぢぱあわねざやぱがっも。",
-    "Lusubi-’i ki-ru tisaka, japa-’ala qixa ca-pa gaqqu.",
+    "$lusubi-’i ki-ru tisaka, japa-’ala qixa ca-pa gaqqu.",
     "TZ:/ˈluː.soβ/-speak big-prs;gno town, mist-heat pst;dyn around-3ina;int not_surprising.",
     "The big town called Lūsob, there was unsurprisingly heat-mist encircling it.",
     "The haze came up as usual around the large town of Lusov.",
     "Pi’adu Turassita ra’u kalumixi kucahuriqapi ’arrikassudu jannigi.",
     "。ぴあどとらっせたらうかをみしくやほりげぴあっりかっすど ぢっににぎ。",
-    "Pi’adu Turassi-ta ra’u kalu-mixi ku-cahuri-qapi ’arri-kassu-du janni-nigi.",
+    "$pi’adu $turassi-ta ra’u kalu-mixi ku-cahuri-qapi ’arri-kassu-du janni-nigi.",
     "KF:/pʰɪ.ˈa.dɯ/ KF:/tr̩ʃ/-and prs;sta abl-room dat-stall-chain with-trade-nmn move-hurry.",
     "Piadû and Tŗsh are hurrying from the room to the chain of stalls with things to trade.",
     "Piado and Toresh hurried out of their hotel room and into the market, carrying their wares.",
     "Pi’adu capisuqapi ’i’uja gupitiba mani, Turassi lanu ninamariqa ladumiru la piba xi’asilanagi xuʔa, qapuraxu tisakarra lanu nidu ’assa dumi.",
     "。ぴあどやぴすげぴいうぢぐぴてばまに、とらっせ わぬになまりげわどみるわぴばしあせわなぎずっあ、げぷらずてさかっら わぬにどあっさどみ。",
-    "Pi’adu capi-suqa-pi ’i’uja gupi-tiba ma-ni, Turassi lanu nina-mari-qa la-dumi-ru la piba xi-’asila-nagi xuʔa, qapura-xu tisaka-rra lanu nidu ’assa dumi.",
+    "$pi’adu capi-suqa-pi ’i’uja gupi-tiba ma-ni, $turassi lanu nina-mari-qa la-dumi-ru la piba xi-’asila-nagi xuʔa, qapura-xu tisaka-rra lanu nidu ’assa dumi.",
     "KF:/pʰɪ.ˈa.dɯ/ behind-prepare-pst;sta table stay-leg when-at, KF:/tr̩ʃ/ fut;dyn for-this-gen do-try-ger do most project-friendship-fut;sta smile, business-project town-nmn fut;dyn use goods try.",
     "Piado stood behind the prepared table, while Tŗsh will put do the most friendly seeming smile for this: busy-seeming townspeople will try to use the groceries.",
     "Piado stood behind their set-up table, while Toresh put on her most winning smile, trying to get the busy townspeople to try their produce.",
@@ -62613,13 +62616,13 @@
     "The trading progressed throughout the morning.",
     "Lusubi lanu ’ala piba cussi taritinaci rika, tisakarra narabatari la karu.",
     "。をすびわぬあわぴばゆっせたりてなちりか、てさかっらならばたりわかる。",
-    "Lusubi lanu ’ala piba cussi tariti-naci rika, tisaka-rra nara-batari la karu.",
+    "$lusubi lanu ’ala piba cussi tariti-naci rika, tisaka-rra nara-batari la karu.",
     "TZ:/ˈluː.soβ/ fut;dyn heat most feel midday-somewhat and_so, town-nmn sleep-afternoon do usually.",
     "Lūsob will be hot at midday-ish, and so the townspeople usually do an afternoon sleep.",
     "Lusov usually became too hot around noon, so the town usually went to siesta.",
     "Musa ganibasillu, ma’adi xiku nisabi huKurila laniga na Laruni janni’adi.",
     "。むさがにばせっを、まあでしくにさびほくりわ わにがなわるにぢっにあで。",
-    "musa ga-ni-basa-illu, ma-’adi xiku ni-sabi hu-Kurila la-niga na Laruni janni-’adi.",
+    "musa ga-ni-basa-illu, ma-’adi xiku ni-sabi hu-$kurila la-niga na $laruni janni-’adi.",
     "Sun put-begin-cover-psv, where-near rel at-side for-CT:/ˈǂʰɔː.lə/ do-guide prs;itr TZ:/ˈɬær.ən/ move-near.",
     "The sun was beginning to be covered, when near moved the Lharen who was doing guiding for the Qōla at (his) side.",
     "The sun was just beginning to set when Lharen came by, guiding Corla by her side.",
@@ -62637,13 +62640,13 @@
     "What are you two doing here?",
     "Pi’adu ’icipu mari dissutihura.",
     "。ぴあどいちぷまりでっすてほら。",
-    "Pi’adu ’i-cipu mari dissu-tihura.",
+    "$pi’adu ’i-cipu mari dissu-tihura.",
     "KF:/pʰɪ.ˈa.dɯ/ speak-ask this feel-astonishment.",
     "Piadû spoke this feeling astonished.",
     "Piado asked, astonished.",
     "Kasi ra’u kalupa’abatudisi, gusu, Laruni ’itamu.",
     "。かせらうかをぱあばとでせ、ぐす、わるにいたむ。",
-    "kasi ra’u kalu-pa-’a-batu-disi, gusu, Laruni ’i-tamu.",
+    "kasi ra’u kalu-pa-’a-batu-disi, gusu, $laruni ’i-tamu.",
     "That prs;sta abl-think-nmn-group-3ani;gen, person, TZ:/ˈɬær.ən/ speak-reply.",
     "That was her group of thoughts, person, Lharen said in reply.",
     "It’s her idea, sir, Lharen answered.",
@@ -62655,13 +62658,13 @@
     "She’s got this idea that meeting you was fated or something.",
     "Kasi ji pa’illu, Kurila mukicukka.",
     "。かせじぱいっを、くりわむきゆっか。",
-    "kasi ji pa-’illu, Kurila mu-kicu-kka.",
+    "kasi ji pa-’illu, $kurila mu-kicu-kka.",
     "That prs;neg think-psv, CT:/ˈǂʰɔː.lə/ good-truth-abv.",
     "That is not thought, Qōla made (her) correct.",
     "It’s not fate, Corla corrected her.",
     "ʔusu pakicu li xiku puttu niXaladi majja la’illu rixi hu pa harufilli nagi tucinaci.",
     "。うすぱきゆえしくぷっとにざわでまっぢ わいっをりしほぱはるべっえなぎとちなち。",
-    "’usu pa-kicu li xiku puttu ni-Xaladi majja la-’illu rixi hu pa haru-filli nagi tucinaci.",
+    "’usu pa-kicu li xiku puttu ni-$xaladi majja la-’illu rixi hu pa haru-filli nagi tucinaci.",
     "1int think-true com rel 1abl at-TZ:/ʒa.ˈlat/ here do-psv must fut;itr 3ina;int with-2int fut;sta somewhat.",
     "I somewhat believe that what must be done by me in Zhalad here will be with you.",
     "I just know that what I need to do here, on Zhalad, is something to do with you.",
@@ -62697,7 +62700,7 @@
     "What do you want us to do about it?",
     "Pi’adu ji xihataji’a.",
     "。ぴあどじしはたじあ。",
-    "Pi’adu ji xi-hata-ji’a.",
+    "$pi’adu ji xi-hata-ji’a.",
     "KF:/pʰɪ.ˈa.dɯ/ prs;neg project-concern-not.",
     "Piadû doesn’t seem concerned.",
     "Piado seemed uninterested.",
@@ -62739,7 +62742,7 @@
     "Now, I’m done.",
     "Turassi dasad·disiqa kiru cikki.",
     "。とらっせださだでせげきるちっき。",
-    "Turassi dasa-da-disi-qa ki-ru cikki.",
+    "$turassi dasa-da-disi-qa ki-ru cikki.",
     "KF:/tr̩ʃ/ zeal-negative_aspect-3ani;gen-gen big-ger feel.",
     "Tŗsh feels the growth of his anger.",
     "Toresh could feel his temper growing.",
@@ -62769,7 +62772,7 @@
     "It’s not that difficult to talk to customers.",
     "Kurila lanu ’ini.",
     "。くりわわぬいに。",
-    "Kurila lanu ’i-ni.",
+    "$kurila lanu ’i-ni.",
     "CT:/ˈǂʰɔː.lə/ fut;dyn speak-begin.",
     "Qōla will begin to speak.",
     "Corla spoke up.",
@@ -62799,7 +62802,7 @@
     "Well, at least, my abilities should be able to pick up something.",
     "Pi’adu ’ifuhhanaku xani.",
     "。ぴあどいふっはなくざに。",
-    "Pi’adu ’i-fuhha-naku xani.",
+    "$pi’adu ’i-fuhha-naku xani.",
     "KF:/pʰɪ.ˈa.dɯ/ speak-decision-together unwillingly.",
     "Piadû unwillingly agreed.",
     "Piado capitulated.",
@@ -62823,37 +62826,37 @@
     "The village council can decide what to do with you when we get home.",
     "Laruni capi’·’uja ganiga Kurila pada, xidu janni.",
     "。わるにやぴいうぢがにがくりわぱだ、しど ・ ぢっに。",
-    "Laruni capi-’i’uja ga-niga Kurila pada, xidu janni.",
+    "$laruni capi-’i’uja ga-niga $kurila pada, xidu janni.",
     "TZ:/ˈɬær.ən/ behind-table put-guide CT:/ˈǂʰɔː.lə/ and_then, far move.",
     "Lharen put Corla behind the market table by guiding, and then moved far away.",
     "Lharen guided Corla behind the market table, and then took her leave.",
     "Cahuriqapi rakaru raqa rika, Turassi sabbata kutujaramirra jannulukka Kurila su’arata cani.",
     "。やほりげぴらかるらげりか、とらっせさっばた くとぢらみっらぢっにほをっかくりわすあらたやに。",
-    "cahuri-qapi ra-karu raqa rika, Turassi sabba-ta ku-tuja-rami-rra janni-ulu-kka Kurila su’a-ra-ta cani.",
+    "cahuri-qapi ra-karu raqa rika, $turassi sabba-ta ku-tuja-rami-rra janni-ulu-kka $kurila su’a-ra-ta cani.",
     "Stall-chain fut;sta-trm clear and_thus, KF:/tr̩ʃ/ father-and dat-place-bed-nmn move-undo-abl CT:/ˈǂʰɔː.lə/ self-two-and prs;dyn.",
     "The chain of stalls will clearly be ending, and so Tŗsh and the father put themselves and Qōla to the place of guests.",
     "The market was clearly closing, so Toresh and her father went back to the hotel, taking Corla with them.",
     "Kurila kaluLaruni satadiru gikassu si’apasu’a qu, nagi nitujaram·marika, kalumixi saki dihhalumi.",
     "。くりわかをわるにさたでるぎかっすせあぱすあ ・ も、なぎにとぢらみまりか、かをみしさきでっはをみ。",
-    "Kurila kalu-:Laruni sata-diru gi-kassu si’apa-su’a qu, nagi ni-tuja-rami-marika, kalu-mixi saki dihha-lumi.",
+    "$kurila kalu-:$laruni sata-diru gi-kassu si’apa-su’a qu, nagi ni-tuja-rami-marika, kalu-mixi saki dihha-lumi.",
     "CT:/ˈǂʰɔː.lə/ abl-TZ:/ˈɬær.ən/ for-money get-trade meal-self and, fut;sta in-place-bed-this_state, abl-room share other_people-several.",
     "Qōla got her own meal through trade using money from Lharen, and will be in this kind of bed-place, (she) shares from the room to several others.",
     "Corla used some money she had gained from Lharen to pay for her own dinner, and found herself in the bunkhouse, where she had to share lodgings with a few other people.",
     "Turassi pi ’adikumihu janni musara xima qu, cani nisi’apa gaquhu, lanu bipa niLusubi kucahuriqa bijaju musa.",
     "。とらっせぴあでくみほぢっにむさらしま ・ も、やににせあぱがもほ、 わぬびぱにをすびくやほりげびぢよむさ。",
-    "Turassi pi ’adi-ku-mihu janni musa-ra xima qu, cani ni-si’apa ga-quhu, lanu bi-pa ni-Lusubi ku-cahuri-qa bijju musa.",
+    "$turassi pi ’adi-ku-mihu janni musa-ra xima qu, cani ni-si’apa ga-quhu, lanu bi-pa ni-$lusubi ku-cahuri-qa bijju musa.",
     "KF:/tr̩ʃ/ pst;sta near-dat-3ani;int move day-two morning and, prs;dyn at-meal put-3ani;tra, fut;dyn from-3ina;int in-TZ:/ˈluː.soβ/ dat-stall-gen first day.",
     "Tŗsh moved to near her tomorrow, and put her at the meal, (she) will be from it to the first day of the stalls in Lūsob.",
     "Toresh came around the next morning to take her to breakfast, and thence to her first day in the Lusov markets.",
     "Kurila pi cikkixi ’adisu’a kuruci qaxatu’i fati, mari parasi, kassumisama nagi lamadusi nuki lakadusi, kukuffaruqa dir·raqi mafatti’ika qu, qacca mahakassuru.",
     "。くりわぴちっきしあですあくるちげざとい ・ へて、まりぱらせ、かっすみさまなぎわまどせぬきわかどせ、くくっへるげ ・ でるらねまへっていかも、げっやまはかっする。",
-    "Kurila pi cikki-xi ’adi-su’a ku-ruci qaxa-tu’i fati, mari pa-rasi, kassu-mi-sama nagi la-madusi nuki la-kadusi, ku-kuffa-ru-qa diru-raqi ma-fatti-ka qu, qacca maha-kassu-ru.",
+    "$kurila pi cikki-xi ’adi-su’a ku-ruci qaxa-tu’i fati, mari pa-rasi, kassu-mi-sama nagi la-madusi nuki la-kadusi, ku-kuffa-ru-qa diru-raqi ma-fatti-ka qu, qacca maha-kassu-ru.",
     "CT:/ˈǂʰɔː.lə/ pst;sta hear-project near-3top dat-mental_plane hope-positive enough_to, this think-future, trade-nmn-what fut;sta do-this_manner or do-that_manner, dat-give-ger-gen money-more think-good_idea-abv and, choose swap-trade-ger.",
     "Qōla hoped she was listening to projections in the mental plane near herself enough to predict this: which traders will be doing this or doing that: being persuaded to think the giving of more money is a good idea, and which choose to swap.",
     "As she had hoped, Corla got enough impressions from the swirling thoughts around her to be able to predict which customers could be persuaded to part with more currency, and which would be happier to barter.",
     "Pi’adu dissutarratu’i macu qu, tuca ra’u cikki, hari ji papa xu.",
     "。ぴあどでっすたっらといまゆも、とやらう ・ ちっき、はりじぱぱず。",
-    "Pi’adu dissu-tarra-tu’i macu qu, tu-ca ra’u cikki, hari ji pa-pa xu.",
+    "$pi’adu dissu-tarra-tu’i macu qu, tu-ca ra’u cikki, hari ji pa-pa xu.",
     "KF:/pʰɪ.ˈa.dɯ/ feel-impression-positive unexpected and, offspring-only prs;sta hear, voice prs;neg about-3ina;int project.",
     "Piadû unexpectedly had a good impression, and only (his) offspring could sense it, (his) voice is not projecting about this.",
     "Even Piado was impressed, although only his daughter could tell; he did not let it show in his voice.",
@@ -62865,7 +62868,7 @@
     "Slowly through the day, their stores diminished as they were bought or traded for.",
     "ʔumi ruku lakassu kikamusalumi qu, Pi’adu paqacca li pura tanali musara lanu.",
     "。うみるくわかっすきかむさをみも、ぴあど ・ ぱげっやえぷらたなえむさらわぬ。",
-    "’umi ruku la-kassu kika-musa-lumi qu, Pi’adu pa-qacca li pura tana-li musa-ra lanu.",
+    "’umi ruku la-kassu kika-musa-lumi qu, $pi’adu pa-qacca li pura tana-li musa-ra lanu.",
     "Something fut;gno do-trade over-day-several and, KF:/pʰɪ.ˈa.dɯ/ think-decision com become exist-not day-two fut;dyn.",
     "Someone will be doing trade over several days, and Piadû decides that it will become something that does not exist tomorrow.",
     "The market went on for a couple of days yet, but Piado figured that tomorrow would see them finished.",
@@ -62883,19 +62886,19 @@
     "He always needed to concentrate more, trying to communicate in words.",
     "Pali Kurila la ’inagidisi pa na li mari rikka kasi ra’uta rippa.",
     "。ぱえくりわわいなぎでせぱなえまり りっかかせらうたりっぱ。",
-    "pa-li Kurila la ’i-nagi-disi pa na li mari ri-kka kasi ra’u-ta rippa.",
+    "pa-li $kurila la ’i-nagi-disi pa na li mari ri-kka kasi ra’u-ta rippa.",
     "Think-com CT:/ˈǂʰɔː.lə/ do speak-promise-3ani;gen 3ina;int prs;itr com this easy-abl that prs;sta-and surprise.",
     "(He) thought in surprise that Qōla is doing the thing she promised and that this makes that easy.",
     "Still, he reflected, Corla seems to be doing what she promised. That does make it slightly easier.",
     "Pi’adu qixa nara maqa, Turassi capi jikaru haruKurila hacci dumi haru, nirafiki dasini cijja ra’u.",
     "。ぴあどねざならまげ、とらっせやぴじかる はるくりわはっちどみはる、 にらべきだせっにちっぢらう。",
-    "Pi’adu qixa nara ma-qa, Turassi capi ji-karu haru-Kurila hacci dumi haru, ni-rafiki dasi-ini cijja ra’u.",
+    "$pi’adu qixa nara ma-qa, $turassi capi ji-karu haru-$kurila hacci dumi haru, ni-rafiki dasi-ini cijja ra’u.",
     "KF:/pʰɪ.ˈa.dɯ/ pst;dyn sleep when-down, KF:/tr̩ʃ/ behind prs;neg-trm with-CT:/ˈǂʰɔː.lə/ wake night with, at-bar consume-dim alcohol prs;sta.",
     "After Piadû went to sleep, later Tŗsh was not stopping being awake with Corla, while having small drinks of alcohol.",
     "Later that evening, when Piado had gone to bed, the two women remained awake, sipping their drinks in the bar.",
     "Pa’usa li Laruni nigurrisulukku gupitiba nagi rika, kalu’ihusubi janni mihu.",
     ".ぱうさえわるににぐっりすをっくぐぴてばなぎりか、かをいほすびぢっにみほ.",
-    "pa-’usa li Laruni ni-gurrisu-lukku gupi-tiba nagi rika, kalu-’i-husabi janni mihu.",
+    "pa-’usa li $laruni ni-gurrisu-lukku gupi-tiba nagi rika, kalu-’i-husabi janni mihu.",
     "Think-look com TZ:/ˈɬær.ən/ at-door-wall stay-legs fut;sta and_thus, abl-speak-finger move 3ani;int.",
     "(She) thought by seeing that Lharen will be standing at the wall-door, and so (she) moved her with finger-speech.",
     "Toresh noticed Lharen standing in the doorway, and motioned her over.",
