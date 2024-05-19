@@ -271,7 +271,7 @@ footer nav.mini {
         width: 100%;
     }
 
-    main table {
+    main div.desktop table {
         display: none;
     }
 

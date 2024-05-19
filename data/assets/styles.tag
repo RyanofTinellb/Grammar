@@ -81,7 +81,7 @@ folding-open:
   close: </details>
   key: Alt-F
   props:
-    background: '#ff66ff'
+    background: '#ff99ff'
     off_key: Return
 gloss:
   type: span
