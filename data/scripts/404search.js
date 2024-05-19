@@ -4,7 +4,6 @@ function search(fromFourOhFour) {
     document.getElementById("results").innerHTML = "Searching...";
     let url = "/data/assets/searching.json";
     let xmlhttp = new XMLHttpRequest();
-    let andButton = document.getElementById("and")
     xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
             let text = JSON.parse(this.responseText);
@@ -14,9 +13,9 @@ function search(fromFourOhFour) {
             } else if (terms.length == 1) {
                 arr = oneTermSearch(text, terms);
             } else {
-                arr = multiTermSearch(text, terms, andButton.checked);
+                arr = multiTermSearch(text, terms, true);
             }
-            display(arr, text, "results", terms, andButton.checked);
+            display(arr, text, "results", terms, true);
         }
     };
     xmlhttp.open("GET", url, true);
