@@ -191,6 +191,7 @@ main .message p {
     margin-bottom: 1em;
     font-size: smaller;
     color: red;
+    text-align: center;
 }
 
 main .wordlist {
