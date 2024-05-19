@@ -165,7 +165,7 @@ function markdown(terms) {
 }
 
 function titleSearch(arr, terms, andButton) {
-    let names = arr.names.map((elt, i) => ({
+    let names = arr.pages.map((elt, i) => ({
         name: elt,
         url: arr.urls[i],
         count: 0,
@@ -176,7 +176,6 @@ function titleSearch(arr, terms, andButton) {
         });
     });
     numTerms = terms.length;
-    // filter = andButton ? name => name.count === terms.length : name =>
     filter = name => (andButton ? name.count === terms.length : name.count);
     names = names.filter(filter);
     return `<div class="title-results"><ul>${names.map(
