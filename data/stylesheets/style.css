@@ -221,6 +221,7 @@ main .transliteration {
 main .ipa {
     font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Trebuchet MS', Arial, sans-serif;
     font-size: larger;
+    font-style: normal;
 }
 
 main .ipa strong {
@@ -234,65 +235,53 @@ main form.choices {
     margin: 1em;
 }
 
-input#Transliteration:checked ~ .paragraph p:nth-child(1) {
-    display: inline;
-    margin-left: 0;
+input#english:checked ~ .paragraph {
+    padding-top: 0.5rem;
+    text-align: justify;
 }
 
-input#Transliteration:checked ~ .paragraph div.folding {
+input#english:checked ~ .paragraph details.folding {
+    display: none;
+}
+
+input#english:checked ~ .paragraph p {
     display: inline;
 }
 
-input#Transliteration:checked ~ .paragraph p:nth-child(1) strong {
+input#english:checked ~ .paragraph p:nth-child(2) {
+    margin-left: 1.5rem;
+}
+
+input#transliteration:checked ~ .paragraph details.folding {
+    display: inline;
+}
+
+input#transliteration:checked ~ .paragraph details.folding summary.folding {
+    display: inline;
+}
+
+input#transliteration:checked ~ .paragraph details.folding summary.folding .transliteration {
     font-weight: normal;
 }
 
-input#Transliteration:checked ~ .paragraph p:not(:nth-child(1)) {
+input#transliteration:checked ~ .paragraph details.folding ~ p {
     display: none;
 }
 
-input#English:checked ~ .paragraph p:last-child {
-    display: inline;
-    margin-left: 0;
-}
-
-input#English:checked ~ .paragraph div.folding {
-    display: inline;
-}
-
-input#English:checked ~ .paragraph p:not(:last-child) {
+input#tinellbian:checked ~ .paragraph details.folding ~ p {
     display: none;
 }
 
-input#Tinellbian:checked ~ .paragraph {
-    direction: rtl;
-    unicode-bidi: bidi-override;
-}
-
-input#Tinellbian:checked ~ .paragraph p:nth-child(2) {
-    display: inline;
-    margin-left: 0;
-}
-
-input#Tinellbian:checked ~ .paragraph div.folding {
-    display: inline;
-}
-
-input#Tinellbian:checked ~ .paragraph p:not(:nth-child(2)) {
+input#tinellbian:checked ~ .paragraph details summary {
     display: none;
 }
 
-input#All:checked ~ .paragraph {
-    border-bottom: 1px solid blue;
-    padding: 0;
-}
-
-input#All:checked ~ .paragraph p {
-    margin-top: 0;
-}
-
-input:checked:not(#All) ~ .paragraph input {
+input#tinellbian:checked ~ .paragraph details p {
     display: none;
+}
+
+input#tinellbian:checked ~ .paragraph details p:nth-child(2) {
+    display: inline;
 }
 
 @media screen and (max-width: 800px) {

@@ -75,6 +75,14 @@ folding:
   props:
     background: '#ff66ff'
     off_key: Return
+folding-open:
+  type: block
+  open: <details class="folding" open>
+  close: </details>
+  key: Alt-F
+  props:
+    background: '#ff66ff'
+    off_key: Return
 gloss:
   type: span
   props:
@@ -128,6 +136,8 @@ image:
   language: true
 interlinear:
   type: div
+  start: ' '
+  end: ' '
 internal:
   type: anchor
   props:
@@ -164,6 +174,8 @@ overline:
     underline: true
 paragraph:
   type: div
+  start: <p>
+  end: </p>
   rank: 150
 season:
   open: <dfn class="season" title="
@@ -178,6 +190,8 @@ stars:
   props:
     justify: right
   type: div
+  start: <p>
+  end: </p>
 strong:
   props:
     bold: true
