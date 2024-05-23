@@ -1,16 +1,17 @@
 <!doctype html>
-<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<html lang="en"><head><meta name="viewport" content="width=device-width/initial-scale=1.0">
 <meta charset="utf-8">
 <title>Prelude</title>
 <link rel="stylesheet" type="text/css" href="../../../data/stylesheets/basic_style.css">
 <link rel="stylesheet" type="text/css" href="../../../data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="../../../data/assets/favicon.png">
 <script> let href = window.location.href; 
- if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ if (href.indexOf("?term") != -1) { 
  let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
- window.location.href = `../../../special/search.html?${term}&andOr=and`; 
- } </script>
-<script src="../../../data/scripts/search.js"></script>
+ window.location.href = `../../../special/search.html?${term}`; 
+ } 
+</script>
+<script src="../../../data/scripts/search.js"></script></head>
 <body><div class="flex"><nav class="main"><details open><summary> Menu </summary>
 <ul><li><a href="../../../index.html">A Grammar of the Tinellbian Languages</a></li>
 <div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
@@ -41,7 +42,7 @@
 <p>(She) stands up carefully.</p>
 </details><p>She gingerly stood up.</p>
 <details class="folding" open><summary class="folding"> <span class="transliteration" lang="x-tlb-hl">Kanura ra’u kal·li ni-cur·-ru gupikarafi pi bi’u.</span> </summary>
-<p><span class="tinellbian" lang="x-tlb-hl">。かぬららうかをえにゆらるぐぴからべぴ ・ びう。</span></p>
+<p><span class="tinellbian" lang="x-tlb-hl">。かぬららうかをえにゆらるぐぴからべぴ・びう。</span></p>
 <p><a href="http://dictionary.tinellb.com/lex/kanu-ra.html#highlulani">kanu-ra</a> <a href="http://dictionary.tinellb.com/lex/ra’u.html#highlulani">ra’u</a> <a href="http://dictionary.tinellb.com/lex/kal·li.html#highlulani">kal·li</a> <a href="http://dictionary.tinellb.com/lex/ni.html#highlulani">ni</a>-<a href="http://dictionary.tinellb.com/lex/cura-ru.html#highlulani">cura-ru</a> <a href="http://dictionary.tinellb.com/lex/gupi.html#highlulani">gupi</a>-<a href="http://dictionary.tinellb.com/lex/karafi.html#highlulani">karafi</a> <a href="http://dictionary.tinellb.com/lex/pi.html#highlulani">pi</a> <a href="http://dictionary.tinellb.com/lex/bi’u.html#highlulani">bi’u</a>.</p>
 <p><span class="gloss">Leg-pair <dfn><abbr class="glossary" title="present stative">prs;sta</abbr></dfn> <dfn><abbr class="glossary" title="ablative">abl</abbr></dfn>-<dfn><abbr class="glossary" title="complementiser">com</abbr></dfn> in-time_passes-<dfn><abbr class="glossary" title="passive">psv</abbr></dfn>-<dfn><abbr class="glossary" title="gerund">ger</abbr></dfn> sit-enlightenment <dfn><abbr class="glossary" title="past stative">pst;sta</abbr></dfn> hurt.</span></p>
 <p>(Her) legs are hurting because of sitting enlightened while time passed.</p>
@@ -1113,9 +1114,8 @@
 <p><a href="../../demoticlulani/index.html">Next Page →</a></p></nav>
 
 <div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Sunday, May 19th, 2024</span></div>
+<span class="no-breaks">Last updated: Thursday, May 23rd, 2024</span></div>
 </footer>
 <script>
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>
-</head>

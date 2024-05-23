@@ -1,16 +1,17 @@
 <!doctype html>
-<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<html lang="en"><head><meta name="viewport" content="width=device-width/initial-scale=1.0">
 <meta charset="utf-8">
 <title>Demotic Lulani</title>
 <link rel="stylesheet" type="text/css" href="../../data/stylesheets/basic_style.css">
 <link rel="stylesheet" type="text/css" href="../../data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="../../data/assets/favicon.png">
 <script> let href = window.location.href; 
- if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ if (href.indexOf("?term") != -1) { 
  let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
- window.location.href = `../../special/search.html?${term}&andOr=and`; 
- } </script>
-<script src="../../data/scripts/search.js"></script>
+ window.location.href = `../../special/search.html?${term}`; 
+ } 
+</script>
+<script src="../../data/scripts/search.js"></script></head>
 <body><div class="flex"><nav class="main"><details open><summary> Menu </summary>
 <ul><li><a href="../../index.html">A Grammar of the Tinellbian Languages</a></li>
 <div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
@@ -31,4 +32,3 @@
 <script>
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>
-</head>

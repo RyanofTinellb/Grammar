@@ -163,6 +163,14 @@ main details.folding p,main details.folding + p {
     line-height: 1.5;
 }
 
+main details.folding + p {
+    padding-left: 0;
+}
+
+main details.folding summary.folding {
+    margin-left: 0;
+}
+
 main details.example {
     margin-top: 1.5rem;
     list-style: "";

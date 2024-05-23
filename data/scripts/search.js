@@ -1,4 +1,4 @@
-if (window.location.href.indexOf("?") != -1) {
+if (window.location.href.indexOf("?term=") != -1) {
     search();
 }
 
