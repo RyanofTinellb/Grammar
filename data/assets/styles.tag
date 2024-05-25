@@ -164,6 +164,8 @@ mobile:
 multiline:
   type: span
   rank: -100
+nextline:
+  type: span
 ol:
   type: block
   start: <li>

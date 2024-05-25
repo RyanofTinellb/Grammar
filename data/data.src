@@ -1788,11 +1788,11 @@ entries:
                 Orthography:
                   children:
                     Spelling Syllabary:
-                      date: '2024-05-14'
+                      date: '2024-05-25'
                       position: '5.10'
                       text:
                       - There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol is represented by the word <dictionary@x-tlb-hl>faʔa</dictionary@x-tlb-hl> <gloss>language</gloss>.
-                      - '<left-columns><table> ’a: <dictionary@x-tlb-hl>’ara</dictionary@x-tlb-hl> <gloss>face</gloss>'
+                      - '<desktop><left-columns><table> ’a: <dictionary@x-tlb-hl>’ara</dictionary@x-tlb-hl> <gloss>face</gloss>'
                       - ' pa: <dictionary@x-tlb-hl>pacca</dictionary@x-tlb-hl> <gloss>number</gloss>'
                       - ' ba: <dictionary@x-tlb-hl>bitta</dictionary@x-tlb-hl> <gloss>time</gloss>'
                       - ' ta: <dictionary@x-tlb-hl>tila</dictionary@x-tlb-hl> <gloss>shell</gloss>'
@@ -1845,7 +1845,7 @@ entries:
                       - ' fu: <dictionary@x-tlb-hl>famu</dictionary@x-tlb-hl> <gloss>completely</gloss>'
                       - ' su: <dictionary@x-tlb-hl>silu</dictionary@x-tlb-hl> <gloss>spouse</gloss>'
                       - ' xu: <dictionary@x-tlb-hl>xaʔu</dictionary@x-tlb-hl> <gloss>child</gloss>'
-                      - ' hu: <dictionary@x-tlb-hl>halu</dictionary@x-tlb-hl>  <gloss>algorithm</gloss></table></left-columns>'
+                      - ' hu: <dictionary@x-tlb-hl>halu</dictionary@x-tlb-hl>  <gloss>algorithm</gloss></table></left-columns></desktop>'
                       - '<mobile> ’a: <dictionary@x-tlb-hl>’ara</dictionary@x-tlb-hl> <gloss>face</gloss>'
                       - ' pa: <dictionary@x-tlb-hl>pacca</dictionary@x-tlb-hl> <gloss>number</gloss>'
                       - ' ba: <dictionary@x-tlb-hl>bitta</dictionary@x-tlb-hl> <gloss>time</gloss>'
@@ -1901,19 +1901,19 @@ entries:
                       - ' xu: <dictionary@x-tlb-hl>xaʔu</dictionary@x-tlb-hl> <gloss>child</gloss>'
                       - ' hu: <dictionary@x-tlb-hl>halu</dictionary@x-tlb-hl> <gloss>algorithm</gloss></mobile>'
                     Tactile Syllabary:
-                      date: '2024-05-14'
+                      date: '2024-05-25'
                       position: '1.0'
                       text:
                       - There is a tactile syllabary for use by blind and visually-impaired language users.
                       - Each cell is three rows by two columns of raised dots. The upper four dots generally denote the consonant, with syllables beginning with b, d, j, g, f, or x being the exceptions. The lowest pair generally denote the vowel.
-                      - <table>|h ʔ |h p |h b |h t |h d |h c |h j |h k |h g
+                      - <desktop><table>|h ʔ |h p |h b |h t |h d |h c |h j |h k |h g
                       - h a | ⠁ | ⠃ | ⠣ | ⠉ | ⠩ | ⠒ | ⠲ | ⠑ | ⠱
                       - h i | ⠅ | ⠇ | ⠫ | ⠍ | ⠹ | ⠖ | ⠢ | ⠕ | ⠺
                       - h u | ⠥ | ⠧ | ⠬ | ⠭ | ⠼ | ⠶ | ⠸ | ⠵ | ⠴</table>
                       - <table>|h m |h n |h q |h l |h r |h f |h s |h x |h h
                       - h a | ⠋ | ⠙ | ⠚ | ⠊ | ⠛ | ⠌ | ⠓ | ⠡ | ⠂
                       - h i | ⠏ | ⠝ | ⠞ | ⠎ | ⠟ | ⠜ | ⠗ | ⠳ | ⠆
-                      - h u | ⠯ | ⠽ | ⠾ | ⠮ | ⠿ | ⠪ | ⠷ | ⠻ | ⠦</table>
+                      - h u | ⠯ | ⠽ | ⠾ | ⠮ | ⠿ | ⠪ | ⠷ | ⠻ | ⠦</table></desktop>
                       - <mobile><table>|h a |h i |h u
                       - h ʔ | ⠁ | ⠅ | ⠥
                       - h p | ⠃ | ⠇ | ⠧
@@ -1934,13 +1934,13 @@ entries:
                       - h x | ⠡ | ⠳ | ⠻
                       - h h | ⠂ | ⠆ | ⠦</table></mobile>
                       - Dot 5 (⠐) by itself is the geminate. Word separation is shown by (⠀) an empty space, clause separation by (⠤) the comma, and sentence separation by (⠔) the period. Numbers are prefixed with (⠨) the number sign, and the first syllable of each number is used.
-                  date: '2024-05-14'
+                  date: '2024-05-25'
                   position: '17.101'
                   text:
                   - As well as the syllabary for most written use, there are also special-use syllabaries. One of these encodes more redundancy for use with noisy channels. The other is a non-visual written code for blind and other visually impaired users.
                   - The Lulani syllabary was developed as a featural script, with similar sounds having similar symbols.
                   - It is written in horizontal rows, right-to-left, and top-to-bottom.
-                  - <table> |h stop |h voiced |h nasal |h lateral |h tap |h fricative
+                  - <desktop><table> |h stop |h voiced |h nasal |h lateral |h tap |h fricative
                   - 'hr3 labial | pa: <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> | ba: <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> | ma: <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> ||| fa: <tinellbian@x-tlb-hl>へ</tinellbian@x-tlb-hl>'
                   - ' pi: <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl> | bi: <tinellbian@x-tlb-hl>び</tinellbian@x-tlb-hl> | mi: <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl> ||| fi: <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl>'
                   - ' pu: <tinellbian@x-tlb-hl>ぷ</tinellbian@x-tlb-hl> | bu: <tinellbian@x-tlb-hl>ぶ</tinellbian@x-tlb-hl> | mu: <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> ||| fu: <tinellbian@x-tlb-hl>ふ</tinellbian@x-tlb-hl>'
@@ -1955,7 +1955,7 @@ entries:
                   - ' ku: <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl> | gu: <tinellbian@x-tlb-hl>ぐ</tinellbian@x-tlb-hl> | qu: <tinellbian@x-tlb-hl>も</tinellbian@x-tlb-hl> |||'
                   - 'hr3 glottal | ’a: <tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl> ||||| ha: <tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl>'
                   - ' ’i: <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> ||||| hi: <tinellbian@x-tlb-hl>ひ</tinellbian@x-tlb-hl>'
-                  - ' ’u: <tinellbian@x-tlb-hl>う</tinellbian@x-tlb-hl> ||||| hu: <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl></table>'
+                  - ' ’u: <tinellbian@x-tlb-hl>う</tinellbian@x-tlb-hl> ||||| hu: <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl></table></desktop>'
                   - '<mobile><table> ’a: <tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl> | ’i: <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> | ’u: <tinellbian@x-tlb-hl>う</tinellbian@x-tlb-hl>'
                   - ' pa: <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> | pi: <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl> | pu: <tinellbian@x-tlb-hl>ぷ</tinellbian@x-tlb-hl>'
                   - ' ba: <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> | bi: <tinellbian@x-tlb-hl>び</tinellbian@x-tlb-hl> | bu: <tinellbian@x-tlb-hl>ぶ</tinellbian@x-tlb-hl>'
@@ -1979,19 +1979,19 @@ entries:
                 Phonology:
                   children:
                     Consonants:
-                      date: '2024-05-13'
+                      date: '2024-05-25'
                       position: '81.21'
                       text:
                       - Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
-                      - <table><thead>|h labial |h alveolar |h retroflex |h palatal |h velar |h glottal</thead>
+                      - <desktop><table><thead>|h labial |h alveolar |h retroflex |h palatal |h velar |h glottal</thead>
                       - h stop | <ipa@x-tlb-hl>p b</ipa@x-tlb-hl> | <ipa@x-tlb-hl>t d</ipa@x-tlb-hl> || <ipa@x-tlb-hl>c ɟ</ipa@x-tlb-hl> &lt;j&gt; | <ipa@x-tlb-hl>k g</ipa@x-tlb-hl> | <ipa@x-tlb-hl>ʔ</ipa@x-tlb-hl> &lt;’&gt;
                       - h nasal | <ipa@x-tlb-hl>m</ipa@x-tlb-hl> | <ipa@x-tlb-hl>n</ipa@x-tlb-hl> ||| <ipa@x-tlb-hl>ŋ</ipa@x-tlb-hl> &lt;q&gt; |
                       - h lateral || <ipa@x-tlb-hl>l</ipa@x-tlb-hl> ||||
                       - h tap ||| <ipa@x-tlb-hl>ɽ</ipa@x-tlb-hl> &lt;r&gt; |||
-                      - h fricative | <ipa@x-tlb-hl>f</ipa@x-tlb-hl> | <ipa@x-tlb-hl>s</ipa@x-tlb-hl> || <ipa@x-tlb-hl>ɕ</ipa@x-tlb-hl> &lt;x&gt; || <ipa@x-tlb-hl>h</ipa@x-tlb-hl></table>
-                      - <mobile><table><thead>|h stop |h nasal |h lateral / //tap |h fricative </thead>
+                      - h fricative | <ipa@x-tlb-hl>f</ipa@x-tlb-hl> | <ipa@x-tlb-hl>s</ipa@x-tlb-hl> || <ipa@x-tlb-hl>ɕ</ipa@x-tlb-hl> &lt;x&gt; || <ipa@x-tlb-hl>h</ipa@x-tlb-hl></table></desktop>
+                      - <mobile><table><thead>|h stop |h nasal |h lateral <nextline>/ tap</nextline> |h fricative </thead>
                       - h labial | <ipa@x-tlb-hl>p</ipa@x-tlb-hl> <ipa@x-tlb-hl>b</ipa@x-tlb-hl> | <ipa@x-tlb-hl>m</ipa@x-tlb-hl> || <ipa@x-tlb-hl>f</ipa@x-tlb-hl>
-                      - h alveolar / //retroflex | <ipa@x-tlb-hl>t</ipa@x-tlb-hl> <ipa@x-tlb-hl>d</ipa@x-tlb-hl> | <ipa@x-tlb-hl>n</ipa@x-tlb-hl> | <ipa@x-tlb-hl>l</ipa@x-tlb-hl> <ipa@x-tlb-hl>ɽ</ipa@x-tlb-hl> &lt;r&gt; | <ipa@x-tlb-hl>s</ipa@x-tlb-hl>
+                      - h alveolar / <nextline>retroflex</nextline> | <ipa@x-tlb-hl>t</ipa@x-tlb-hl> <ipa@x-tlb-hl>d</ipa@x-tlb-hl> | <ipa@x-tlb-hl>n</ipa@x-tlb-hl> | <ipa@x-tlb-hl>l</ipa@x-tlb-hl> <ipa@x-tlb-hl>ɽ</ipa@x-tlb-hl> &lt;r&gt; | <ipa@x-tlb-hl>s</ipa@x-tlb-hl>
                       - h palatal | <ipa@x-tlb-hl>c</ipa@x-tlb-hl> <ipa@x-tlb-hl>ɟ</ipa@x-tlb-hl> &lt;j&gt; ||| <ipa@x-tlb-hl>ɕ</ipa@x-tlb-hl> &lt;x&gt;
                       - h velar | <ipa@x-tlb-hl>k</ipa@x-tlb-hl> <ipa@x-tlb-hl>g</ipa@x-tlb-hl> | <ipa@x-tlb-hl>ŋ</ipa@x-tlb-hl> &lt;q&gt; ||
                       - h glottal | <ipa@x-tlb-hl>ʔ</ipa@x-tlb-hl> &lt;’&gt; ||| <ipa@x-tlb-hl>h</ipa@x-tlb-hl></table></mobile>
@@ -2169,7 +2169,7 @@ entries:
                       - <wordlist><dictionary@x-tlb-hl>mulu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈm<strong>u</strong>l<strong>ʉ</strong>/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>むを</tinellbian@x-tlb-hl> <gloss>blood</gloss>
                       - <dictionary@x-tlb-hl>hulla</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈh<strong>u</strong>ʎːə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ほっわ</tinellbian@x-tlb-hl> <gloss>to have sex</gloss>
                       - <dictionary@x-tlb-hl>riccu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈɽicː<strong>ʉ</strong>/</ipa@x-tlb-hl><tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl> <gloss>sphere</gloss></wordlist>
-                  date: '2024-05-13'
+                  date: '2024-05-25'
                   position: '1.0'
                   text:
                   - High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated, which can palatalise or change the voicing of the original sound.

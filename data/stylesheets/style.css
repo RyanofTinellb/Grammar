@@ -154,6 +154,10 @@ main .wordlist p, main .wordlist summary {
     line-height: 1.5;
 }
 
+main .wordlist details.folding summary.folding {
+    margin-left: 5%;
+}
+
 main details.folding {
     margin-top: 0.5rem;
     list-style: "";
@@ -189,6 +193,10 @@ main details.example + p {
 main div.columns, main div.left-columns {
     display: flex;
     flex-flow: row wrap;
+}
+
+main div.columns table {
+    margin-right: 5rem;
 }
 
 main div.columns table th, main div.columns table td,
@@ -231,6 +239,7 @@ main .ipa {
     font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Trebuchet MS', Arial, sans-serif;
     font-size: larger;
     font-style: normal;
+    white-space: nowrap;
 }
 
 main .ipa strong {
@@ -303,22 +312,22 @@ input#tinellbian:checked ~ .paragraph details p:nth-child(2) {
 }
 
 @media screen and (max-width: 800px) {
-    divmain {
-        width: 100%;
-        margin-left: 0;
-    }
-
-    divmain p {
-        margin-left: 5%;
-        margin-right: 5%;
-    }
-
-    divmain .folding p {
-        margin-right: 0;
+    main .ipa {
+        font-size: initial;
     }
 
     main div.wordlist {
         margin-left: 10%;
+    }
+
+    main table {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    main div.columns table {
+        margin-right: auto;
+        margin-left: auto;
     }
 
     h1, h2, h3, h4, h5, h6 {
