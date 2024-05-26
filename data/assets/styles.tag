@@ -36,6 +36,7 @@ columns:
   type: div
 desktop:
   type: div
+  rank: 150
   props:
     background: '#ff33ff'
 dictionary:

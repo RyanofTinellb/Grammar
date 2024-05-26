@@ -1979,7 +1979,7 @@ entries:
                 Phonology:
                   children:
                     Consonants:
-                      date: '2024-05-25'
+                      date: '2024-05-26'
                       position: '81.21'
                       text:
                       - Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
@@ -2090,7 +2090,7 @@ entries:
                       - <dictionary@x-tlb-hl>dixxa</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈdi<strong>ɕː</strong>ə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>でっざ</tinellbian@x-tlb-hl> <gloss>drink</gloss></wordlist>
                       - <h3>Glottal</h3>
                       - The fricative <ipa@x-tlb-hl>/h/</ipa@x-tlb-hl> is a voiceless sound. When geminate, it is pronounced as a palatal fricative.
-                      - <wordlist><dictionary@x-tlb-hl>hannaku</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈ<strong>h</strong>aɲːəkʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>はっなく</tinellbian@x-tlb-hl> <gloss>cat</gloss>
+                      - <wordlist><dictionary@x-tlb-hl>hannaku</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈ<strong>h</strong>aɲːəku/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>はっなく</tinellbian@x-tlb-hl> <gloss>cat</gloss>
                       - <dictionary@x-tlb-hl>tihu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈtʰi<strong>h</strong>ʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>てほ</tinellbian@x-tlb-hl> <gloss>to dwell</gloss>
                       - <dictionary@x-tlb-hl>quhha</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈŋu<strong>çː</strong>ə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>もっは</tinellbian@x-tlb-hl> <gloss>river</gloss></wordlist>
                     Phonotactics:

@@ -244,7 +244,7 @@ main .ipa {
 
 main .ipa strong {
     font-size: inherit;
-    font-weight: 100;
+    font-weight: normal;
     color: red;
 }
 
