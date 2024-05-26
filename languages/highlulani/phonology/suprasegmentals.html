@@ -5,21 +5,15 @@
 <link rel="stylesheet" type="text/css" href="../../../data/stylesheets/basic_style.css">
 <link rel="stylesheet" type="text/css" href="../../../data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="../../../data/assets/favicon.png">
-<script> let href = window.location.href; 
- if (href.indexOf("?term") != -1) { 
- let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
- window.location.href = `../../../special/search.html?${term}`; 
- } 
-</script>
 <script src="../../../data/scripts/search.js"></script></head>
 <body><div class="flex"><nav class="main"><details open><summary> Menu </summary>
 <ul><li><a href="../../../index.html">A Grammar of the Tinellbian Languages</a></li>
 <div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
 <li class="search"><button>Search</button></li></form></div><div class="nav-links"><ul><li><a href="../index.html">High Lulani</a></li><ul><li><a href="index.html">Phonology</a></li><ul><li><a href="consonants.html">Consonants</a></li><li><a href="vowels.html">Vowels</a></li><li><a href="phonotactics.html">Phonotactics</a></li><li>Suprasegmentals</li></ul></ul><li><a href="../../demoticlulani/index.html">Demotic Lulani</a></li></ul></div></ul></details></nav>
 
-<main><nav class="mini"><p><a href="phonotactics.html">← Previous Page</a></p>
+<div class="main-page"><nav class="mini"><p><a href="phonotactics.html">← Previous Page</a></p>
 <p><a href="../orthography/index.html">Next Page →</a></p></nav>
-<h1>Suprasegmentals</h1>
+<main><h1>Suprasegmentals</h1>
 <h2 id="syllabication"> Syllabication </h2>
 <p>Syllable breaks are placed between two geminate consonants.</p>
 <div class="wordlist"><p>bat.ta</p></div>
@@ -59,13 +53,14 @@
 <h2 id="prosody"> Prosody </h2>
 <p>Interrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (ǎ) or a falling tone (â), placed on the syllable of the appropriate word which has the greatest stress.</p>
 <p>Falling tone can also be used to bring focus to a particular word.</p>
-</main></div>
-<footer><nav class="mini"><p><a href="phonotactics.html">← Previous Page</a></p>
+</main>
+<nav class="mini"><p><a href="phonotactics.html">← Previous Page</a></p>
 <p><a href="../orthography/index.html">Next Page →</a></p></nav>
-
-<div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
+</div></div>
+<footer><div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
 <span class="no-breaks">Last updated: Tuesday, May 14th, 2024</span></div>
 </footer>
+<p><script src="../../../data/scripts/parse_href.js"></script></p>
 <script>
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>

@@ -5,21 +5,15 @@
 <link rel="stylesheet" type="text/css" href="../../data/stylesheets/basic_style.css">
 <link rel="stylesheet" type="text/css" href="../../data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="../../data/assets/favicon.png">
-<script> let href = window.location.href; 
- if (href.indexOf("?term") != -1) { 
- let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
- window.location.href = `../../special/search.html?${term}`; 
- } 
-</script>
 <script src="../../data/scripts/search.js"></script></head>
 <body><div class="flex"><nav class="main"><details open><summary> Menu </summary>
 <ul><li><a href="../../index.html">A Grammar of the Tinellbian Languages</a></li>
 <div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
 <li class="search"><button>Search</button></li></form></div><div class="nav-links"><ul><li><a href="../highlulani/index.html">High Lulani</a></li><li><a href="index.html">Demotic Lulani</a></li><ul><li>Phonology</li><li><a href="sampletexts.html">Sample Texts</a></li><li><a href="appendices/index.html">Appendices</a></li></ul></ul></div></ul></details></nav>
 
-<main><nav class="mini"><p><a href="index.html">← Previous Page</a></p>
+<div class="main-page"><nav class="mini"><p><a href="index.html">← Previous Page</a></p>
 <p><a href="sampletexts.html">Next Page →</a></p></nav>
-<h1>Phonology</h1>
+<main><h1>Phonology</h1>
 <div class="message"><p>Warning: This section is a work in progress.</p></div>
 <h2 id="consonants"> Consonants </h2>
 <div class="desktop"><table><thead><tr><td></td><th>labial</th><th>dental </th><th>palatal</th><th>velar</th><th>glottal</th></tr></thead>
@@ -71,13 +65,14 @@
 <h3 id="allophony"> Allophony </h3>
 <p>Unstressed vowels are realised as <span class="ipa" lang="x-tlb-dl"><strong>ə</strong></span>.</p>
 <p>Rounded vowels are lowered, <span class="gloss">i.e.:</span> <span class="ipa" lang="x-tlb-dl"><strong>u</strong></span> → <span class="ipa" lang="x-tlb-dl"><strong>o</strong></span> and <span class="ipa" lang="x-tlb-dl"><strong>y</strong></span> → <span class="ipa" lang="x-tlb-dl"><strong>ø</strong></span>, before peripheral consonants. The latter change also occurs at the ends of words.</p>
-</main></div>
-<footer><nav class="mini"><p><a href="index.html">← Previous Page</a></p>
+</main>
+<nav class="mini"><p><a href="index.html">← Previous Page</a></p>
 <p><a href="sampletexts.html">Next Page →</a></p></nav>
-
-<div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
+</div></div>
+<footer><div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
 <span class="no-breaks">Last updated: Sunday, May 19th, 2024</span></div>
 </footer>
+<p><script src="../../data/scripts/parse_href.js"></script></p>
 <script>
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>

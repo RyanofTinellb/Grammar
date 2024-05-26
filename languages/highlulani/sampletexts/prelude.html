@@ -5,21 +5,15 @@
 <link rel="stylesheet" type="text/css" href="../../../data/stylesheets/basic_style.css">
 <link rel="stylesheet" type="text/css" href="../../../data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="../../../data/assets/favicon.png">
-<script> let href = window.location.href; 
- if (href.indexOf("?term") != -1) { 
- let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
- window.location.href = `../../../special/search.html?${term}`; 
- } 
-</script>
 <script src="../../../data/scripts/search.js"></script></head>
 <body><div class="flex"><nav class="main"><details open><summary> Menu </summary>
 <ul><li><a href="../../../index.html">A Grammar of the Tinellbian Languages</a></li>
 <div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
 <li class="search"><button>Search</button></li></form></div><div class="nav-links"><ul><li><a href="../index.html">High Lulani</a></li><ul><li><a href="index.html">Sample Texts</a></li><ul><li>Prelude</li></ul></ul><li><a href="../../demoticlulani/index.html">Demotic Lulani</a></li></ul></div></ul></details></nav>
 
-<main><nav class="mini"><p><a href="index.html">← Previous Page</a></p>
+<div class="main-page"><nav class="mini"><p><a href="index.html">← Previous Page</a></p>
 <p><a href="../../demoticlulani/index.html">Next Page →</a></p></nav>
-<h1>Prelude</h1>
+<main><h1>Prelude</h1>
 <p>This comes from an early draft of <span class="gloss">The Coelacanth Quartet</span> – <dfn class="season" title="summer">夏</dfn> <span class="gloss">The Crackled Egg</span>.</p>
 <div class="interlinear"><input checked class="version" type="radio" name="version"id="all"> All <input class="version" type="radio" name="version"id="english">English <input class="version" type="radio" name="version"id="tinellbian">Tinellbian <input class="version" type="radio" name="version"id="transliteration">Transliteration 
 <div class="paragraph"><details class="folding" open><summary class="folding"> <span class="transliteration" lang="x-tlb-hl">Disinnamuka</span> </summary>
@@ -1109,13 +1103,14 @@
 <p>(She) thought by seeing that Lharen will be standing at the wall-door, and so (she) moved her with finger-speech.</p></details>
 <p>Toresh noticed Lharen standing in the doorway, and motioned her over.</p></div>
 </div>
-</main></div>
-<footer><nav class="mini"><p><a href="index.html">← Previous Page</a></p>
+</main>
+<nav class="mini"><p><a href="index.html">← Previous Page</a></p>
 <p><a href="../../demoticlulani/index.html">Next Page →</a></p></nav>
-
-<div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
+</div></div>
+<footer><div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
 <span class="no-breaks">Last updated: Thursday, May 23rd, 2024</span></div>
 </footer>
+<p><script src="../../../data/scripts/parse_href.js"></script></p>
 <script>
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>
