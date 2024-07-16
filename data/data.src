@@ -2169,12 +2169,12 @@ entries:
                       - <wordlist><dictionary@x-tlb-hl>mulu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈm<strong>u</strong>l<strong>ʉ</strong>/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>むを</tinellbian@x-tlb-hl> <gloss>blood</gloss>
                       - <dictionary@x-tlb-hl>hulla</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈh<strong>u</strong>ʎːə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ほっわ</tinellbian@x-tlb-hl> <gloss>to have sex</gloss>
                       - <dictionary@x-tlb-hl>riccu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈɽicː<strong>ʉ</strong>/</ipa@x-tlb-hl><tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl> <gloss>sphere</gloss></wordlist>
-                  date: '2024-05-25'
+                  date: '2024-07-16'
                   position: '1.0'
                   text:
                   - High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated, which can palatalise or change the voicing of the original sound.
                   - This page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.
-                  - <columns><table>h Consonant |h Example
+                  - <columns><table>h Sound |h Example
                   - ' <ipa@x-tlb-hl>b</ipa@x-tlb-hl> | <strong>b</strong>a’u'
                   - ' <ipa@x-tlb-hl>bʱ</ipa@x-tlb-hl> | sa<strong>bb</strong>a'
                   - ' <ipa@x-tlb-hl>c</ipa@x-tlb-hl> | qa<strong>cc</strong>a'
@@ -2186,7 +2186,7 @@ entries:
                   - ' <ipa@x-tlb-hl>f</ipa@x-tlb-hl> | <strong>f</strong>ara'
                   - ' <ipa@x-tlb-hl>g</ipa@x-tlb-hl> | <strong>g</strong>usu'
                   - ' <ipa@x-tlb-hl>gʱ</ipa@x-tlb-hl> | sa<strong>gg</strong>i</table>'
-                  - <table>h Consonant |h Example
+                  - <table>h Sound |h Example
                   - ' <ipa@x-tlb-hl>h</ipa@x-tlb-hl> | <strong>h</strong>isuba'
                   - ' <ipa@x-tlb-hl>j</ipa@x-tlb-hl> | fa<strong>ʔ</strong>a<sup>1</sup>'
                   - ' <ipa@x-tlb-hl>ɟ</ipa@x-tlb-hl> | <strong>j</strong>usi'
@@ -2197,7 +2197,7 @@ entries:
                   - ' <ipa@x-tlb-hl>ʎ</ipa@x-tlb-hl> | mu<strong>ll</strong>u'
                   - ' <ipa@x-tlb-hl>m</ipa@x-tlb-hl> | <strong>m</strong>ullu'
                   - ' <ipa@x-tlb-hl>n</ipa@x-tlb-hl> | <strong>n</strong>isa</table>'
-                  - <table>h Consonant |h Example
+                  - <table>h Sound |h Example
                   - ' <ipa@x-tlb-hl>ɲ</ipa@x-tlb-hl> | ja<strong>nn</strong>i'
                   - ' <ipa@x-tlb-hl>ŋ</ipa@x-tlb-hl> | <strong>q</strong>a'
                   - ' <ipa@x-tlb-hl>p</ipa@x-tlb-hl> | ’a<strong>pp</strong>u'
