@@ -7,29 +7,11 @@ body {
     font-style: normal;
 }
 
-highlight {
+.highlight {
     border: 1px solid red;
     padding: 4px 5px;
     border-radius: 15px;
     line-height: 2;
-}
-
-nav li {
-    line-height: 1.75;
-    list-style: none;
-}
-
-nav form li {
-    line-height: 0;
-}
-
-nav ul {
-    padding-left: 0em;
-}
-
-nav a {
-    color: black;
-    text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {

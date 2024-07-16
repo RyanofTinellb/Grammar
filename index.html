@@ -6,10 +6,10 @@
 <link rel="stylesheet" type="text/css" href="data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="data/assets/favicon.png">
 <script src="data/scripts/search.js"></script></head>
-<body><div class="flex"><nav class="main"><details open><summary> Menu </summary>
-<ul><li><a href="">A Grammar of the Tinellbian Languages</a></li>
-<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
-<li class="search"><button>Search</button></li></form></div><div class="nav-links"><ul><li><a href="languages/highlulani/index.html">High Lulani</a></li><ul><li><a href="languages/highlulani/phonology/index.html">Phonology</a></li><li><a href="languages/highlulani/orthography/index.html">Orthography</a></li><li><a href="languages/highlulani/morphology/index.html">Morphology</a></li><li><a href="languages/highlulani/syntax/index.html">Syntax</a></li><li><a href="languages/highlulani/apocrypha/index.html">Apocrypha</a></li><li><a href="languages/highlulani/sampletexts/index.html">Sample Texts</a></li></ul><li><a href="languages/demoticlulani/index.html">Demotic Lulani</a></li><ul><li><a href="languages/demoticlulani/phonology.html">Phonology</a></li><li><a href="languages/demoticlulani/sampletexts.html">Sample Texts</a></li><li><a href="languages/demoticlulani/appendices/index.html">Appendices</a></li></ul></ul></div></ul></details></nav>
+<body><div class="flex"><nav class="main"><details id="menu"><summary> Menu </summary>
+<p><a href="">A Grammar of the Tinellbian Languages</a></p>
+<div class="javascript"><form id="search"><p><input type="text" name="term"></p>
+<p><button>Search</button></p></form></div><div class="nav-links"><ul><li><a href="languages/highlulani/index.html">High Lulani</a></li><ul><li><a href="languages/highlulani/phonology/index.html">Phonology</a></li><li><a href="languages/highlulani/orthography/index.html">Orthography</a></li><li><a href="languages/highlulani/morphology/index.html">Morphology</a></li><li><a href="languages/highlulani/syntax/index.html">Syntax</a></li><li><a href="languages/highlulani/apocrypha/index.html">Apocrypha</a></li><li><a href="languages/highlulani/sampletexts/index.html">Sample Texts</a></li></ul><li><a href="languages/demoticlulani/index.html">Demotic Lulani</a></li><ul><li><a href="languages/demoticlulani/phonology.html">Phonology</a></li><li><a href="languages/demoticlulani/sampletexts.html">Sample Texts</a></li><li><a href="languages/demoticlulani/appendices/index.html">Appendices</a></li></ul></ul></div></details></nav>
 
 <div class="main-page"><nav class="mini"><p><a href="http://www.tinellb.com">↑ Back to Main</a></p>
 <p><a href="languages/highlulani/index.html">Next Page →</a></p></nav>
@@ -29,5 +29,8 @@
 </footer>
 <p><script src="data/scripts/parse_href.js"></script></p>
 <script>
+ let mql = window.matchMedia("(min-width: 800px)"); 
+ let details = document.getElementById("menu"); 
+ if(mql.matches) { details.open = true;} 
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>
