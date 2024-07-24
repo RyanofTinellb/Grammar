@@ -5,7 +5,9 @@ entries:
 - - A Grammar of the Tinellbian Languages
   - Languages
   - High Lulani
-  - Phonology
+  - Syntax
+  - Dependent Clauses
+  - Relative Clauses
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime

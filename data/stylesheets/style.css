@@ -150,6 +150,7 @@ main details.folding p,main details.folding + p {
 }
 
 main details.folding + p {
+    margin-left: 5%;
     padding-left: 0;
 }
 

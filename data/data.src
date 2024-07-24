@@ -394,7 +394,7 @@ entries:
                       - “your step-daughter”</wordlist>
                       - Other kinship terms began as nuclear family names, but were thence extended across a generation. So <dictionary@x-tlb-hl>kaqqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっげ</tinellbian@x-tlb-hl> <gloss>elder sibling</gloss> and <dictionary@x-tlb-hl>kica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きや</tinellbian@x-tlb-hl> <gloss>younger sibling</gloss> can also be applied to cousins.
                     Numbers:
-                      date: '2024-05-19'
+                      date: '2024-07-22'
                       position: '27.3'
                       text:
                       - Numerals and mathematical operations are particles.
@@ -410,7 +410,7 @@ entries:
                       - ' <dictionary@x-tlb-hl>guhi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぐひ</tinellbian@x-tlb-hl> | <gloss>5</gloss>'
                       - ' <dictionary@x-tlb-hl>’usi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>うせ</tinellbian@x-tlb-hl> | <gloss>6</gloss>'
                       - ' <dictionary@x-tlb-hl>salumi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>さをみ</tinellbian@x-tlb-hl> | <gloss>7</gloss></table>'
-                      - <table> (<dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> | <overline><gloss>0</gloss></overline>)
+                      - <table> (<dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> | <gloss><overline>0</overline></gloss>)
                       - ' <dictionary@x-tlb-hl>mullu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>むっを</tinellbian@x-tlb-hl> | <overline><gloss>1</gloss></overline>'
                       - ' <dictionary@x-tlb-hl>kannu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>かっぬ</tinellbian@x-tlb-hl> | <overline><gloss>2</gloss></overline>'
                       - ' <dictionary@x-tlb-hl>bila</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>びわ</tinellbian@x-tlb-hl> | <overline><gloss>3</gloss></overline>'
@@ -3448,10 +3448,9 @@ entries:
                     Dependent Clauses:
                       children:
                         Relative Clauses:
-                          date: '2024-05-18'
+                          date: '2024-07-24'
                           position: '1.0'
                           text:
-                          - <h2>Relative Clauses</h2>
                           - Relative clauses specify the noun by describing it. They begin with the relativiser <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しく</tinellbian@x-tlb-hl> and are placed before the modified noun, The auxiliary is not optional, and is given a rising tone. Only subjects can be relativised. Other cases must be promoted to subject.
                           - <wordlist><folding><folded><transliteration@x-tlb-hl>Xiku lu’i kimilli pi lulani</transliteration@x-tlb-hl></folded>
                           - <tinellbian@x-tlb-hl>しくをいきみっえぴをわに</tinellbian@x-tlb-hl>
