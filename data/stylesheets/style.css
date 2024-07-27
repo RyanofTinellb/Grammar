@@ -146,7 +146,7 @@ main details.folding {
 }
 
 main details.folding p,main details.folding + p {
-    line-height: 1.5;
+    line-height: 1.7;
 }
 
 main details.folding + p {
@@ -156,6 +156,19 @@ main details.folding + p {
 
 main details.folding summary.folding {
     margin-left: 0;
+}
+
+main .interlinear details.folding {
+    margin-top: 1.7lh;
+}
+
+main .interlinear details.folding + p {
+    margin-left: 0;
+}
+
+main .interlinear .paragraph {
+    margin-bottom: 1.7lh;
+    font-family: georgia, serif;
 }
 
 main details.example {
@@ -197,11 +210,6 @@ main div.left-columns table th:first-child {
     text-align: center;
 }
 
-main .paragraph {
-    padding-top: 1em;
-    font-family: georgia, serif;
-}
-
 main .stars p {
     text-align: center;
     margin-top: 1em;
@@ -229,69 +237,6 @@ main .ipa strong {
     font-size: inherit;
     font-weight: normal;
     color: red;
-}
-
-main form.choices {
-    text-align: center;
-    margin: 1em;
-}
-
-input#english:checked ~ .paragraph {
-    padding-top: 0.5rem;
-    text-align: justify;
-}
-
-input#english:checked ~ .paragraph details.folding {
-    display: none;
-}
-
-input#english:checked ~ .paragraph p {
-    display: inline;
-}
-
-input#english:checked ~ .paragraph p:nth-child(2) {
-    margin-left: 1.5rem;
-}
-
-input#transliteration:checked ~ .paragraph details.folding {
-    display: inline;
-}
-
-input#transliteration:checked ~ .paragraph details.folding summary.folding {
-    display: inline;
-}
-
-input#transliteration:checked ~ .paragraph details.folding summary.folding .transliteration {
-    font-weight: normal;
-}
-
-input#transliteration:checked ~ .paragraph details.folding ~ p {
-    display: none;
-}
-
-input#transliteration:checked ~ .paragraph details.folding p {
-    display: none;
-}
-
-input#tinellbian:checked ~ .paragraph {
-    text-align: right;
-    margin-right: 10%;
-}
-
-input#tinellbian:checked ~ .paragraph details.folding ~ p {
-    display: none;
-}
-
-input#tinellbian:checked ~ .paragraph details summary {
-    display: none;
-}
-
-input#tinellbian:checked ~ .paragraph details p {
-    display: none;
-}
-
-input#tinellbian:checked ~ .paragraph details p:nth-child(2) {
-    display: inline;
 }
 
 @media screen and (max-width: 800px) {

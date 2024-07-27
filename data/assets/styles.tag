@@ -16,22 +16,6 @@ abbr:
 block:
   type: div
   key: Alt-B
-choice:
-  type: complete
-  open: <input class="version" type="radio" name="version"
-  pipe: '>'
-  close: ''
-  param: id="$url(text)$"|$node$
-choice-selected:
-  type: complete
-  open: <input checked class="version" type="radio" name="version"
-  pipe: '>'
-  close: ''
-  param: id="$url(text)$"|$node$
-choices:
-  type: line
-  open: <form class="choices">
-  close: </form>
 columns:
   type: div
 desktop:
@@ -177,9 +161,14 @@ overline:
     underline: true
 paragraph:
   type: div
+  open: <hr><div class="paragraph">
   start: <p>
   end: </p>
   rank: 150
+script:
+  type: line
+  props:
+    background: '#cc3'
 season:
   open: <dfn class="season" title="
   pipe: '">'
