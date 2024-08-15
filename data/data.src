@@ -7,6 +7,7 @@ directory:
       - - Vowels
       - - Phonotactics
       - - Suprasegmentals
+      - - Pronunciation
     - - Orthography
       - - Spelling Syllabary
       - - Tactile Syllabary
@@ -2099,6 +2100,12 @@ entries:
                       position: '1.0'
                       text:
                       - Phonemically, all syllables are CV, that is, one consonant followed by one vowel. Word-internal consonants can be geminated. The only consonant clusters are geminate consonants, and there are no phonemic vowel clusters or long vowels.
+                    Pronunciation:
+                      date: '2024-08-02'
+                      text:
+                      - <table>c2 |h labial |h alveolar |h retroflex |h palatal |h velar |h glottal</table>
+                      - <textarea>∅ > ʰ / [-voice]_</textarea>
+                      - <internal-script>/data/scripts/sca.js</internal-script>
                     Suprasegmentals:
                       date: '2024-05-14'
                       position: '1.0'

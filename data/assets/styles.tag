@@ -128,6 +128,14 @@ internal:
   props:
     colour: blue
     underline: true
+internal-script:
+  props:
+    background: '#cf6'
+  type: block
+  open: '<script src='
+  start: '"'
+  end: '"'
+  close: '></script>'
 ipa:
   props:
     font: lucida sans unicode
@@ -197,6 +205,7 @@ symbol:
     italics: true
 table:
   type: table
+textarea: {}
 tbody:
   type: block
 thead:
