@@ -15,7 +15,7 @@ abbr:
   key: Alt-G
 block:
   type: div
-  key: Alt-B
+  key: Alt-b
 columns:
   type: div
 desktop:
@@ -27,6 +27,8 @@ dictionary:
   props:
     colour: '#0000ff'
     underline: true
+    off-key: space
+    ime: transliteration
   type: anchor
   param: http://dictionary.tinellb.com/lex/$text$.html#$url(lookup:lang)$|$upper(text)$
   language: true
@@ -66,12 +68,14 @@ folding-open:
   close: </details>
   key: Alt-F
   props:
-    background: '#ff99ff'
+    background: '#f9f'
     off_key: Return
 gloss:
   type: span
+  key: Alt-g
   props:
     italics: true
+    off-key: Return
 grammar-link:
   props:
     colour: '#000099'
@@ -81,9 +85,11 @@ grammar-link:
   language: true
 h2:
   type: heading
+  key: KeyPress-2
   props:
     bold: true
     size: 150
+    off-key: Return
 h3:
   type: heading
   props:
@@ -114,6 +120,10 @@ highlight:
   type: span
   props:
     background: yellow
+i:
+  props:
+    italics: true
+  key: i
 image:
   open: <img src="
   close: '">'
@@ -214,6 +224,7 @@ tinellbian:
   props:
     font: tinellbian
     ime: tinellbian
+    off-key: space
   language: true
   keep_tags: true
   type: span

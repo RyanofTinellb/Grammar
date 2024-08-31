@@ -21,6 +21,8 @@ directory:
       - - Auxiliaries
       - - Adpositions
       - - Suffixes
+        - - Cisclass
+        - - Transclass
         - - Determiners
       - - Deixis
         - - Personal Pro-forms
@@ -527,7 +529,7 @@ entries:
                 Morphology:
                   children:
                     Adpositions:
-                      date: '2024-05-18'
+                      date: '2024-08-30'
                       position: '116.32'
                       text:
                       - Adpositions are a closed class. They can be used in three different ways.
@@ -560,7 +562,8 @@ entries:
                       - <tinellbian@x-tlb-hl> ぐすあで</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>gusu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl>
                       - <gloss>person-near</gloss>
-                      - </folding>“nearby people”</wordlist>
+                      - '<gloss>lit: “nearby people”</gloss></folding>'
+                      - “neighbours”</wordlist>
                       - 'and compound verbs:'
                       - <wordlist><folding><folded><transliteration@x-tlb-hl>jannigibi</transliteration@x-tlb-hl></folded>
                       - <tinellbian@x-tlb-hl> ぢっにぎび</tinellbian@x-tlb-hl>
@@ -1265,6 +1268,83 @@ entries:
                       - the <internal>../../apocrypha/comparatives.html#superlative|superlative</internal> marker.</ul>
                     Suffixes:
                       children:
+                        Cisclass:
+                          date: '2024-09-01'
+                          text:
+                          - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
+                          - The augmentative <dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・あく</tinellbian@x-tlb-hl> is most often attached to nouns to reference something large or important. It is rarely used for people.
+                          - <wordlist><dictionary@x-tlb-hl>tissaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっさく</tinellbian@x-tlb-hl> <gloss>wind</gloss>
+                          - <dictionary@x-tlb-hl>’isilaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いせわく</tinellbian@x-tlb-hl> <gloss>depression</gloss></wordlist>
+                          - The diminutive <dictionary@x-tlb-hl>-ini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・いに</tinellbian@x-tlb-hl> is used to form words which reference something small or unimportant. When used with animate nouns, it creates a word for the young of non-sapient creatures. However, with sapient creatures, this word is obscene.
+                          - <wordlist><block><dictionary@x-tlb-hl>’ahatini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あはてに</tinellbian@x-tlb-hl> <gloss>contentment</gloss>
+                          - <dictionary@x-tlb-hl>tissini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっせに</tinellbian@x-tlb-hl> <gloss>breeze</gloss>
+                          - <dictionary@x-tlb-hl>ranini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らにに</tinellbian@x-tlb-hl> <gloss>potato chips</gloss></block>
+                          - <block><dictionary@x-tlb-hl>bi’ini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>びいに</tinellbian@x-tlb-hl> <gloss>to itch</gloss></block></wordlist>
+                          - The honorific <dictionary@x-tlb-hl>-fi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl> confers a nuance of sacredness upon a base word.
+                          - <wordlist><dictionary@x-tlb-hl>karafi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>からべ</tinellbian@x-tlb-hl> <gloss>sacredness</gloss>
+                          - <dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl><strong>fi</strong> <tinellbian@x-tlb-hl>をわにべ</tinellbian@x-tlb-hl> <gloss>great queen</gloss></wordlist>
+                          - The pair <dictionary@x-tlb-hl>-tu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とい</tinellbian@x-tlb-hl> and <dictionary@x-tlb-hl>-da</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> are used to highlight the positive and negative aspects of a word, respectively.
+                          - <wordlist><dictionary@x-tlb-hl>dasatu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださとい</tinellbian@x-tlb-hl> <gloss>passion</gloss> / <dictionary@x-tlb-hl>dasada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださだ</tinellbian@x-tlb-hl> <gloss>anger</gloss>
+                          - <dictionary@x-tlb-hl>ta’itu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいとい</tinellbian@x-tlb-hl> <gloss>aroma</gloss> / <dictionary@x-tlb-hl>ta’ida</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいだ</tinellbian@x-tlb-hl> <gloss>stink</gloss></wordlist>
+                          - <h2>Nominal suffixes</h2>
+                          - These derive nouns from other nouns.
+                          - <desktop><table><thead>| inanimate base | abstract base</thead>
+                          - <tbody>h animate | <multiline><dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り。さ</tinellbian@x-tlb-hl></multiline>
+                          - h inanimate || <multiline><dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl></multiline>
+                          - h abstract | <multiline><dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> |</multiline></tbody></table></desktop>
+                          - <mobile>inanimate
+                          - '<ul> → animate: <dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl>'
+                          - ' → abstract: <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl></ul>'
+                          - abstract
+                          - '<ul> → animate: <dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl>'
+                          - ' → inanimate: <dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl></ul></mobile>'
+                          - The above table shows the suffixes used for deriving nouns between different animacy classes.
+                          - An animate noun is derived from an inanimate noun by the suffix  <dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl>.
+                          - <wordlist><dictionary@x-tlb-hl>tisakarra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てさかっら</tinellbian@x-tlb-hl> <gloss>townsperson</gloss></wordlist>
+                          - 'Both <dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> and <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> derive an animate noun from an abstract noun, however, these are not predictable. For instance, note the difference between <dictionary@x-tlb-hl>diss·sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>でっすさ</tinellbian@x-tlb-hl> <gloss>youth</gloss> and <dictionary@x-tlb-hl>dissuri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>でっすり</tinellbian@x-tlb-hl> <gloss>stranger</gloss>. Other examples are:'
+                          - <wordlist><block><dictionary@x-tlb-hl>pucasa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぷやさ</tinellbian@x-tlb-hl> <gloss>optimist</gloss>
+                          - <dictionary@x-tlb-hl>sasa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ささ</tinellbian@x-tlb-hl> <gloss>introvert</gloss>
+                          - <dictionary@x-tlb-hl>dattusa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だっとさ</tinellbian@x-tlb-hl> <gloss>god</gloss>
+                          - <dictionary@x-tlb-hl>mulisa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むえさ</tinellbian@x-tlb-hl> <gloss>fool</gloss>
+                          - <dictionary@x-tlb-hl>luxirasa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をしらさ</tinellbian@x-tlb-hl> <gloss>twin</gloss>
+                          - <dictionary@x-tlb-hl>tuhhisa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とっひさ</tinellbian@x-tlb-hl> <gloss>farmer</gloss></block>
+                          - <block><dictionary@x-tlb-hl>’axasiri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あざせり</tinellbian@x-tlb-hl> <gloss>adult</gloss>
+                          - <dictionary@x-tlb-hl>’asilari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あせわり</tinellbian@x-tlb-hl> <gloss>friend</gloss></block></wordlist>
+                          - The <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> suffix also denotes people from a particular place.
+                          - <wordlist><dictionary@x-tlb-hl>Tinalli</dictionary@x-tlb-hl>ri <tinellbian@x-tlb-hl>てなっえり</tinellbian@x-tlb-hl> <gloss>Tinellbian</gloss></wordlist>
+                          - The suffix <dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl> derives an inanimate noun from something abstract, and <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> does the opposite.
+                          - <wordlist><block><dictionary@x-tlb-hl>sinnadi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せっなで</tinellbian@x-tlb-hl> <gloss>book</gloss></block>
+                          - <block><dictionary@x-tlb-hl>ru’ihaja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るいはぢ</tinellbian@x-tlb-hl> <gloss>history</gloss></block></wordlist>
+                          - The suffix <dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> derives nouns which are somehow distinct from their stem.
+                          - <wordlist><dictionary@x-tlb-hl>daruli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だるえ</tinellbian@x-tlb-hl> <gloss>wrong way</gloss>
+                          - <dictionary@x-tlb-hl>gusuli</dictionary@x-tlb-hl> <gloss>non-Guozu person</gloss></wordlist>
+                          - The names of parts of the body are derived using <dictionary@x-tlb-hl>-kku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っく</tinellbian@x-tlb-hl> on either nouns or verbs.
+                          - <wordlist><block><dictionary@x-tlb-hl>’itikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっく</tinellbian@x-tlb-hl> <gloss>breast</gloss>
+                          - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss></block>
+                          - <block><dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss></block></wordlist>
+                          - The animate giver of the inanimate or abstract base is denoted by <dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>.
+                          - <wordlist><dictionary@x-tlb-hl>’aggami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police officer</gloss> / <gloss>law giver</gloss>
+                          - <dictionary@x-tlb-hl>Sa’imi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss> / <gloss>light giver</gloss></wordlist>
+                          - <h3>Quasi-suffixes</h3>
+                          - Some nouns are so generic when forming compounds that they tend to end up acting as suffixes.
+                          - <wordlist><block><dictionary@x-tlb-hl>tihutuja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てほとぢ</tinellbian@x-tlb-hl>  <gloss>home</gloss></block>
+                          - <block><dictionary@x-tlb-hl>nuhubatu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほばと</tinellbian@x-tlb-hl> <gloss>book</gloss></block>
+                          - <block><dictionary@x-tlb-hl>pannaxa’uxxi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっなざうっし</tinellbian@x-tlb-hl> <gloss>army</gloss></block></wordlist>
+                          - <h2>Verbal suffixes</h2>
+                          - These are only applied to verbs.
+                          - The suffix <dictionary@x-tlb-hl>-ni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> is used to derive inceptive verbs.
+                          - <wordlist><dictionary@x-tlb-hl>ducini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どちに</tinellbian@x-tlb-hl> <gloss>to receive</gloss></wordlist>
+                          - The suffix <dictionary@x-tlb-hl>-ulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・うを</tinellbian@x-tlb-hl> denotes reversal of an action, and can only be applied to stem verbs.
+                          - <wordlist><dictionary@x-tlb-hl>lulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をを</tinellbian@x-tlb-hl> <gloss>to undo</gloss>
+                          - <dictionary@x-tlb-hl>jannulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっぬを</tinellbian@x-tlb-hl> <gloss>to slow down</gloss>
+                          - <dictionary@x-tlb-hl>turulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とるを</tinellbian@x-tlb-hl> <gloss>to open</gloss>
+                          - <dictionary@x-tlb-hl>ju’ulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ようを</tinellbian@x-tlb-hl> <gloss>to unlink</gloss></wordlist>
+                          - The augmentative <dictionary@x-tlb-hl>-ss·su</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っさす</tinellbian@x-tlb-hl> is used specifically for verbs.
+                          - <wordlist><dictionary@x-tlb-hl>bi’u</dictionary@x-tlb-hl>ss·su <tinellbian@x-tlb-hl>びうっさす</tinellbian@x-tlb-hl> <gloss>to really hurt</gloss></wordlist>
+                          - <h2>Auxiliary Infix</h2>
+                          - The infix <dictionary@x-tlb-hl>-ar-</dictionary@x-tlb-hl> is placed before the final vowel of auxiliaries, and denotes an end to the action described by the sentence.
+                          - <wordlist><dictionary@x-tlb-hl>lanaru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl> <gloss>will finish doing</gloss>
+                          - <dictionary@x-tlb-hl>nagari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl> <gloss>will finish being</gloss></wordlist>
                         Determiners:
                           date: '2024-07-27'
                           position: '37.7'
@@ -1302,147 +1382,86 @@ entries:
                           - <dictionary@x-tlb-hl>-hita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひた</tinellbian@x-tlb-hl> <gloss>opposite</gloss>
                           - <dictionary@x-tlb-hl>-ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>used to be</gloss>
                           - <dictionary@x-tlb-hl>-na’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なう</tinellbian@x-tlb-hl> <gloss>will be</gloss></wordlist>
-                      date: '2024-05-18'
+                        Transclass:
+                          date: '2024-09-01'
+                          text:
+                          - These tend to move words from one part of speech to another.
+                          - <h2>Nominalisation</h2>
+                          - These derive a noun from another part of speech, most often a verb.
+                          - The suffix <dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl> derives generic nouns from numerals or alienable genitive pronouns.
+                          - <wordlist><block><dictionary@x-tlb-hl>disiqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>でせげ</tinellbian@x-tlb-hl> <gloss>hers</gloss></block>
+                          - <block><dictionary@x-tlb-hl>nuru</dictionary@x-tlb-hl>qa <tinellbian@x-tlb-hl>ぬるげ</tinellbian@x-tlb-hl> <gloss>the four of them</gloss></block></wordlist>
+                          - The suffix <dictionary@x-tlb-hl>-muka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むか</tinellbian@x-tlb-hl> is used with prepositional phrases.
+                          - <wordlist><dictionary@x-tlb-hl>disinnamuka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>でせっなむか</tinellbian@x-tlb-hl> <gloss>prologue</gloss></wordlist>
+                          - Other suffixes in this group are divided into animacy classes.
+                          - <h3>Abstract</h3>
+                          - The productive general suffix <dictionary@x-tlb-hl>-’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl> derives abstract nouns.
+                          - <wordlist><dictionary@x-tlb-hl>cura’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ゆらあ</tinellbian@x-tlb-hl> <gloss>time</gloss>
+                          - <dictionary@x-tlb-hl>qacca’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げっやあ</tinellbian@x-tlb-hl> <gloss>choice</gloss>
+                          - <dictionary@x-tlb-hl>pa’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱあ</tinellbian@x-tlb-hl> <gloss>thought</gloss></wordlist>
+                          - The suffix <dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl> forms gerunds.
+                          - <wordlist><dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>だせる</tinellbian@x-tlb-hl> <gloss>eating</gloss>
+                          - <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>ぢっにる</tinellbian@x-tlb-hl> <gloss>moving</gloss>
+                          - <dictionary@x-tlb-hl>huba</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>ほばる</tinellbian@x-tlb-hl> <gloss>breathing</gloss></wordlist>
+                          - The suffix <dictionary@x-tlb-hl>-ci</dictionary@x-tlb-hl> is applied to <grammar-link@x-tlb-hl>adjectival verbs</grammar-link@x-tlb-hl>. This includes <grammar-link@x-tlb-hl>chromatic verbs</grammar-link@x-tlb-hl>, whence come the name for colours.
+                          - <wordlist><dictionary@x-tlb-hl>nama</dictionary@x-tlb-hl>ci <tinellbian@x-tlb-hl>なまち</tinellbian@x-tlb-hl> <gloss>weakness</gloss>
+                          - <dictionary@x-tlb-hl>kiʔaci</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きっあち</tinellbian@x-tlb-hl> <gloss>white</gloss></wordlist>
+                          - Application of <dictionary@x-tlb-hl>-ppa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っぱ</tinellbian@x-tlb-hl> derives terms for times and occasions.
+                          - <wordlist><dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl>ppa <tinellbian@x-tlb-hl>だせっぱ</tinellbian@x-tlb-hl> <gloss>mealtime</gloss>
+                          - <dictionary@x-tlb-hl>siku</dictionary@x-tlb-hl>ppa <tinellbian@x-tlb-hl>せくっぱ</tinellbian@x-tlb-hl> <gloss>funeral</gloss></wordlist>
+                          - The suffix <dictionary@x-tlb-hl>-ahi</dictionary@x-tlb-hl> is used with adverbs.
+                          - <wordlist><dictionary@x-tlb-hl>nufirahi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬべらひ</tinellbian@x-tlb-hl> <gloss>expectation</gloss>
+                          - </wordlist>
+                          - <h3>Inanimate</h3>
+                          - The agentive suffix <dictionary@x-tlb-hl>-ki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> is applied to verbs.
+                          - <wordlist><dictionary@x-tlb-hl>malaki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まわき</tinellbian@x-tlb-hl> <gloss>mirror</gloss>
+                          - <dictionary@x-tlb-hl>lu’iki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss>
+                          - <dictionary@x-tlb-hl>bumaki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶまき</tinellbian@x-tlb-hl> <gloss>screen</gloss>
+                          - </wordlist>
+                          - The patientive suffix <dictionary@x-tlb-hl>-du</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ど</tinellbian@x-tlb-hl> is applied to stem verbs.
+                          - <wordlist><dictionary@x-tlb-hl>dasidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせど</tinellbian@x-tlb-hl> <gloss>food</gloss>
+                          - <dictionary@x-tlb-hl>maladu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まわど</tinellbian@x-tlb-hl> <gloss>reflection</gloss>
+                          - <dictionary@x-tlb-hl>kassudu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっすど</tinellbian@x-tlb-hl>  <gloss>trade goods</gloss>
+                          - </wordlist>
+                          - The instrumental suffix <dictionary@x-tlb-hl>-ffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っべ</tinellbian@x-tlb-hl> is applied to a verb.
+                          - <wordlist><dictionary@x-tlb-hl>dasiffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっべ</tinellbian@x-tlb-hl> <gloss>cutlery, tools for eating</gloss>
+                          - <dictionary@x-tlb-hl>sikuffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せくっべ</tinellbian@x-tlb-hl> <gloss>spear, tool for killing</gloss>
+                          - </wordlist>
+                          - The suffix <dictionary@x-tlb-hl>-kku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っく</tinellbian@x-tlb-hl> derives names for parts of the body from verbs or nouns.
+                          - <wordlist><dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss>
+                          - <dictionary@x-tlb-hl>’itikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっく</tinellbian@x-tlb-hl> <gloss>breast</gloss>
+                          - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss>
+                          - </wordlist>
+                          - When applied to a number, <dictionary@x-tlb-hl>-ssiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っせじ</tinellbian@x-tlb-hl> gives rise to the names of shapes.
+                          - <wordlist><dictionary@x-tlb-hl>kifissiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きべっせじ</tinellbian@x-tlb-hl> <gloss>triangle</gloss>
+                          - <dictionary@x-tlb-hl>nurussiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬるっせじ</tinellbian@x-tlb-hl> <gloss>quadrilateral</gloss>
+                          - </wordlist>
+                          - <h3>Animate</h3>
+                          - There are three suffixes for deriving animate nouns from verbs. The suffix <dictionary@x-tlb-hl>-la’i</dictionary@x-tlb-hl> is used with intransitive verbs, while <dictionary@x-tlb-hl>-ba</dictionary@x-tlb-hl> and <dictionary@x-tlb-hl>-pu’a</dictionary@x-tlb-hl> derive generic agents and patients respectively.
+                          - <wordlist><block><dictionary@x-tlb-hl>narala’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ならわい</tinellbian@x-tlb-hl> <gloss>sleeper</gloss></block>
+                          - <block><dictionary@x-tlb-hl>’ussaba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うっさば</tinellbian@x-tlb-hl> <gloss>follower</gloss>
+                          - <dictionary@x-tlb-hl>caba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やば</tinellbian@x-tlb-hl> <gloss>helper</gloss>
+                          - <dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひすば</tinellbian@x-tlb-hl> <gloss>administrator</gloss></block>
+                          - <block><dictionary@x-tlb-hl>ju’ipu’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>よいぷあ</tinellbian@x-tlb-hl> <gloss>group</gloss>
+                          - <dictionary@x-tlb-hl>lu’ipu’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をいぷあ</tinellbian@x-tlb-hl> <gloss>lover</gloss>
+                          - <dictionary@x-tlb-hl>cikkipu’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ちっきぷあ</tinellbian@x-tlb-hl> <gloss>telepath</gloss></block></wordlist>
+                          - <h2>Determiners</h2>
+                          - When applied to an abstract noun, <dictionary@x-tlb-hl>-tu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>と</tinellbian@x-tlb-hl> forms <grammar-link@x-tlb-hl>determiners</grammar-link@x-tlb-hl>.
+                          - <wordlist><dictionary@x-tlb-hl>-fi’atu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べあと</tinellbian@x-tlb-hl> <gloss>particular</gloss>
+                          - <dictionary@x-tlb-hl>sabutu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さぶと</tinellbian@x-tlb-hl> <gloss>different</gloss>
+                          - <dictionary@x-tlb-hl>-mimutu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みむと</tinellbian@x-tlb-hl> <gloss>some</gloss></wordlist>
+                          - <h2>Interjections</h2>
+                          - The suffix <dictionary@x-tlb-hl>-a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、あ</tinellbian@x-tlb-hl> forms interjections from some nouns and verbs.
+                          - <wordlist><dictionary@x-tlb-hl>mica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みや</tinellbian@x-tlb-hl> <gloss>hello</gloss>
+                          - <dictionary@x-tlb-hl>hacca</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はっや</tinellbian@x-tlb-hl> <gloss>good morning</gloss>
+                          - <dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>good night</gloss>
+                          - <dictionary@x-tlb-hl>hira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひた</tinellbian@x-tlb-hl> <gloss>please</gloss>
+                          - <dictionary@x-tlb-hl>kica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きや</tinellbian@x-tlb-hl> <gloss>pardon?</gloss></wordlist>
+                      date: '2024-09-01'
                       position: '1.177'
                       text:
-                      - Suffixes can be used to derive new word from existing vocabulary. A suffix beginning with a vowel replaces the final vowel of the base.
-                      - <h2>Cisclass Suffixes</h2>
-                      - These tend to derive words within a class, <gloss>i.e.:</gloss> a noun from a noun, or a verb from a verb.
-                      - The augmentative <dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・あく</tinellbian@x-tlb-hl> is most often attached to nouns to reference something large or important. It is rarely used for people.
-                      - <wordlist><dictionary@x-tlb-hl>tissaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっさく</tinellbian@x-tlb-hl> <gloss>wind</gloss>
-                      - <dictionary@x-tlb-hl>’isilaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いせわく</tinellbian@x-tlb-hl> <gloss>depression</gloss></wordlist>
-                      - The diminutive <dictionary@x-tlb-hl>-ini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・いに</tinellbian@x-tlb-hl> is used to form words which reference something small or unimportant. When used with animate nouns, it creates a word for the young of non-sapient creatures. However, with sapient creatures, this word is obscene.
-                      - <wordlist><block><dictionary@x-tlb-hl>’ahatini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あはてに</tinellbian@x-tlb-hl> <gloss>contentment</gloss>
-                      - <dictionary@x-tlb-hl>tissini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっせに</tinellbian@x-tlb-hl> <gloss>breeze</gloss>
-                      - <dictionary@x-tlb-hl>ranini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らにに</tinellbian@x-tlb-hl> <gloss>potato chips</gloss></block>
-                      - <block><dictionary@x-tlb-hl>bi’ini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>びいに</tinellbian@x-tlb-hl> <gloss>to itch</gloss></block></wordlist>
-                      - The honorific <dictionary@x-tlb-hl>-fi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl> confers a nuance of sacredness upon a base word.
-                      - <wordlist><dictionary@x-tlb-hl>karafi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>からべ</tinellbian@x-tlb-hl> <gloss>sacredness</gloss>
-                      - <dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl><strong>fi</strong> <tinellbian@x-tlb-hl>をわにべ</tinellbian@x-tlb-hl> <gloss>great queen</gloss></wordlist>
-                      - The pair <dictionary@x-tlb-hl>-tu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とい</tinellbian@x-tlb-hl> and <dictionary@x-tlb-hl>-da</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> are used to highlight the positive and negative aspects of a word, respectively.
-                      - <wordlist><dictionary@x-tlb-hl>dasatu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださとい</tinellbian@x-tlb-hl> <gloss>passion</gloss> / <dictionary@x-tlb-hl>dasada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださだ</tinellbian@x-tlb-hl> <gloss>anger</gloss>
-                      - <dictionary@x-tlb-hl>ta’itu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいとい</tinellbian@x-tlb-hl> <gloss>aroma</gloss> / <dictionary@x-tlb-hl>ta’ida</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいだ</tinellbian@x-tlb-hl> <gloss>stink</gloss></wordlist>
-                      - <h3>Nominal suffixes</h3>
-                      - These derive nouns from other nouns.
-                      - <desktop><table><thead>| inanimate base | abstract base</thead>
-                      - <tbody>h animate | <multiline><dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り。さ</tinellbian@x-tlb-hl></multiline>
-                      - h inanimate || <multiline><dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl></multiline>
-                      - h abstract | <multiline><dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> |</multiline></tbody></table></desktop>
-                      - <mobile>inanimate
-                      - '<ul> → animate: <dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl>'
-                      - ' → abstract: <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl></ul>'
-                      - abstract
-                      - '<ul> → animate: <dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl>'
-                      - ' → inanimate: <dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl></ul></mobile>'
-                      - The above table shows the suffixes used for deriving nouns between different animacy classes.
-                      - An animate noun is derived from an inanimate noun by the suffix  <dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl>.
-                      - <wordlist><dictionary@x-tlb-hl>tisakarra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てさかっら</tinellbian@x-tlb-hl> <gloss>townsperson</gloss></wordlist>
-                      - 'Both <dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> and <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> derive an animate noun from an abstract noun, however, these are not predictable. For instance, note the difference between <dictionary@x-tlb-hl>diss·sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>でっすさ</tinellbian@x-tlb-hl> <gloss>youth</gloss> and <dictionary@x-tlb-hl>dissuri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>でっすり</tinellbian@x-tlb-hl> <gloss>stranger</gloss>. Other examples are:'
-                      - <wordlist><block><dictionary@x-tlb-hl>pucasa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぷやさ</tinellbian@x-tlb-hl> <gloss>optimist</gloss>
-                      - <dictionary@x-tlb-hl>sasa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ささ</tinellbian@x-tlb-hl> <gloss>introvert</gloss>
-                      - <dictionary@x-tlb-hl>dattusa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だっとさ</tinellbian@x-tlb-hl> <gloss>god</gloss>
-                      - <dictionary@x-tlb-hl>mulisa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むえさ</tinellbian@x-tlb-hl> <gloss>fool</gloss>
-                      - <dictionary@x-tlb-hl>luxirasa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をしらさ</tinellbian@x-tlb-hl> <gloss>twin</gloss>
-                      - <dictionary@x-tlb-hl>tuhhisa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とっひさ</tinellbian@x-tlb-hl> <gloss>farmer</gloss></block>
-                      - <block><dictionary@x-tlb-hl>’axasiri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あざせり</tinellbian@x-tlb-hl> <gloss>adult</gloss>
-                      - <dictionary@x-tlb-hl>’asilari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あせわり</tinellbian@x-tlb-hl> <gloss>friend</gloss></block></wordlist>
-                      - The <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> suffix also denotes people from a particular place.
-                      - <wordlist><dictionary@x-tlb-hl>Tinalli</dictionary@x-tlb-hl>ri <tinellbian@x-tlb-hl>てなっえり</tinellbian@x-tlb-hl> <gloss>Tinellbian</gloss></wordlist>
-                      - The suffix <dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl> derives an inanimate noun from something abstract, and <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> does the opposite.
-                      - <wordlist><block><dictionary@x-tlb-hl>sinnadi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せっなで</tinellbian@x-tlb-hl> <gloss>book</gloss></block>
-                      - <block><dictionary@x-tlb-hl>ru’ihaja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るいはぢ</tinellbian@x-tlb-hl> <gloss>history</gloss></block></wordlist>
-                      - The suffix <dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> derives nouns which are somehow distinct from their stem.
-                      - <wordlist><dictionary@x-tlb-hl>daruli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だるえ</tinellbian@x-tlb-hl> <gloss>wrong way</gloss>
-                      - <dictionary@x-tlb-hl>gusuli</dictionary@x-tlb-hl> <gloss>non-Guozu person</gloss></wordlist>
-                      - The names of parts of the body are derived using <dictionary@x-tlb-hl>-kku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っく</tinellbian@x-tlb-hl> on either nouns or verbs.
-                      - <wordlist><block><dictionary@x-tlb-hl>’itikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっく</tinellbian@x-tlb-hl> <gloss>breast</gloss>
-                      - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss></block>
-                      - <block><dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss></block></wordlist>
-                      - The animate giver of the inanimate or abstract base is denoted by <dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>.
-                      - <wordlist><dictionary@x-tlb-hl>’aggami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police officer</gloss> / <gloss>law giver</gloss>
-                      - <dictionary@x-tlb-hl>Sa’imi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss> / <gloss>light giver</gloss></wordlist>
-                      - <h4>Quasi-suffixes</h4>
-                      - Some nouns are so generic when forming compounds that they tend to end up acting as suffixes.
-                      - <wordlist><block><dictionary@x-tlb-hl>tihutuja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てほとぢ</tinellbian@x-tlb-hl>  <gloss>home</gloss></block>
-                      - <block><dictionary@x-tlb-hl>nuhubatu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほばと</tinellbian@x-tlb-hl> <gloss>book</gloss></block>
-                      - <block><dictionary@x-tlb-hl>pannaxa’uxxi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっなざうっし</tinellbian@x-tlb-hl> <gloss>army</gloss></block></wordlist>
-                      - <h3>Verbal suffixes</h3>
-                      - These are only applied to verbs.
-                      - The suffix <dictionary@x-tlb-hl>-ni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> is used to derive inceptive verbs.
-                      - <wordlist><dictionary@x-tlb-hl>ducini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どちに</tinellbian@x-tlb-hl> <gloss>to receive</gloss></wordlist>
-                      - The suffix <dictionary@x-tlb-hl>-ulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・うを</tinellbian@x-tlb-hl> denotes reversal of an action, and can only be applied to stem verbs.
-                      - <wordlist><dictionary@x-tlb-hl>lulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をを</tinellbian@x-tlb-hl> <gloss>to undo</gloss>
-                      - <dictionary@x-tlb-hl>jannulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっぬを</tinellbian@x-tlb-hl> <gloss>to slow down</gloss>
-                      - <dictionary@x-tlb-hl>turulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とるを</tinellbian@x-tlb-hl> <gloss>to open</gloss>
-                      - <dictionary@x-tlb-hl>ju’ulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ようを</tinellbian@x-tlb-hl> <gloss>to unlink</gloss></wordlist>
-                      - The augmentative <dictionary@x-tlb-hl>-ss·su</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っさす</tinellbian@x-tlb-hl> is used specifically for verbs.
-                      - <wordlist><dictionary@x-tlb-hl>bi’u</dictionary@x-tlb-hl>ss·su <tinellbian@x-tlb-hl>びうっさす</tinellbian@x-tlb-hl> <gloss>to really hurt</gloss></wordlist>
-                      - <h3>Auxiliary Infix</h3>
-                      - The infix <dictionary@x-tlb-hl>-ar-</dictionary@x-tlb-hl> is placed before the final vowel of auxiliaries, and denotes an end to the action described by the sentence.
-                      - <wordlist><dictionary@x-tlb-hl>lanaru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl> <gloss>will finish doing</gloss>
-                      - <dictionary@x-tlb-hl>nagari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl> <gloss>will finish being</gloss></wordlist>
-                      - <h2>Transclass Suffixes</h2>
-                      - These tend to move words from one part of speech to another
-                      - <h3>Nominalisation</h3>
-                      - These derive a noun from another part of speech, most often a verb.
-                      - The suffix <dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl> derives generic nouns from numerals or alienable genitive pronouns.
-                      - <wordlist><block><dictionary@x-tlb-hl>disiqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>でせげ</tinellbian@x-tlb-hl> <gloss>hers</gloss></block>
-                      - <block><dictionary@x-tlb-hl>nuru</dictionary@x-tlb-hl>qa <tinellbian@x-tlb-hl>ぬるげ</tinellbian@x-tlb-hl> <gloss>the four of them</gloss></block></wordlist>
-                      - The suffix <dictionary@x-tlb-hl>-muka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むか</tinellbian@x-tlb-hl> is used with prepositional phrases.
-                      - <wordlist><dictionary@x-tlb-hl>disinnamuka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>でせっなむか</tinellbian@x-tlb-hl> <gloss>prologue</gloss></wordlist>
-                      - Other suffixes in this group are divided into animacy classes.
-                      - <h4>Abstract</h4>
-                      - The productive general suffix <dictionary@x-tlb-hl>-’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl> derives abstract nouns.
-                      - <wordlist><dictionary@x-tlb-hl>cura’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ゆらあ</tinellbian@x-tlb-hl> <gloss>time</gloss>
-                      - <dictionary@x-tlb-hl>qacca’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げっやあ</tinellbian@x-tlb-hl> <gloss>choice</gloss>
-                      - <dictionary@x-tlb-hl>pa’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱあ</tinellbian@x-tlb-hl> <gloss>thought</gloss></wordlist>
-                      - The suffix <dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl> forms gerunds.
-                      - <wordlist><dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>だせる</tinellbian@x-tlb-hl> <gloss>eating</gloss>
-                      - <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>ぢっにる</tinellbian@x-tlb-hl> <gloss>moving</gloss>
-                      - <dictionary@x-tlb-hl>huba</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>ほばる</tinellbian@x-tlb-hl> <gloss>breathing</gloss></wordlist>
-                      - The suffix <dictionary@x-tlb-hl>-ci</dictionary@x-tlb-hl> is applied to <grammar-link@x-tlb-hl>adjectival verbs</grammar-link@x-tlb-hl>. This includes <grammar-link@x-tlb-hl>chromatic verbs</grammar-link@x-tlb-hl>, whence come the name for colours.
-                      - <wordlist><dictionary@x-tlb-hl>nama</dictionary@x-tlb-hl>ci <tinellbian@x-tlb-hl>なまち</tinellbian@x-tlb-hl> <gloss>weakness</gloss>
-                      - <dictionary@x-tlb-hl>kiʔaci</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きっあち</tinellbian@x-tlb-hl> <gloss>white</gloss></wordlist>
-                      - Application of <dictionary@x-tlb-hl>-ppa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っぱ</tinellbian@x-tlb-hl> derives terms for times and occasions.
-                      - <wordlist><dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl>ppa <tinellbian@x-tlb-hl>だせっぱ</tinellbian@x-tlb-hl> <gloss>mealtime</gloss>
-                      - <dictionary@x-tlb-hl>siku</dictionary@x-tlb-hl>ppa <tinellbian@x-tlb-hl>せくっぱ</tinellbian@x-tlb-hl> <gloss>funeral</gloss></wordlist>
-                      - The suffix <dictionary@x-tlb-hl>-ahi</dictionary@x-tlb-hl> is used with adverbs.
-                      - <wordlist><dictionary@x-tlb-hl>nufirahi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬべらひ</tinellbian@x-tlb-hl> <gloss>expectation</gloss>
-                      - </wordlist>
-                      - <h4>Inanimate</h4>
-                      - The agentive suffix <dictionary@x-tlb-hl>-ki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> is applied to verbs.
-                      - <wordlist><dictionary@x-tlb-hl>malaki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まわき</tinellbian@x-tlb-hl> <gloss>mirror</gloss>
-                      - <dictionary@x-tlb-hl>lu’iki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss>
-                      - <dictionary@x-tlb-hl>bumaki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶまき</tinellbian@x-tlb-hl> <gloss>screen</gloss>
-                      - </wordlist>
-                      - The patientive suffix <dictionary@x-tlb-hl>-du</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ど</tinellbian@x-tlb-hl> is applied to stem verbs.
-                      - <wordlist><dictionary@x-tlb-hl>dasidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせど</tinellbian@x-tlb-hl> <gloss>food</gloss>
-                      - <dictionary@x-tlb-hl>maladu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まわど</tinellbian@x-tlb-hl> <gloss>reflection</gloss>
-                      - <dictionary@x-tlb-hl>kassudu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっすど</tinellbian@x-tlb-hl>  <gloss>trade goods</gloss>
-                      - </wordlist>
-                      - The instrumental suffix <dictionary@x-tlb-hl>-ffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っべ</tinellbian@x-tlb-hl> is applied to a verb.
-                      - <wordlist><dictionary@x-tlb-hl>dasiffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっべ</tinellbian@x-tlb-hl> <gloss>cutlery, tools for eating</gloss>
-                      - <dictionary@x-tlb-hl>sikuffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せくっべ</tinellbian@x-tlb-hl> <gloss>spear, tool for killing</gloss>
-                      - </wordlist>
-                      - The suffix <dictionary@x-tlb-hl>-kku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っく</tinellbian@x-tlb-hl> derives names for parts of the body from verbs or nouns.
-                      - <wordlist><dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss>
-                      - <dictionary@x-tlb-hl>’itikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっく</tinellbian@x-tlb-hl> <gloss>breast</gloss>
-                      - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss>
-                      - </wordlist>
-                      - When applied to a number, <dictionary@x-tlb-hl>-ssiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っせじ</tinellbian@x-tlb-hl> gives rise to the names of shapes.
-                      - <wordlist><dictionary@x-tlb-hl>kifissiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きべっせじ</tinellbian@x-tlb-hl> <gloss>triangle</gloss>
-                      - <dictionary@x-tlb-hl>nurussiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬるっせじ</tinellbian@x-tlb-hl> <gloss>quadrilateral</gloss>
-                      - </wordlist>
-                      - <h4>Animate</h4>
-                      - There are three suffixes for deriving animate nouns from verbs. The suffix <dictionary@x-tlb-hl>-la’i</dictionary@x-tlb-hl> is used with intransitive verbs, while <dictionary@x-tlb-hl>-ba</dictionary@x-tlb-hl> and <dictionary@x-tlb-hl>-pu’a</dictionary@x-tlb-hl> derive generic agents and patients respectively.
-                      - <wordlist><block><dictionary@x-tlb-hl>narala’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ならわい</tinellbian@x-tlb-hl> <gloss>sleeper</gloss></block>
-                      - <block><dictionary@x-tlb-hl>’ussaba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うっさば</tinellbian@x-tlb-hl> <gloss>follower</gloss>
-                      - <dictionary@x-tlb-hl>caba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やば</tinellbian@x-tlb-hl> <gloss>helper</gloss>
-                      - <dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひすば</tinellbian@x-tlb-hl> <gloss>administrator</gloss></block>
-                      - <block><dictionary@x-tlb-hl>ju’ipu’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>よいぷあ</tinellbian@x-tlb-hl> <gloss>group</gloss>
-                      - <dictionary@x-tlb-hl>lu’ipu’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をいぷあ</tinellbian@x-tlb-hl> <gloss>lover</gloss>
-                      - <dictionary@x-tlb-hl>cikkipu’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ちっきぷあ</tinellbian@x-tlb-hl> <gloss>telepath</gloss></block>
-                      - </wordlist>
+                      - Suffixes are attached to other words, but cannot stand alone. A suffix beginning with a vowel replaces the final vowel of the base.
+                      - 'There are two categories of suffixes proper: depending on whether they move vocabulary items from one lexical class to another. Determiners, which are used to specify the reference of a noun, can also be treated as suffixes.'
                     Verbs:
                       children:
                         Ambitransitivity:
@@ -2152,9 +2171,6 @@ entries:
                     Vowels:
                       date: '2024-05-14'
                       position: '36.0'
-                      script: '
-
-                        '
                       text:
                       - There are three phonemic vowels, with two main allophones for each. The vowels are distinguished by closeness and frontness.
                       - <table>|h front |h central |h back

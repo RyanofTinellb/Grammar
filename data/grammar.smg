@@ -4,13 +4,22 @@ assets:
 entries:
 - - A Grammar of the Tinellbian Languages
   - Languages
-  - Demotic Lulani
-  - Sample Texts
+  - High Lulani
+  - Morphology
+  - Suffixes
+  - Cisclass
+- - A Grammar of the Tinellbian Languages
+  - Languages
+  - High Lulani
+  - Morphology
+  - Suffixes
+  - Transclass
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime
   ipa: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\ipa.ime
   tinellbian: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\tinellbian.ime
+  transliteration: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\transliteration.ime
 language: 'en: English'
 languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 links:
