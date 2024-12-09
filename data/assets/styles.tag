@@ -32,7 +32,7 @@ dictionary:
   type: anchor
   param: http://dictionary.tinellb.com/lex/$text$.html#$url(lookup:lang)$|$upper(text)$
   language: true
-  key: Alt-d
+  key: Alt-n
 english:
   type: div
 example:
@@ -95,6 +95,8 @@ h3:
   props:
     bold: true
     size: 140
+    off-key: Return
+  key: KeyPress-3
 h4:
   type: heading
   props:

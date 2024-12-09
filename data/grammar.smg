@@ -6,14 +6,8 @@ entries:
   - Languages
   - High Lulani
   - Morphology
-  - Suffixes
-  - Cisclass
-- - A Grammar of the Tinellbian Languages
-  - Languages
-  - High Lulani
-  - Morphology
-  - Suffixes
-  - Transclass
+  - Nouns
+  - Adverbs
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime

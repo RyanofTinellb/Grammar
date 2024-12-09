@@ -743,13 +743,13 @@ entries:
                     Deixis:
                       children:
                         Indefinite Pro-forms:
-                          date: '2024-05-18'
+                          date: '2024-09-02'
                           position: '158.13'
                           text:
                           - The indefinite pro-forms are sets of deictic words which can be placed into a table.
                           - <desktop><table><thead>hr2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
                           - h noun |h determiner</thead>
-                          - <tbody>h proximate | <multiline><dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-mari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>miru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みる。まっぢ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>marila</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>madusi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>marika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl></multiline>
+                          - <tbody>h proximate | <multiline><dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-mari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>marila</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>madusi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>marika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl></multiline>
                           - h distal | <multiline><dictionary@x-tlb-hl>kasi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-kasi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>kasuja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>kalisa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>kadusi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>kasika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl></multiline>
                           - h interrogative | <multiline><dictionary@x-tlb-hl>sama</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さま</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-diku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>でく</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>satta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さった</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>sulla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>lara</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>saqqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl></multiline>
                           - h negative | <multiline><dictionary@x-tlb-hl>ci’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ちう</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-cu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>qa’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>buni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl></multiline> |r2c2 -
@@ -758,7 +758,7 @@ entries:
                           - '<mobile>proximate:'
                           - '<ul>object noun: <dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl> まり</tinellbian@x-tlb-hl>'
                           - 'object determiner: <dictionary@x-tlb-hl>-mari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
-                          - 'place: <dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>miru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
+                          - 'place: <dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>'
                           - 'action: <dictionary@x-tlb-hl>marila</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>'
                           - 'manner: <dictionary@x-tlb-hl>madusi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>'
                           - 'state: <dictionary@x-tlb-hl>marika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl></ul>'
@@ -882,13 +882,6 @@ entries:
                           - <dictionary@x-tlb-hl>filli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-satta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tihu</dictionary@x-tlb-hl>?
                           - <gloss><abbr>2int</abbr> <abbr>abl</abbr>-where move?</gloss></example>
                           - “Whence came you?”
-                          - As opposed to <dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl><gloss> here or now,</gloss> the word <dictionary@x-tlb-hl>miru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl><gloss> here and now</gloss> is used for a specific point in all four categories of dimension.
-                          - <example><folded><transliteration@x-tlb-hl>Gaca miru ji dissu’ahati</transliteration@x-tlb-hl>.</folded>
-                          - <tinellbian@x-tlb-hl>。がやみるじでっすあはて。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>gaca</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>miru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ji</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dissu’ahati</dictionary@x-tlb-hl>.
-                          - <gloss>Minister now <abbr>prs;neg</abbr> feel_happy</gloss>
-                          - '<gloss>lit.: “The minister is not happy here, now, on this plane, or in this reality.”</gloss></example>'
-                          - “The minister is not happy under these circumstances.”
                           - <h2>Action</h2>
                           - The action terms are pro-verbs, which can be used to replace ordinary verbs in sentences.
                           - <example><folded><transliteration@x-tlb-hl>Sabba sulla qixa?</transliteration@x-tlb-hl></folded>
@@ -1091,7 +1084,7 @@ entries:
                     Nouns:
                       children:
                         Adverbs:
-                          date: '2024-05-14'
+                          date: '2024-09-12'
                           position: '81.26'
                           text:
                           - 'A closed subset of nouns can have an adverbial function. These adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <internal>../../syntax/dependentclauses/index.html#locationadverbialclauses|Adverbial Clauses</internal>'
@@ -1105,6 +1098,7 @@ entries:
                           - <dictionary@x-tlb-hl>hibu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひぶ</tinellbian@x-tlb-hl> <gloss>allow oneself to</gloss>
                           - <dictionary@x-tlb-hl>dumi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どみ</tinellbian@x-tlb-hl> <gloss>try</gloss> <gloss>to</gloss>
                           - <dictionary@x-tlb-hl>danna</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だっな</tinellbian@x-tlb-hl> <gloss>successfully</gloss>
+                          - <dictionary@x-tlb-hl>xaka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざか</tinellbian@x-tlb-hl> <gloss>fail to</gloss>
                           - <dictionary@x-tlb-hl>ca’alla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やあっわ</tinellbian@x-tlb-hl> <gloss>must</gloss>
                           - <dictionary@x-tlb-hl>fuca</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ふや</tinellbian@x-tlb-hl> <gloss>can</gloss>
                           - <dictionary@x-tlb-hl>ritada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>りただ</tinellbian@x-tlb-hl> <gloss>by fate</gloss>
@@ -1119,7 +1113,6 @@ entries:
                           - <dictionary@x-tlb-hl>ti’ici</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ていち</tinellbian@x-tlb-hl> <gloss>to a certain extent</gloss>
                           - <dictionary@x-tlb-hl>cipati</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ちぱて</tinellbian@x-tlb-hl> <gloss>to that extent</gloss>
                           - <dictionary@x-tlb-hl>tuci</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とち</tinellbian@x-tlb-hl> <gloss>barely</gloss>
-                          - <dictionary@x-tlb-hl>miru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl> <gloss>about to</gloss>
                           - <dictionary@x-tlb-hl>xibbuti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しっぶて</tinellbian@x-tlb-hl> <gloss>never again</gloss></wordlist>
                           - <h3>Time</h3>
                           - <wordlist><dictionary@x-tlb-hl>xuga</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ずが</tinellbian@x-tlb-hl> <gloss>instantly</gloss>
@@ -1133,7 +1126,7 @@ entries:
                           - These adverbs cannot be used as verbal suffixes, and can only describe an entire sentence.
                           - <wordlist><dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まった</tinellbian@x-tlb-hl> <gloss>again</gloss>
                           - <dictionary@x-tlb-hl>hiru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひる</tinellbian@x-tlb-hl> <gloss>contrariwise</gloss></wordlist>
-                          - <h3>Likelihood</h3>
+                          - <h3>Probability</h3>
                           - These tell how likely an event is to have occurred, or to occur in the future.
                           - <wordlist><dictionary@x-tlb-hl>’ili</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いえ</tinellbian@x-tlb-hl> <gloss>actually</gloss>
                           - <dictionary@x-tlb-hl>da’aru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だある</tinellbian@x-tlb-hl> <gloss>experience</gloss>
@@ -1143,7 +1136,7 @@ entries:
                           - <dictionary@x-tlb-hl>mica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みや</tinellbian@x-tlb-hl> <gloss>permitted to</gloss>
                           - <dictionary@x-tlb-hl>nufira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬべら</tinellbian@x-tlb-hl> <gloss>want to</gloss>
                           - <dictionary@x-tlb-hl>rixi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>りし</tinellbian@x-tlb-hl> <gloss>would be better to</gloss></wordlist>
-                          - <h3>Evidential</h3>
+                          - <h3>Evidence</h3>
                           - These give the means by which the speaker gained information with regards to their utterance.
                           - <wordlist><dictionary@x-tlb-hl>raqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らげ</tinellbian@x-tlb-hl> <gloss>obviously</gloss>
                           - <dictionary@x-tlb-hl>da</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>clearly</gloss>
@@ -1161,10 +1154,15 @@ entries:
                           - <dictionary@x-tlb-hl>rani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らに</tinellbian@x-tlb-hl> <gloss>giving confirmation (“I agree.”)</gloss>
                           - <dictionary@x-tlb-hl>qarihu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げりほ</tinellbian@x-tlb-hl> <gloss>regret (“I’m sorry.”)</gloss>
                           - <dictionary@x-tlb-hl>tupi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とぴ</tinellbian@x-tlb-hl> <gloss>respect (“With all due respect…”)</gloss></wordlist>
-                          - <h3>Times</h3>
-                          - <wordlist><dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むさ</tinellbian@x-tlb-hl> <gloss>today</gloss>
+                          - <h3>Occasion</h3>
+                          - <wordlist><dictionary@x-tlb-hl>miru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl> <gloss>now</gloss>
+                          - <dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むさ</tinellbian@x-tlb-hl> <gloss>today</gloss>
                           - <dictionary@x-tlb-hl>laru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わる</tinellbian@x-tlb-hl> <gloss>this year</gloss>
-                          - <dictionary@x-tlb-hl>tariti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たりて</tinellbian@x-tlb-hl> <gloss>at noon</gloss></wordlist>
+                          - <dictionary@x-tlb-hl>xima</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しま</tinellbian@x-tlb-hl> <gloss>in the morning</gloss>
+                          - <dictionary@x-tlb-hl>tariti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たりて</tinellbian@x-tlb-hl> <gloss>at noon</gloss>
+                          - <dictionary@x-tlb-hl>batari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばたり</tinellbian@x-tlb-hl> <gloss>in the afternoon</gloss>
+                          - <dictionary@x-tlb-hl>dumi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どみ</tinellbian@x-tlb-hl> <gloss>at night</gloss>
+                          - <dictionary@x-tlb-hl>hami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はみ</tinellbian@x-tlb-hl> <gloss>at midnight</gloss></wordlist>
                           - Numbers can be suffixed to denote other times.
                           - <wordlist><folding><folded><transliteration@x-tlb-hl>musahha</transliteration@x-tlb-hl></folded>
                           - <tinellbian@x-tlb-hl>むさっは</tinellbian@x-tlb-hl>
@@ -1522,7 +1520,7 @@ entries:
                           - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss>
                           - <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to consider</gloss></wordlist>
                         Intransitivity:
-                          date: '2024-05-10'
+                          date: '2024-09-02'
                           position: '9.36'
                           text:
                           - Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
@@ -1610,25 +1608,25 @@ entries:
                           - <h3>Comparatives</h3>
                           - These verbs are used to denote the degree of similarity between two nouns. Their nuance can be modified by use of different case markers or adpositions.
                           - Case denotes unmarked similarity or difference, <strong>dative</strong> for the former, <strong>ablative</strong> for the latter.
-                          - <example><folded><transliteration@x-tlb-hl>Nimalu kuquliruxita runihi.</transliteration@x-tlb-hl></folded>
-                          - <tinellbian@x-tlb-hl>。にまをくもえるしたるにひ。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-quliru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>runihi</dictionary@x-tlb-hl>.
+                          - <example><folded><transliteration@x-tlb-hl>Nimalu kuquliruxita runi.</transliteration@x-tlb-hl></folded>
+                          - <tinellbian@x-tlb-hl>。にまをくもえるしたるに。</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-quliru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>runi</dictionary@x-tlb-hl>.
                           - <gloss>bear <abbr>dat</abbr>-family-one similar.</gloss></example>
                           - “The bear is like one of the family.”
                           - The adposition <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>with</gloss> denotes a slight similarity or difference.
-                          - <example><folded><transliteration@x-tlb-hl>ʔusu ra’u haruxissatanissa runihi.</transliteration@x-tlb-hl></folded>
-                          - <tinellbian@x-tlb-hl>。うすらうはるしっさたにっさるにひ。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xissatanissa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>runihi</dictionary@x-tlb-hl>.
+                          - <example><folded><transliteration@x-tlb-hl>ʔusu ra’u haruxissatanissa runi.</transliteration@x-tlb-hl></folded>
+                          - <tinellbian@x-tlb-hl>。うすらうはるしっさたにっさるに。</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xissatanissa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>runi</dictionary@x-tlb-hl>.
                           - <gloss><abbr>1int</abbr> <abbr>prs;sta</abbr> with-musician similar.</gloss></example>
                           - “I am somewhat of a musician.”
                           - The adpositions <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あで</tinellbian@x-tlb-hl> <gloss>near</gloss> and <dictionary@x-tlb-hl>xidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しど</tinellbian@x-tlb-hl> <gloss>far</gloss> denote a large similarity or difference.
-                          - <example><folded><transliteration@x-tlb-hl>Mari ra’u xidupajiga tina.</transliteration@x-tlb-hl></folded>
-                          - <tinellbian@x-tlb-hl>。まりらうしどぱじがてな。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xidu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pajiga</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tina</dictionary@x-tlb-hl>.
+                          - <example><folded><transliteration@x-tlb-hl>Mari ra’u xidupajiga tinna.</transliteration@x-tlb-hl></folded>
+                          - <tinellbian@x-tlb-hl>。まりらうしどぱじがてっな。</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xidu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pajiga</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tinna</dictionary@x-tlb-hl>.
                           - <gloss>this <abbr>prs;sta</abbr> far-olive different.</gloss></example>
                           - “This is nothing like an olive.”
-                          - <wordlist><dictionary@x-tlb-hl>runihi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るにひ</tinellbian@x-tlb-hl> <gloss>to be similar to</gloss>
-                          - <dictionary@x-tlb-hl>tina</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てな</tinellbian@x-tlb-hl> <gloss>to be different from</gloss></wordlist>
+                          - <wordlist><dictionary@x-tlb-hl>runi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るに</tinellbian@x-tlb-hl> <gloss>to be similar to</gloss>
+                          - <dictionary@x-tlb-hl>tinna</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっな</tinellbian@x-tlb-hl> <gloss>to be different from</gloss></wordlist>
                           - <h3>Symmetric Relations</h3>
                           - 'The participants of these verbs are equivalent to each other, that is, if Alice acts on Bob, then Bob acts on Alice in the same way. When the subject is Alice, say, then Bob can:'
                           - '1. Be placed in the object position. Despite the structure, this is not transitive, as the verb has no <internal>../../syntax/argumentpromotion.html#passive|passive</internal>, and pronouns use the intransitive form:'
