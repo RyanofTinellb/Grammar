@@ -133,8 +133,8 @@ image:
   language: true
 interlinear:
   type: div
-  start: ' '
-  end: ' '
+  start: ''
+  end: ''
 internal:
   type: anchor
   props:
@@ -155,6 +155,11 @@ ipa:
   type: span
   language: true
   key: Alt-i
+label:
+  open: '<label for="'
+  start: ''
+  end: ''
+  pipe: '">'
 left-columns:
   type: div
 message:
@@ -217,7 +222,9 @@ symbol:
     italics: true
 table:
   type: table
-textarea: {}
+textarea:
+  props:
+    background: '#ff9'
 tbody:
   type: block
 thead:

@@ -1182,7 +1182,7 @@ entries:
                           - <gloss>year-minus_one</gloss>
                           - '<gloss>lit.: “<overline>1</overline>-year”</gloss></folding>'
                           - “two years ago”</wordlist>
-                      date: '2024-05-11'
+                      date: '2025-01-18'
                       position: '9.17'
                       text:
                       - Common and proper nouns are open classes; the pronouns are closed.
@@ -1196,7 +1196,7 @@ entries:
                       - <h3>Stem Nouns</h3>
                       - Stem nouns are those that are neither compounded nor derived.
                       - <h4>Mass Nouns</h4>
-                      - Mass nouns refer to an undifferentiated aggregation rather than separate units. These cannot take numbers, except for a postpended <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <gloss>one</gloss> to denote the smallest individual piece of that aggregate.
+                      - Mass nouns refer to an undifferentiated aggregation rather than separate units. These cannot take numbers, except for a postpended <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl> <gloss>one</gloss> to denote the smallest individual piece of that aggregate.
                       - <wordlist><dictionary@x-tlb-hl>’iti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いて</tinellbian@x-tlb-hl> <gloss>milk</gloss> / <dictionary@x-tlb-hl>’itixita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてした</tinellbian@x-tlb-hl> <gloss>drop of milk</gloss>
                       - <dictionary@x-tlb-hl>marru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まっる</tinellbian@x-tlb-hl> <gloss>flies</gloss> / <dictionary@x-tlb-hl>marruxita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まっるした</tinellbian@x-tlb-hl> <gloss>fly</gloss></wordlist>
                       - <h4>Animacy</h4>
@@ -1226,7 +1226,7 @@ entries:
                       - <dictionary@x-tlb-hl>jifiru’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nulli</dictionary@x-tlb-hl>
                       - <gloss>lake-mountain</gloss></folding>
                       - “mountain lake”
-                      - <folding><folded>xu’abaju</folded>
+                      - <folding><folded><transliteration@x-tlb-hl>xu’abaju</transliteration@x-tlb-hl></folded>
                       - <tinellbian@x-tlb-hl>ずあばよ</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>xu’a</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>baju</dictionary@x-tlb-hl>
                       - <gloss>bird-blue</gloss></folding>
@@ -1255,7 +1255,7 @@ entries:
                           - <dictionary@x-tlb-hl>hacca</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はっや</tinellbian@x-tlb-hl> <gloss>good morning</gloss>
                           - <dictionary@x-tlb-hl>kica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きや</tinellbian@x-tlb-hl> <gloss>what?</gloss>
                           - <dictionary@x-tlb-hl>hira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひら</tinellbian@x-tlb-hl> <gloss>please; thank-you</gloss></wordlist>
-                      date: '2024-05-18'
+                      date: '2025-01-19'
                       position: '1.39'
                       text:
                       - 'There are very few particles. These are simply words that do not fit neatly into any other category. This includes:'
@@ -1520,7 +1520,7 @@ entries:
                           - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss>
                           - <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to consider</gloss></wordlist>
                         Intransitivity:
-                          date: '2024-09-02'
+                          date: '2025-01-18'
                           position: '9.36'
                           text:
                           - Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
@@ -1602,7 +1602,7 @@ entries:
                           - <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-jifiru’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl>; <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-’ilu-pahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl>.
                           - <gloss>moon <abbr>abl</abbr>-lake reflect; moon <abbr>abl</abbr>-heart-<abbr>1gen</abbr> reflect.</gloss></example>
                           - “The moon is reflected in the lake; the moon is reflected in my heart.”
-                          - 'The usual case assignment for objects of each of these verbs is shown here:'
+                          - The usual case assignment for objects of each of these verbs is shown in the wordlist for this section.
                           - <wordlist><dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まわ</tinellbian@x-tlb-hl> <gloss>to reflect</gloss> — <strong>ablative</strong>
                           - <dictionary@x-tlb-hl>faxi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へし</tinellbian@x-tlb-hl> <gloss>to survive</gloss> — <strong>dative</strong></wordlist>
                           - <h3>Comparatives</h3>
@@ -2118,10 +2118,12 @@ entries:
                       text:
                       - Phonemically, all syllables are CV, that is, one consonant followed by one vowel. Word-internal consonants can be geminated. The only consonant clusters are geminate consonants, and there are no phonemic vowel clusters or long vowels.
                     Pronunciation:
-                      date: '2024-08-02'
+                      date: '2025-01-12'
                       text:
-                      - <table>c2 |h labial |h alveolar |h retroflex |h palatal |h velar |h glottal</table>
-                      - <textarea>∅ > ʰ / [-voice]_</textarea>
+                      - <table>c2 |h labial |h alveolar |h retroflex |h palatal |h velar |h glottal
+                      - c2| p | t</table>
+                      - <label>words|<h2>Words</h2></label>
+                      - <textarea>[+labial] → [+alveolar] / _</textarea>
                       - <internal-script>/data/scripts/sca.js</internal-script>
                     Suprasegmentals:
                       date: '2024-05-14'
@@ -3470,7 +3472,7 @@ entries:
                     Dependent Clauses:
                       children:
                         Relative Clauses:
-                          date: '2024-07-24'
+                          date: '2025-01-19'
                           position: '1.0'
                           text:
                           - Relative clauses specify the noun by describing it. They begin with the relativiser <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しく</tinellbian@x-tlb-hl> and are placed before the modified noun, The auxiliary is not optional, and is given a rising tone. Only subjects can be relativised. Other cases must be promoted to subject.
@@ -3481,9 +3483,9 @@ entries:
                           - “The queen who loved the king”
                           - <folding><folded><transliteration@x-tlb-hl>Xiku kalukimilli lu’illu pi lulani</transliteration@x-tlb-hl></folded>
                           - <tinellbian@x-tlb-hl>しくかをきみっえをいっをぴをわに</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-kimilli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lu’i-illu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl></folding>
-                          - <gloss><abbr>rel</abbr> <abbr>abl</abbr>-king love-<abbr>psv</abbr> <abbr>pst;sta</abbr> queen</gloss></wordlist>
-                          - “The queen whom the king loved”
+                          - <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-kimilli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lu’i-illu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl>
+                          - <gloss><abbr>rel</abbr> <abbr>abl</abbr>-king love-<abbr>psv</abbr> <abbr>pst;sta</abbr> queen</gloss></folding>
+                          - “The queen whom the king loved”</wordlist>
                           - Any noun can be modified by relative clauses, including pronouns and proper nouns.
                           - <wordlist><folding><folded><transliteration@x-tlb-hl>Xiku lu’i kimilli pi mihu</transliteration@x-tlb-hl></folded>
                           - <tinellbian@x-tlb-hl>しくをいきみっえぴみほ</tinellbian@x-tlb-hl>
@@ -3828,7 +3830,7 @@ entries:
               - I once had the beginnings of what was to be the Ptokan language, and the language of the Fezhlê. The latter was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhlê have been forced to change somewhat to adapt.
           date: null
           text: []
-      date: '2024-05-28'
+      date: '2025-01-19'
       position: '4.208'
       text:
       - This reference guide is for the Tinellbian languages that descend from High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.
