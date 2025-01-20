@@ -60,7 +60,7 @@ strong {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
-    /* width: 95%;              Removing for now, becuase I think it's not needed   */
+    /* width: 95%;              Removing for now, because I think it's not needed   */
 }
 
 .main-page {
@@ -220,7 +220,7 @@ nav.main ul ul {
 
 nav.main p {
     font-family: sans-serif;
-    margin: 0;
+    margin-block: 0;
     padding-inline-start: 15%;
     padding-right: 15%;
 }
@@ -407,7 +407,7 @@ main .wordlist {
 
 main .wordlist p {
     padding-inline-start: var(--folding-padding);
-    margin: 0;
+    margin-block: 0;
 }
 
 main .wordlist details+p {
@@ -420,6 +420,16 @@ main .wordlist .block {
 
 main .wordlist .block:first-child {
     margin-block-start: 0;
+}
+
+
+main .wordlist-caption {
+    /* margin-inline-start: 3ch; */
+    font-weight: bolder;
+}
+
+main .wordlist-caption + .wordlist {
+    margin-block-start: -0.5lh;
 }
 
 footer {

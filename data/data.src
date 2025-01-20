@@ -415,12 +415,12 @@ entries:
                       - ' <dictionary@x-tlb-hl>’usi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>うせ</tinellbian@x-tlb-hl> | <gloss>6</gloss>'
                       - ' <dictionary@x-tlb-hl>salumi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>さをみ</tinellbian@x-tlb-hl> | <gloss>7</gloss></table>'
                       - <table> (<dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> | <gloss><overline>0</overline></gloss>)
-                      - ' <dictionary@x-tlb-hl>mullu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>むっを</tinellbian@x-tlb-hl> | <overline><gloss>1</gloss></overline>'
+                      - ' <dictionary@x-tlb-hl>mu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> | <overline><gloss>1</gloss></overline>'
                       - ' <dictionary@x-tlb-hl>kannu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>かっぬ</tinellbian@x-tlb-hl> | <overline><gloss>2</gloss></overline>'
                       - ' <dictionary@x-tlb-hl>bila</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>びわ</tinellbian@x-tlb-hl> | <overline><gloss>3</gloss></overline>'
                       - ' <dictionary@x-tlb-hl>missu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>みっす</tinellbian@x-tlb-hl> | <overline><gloss>4</gloss></overline>'
                       - ' <dictionary@x-tlb-hl>laffi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>わっべ</tinellbian@x-tlb-hl> | <overline><gloss>5</gloss></overline>'
-                      - ' <dictionary@x-tlb-hl>jusiti</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>よせて</tinellbian@x-tlb-hl> | <overline><gloss>6</gloss></overline>'
+                      - ' <dictionary@x-tlb-hl>siti</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>せて</tinellbian@x-tlb-hl> | <overline><gloss>6</gloss></overline>'
                       - ' <dictionary@x-tlb-hl>haki</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>はき</tinellbian@x-tlb-hl> | <overline><gloss>7</gloss></overline></table></left-columns>'
                       - The full form <dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> <gloss>zero</gloss> is only used when by itself, or first in a number or noun phrase. Otherwise, the clipped form <dictionary@x-tlb-hl>-hha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っは</tinellbian@x-tlb-hl> <gloss>ten</gloss> is used.
                       - <h3>Two-digit Numbers</h3>
@@ -430,7 +430,7 @@ entries:
                       - rahha <tinellbian@x-tlb-hl>らっは</tinellbian@x-tlb-hl> <gloss>20</gloss>
                       - <strong>kifihha</strong> <tinellbian@x-tlb-hl>きべっは</tinellbian@x-tlb-hl> <gloss>30</gloss></wordlist>
                       - All other two digit numbers, except for <gloss>22</gloss>, are formed by juxtaposing the tens digit with the units.
-                      - <wordlist><dictionary@x-tlb-hl>mullukifi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むっをきべ</tinellbian@x-tlb-hl> <gloss><overline>1</overline>3</gloss>
+                      - <wordlist><dictionary@x-tlb-hl>mukifi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むきべ</tinellbian@x-tlb-hl> <gloss><overline>1</overline>3</gloss>
                       - <dictionary@x-tlb-hl>xitasalumi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>したさをみ</tinellbian@x-tlb-hl> <gloss>17</gloss>
                       - <dictionary@x-tlb-hl>ranuru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らぬる</tinellbian@x-tlb-hl> <gloss>24</gloss>
                       - <dictionary@x-tlb-hl>kifilaffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きべわっべ</tinellbian@x-tlb-hl> <gloss>3<overline>5</overline></gloss></wordlist>
@@ -441,9 +441,9 @@ entries:
                       - <wordlist><block><dictionary@x-tlb-hl>takkinurukannu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たっきぬるかっぬ</tinellbian@x-tlb-hl> <gloss>14<overline>2</overline></gloss></block>
                       - <block><dictionary@x-tlb-hl>guhitakki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usibila</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぐひたっき うせびわ</tinellbian@x-tlb-hl> <gloss>56<overline>3</overline></gloss>
                       - <dictionary@x-tlb-hl>sahhatakki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kifinuru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さっはたっき きべぬる</tinellbian@x-tlb-hl> <gloss>1034</gloss>
-                      - <dictionary@x-tlb-hl>kannuratakki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>missumullu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっぬらたっき みっすむっを</tinellbian@x-tlb-hl> <gloss><overline>2</overline>2<overline>41</overline></gloss></block></wordlist>
+                      - <dictionary@x-tlb-hl>kannuratakki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>missumu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっぬらたっき みっすむ</tinellbian@x-tlb-hl> <gloss><overline>2</overline>2<overline>41</overline></gloss></block></wordlist>
                       - In any of these cases, if the remainder is zero, it is left off.
-                      - <wordlist><dictionary@x-tlb-hl>mullutakki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むっをたっき</tinellbian@x-tlb-hl> <gloss><overline>1</overline>00</gloss>
+                      - <wordlist><dictionary@x-tlb-hl>mutakki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むたっき</tinellbian@x-tlb-hl> <gloss><overline>1</overline>00</gloss>
                       - <dictionary@x-tlb-hl>ratakki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らたっき</tinellbian@x-tlb-hl> <gloss>200</gloss>
                       - <dictionary@x-tlb-hl>saguhitakki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さぐひたっき</tinellbian@x-tlb-hl> <gloss>1500</gloss>
                       - <dictionary@x-tlb-hl>bilasalumitakki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>びわさをみたっき</tinellbian@x-tlb-hl> <gloss><overline>3</overline>700</gloss></wordlist>
@@ -454,10 +454,10 @@ entries:
                       - <wordlist>pa<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱした</tinellbian@x-tlb-hl> <gloss>1,0000</gloss>
                       - pa<dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱら</tinellbian@x-tlb-hl> <gloss>1,0000,0000</gloss>
                       - pa<dictionary@x-tlb-hl>kifi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱきべ</tinellbian@x-tlb-hl> <gloss>1,0000,0000,0000</gloss>
-                      - pa<dictionary@x-tlb-hl>mullu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱむっを</tinellbian@x-tlb-hl> <gloss>0.0001</gloss>
+                      - pa<dictionary@x-tlb-hl>mu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱむ</tinellbian@x-tlb-hl> <gloss>0.0001</gloss>
                       - <dictionary@x-tlb-hl>samissu</dictionary@x-tlb-hl> pa<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さみっすぱした</tinellbian@x-tlb-hl> <gloss>1<overline>4</overline>,0000</gloss>
                       - <dictionary@x-tlb-hl>takkiranira</dictionary@x-tlb-hl> pa<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たっきらにらぱした</tinellbian@x-tlb-hl> <gloss>122,0000</gloss>
-                      - <dictionary@x-tlb-hl>’usitakki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mullura</dictionary@x-tlb-hl> pa<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うせたっき むっをらぱした</tinellbian@x-tlb-hl>  <gloss>6<overline>1</overline>2,0000</gloss></wordlist>
+                      - <dictionary@x-tlb-hl>’usitakki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mura</dictionary@x-tlb-hl> pa<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うせたっき むらぱした</tinellbian@x-tlb-hl>  <gloss>6<overline>1</overline>2,0000</gloss></wordlist>
                       - There is nothing preventing an index-marked number being used within another index marker, although the second <dictionary@x-tlb-hl>pa-</dictionary@x-tlb-hl> is usually geminated.
                       - <wordlist><strong>pappaxita</strong> <tinellbian@x-tlb-hl>ぱっぱした</tinellbian@x-tlb-hl> <gloss>1,0000<sup>1,0000</sup></gloss>
                       - <strong>papappaxita</strong> <tinellbian@x-tlb-hl>ぱぱっぱした</tinellbian@x-tlb-hl> <gloss>1,0000<sup>1,0000^1,0000</sup></gloss></wordlist>
@@ -1176,9 +1176,9 @@ entries:
                           - <gloss>day-two</gloss>
                           - '<gloss>lit: “2-day”</gloss></folding>'
                           - “tomorrow”
-                          - <folding><folded><transliteration@x-tlb-hl>larumullu</transliteration@x-tlb-hl></folded>
-                          - <tinellbian@x-tlb-hl>わるむっを</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>laru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mullu</dictionary@x-tlb-hl>
+                          - <folding><folded><transliteration@x-tlb-hl>larumu</transliteration@x-tlb-hl></folded>
+                          - <tinellbian@x-tlb-hl>わるむ</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>laru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mu</dictionary@x-tlb-hl>
                           - <gloss>year-minus_one</gloss>
                           - '<gloss>lit.: “<overline>1</overline>-year”</gloss></folding>'
                           - “two years ago”</wordlist>
