@@ -743,7 +743,7 @@ entries:
                     Deixis:
                       children:
                         Indefinite Pro-forms:
-                          date: '2024-09-02'
+                          date: '2025-01-19'
                           position: '158.13'
                           text:
                           - The indefinite pro-forms are sets of deictic words which can be placed into a table.
@@ -903,7 +903,7 @@ entries:
                           - <dictionary@x-tlb-hl>filli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>saqqa</dictionary@x-tlb-hl>?
                           - '<gloss>lit.: “What state are you in?”</gloss></example>'
                           - “How are you?”
-                          - They can also function as deteminers.
+                          - They can also function as determiners.
                           - <example><folded><transliteration@x-tlb-hl>Mari ra’u gajitafana.</transliteration@x-tlb-hl></folded>
                           - <tinellbian@x-tlb-hl>。まりらうがじたへな。</tinellbian@x-tlb-hl>
                           - <dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gajita</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>fana</dictionary@x-tlb-hl>.
