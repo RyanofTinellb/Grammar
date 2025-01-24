@@ -9,29 +9,35 @@
 <body><div class="flex"><nav class="main"><details id="menu"><summary>Menu</summary>
 <p><a href="/index.html">A Grammar of the Tinellbian Languages</a></p>
 <div class="javascript"><form id="search"><p><input type="text" name="term"></p>
-<p><button>Search</button></p></form></div><div class="nav-links"><ul><li><a href="/languages/highlulani/index.html">High Lulani</a></li><li><a href="/languages/demoticlulani/index.html">Demotic Lulani</a></li><ul><li><a href="/languages/demoticlulani/phonology.html">Phonology</a></li><li><a href="/languages/demoticlulani/sampletexts.html">Sample Texts</a></li><li><a href="/languages/demoticlulani/appendices/index.html">Appendices</a></li><ul><li>Diachrony</li></ul></ul></ul></div></details></nav>
+<p><button>Search</button></p></form></div><div class="nav-links"><ul><li><a href="/languages/highlulani/index.html">High Lulani</a></li><li><a href="/languages/demoticlulani/index.html">Demotic Lulani</a></li><li><ul><li><a href="/languages/demoticlulani/phonology.html">Phonology</a></li><li><a href="/languages/demoticlulani/sampletexts.html">Sample Texts</a></li><li><a href="/languages/demoticlulani/appendices/index.html">Appendices</a></li><li><ul><li>Diachrony</li></ul></li></ul></li></ul></div></details></nav>
 
 <div class="main-page"><nav class="mini"><p><a href="/languages/demoticlulani/appendices/index.html">← Previous Page</a></p>
 <p><a href="/index.html">↑ Back to Index</a></p></nav>
 <main><h1>Diachrony</h1>
-<div class="message"><p>Warning: This section is a work in progress.</p></div>
-<p>This page includes a list of changes from High Lulani to Demotic Lulani.</p>
-<h2 id="phonology">Phonology</h2>
-<p>A detailed up-to-date list of changes in kept at <a href="https://github.com/RyanofTinellb/ConlangWebsiteCreation/blob/master/cwsmeagol/translation/evolve.py">GitHub</a>, in a Python file that applies these changes to a High Lulani word.</p>
-<ul><li>Lowering of back vowels before peripheral consonants.</li>
-<li>Shifting of geminate consonants: unvoiced plosive → voiced plosive → voiced fricative</li>
-<li>I-mutation of vowels when followed by /<span class="ipa" lang="x-tlb-dl"><strong>i</strong></span>/ in the next syllable.</li>
-<li>Palatalisation of alveolar sounds when followed by /<span class="ipa" lang="x-tlb-dl"><strong>i</strong></span>/.</li>
-<li>Loss of /<span class="ipa" lang="x-tlb-dl"><strong>i</strong></span>/ after geminate consonants.</li>
-<li>Degemination of consonants.</li>
-<li>Elision of unstressed /<span class="ipa" lang="x-tlb-dl"><strong>ə</strong></span>/, followed by consonant cluster reduction.</li>
-<li>Reduction of remaining unstressed vowels to schwa.</li></ul>
+<table class="alphabet"><thead><tr><td rowspan="3">C</td><th colspan="3">-sonorant</th><th colspan="2">+sonorant</th></tr>
+<tr><th colspan="2">plosive</th><th>fricative</th><th>nasal</th><th>liquid</th></tr>
+<tr><th>-voice</th><th>+voice</th><th>+voice</th><th>+voice</th><th>-voice</th></tr></thead>
+<tbody><tr><th>labial</th><td>p</td><td>b</td><td></td><td>m</td><td></td></tr>
+<tr><th>alveolar</th><td>t</td><td>d</td><td>s</td><td>n</td><td>l</td></tr>
+<tr><th>palatal</th><td>c</td><td>j</td><td>x</td><td>ñ</td><td>ɫ</td></tr>
+<tr><th>velar</th><td>k</td><td>g</td><td>q</td><td>r</td><td></td></tr>
+<tr><th>glottal</th><td>ʔ</td><td></td><td>h</td><td></td><td></td></tr></tbody></table>
+<table class="alphabet"><thead><tr><td>V</td><th>+stress</th><th>-stress</th></tr>
+</thead><tbody><tr><th>front</th><td>i</td><td>ɨ</td></tr>
+<tr><th>mid</th><td>a</td><td>ə</td></tr>
+<tr><th>back</th><td>u</td><td>ʉ</td></tr></tbody></table>
+<h2 id="rules">Rules</h2>
+<textarea id="rules">[plosive] &gt; [fricative] / V_V</textarea>
+<h2 id="words">Words</h2>
+<textarea id="words">taru
+paddi
+katipa</textarea>
 </main>
 <nav class="mini"><p><a href="/languages/demoticlulani/appendices/index.html">← Previous Page</a></p>
 <p><a href="/index.html">↑ Back to Index</a></p></nav>
 </div></div>
 <footer><div class="copyright"><span class="no-breaks">&copy;2017-2025 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Sunday, May 19th, 2024</span></div>
+<span class="no-breaks">Last updated: Friday, January 24th, 2025</span></div>
 </footer>
 <p><script src="/data/scripts/parse_href.js"></script></p>
 <script>

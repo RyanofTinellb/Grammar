@@ -222,9 +222,17 @@ symbol:
     italics: true
 table:
   type: table
-textarea:
+table-alphabet:
+  type: table
+  open: <table class="alphabet">
+  close: </table>
+textarea-id:
   props:
     background: '#ff9'
+  type: line
+  open: '<textarea id="'
+  pipe: '">'
+  close: </textarea>
 tbody:
   type: block
 thead:

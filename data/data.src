@@ -7,7 +7,6 @@ directory:
       - - Vowels
       - - Phonotactics
       - - Suprasegmentals
-      - - Pronunciation
     - - Orthography
       - - Spelling Syllabary
       - - Tactile Syllabary
@@ -63,21 +62,27 @@ entries:
                 Appendices:
                   children:
                     Diachrony:
-                      date: '2024-05-19'
+                      date: '2025-01-24'
                       position: '2.46'
                       text:
-                      - '<message>Warning: This section is a work in progress.</message>'
-                      - This page includes a list of changes from High Lulani to Demotic Lulani.
-                      - <h2>Phonology</h2>
-                      - A detailed up-to-date list of changes in kept at <external>https://github.com/RyanofTinellb/ConlangWebsiteCreation/blob/master/cwsmeagol/translation/evolve.py|GitHub</external>, in a Python file that applies these changes to a High Lulani word.
-                      - <ul>Lowering of back vowels before peripheral consonants.
-                      - 'Shifting of geminate consonants: unvoiced plosive → voiced plosive → voiced fricative'
-                      - I-mutation of vowels when followed by /<ipa@x-tlb-dl><strong>i</strong></ipa@x-tlb-dl>/ in the next syllable.
-                      - Palatalisation of alveolar sounds when followed by /<ipa@x-tlb-dl><strong>i</strong></ipa@x-tlb-dl>/.
-                      - Loss of /<ipa@x-tlb-dl><strong>i</strong></ipa@x-tlb-dl>/ after geminate consonants.
-                      - Degemination of consonants.
-                      - Elision of unstressed /<ipa@x-tlb-dl><strong>ə</strong></ipa@x-tlb-dl>/, followed by consonant cluster reduction.
-                      - Reduction of remaining unstressed vowels to schwa.</ul>
+                      - <table-alphabet><thead>r3 C |hc3 -sonorant |hc2 +sonorant
+                      - hc2 plosive |h fricative |hr nasal |hr liquid
+                      - h -voice |h +voice |h +voice |h +voice |h -voice</thead>
+                      - <tbody>h labial | p | b || m |
+                      - h alveolar | t | d | s | n | l
+                      - h palatal | c | j | x | ñ | ɫ
+                      - h velar | k | g | q | r |
+                      - h glottal | ʔ || h ||</tbody></table-alphabet>
+                      - <table-alphabet><thead> V |h +stress |h -stress
+                      - </thead><tbody>h front | i | ɨ
+                      - h mid | a | ə
+                      - h back | u | ʉ</tbody></table-alphabet>
+                      - <h2>Rules</h2>
+                      - <textarea-id>rules|[plosive] &gt; [fricative] / V_V</textarea-id>
+                      - <h2>Words</h2>
+                      - <textarea-id>words|taru
+                      - paddi
+                      - katipa</textarea-id>
                   date: '2019-01-17'
                   position: '4.0'
                   text:
@@ -1771,7 +1776,7 @@ entries:
                           - <dictionary@x-tlb-hl>nu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬ</tinellbian@x-tlb-hl> <gloss>to stop</gloss>
                           - <dictionary@x-tlb-hl>naqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なげ</tinellbian@x-tlb-hl> <gloss>to need</gloss>
                           - <dictionary@x-tlb-hl>tapu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たぷ</tinellbian@x-tlb-hl> <gloss>to look forward to; to enjoy</gloss></wordlist>
-                      date: '2024-05-25'
+                      date: '2025-01-21'
                       position: '33.2'
                       text:
                       - A verb is a necessary part of any sentence, except when making <grammar-link@x-tlb-hl>copular sentences</grammar-link@x-tlb-hl>. Verbs can be categorised on the basis of how many elements compose them.
@@ -2117,14 +2122,6 @@ entries:
                       position: '1.0'
                       text:
                       - Phonemically, all syllables are CV, that is, one consonant followed by one vowel. Word-internal consonants can be geminated. The only consonant clusters are geminate consonants, and there are no phonemic vowel clusters or long vowels.
-                    Pronunciation:
-                      date: '2025-01-12'
-                      text:
-                      - <table>c2 |h labial |h alveolar |h retroflex |h palatal |h velar |h glottal
-                      - c2| p | t</table>
-                      - <label>words|<h2>Words</h2></label>
-                      - <textarea>[+labial] → [+alveolar] / _</textarea>
-                      - <internal-script>/data/scripts/sca.js</internal-script>
                     Suprasegmentals:
                       date: '2024-05-14'
                       position: '1.0'
