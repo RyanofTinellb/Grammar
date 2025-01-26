@@ -26,7 +26,7 @@ locations:
   search: C:\Users\Ryan\TinellbianLanguages\grammar\special\search.html
   wholepage: C:\Users\Ryan\TinellbianLanguages\grammar\special\wholepage.html
 markdown: ''
-port: 20024
+port: 20025
 styles: c:\users\ryan\tinellbianlanguages\grammar\data\assets\styles.tag
 templates:
   main: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\page.tpl

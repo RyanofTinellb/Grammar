@@ -276,7 +276,7 @@ main th a {
     text-decoration: inherit;
 }
 
-main tbody th:first-child {
+main tbody th {
     text-align: right;
 }
 
@@ -319,6 +319,12 @@ main details+p {
 main summary {
     padding-block-start: 0.2rem;
     line-height: var(--details-lineheight);
+}
+
+main textarea {
+    margin-inline-start: 15%;
+    width: 40ch;
+    height: 10lh;
 }
 
 main .also p {

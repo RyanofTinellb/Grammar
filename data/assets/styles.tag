@@ -16,6 +16,22 @@ abbr:
 block:
   type: div
   key: Alt-b
+button:
+  open: '<button onclick="'
+  pipe: '">'
+  props:
+    background: '#ffd'
+label:
+  props:
+    colour: '#09f'
+checkbox:
+  open: '<input type="checkbox" id="'
+  pipe: '" onclick="'
+  close: '" />'
+  start: ''
+  end: ''
+  props:
+    background: '#fc6'
 columns:
   type: div
 desktop:
@@ -33,6 +49,13 @@ dictionary:
   param: http://dictionary.tinellb.com/lex/$text$.html#$url(lookup:lang)$|$upper(text)$
   language: true
   key: Alt-n
+div-id:
+  type: line
+  open: '<div id="'
+  pipe: '">'
+  close: '</div>'
+  props:
+    background: '#f6c'
 english:
   type: div
 example:
@@ -155,11 +178,6 @@ ipa:
   type: span
   language: true
   key: Alt-i
-label:
-  open: '<label for="'
-  start: ''
-  end: ''
-  pipe: '">'
 left-columns:
   type: div
 message:
@@ -235,8 +253,12 @@ textarea-id:
   close: </textarea>
 tbody:
   type: block
+  props:
+    background: '#99f'
 thead:
   type: block
+  props:
+    background: '#66f'
 tinellbian:
   props:
     font: tinellbian
