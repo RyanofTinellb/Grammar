@@ -105,17 +105,19 @@ entries:
                       - '[-stress] &gt; [+stress] / #C_#}'
                       - Cː &gt; C
                       - ’ &gt; ∅
-                      - '[+voice, obstruent] &gt; [-voice, obstruent] / _#'
                       - '[alveolar] &gt; [palatal] / _[front]'
                       - '[-stress] &gt; [semivowel] / _V'
+                      - '[+stress] &gt; [-stress] / [+stress]_'
                       - a[-stress] &gt; [monophthong]
                       - '[+stress]ə &gt; [long]'
                       - ∅ &gt; [semivowel] / [+stress]_[-stress]
                       - ə &gt; ∅
                       - '[back, close] &gt; [back, central] / _[+coronal]'
-                      - </textarea-id>
+                      - '[+voice, obstruent] &gt; [-voice, obstruent] / _#</textarea-id>'
                       - <h2>Words</h2>
-                      - <textarea-id>wordsbox|disinnamuka
+                      - <textarea-id>wordsbox|bassaca’alla
+                      - ’ita’·’assa
+                      - disinnamuka
                       - kurila
                       - ca’alla
                       - tu’ikata
@@ -1524,7 +1526,7 @@ entries:
                       - kalu’ihusubi
                       - janni
                       - mihu</textarea-id>
-                      - '<button>intermediate()|Change</button> <label><checkbox>chain|intermediate</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate</checkbox> Debug mode?</label> '
+                      - '<button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label> '
                       - <div-id>output|</div-id>
                       - <internal-script>/data/scripts/sca.js</internal-script>
                       - <script>intermediate()</script>

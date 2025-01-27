@@ -54,17 +54,19 @@ hː &gt; ç
 [-stress] &gt; [+stress] / #C_#}
 Cː &gt; C
 ’ &gt; ∅
-[+voice, obstruent] &gt; [-voice, obstruent] / _#
 [alveolar] &gt; [palatal] / _[front]
 [-stress] &gt; [semivowel] / _V
+[+stress] &gt; [-stress] / [+stress]_
 a[-stress] &gt; [monophthong]
 [+stress]ə &gt; [long]
 ∅ &gt; [semivowel] / [+stress]_[-stress]
 ə &gt; ∅
 [back, close] &gt; [back, central] / _[+coronal]
-</textarea>
+[+voice, obstruent] &gt; [-voice, obstruent] / _#</textarea>
 <h2 id="words">Words</h2>
-<textarea id="wordsbox">disinnamuka
+<textarea id="wordsbox">bassaca’alla
+’ita’·’assa
+disinnamuka
 kurila
 ca’alla
 tu’ikata
@@ -1473,7 +1475,7 @@ rika
 kalu’ihusubi
 janni
 mihu</textarea>
-<p><button onclick="intermediate()">Change</button> <label><input type="checkbox" id="chain" onclick="intermediate" /> See intermediate steps?</label> <label><input type="checkbox" id="chance" onclick="intermediate" /> Introduce chance?</label> <label><input type="checkbox" id="multi" onclick="intermediate" /> Allow multigraphs?</label> <label><input type="checkbox" id="debug" onclick="intermediate" /> Debug mode?</label> </p>
+<p><button onclick="intermediate()">Change</button> <label><input type="checkbox" id="chain" onclick="intermediate()" /> See intermediate steps?</label> <label><input type="checkbox" id="chance" onclick="intermediate()" /> Introduce chance?</label> <label><input type="checkbox" id="multi" onclick="intermediate()" /> Allow multigraphs?</label> <label><input type="checkbox" id="debug" onclick="intermediate()" /> Debug mode?</label> </p>
 <div id="output"></div>
 <script src="/data/scripts/sca.js"></script>
 <script>intermediate()</script>

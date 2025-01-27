@@ -4,7 +4,7 @@ let multigraphs;
 let debug;
 let linenumber = 0;
 const firstNullChar = 200;
-let nullChar = 61952;
+let nullChar;
 
 const textToInclude = '';
 
@@ -31,6 +31,7 @@ async function fillWords(language) {
 function intermediate() {
   let outputArea = document.getElementById('output');
   chain = check('chain');
+  nullChar = 61952;
   numcols = window.innerWidth < 800 ? 2 : 3;
   outputArea.style.columns = chain ? 'initial' : numcols;
   outputArea.innerHTML = change();
@@ -44,7 +45,7 @@ function change() {
   let words = getValue('wordsbox');
   words = words.map(word => new Word(word, rules));
   if (chain) {
-    return words.map(word => word.etymology).join('<br>');
+    return words.map(word => word.etymology).join('<br><br>');
   } else {
     return words.map(word =>
       `${word.word} &lt; ${word.natural}`).join('<br>');
@@ -66,6 +67,7 @@ class Rules {
     let name = '';
     let rule;
     this.categories = parseTables();
+    console.log('a', this.categories);
     this.clean = str => str.replace(/[∅]/g, '');
     this.tidy = str => str ? str.replace(/[?@*ː\uf200-\uf300]/g, '') : '';
     this.pipeOr = (match, p1) => multigraphs ? `(${p1})` : match;
@@ -343,7 +345,7 @@ class Word {
     for (let rule of this.rules) {
       this.original = this.lemma();
       this.apply(rule);
-      if (this.isNew()) this.etymology.push(this.lemma());
+      if (this.isNew() || debug) this.etymology.push(this.lemma());
     }
     this.etymology = this.etymology.join(' > ');
     this.word = this.lemma();
