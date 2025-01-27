@@ -32,8 +32,8 @@ function intermediate() {
   let outputArea = document.getElementById('output');
   chain = check('chain');
   nullChar = 61952;
-  numcols = window.innerWidth < 800 ? 2 : 3;
-  outputArea.style.columns = chain ? 'initial' : numcols;
+  // numcols = window.innerWidth < 800 ? 2 : 3;
+  // outputArea.style.columns = chain ? 'initial' : numcols;
   outputArea.innerHTML = change();
 }
 
@@ -42,13 +42,12 @@ function change() {
   multigraphs = check('multi');
   debug = check('debug');
   let rules = new Rules('rulesbox');
-  let words = getValue('wordsbox');
+  let words = getValue('wordsbox', ' ');
   words = words.map(word => new Word(word, rules));
   if (chain) {
     return words.map(word => word.etymology).join('<br><br>');
   } else {
-    return words.map(word =>
-      `${word.word} &lt; ${word.natural}`).join('<br>');
+    return words.map(word => word.word).join(' ');
   }
 }
 
@@ -67,7 +66,6 @@ class Rules {
     let name = '';
     let rule;
     this.categories = parseTables();
-    console.log('a', this.categories);
     this.clean = str => str.replace(/[∅]/g, '');
     this.tidy = str => str ? str.replace(/[?@*ː\uf200-\uf300]/g, '') : '';
     this.pipeOr = (match, p1) => multigraphs ? `(${p1})` : match;
@@ -90,6 +88,7 @@ class Rules {
         }
       } else if (rule.includes('}')) {
         rule = rule.slice(0, -1);
+        console.log('rule', rule);
         if (!debug) {
           ruleset.rule.push(this.makeRule(rule));
           ruleset = ruleset.parent;
@@ -290,7 +289,7 @@ class Rules {
 
 getElt = str => document.getElementById(str);
 check = str => getElt(str).checked;
-getValue = str => getElt(str).value.split('\n');
+getValue = (str, sep) => getElt(str).value.split(sep || '\n');
 
 class Word {
   constructor(word, rules) {
