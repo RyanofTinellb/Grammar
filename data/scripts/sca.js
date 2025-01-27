@@ -2,7 +2,7 @@ let chanceBox;
 let chain;
 let multigraphs;
 let debug;
-let linenumber = 297;
+let linenumber = 0;
 const firstNullChar = 200;
 let nullChar = 61952;
 
@@ -29,6 +29,7 @@ async function fillWords(language) {
 }
 
 function intermediate() {
+  let outputArea = document.getElementById('output');
   chain = check('chain');
   numcols = window.innerWidth < 800 ? 2 : 3;
   outputArea.style.columns = chain ? 'initial' : numcols;
@@ -39,21 +40,20 @@ function change() {
   chanceBox = check('chance') ? 1 : 0;
   multigraphs = check('multi');
   debug = check('debug');
-  let rules = new Rules('rules');
-  let words = getValue('words');
+  let rules = new Rules('rulesbox');
+  let words = getValue('wordsbox');
   words = words.map(word => new Word(word, rules));
   if (chain) {
     return words.map(word => word.etymology).join('<br>');
   } else {
     return words.map(word =>
-      `<span class="abc"><span class="ghi">${word.word}</span>
-       <span class="def">${word.natural}</span></span>`).join('<br>');
+      `${word.word} &lt; ${word.natural}`).join('<br>');
   }
 }
 
 class Rules {
   constructor(elt) {
-    this.rules = getValue(elt);
+    this.rules = getValue(elt).map(k => k.replace('&gt;', '>'));
     this.new = (name, parent) => ({
       '#': linenumber,
       name,
@@ -183,6 +183,7 @@ class Rules {
   }
 
   makeRule(rule) {
+    let chance;
     let repeat = rule.includes('↻');
     if (rule.includes('%')) {
       [chance, rule] = rule.split('%');
@@ -191,7 +192,7 @@ class Rules {
     }
     chance = Math.sqrt(1 - chance / 100);
     let [before, after, during] = rule.replace(/[↻]/g, '')
-      .split(/[>/]/)
+      .split(/[/>]/)
       .map(this.replaceCategories, this);
     let environment = this.createEnvironment(during, before);
     if (debug) console.log(linenumber, environment);
@@ -391,10 +392,10 @@ function parseTable(table, sounds) {
         }
       } else {
         const text = cell.textContent || String.fromCharCode(nullChar++);
-        for (rowname of rownames[rownum]) {
+        for (let rowname of rownames[rownum]) {
           push(sounds, rowname, text);
         }
-        for (colname of colnames[colnum]) {
+        for (let colname of colnames[colnum]) {
           push(sounds, colname, text);
         }
         push(sounds, tablename, text);
