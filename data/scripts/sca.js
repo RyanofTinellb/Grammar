@@ -42,7 +42,7 @@ function change() {
   multigraphs = check('multi');
   debug = check('debug');
   let rules = new Rules('rulesbox');
-  let words = getValue('wordsbox', ' ');
+  let words = getValue('wordsbox', / |\n/g);
   words = words.map(word => new Word(word, rules));
   if (chain) {
     return words.map(word => word.etymology).join('<br><br>');

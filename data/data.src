@@ -62,7 +62,7 @@ entries:
                 Appendices:
                   children:
                     Diachrony:
-                      date: '2025-01-27'
+                      date: '2025-01-28'
                       position: '2.46'
                       text:
                       - <table-alphabet><thead>hr3c2 C |hc4 obstruent |hc2 sonorant
@@ -128,6 +128,7 @@ entries:
                       - l &gt; ɫ / _[palatal]
                       - ɫ &gt; l / _[alveolar]}
                       - '[+voice, obstruent] &gt; [-voice, obstruent] / _[-voice]'
+                      - '[-voice, obstruent] &gt; [+voice, obstruent] / _[+voice]'
                       - '[back, close] &gt; [back, central] / _[+coronal]'
                       - '{[+voice, obstruent] &gt; [-voice, obstruent] / _#'
                       - h &gt; ∅ / _#
