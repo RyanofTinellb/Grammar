@@ -65,7 +65,7 @@ entries:
                       date: '2025-01-30'
                       position: '2.46'
                       text:
-                      - <table-alphabet><thead>hr3c2 C |hc4 obstruent |hc2 sonorant
+                      - <landscape><table-alphabet><thead>hr3c2 C |hc4 obstruent |hc2 sonorant
                       - hc2 plosive |hc2 fricative |hr nasal |hr liquid
                       - h -voice |h +voice |h -voice |h +voice |h +voice |h +voice</thead>
                       - <tbody>hr3 -coronal |h labial | p | b | f | v | m |
@@ -91,7 +91,7 @@ entries:
                       - h open ||||
                       - hr3 monophthong |h close | ē ||| ő
                       - h central ||||
-                      - h open ||| ā |</tbody></table-alphabet>
+                      - h open ||| ā |</tbody></table-alphabet></landscape>
                       - <h2>Rules</h2>
                       - <textarea-id>rulesbox|ʔ &gt;  y
                       - hː &gt; ç

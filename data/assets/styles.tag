@@ -178,6 +178,8 @@ ipa:
   type: span
   language: true
   key: Alt-i
+landscape:
+  type: div
 left-columns:
   type: div
 message:
@@ -208,6 +210,8 @@ paragraph:
   start: <p>
   end: </p>
   rank: 150
+portrait:
+  type: div
 script:
   type: line
   props:
