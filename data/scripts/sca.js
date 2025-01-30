@@ -88,7 +88,6 @@ class Rules {
         }
       } else if (rule.includes('}')) {
         rule = rule.slice(0, -1);
-        console.log('rule', rule);
         if (!debug) {
           ruleset.rule.push(this.makeRule(rule));
           ruleset = ruleset.parent;
