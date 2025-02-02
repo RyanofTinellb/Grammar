@@ -312,9 +312,7 @@ class Word {
   }
 
   update() {
-    if (this.old[1] != this.word[1]) {
       this.word[0] = degeminate(this.word[1]);
-    }
   }
 
   apply(rule) {
