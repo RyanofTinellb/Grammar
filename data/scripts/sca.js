@@ -29,6 +29,7 @@ async function fillWords(language) {
 }
 
 function intermediate() {
+  console.clear();
   let outputArea = document.getElementById('output');
   chain = check('chain');
   nullChar = 61952;
@@ -312,7 +313,7 @@ class Word {
   }
 
   update() {
-      this.word[0] = degeminate(this.word[1]);
+    this.word[0] = degeminate(this.word[1]);
   }
 
   apply(rule) {
@@ -360,21 +361,69 @@ function parseTables() {
 function parseTable(table, sounds) {
   let colnames = [];
   let rownames = [];
-  let tablename = table.tHead.rows[0].cells[0].textContent;
+  let tablename;
+
+  /*  [     c0     c1   c2    c3           c0     c1   c2    c3
+r0        [obst, plos, -voc],            [obst, plos, plos, -voc],
+r1        [obst, plos, +voc],            [obst, plos, plos, +voc],
+r2        [obst, fric, sibi, -voc],      [obst, fric, sibi, -voc],
+r3        [obst, fric, sibi, +voc],      [obst, fric, sibi, +voc],
+r4        [obst, fric, spir, -voc],      [obst, fric, spir, -voc],
+r5        [obst, fric, spir, +voc],      [obst, fric, spir, +voc],
+r6        [sono, nasl, +voc],            [sono, nasl, nasl, +voc],
+r7        [sono, liqd],                  [sono, liqd, liqd, liqd],
+r8        [glid]                         [glid, glid, glid, glid]
+      ]
+  */
 
   // Parse THead
   for (const row of table.tHead.rows) {
-    let index = 0;
     for (const cell of row.cells) {
-      if (!cell.cellIndex && !row.rowIndex) continue;
       const text = cell.textContent;
-      for (let i = 0; i < cell.colSpan; i++) {
-        if (!colnames[index]) colnames[index] = [];
-        if (text) colnames[index].push(cell.textContent);
-        index++;
+      if (!cell.cellIndex && !row.rowIndex) {
+        tablename = text;
+        continue;
       }
+      
     }
   }
+
+  // Parse THead
+  // let rowIndex = 0;
+  // for (const row of table.tHead.rows) {
+  //   for (const cell of row.cells) {
+  //     const text = cell.textContent;
+  //     if (!cell.cellIndex && !row.rowIndex) {
+  //       tablename = text;
+  //       continue;
+  //     }
+  //     if (!colnames[rowIndex]) colnames.push([]);
+  //     let colIndex = 0;
+  //     while (colnames[colIndex][rowIndex]) colIndex++;
+  //     for (let i = colIndex; i < cell.colSpan + colIndex; i++) {
+  //       for (let j = rowIndex; j < cell.rowSpan + rowIndex; j++) {
+  //         if (!colnames[i]) colnames.push([]);
+  //         colnames[i][j] = text;
+  //       }
+  //     }
+  //   }
+  //   rowIndex++;
+  // }
+  // console.table(colnames)
+
+  // // Parse THead
+  // for (const row of table.tHead.rows) {
+  //   let index = 0;
+  //   for (const cell of row.cells) {
+  //     if (!cell.cellIndex && !row.rowIndex) continue;
+  //     const text = cell.textContent;
+  //     for (let i = 0; i < cell.colSpan; i++) {
+  //       if (!colnames[index]) colnames[index] = [];
+  //       if (text) colnames[index].push(cell.textContent);
+  //       index++;
+  //     }
+  //   }
+  // }
 
   // Parse TBody
   rownum = 0;
@@ -393,6 +442,7 @@ function parseTable(table, sounds) {
         for (let rowname of rownames[rownum]) {
           push(sounds, rowname, text);
         }
+        console.log(colnum);
         for (let colname of colnames[colnum]) {
           push(sounds, colname, text);
         }
