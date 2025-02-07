@@ -358,9 +358,16 @@ function parseTables() {
   return sounds;
 }
 
+function findColIndex(rowIndex, table) {
+  let colIndex = 0;
+  while (table?.[rowIndex]?.colIndex) colIndex++;
+  return colIndex;
+}
+
 function parseTable(table, sounds) {
   let colnames = [];
   let rownames = [];
+  let fulls = [];
   let tablename;
 
   /*  [     c0     c1   c2    c3           c0     c1   c2    c3
@@ -384,9 +391,19 @@ r8        [glid]                         [glid, glid, glid, glid]
         tablename = text;
         continue;
       }
-      
+      const rowIndex = row.rowIndex;
+      const colIndex = findColIndex(rowIndex, fulls);
+      for (let i = rowIndex; i < cell.rowSpan + rowIndex; i++) {
+        for (let j = colIndex; j < cell.colSpan + colIndex; j++) {
+          console.log(j, i);
+          if (!fulls[j]) fulls[j] = [];
+          fulls[j][i] = true;
+        }
+      }
+      console.log(text);
     }
   }
+  console.table(fulls);
 
   // Parse THead
   // let rowIndex = 0;
