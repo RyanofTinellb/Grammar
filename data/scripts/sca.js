@@ -33,6 +33,7 @@ function intermediate() {
   let outputArea = document.getElementById('output');
   chain = check('chain');
   nullChar = 61952;
+  linenumber = 0;
   // numcols = window.innerWidth < 800 ? 2 : 3;
   // outputArea.style.columns = chain ? 'initial' : numcols;
   outputArea.innerHTML = change();
@@ -74,9 +75,8 @@ class Rules {
       linenumber++;
       if (!line) continue;
       [rule, name] = line.split(' // ');
-      rule = rule.replace(/ /g, '').replace(/\\s/g, ' ');
       if (rule.includes('=')) {
-        let [category, sounds] = rule.split('=');
+        let [category, sounds] = rule.split(' = ');
         this.categories[category] = this.replaceSounds(sounds);
         continue;
       }
@@ -134,7 +134,7 @@ class Rules {
     let total = 0;
     let regex = str.replace(/\?/g, '.').replace(/~/, '.*?')
       .replace(/\(/g, '(?:(?:').replace(/\)/g, '))?')
-      .replace(/\[(.*?),(.*?)\]/g,
+      .replace(/\[(.*?)[ ,]+(.*?)\]/g,
         (match, p1, p2) => this.addToCats(match, p1, p2, this.categories));
     for (let [category, sounds] of sorted(this.categories)) {
       for (const star of ['*', '']) {
@@ -165,7 +165,7 @@ class Rules {
     // add this to the category unless already exists
     if (!categories[match]) {
       let sounds = categories[bracket(p1)];
-      const selection = p2.split(',').map(a => categories[bracket(a)]);
+      const selection = p2.split(/[, ]+/).map(a => categories[bracket(a)]);
       for (const category of selection) {
         sounds = sounds.replace(/./g, a => category.includes(a) ? a : '');
       }
@@ -175,7 +175,8 @@ class Rules {
   }
 
   replaceSounds(str) {
-    str = str.replace(/\[(.*?),(.*?)\]/g,
+    console.log('replaceSounds', str)
+    str = str.replace(/\[(.*?)[, ]+(.*?)\]/g,
       (match, p1, p2) => this.addToCats(match, p1, p2, this.categories));
     for (let [category, sounds] of sorted(this.categories)) {
       str = str.split(category).join(sounds);
@@ -186,14 +187,14 @@ class Rules {
   makeRule(rule) {
     let chance;
     let repeat = rule.includes('↻');
-    if (rule.includes('%')) {
-      [chance, rule] = rule.split('%');
+    if (rule.includes('% ')) {
+      [chance, rule] = rule.split('% ');
     } else {
       chance = 100;
     }
     chance = Math.sqrt(1 - chance / 100);
-    let [before, after, during] = rule.replace(/[↻]/g, '')
-      .split(/[/>]/)
+    let [before, after, during] = rule.replace('↻ ', '')
+      .split(/ [/>] /)
       .map(this.replaceCategories, this);
     let environment = this.createEnvironment(during, before);
     if (debug) console.log(linenumber, environment);
@@ -358,9 +359,11 @@ function parseTables() {
   return sounds;
 }
 
-function findColIndex(rowIndex, table) {
+function findColIndex(rowIndex, table, text) {
   let colIndex = 0;
-  while (table?.[rowIndex]?.colIndex) colIndex++;
+  while (table?.[colIndex]?.[rowIndex]) {
+    colIndex++;
+  }
   return colIndex;
 }
 
@@ -369,19 +372,6 @@ function parseTable(table, sounds) {
   let rownames = [];
   let fulls = [];
   let tablename;
-
-  /*  [     c0     c1   c2    c3           c0     c1   c2    c3
-r0        [obst, plos, -voc],            [obst, plos, plos, -voc],
-r1        [obst, plos, +voc],            [obst, plos, plos, +voc],
-r2        [obst, fric, sibi, -voc],      [obst, fric, sibi, -voc],
-r3        [obst, fric, sibi, +voc],      [obst, fric, sibi, +voc],
-r4        [obst, fric, spir, -voc],      [obst, fric, spir, -voc],
-r5        [obst, fric, spir, +voc],      [obst, fric, spir, +voc],
-r6        [sono, nasl, +voc],            [sono, nasl, nasl, +voc],
-r7        [sono, liqd],                  [sono, liqd, liqd, liqd],
-r8        [glid]                         [glid, glid, glid, glid]
-      ]
-  */
 
   // Parse THead
   for (const row of table.tHead.rows) {
@@ -392,55 +382,17 @@ r8        [glid]                         [glid, glid, glid, glid]
         continue;
       }
       const rowIndex = row.rowIndex;
-      const colIndex = findColIndex(rowIndex, fulls);
-      for (let i = rowIndex; i < cell.rowSpan + rowIndex; i++) {
-        for (let j = colIndex; j < cell.colSpan + colIndex; j++) {
-          console.log(j, i);
-          if (!fulls[j]) fulls[j] = [];
-          fulls[j][i] = true;
+      const colIndex = findColIndex(rowIndex, fulls, text);
+      for (let i = colIndex; i < cell.colSpan + colIndex; i++) {
+        for (let j = rowIndex; j < cell.rowSpan + rowIndex; j++) {
+          if (!fulls[i]) fulls[i] = [];
+          fulls[i][j] = true;
         }
+        if (!colnames[i]) colnames[i] = [];
+        colnames[i].push(text);
       }
-      console.log(text);
     }
   }
-  console.table(fulls);
-
-  // Parse THead
-  // let rowIndex = 0;
-  // for (const row of table.tHead.rows) {
-  //   for (const cell of row.cells) {
-  //     const text = cell.textContent;
-  //     if (!cell.cellIndex && !row.rowIndex) {
-  //       tablename = text;
-  //       continue;
-  //     }
-  //     if (!colnames[rowIndex]) colnames.push([]);
-  //     let colIndex = 0;
-  //     while (colnames[colIndex][rowIndex]) colIndex++;
-  //     for (let i = colIndex; i < cell.colSpan + colIndex; i++) {
-  //       for (let j = rowIndex; j < cell.rowSpan + rowIndex; j++) {
-  //         if (!colnames[i]) colnames.push([]);
-  //         colnames[i][j] = text;
-  //       }
-  //     }
-  //   }
-  //   rowIndex++;
-  // }
-  // console.table(colnames)
-
-  // // Parse THead
-  // for (const row of table.tHead.rows) {
-  //   let index = 0;
-  //   for (const cell of row.cells) {
-  //     if (!cell.cellIndex && !row.rowIndex) continue;
-  //     const text = cell.textContent;
-  //     for (let i = 0; i < cell.colSpan; i++) {
-  //       if (!colnames[index]) colnames[index] = [];
-  //       if (text) colnames[index].push(cell.textContent);
-  //       index++;
-  //     }
-  //   }
-  // }
 
   // Parse TBody
   rownum = 0;
@@ -459,11 +411,11 @@ r8        [glid]                         [glid, glid, glid, glid]
         for (let rowname of rownames[rownum]) {
           push(sounds, rowname, text);
         }
-        console.log(colnum);
         for (let colname of colnames[colnum]) {
           push(sounds, colname, text);
         }
         push(sounds, tablename, text);
+        push(sounds, tablename.charAt(0).toUpperCase(), text);
         colnum++;
       }
     }

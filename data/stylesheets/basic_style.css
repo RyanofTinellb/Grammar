@@ -325,8 +325,8 @@ main summary {
 
 main textarea {
     margin-inline-start: 15%;
-    width: 40ch;
-    height: 10lh;
+    width: min(80%, 80ch);
+    height: 20lh;
 }
 
 main .also p {

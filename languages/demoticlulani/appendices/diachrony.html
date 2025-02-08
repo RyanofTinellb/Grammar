@@ -14,24 +14,24 @@
 <div class="main-page"><nav class="mini"><p><a href="/languages/demoticlulani/appendices/index.html">← Previous Page</a></p>
 <p><a href="/index.html">↑ Back to Index</a></p></nav>
 <main><h1>Diachrony</h1>
-<div class="landscape"><table class="alphabet"><thead><tr><th rowspan="4" colspan="2">C</th><th colspan="6">obstruent</th><th colspan="2">sonorant</th><th rowspan="4">glide</th></tr>
+<div class="landscape"><table class="alphabet"><thead><tr><th rowspan="4" colspan="2">consonant</th><th colspan="6">obstruent</th><th colspan="2">sonorant</th><th rowspan="4">glide</th></tr>
 <tr><th rowspan="2" colspan="2">plosive</th><th colspan="4">fricative</th><th rowspan="2">nasal</th><th rowspan="3">liquid</th></tr>
 <tr><th colspan="2">sibilant</th><th colspan="2">spirant</th></tr>
-<tr><th>-voice</th><th>+voice</th><th>-voice</th><th>+voice</th><th>-voice</th><th>+voice</th><th>+voice</th></tr></thead>
+<tr><th>voiceless</th><th>voiced</th><th>voiceless</th><th>voiced</th><th>voiceless</th><th>voiced</th><th>voiced</th></tr></thead>
 <tbody><tr><th rowspan="3">peripheral</th><th>labial</th><td>p</td><td>b</td><td></td><td></td><td>f</td><td>v</td><td>m</td><td></td><td>w</td></tr>
 <tr><th>velar</th><td>k</td><td>g</td><td></td><td></td><td></td><td>ᴚ</td><td>q</td><td>r</td><td></td></tr>
 <tr><th>glottal</th><td>’</td><td></td><td></td><td></td><td>h</td><td>ɦ</td><td></td><td></td><td></td></tr>
 <tr><th rowspan="2">coronal</th><th>alveolar</th><td>t</td><td>d</td><td>s</td><td>z</td><td>þ</td><td>ð</td><td>n</td><td>l</td><td></td></tr>
 <tr><th>palatal</th><td>c</td><td>j</td><td>x</td><td>ʒ</td><td>ç</td><td>ʝ</td><td>ñ</td><td>ɫ</td><td>y</td></tr></tbody></table>
-<table class="alphabet"><thead><tr><th rowspan="2" colspan="2">V</th><th colspan="2">front</th><th colspan="2">back</th></tr>
+<table class="alphabet"><thead><tr><th rowspan="2" colspan="2">vowel</th><th colspan="2">front</th><th colspan="2">back</th></tr>
 <tr><th>-round</th><th>+round</th><th>-round</th><th>+round</th></tr></thead>
 <tbody><tr><th rowspan="3">long</th><th>close</th><td>ī</td><td>ű</td><td></td><td>ū</td></tr>
 <tr><th>central</th><td></td><td>ő</td><td></td><td>ō</td></tr>
 <tr><th>open</th><td>ē</td><td></td><td>ā</td><td></td></tr>
-<tr><th rowspan="3">+stress</th><th>close</th><td>i</td><td>ü</td><td></td><td>u</td></tr>
+<tr><th rowspan="3">stressed</th><th>close</th><td>i</td><td>ü</td><td></td><td>u</td></tr>
 <tr><th>central</th><td></td><td>ö</td><td></td><td>o</td></tr>
 <tr><th>open</th><td>e</td><td></td><td>a</td><td></td></tr>
-<tr><th rowspan="3">-stress</th><th>close</th><td>ɨ</td><td>ṻ</td><td></td><td>ʉ</td></tr>
+<tr><th rowspan="3">unstressed</th><th>close</th><td>ɨ</td><td>ṻ</td><td></td><td>ʉ</td></tr>
 <tr><th>central</th><td></td><td>ṏ</td><td></td><td>ꝋ</td></tr>
 <tr><th>open</th><td></td><td></td><td>ə</td><td></td></tr>
 <tr><th rowspan="3">semivowel</th><th>close</th><td>ỷ</td><td></td><td></td><td>ẘ</td></tr>
@@ -40,7 +40,7 @@
 <tr><th rowspan="3">monophthong</th><th>close</th><td>ḗ</td><td></td><td></td><td>ỗ</td></tr>
 <tr><th>central</th><td></td><td></td><td></td><td></td></tr>
 <tr><th>open</th><td></td><td></td><td>ǡ</td><td></td></tr></tbody></table>
-<table class="alphabet"><thead><tr><th>G</th><th>unsafe</th><th>safe</th></tr></thead>
+<table class="alphabet"><thead><tr><th>others</th><th>unsafe</th><th>safe</th></tr></thead>
 <tbody><tr><th rowspan="7"></th><td>ᴚ</td><td>r</td></tr>
 <tr><td>ʝ</td><td>ʒ</td></tr>
 <tr><td>ǡ</td><td>ā</td></tr>
@@ -52,28 +52,28 @@
 <textarea id="rulesbox">· &gt; ə
 ʔ &gt;  y
 {hː &gt; ç
-[alveolar, sonorant]ː &gt; [palatal, sonorant]ː // palatalisation of geminates
-[plosive, +voice]ː &gt; [spirant, +voice]ː // frication of voiced plosive geminates
+[alveolar sonorant]ː &gt; [palatal sonorant]ː // palatalisation of geminates
+[voiced plosive]ː &gt; [voiced spirant]ː // frication of voiced plosive geminates
 [unsafe] &gt; [safe]
-[plosive, -voice]ː &gt; [plosive, +voice]ː}
-{[+stress] &gt; [-stress] / _# // placing stress
-[+stress] &gt; [-stress] / Cː_
-↻ [+stress] &gt; [-stress] / _CVC(ː)[-stress]
-[-stress] &gt; [+stress] / [-stress]C_
-[-stress] &gt; [+stress] / #C_#}
+[voiceless plosive]ː &gt; [voiced plosive]ː}
+{[stressed vowel] &gt; [unstressed vowel] / _# // placing stress
+[stressed vowel] &gt; [unstressed vowel] / Cː_
+↻ [stressed vowel] &gt; [unstressed vowel] / _CVC(ː)[unstressed]
+[unstressed vowel] &gt; [stressed vowel] / [unstressed vowel]C_
+[unstressed vowel] &gt; [stressed vowel] / #C_#}
 Cː &gt; C
 ’ &gt; ∅
 {[alveolar] &gt; [palatal] / _[front] // palatalisation before front vowels
 h &gt; ç / _[front]} // including glottal
-{[-stress] &gt; [semivowel] / _V
-[+stress] &gt; [-stress] / [+stress]_
-a[-stress] &gt; [monophthong]
-[+stress]ə &gt; [long]
-∅ &gt; [semivowel] / [+stress]_[-stress]
+{[unstressed vowel vowel] &gt; [semivowel] / _V
+[stressed vowel] &gt; [unstressed vowel] / [stressed vowel]_
+a[unstressed vowel] &gt; [monophthong]
+[stressed vowel]ə &gt; [long]
+∅ &gt; [semivowel] / [stressed vowel]_[unstressed vowel]
 ə &gt; ∅
 · &gt; ∅
 [unsafe] &gt; [safe]
-[+stress]ː &gt; [long]
+[stressed vowel]ː &gt; [long]
 V &gt; ∅ / V_}
 {[nasal] &gt; n / _[alveolar]
 [nasal] &gt; m / _[labial]
@@ -87,25 +87,28 @@ V &gt; ∅ / V_}
 ɫ &gt; l / [alveolar]_
 l &gt; ɫ / _[palatal]
 ɫ &gt; l / _[alveolar]}
-[+voice, obstruent] &gt; [-voice, obstruent] / _[-voice]
-[-voice, obstruent] &gt; [+voice, obstruent] / _[+voice]
+[voiced obstruent] &gt; [voiceless obstruent] / _[voiceless]
+[voiceless obstruent] &gt; [voiced obstruent] / _[voiced]
 [back, close] &gt; [back, central] / _[+coronal]
 {[glottal] &gt; ∅ / _# // elision of /h/
 [glottal] &gt; ∅ / C_}
 ∅ &gt; ɨ / #_[sonorant]C
-[palatal, sonorant] &gt; [alveolar, sonorant] / _[front]
+[palatal sonorant] &gt; [alveolar sonorant] / _[front]
 {pt &gt; p&t // protect 'pt'
 [plosive] &gt; ː / [plosive]_
+& &gt; ∅
+ː &gt; ∅ / #[palatal plosive]_ // degeminate c,j at the start of words
 [spirant] &gt; ∅ / #_[plosive]
-& &gt; ∅}
+[fricative] &gt; ∅ / #_[alveolar plosive]}
 {[back] &gt; [front] / _C(C)[front]  // orthography
-[-stress] &gt; [+stress]
+[unstressed vowel] &gt; [stressed vowel]
 ʒ &gt; j
 ly &gt; ɫ
 iy &gt; ī / _C
 ili &gt; ī
 d &gt; ∅ / _j
-q &gt; n / _[velar]}
+q &gt; n / _[velar]
+x &gt; ∅ / [alveolar plosive]_}
 </textarea>
 <h2 id="words">Words</h2>
 <textarea id="wordsbox">papara bapara tapara dapara capara japara kapara gapara mapara napara qapara lapara rapara fapara sapara xapara hapara ’apara
@@ -148,12 +151,14 @@ tapa’ara taba’ara tata’ara tada’ara taca’ara taja’ara taka’ara tag
 <div id="output"></div>
 <script src="/data/scripts/sca.js"></script>
 <script>intermediate()</script>
+
+
 </main>
 <nav class="mini"><p><a href="/languages/demoticlulani/appendices/index.html">← Previous Page</a></p>
 <p><a href="/index.html">↑ Back to Index</a></p></nav>
 </div></div>
 <footer><div class="copyright"><span class="no-breaks">&copy;2017-2025 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Monday, February 3rd, 2025</span></div>
+<span class="no-breaks">Last updated: Saturday, February 8th, 2025</span></div>
 </footer>
 <p><script src="/data/scripts/parse_href.js"></script></p>
 <script>
