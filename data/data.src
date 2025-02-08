@@ -62,60 +62,70 @@ entries:
                 Appendices:
                   children:
                     Diachrony:
-                      date: '2025-02-03'
+                      date: '2025-02-08'
                       position: '2.46'
                       text:
-                      - <landscape><table-alphabet><thead>hr4c2 C |hc6 obstruent |hc2 sonorant
-                      - hc2r2 plosive |hc4 fricative |hr2 nasal |hr2 liquid
+                      - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant |hr4 glide
+                      - hc2r2 plosive |hc4 fricative |hr2 nasal |hr3 liquid
                       - hc2 sibilant |hc2 spirant
-                      - h -voice |h +voice |h -voice |h +voice |h -voice |h +voice |h +voice |h +voice</thead>
-                      - <tbody>hr3 peripheral |h labial | p | b ||| f | v | m |
-                      - h velar | k | g |||| ᴚ | q | r
-                      - h glottal | ’ |||| h | ɦ ||
-                      - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l
-                      - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ</tbody></table-alphabet>
-                      - <table-alphabet><thead>hr2c2 V |hc2 front |hc2 back
+                      - h voiceless |h voiced |h voiceless |h voiced |h voiceless |h voiced |h voiced</thead>
+                      - <tbody>hr3 peripheral |h labial | p | b ||| f | v | m || w
+                      - h velar | k | g |||| ᴚ | q | r |
+                      - h glottal | ’ |||| h | ɦ |||
+                      - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l |
+                      - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ | y</tbody></table-alphabet>
+                      - <table-alphabet><thead>hr2c2 vowel |hc2 front |hc2 back
                       - h -round |h +round |h -round |h +round</thead>
                       - <tbody>hr3 long |h close | ī | ű || ū
                       - h central || ő || ō
                       - h open | ē || ā |
-                      - hr3 +stress |h close | i | ü || u
+                      - hr3 stressed |h close | i | ü || u
                       - h central || ö || o
                       - h open | e || a |
-                      - hr3 -stress |h close | ɨ | ṻ || ʉ
+                      - hr3 unstressed |h close | ɨ | ṻ || ʉ
                       - h central || ṏ || ꝋ
                       - h open ||| ə |
-                      - 'hr3 semivowel |h close | y ||| w '
+                      - 'hr3 semivowel |h close | ỷ ||| ẘ '
                       - h central ||||
                       - h open ||||
-                      - hr3 monophthong |h close | ē ||| ő
+                      - hr3 monophthong |h close | ḗ ||| ỗ
                       - h central ||||
-                      - h open ||| ā |</tbody></table-alphabet></landscape>
+                      - h open ||| ǡ |</tbody></table-alphabet>
+                      - <table-alphabet><thead>h others |h unsafe |h safe</thead>
+                      - <tbody>hr7 | ᴚ | r
+                      - ' ʝ | ʒ'
+                      - ' ǡ | ā'
+                      - ' ḗ | ē'
+                      - ' ỗ | ő'
+                      - ' ỷ | y'
+                      - ' ẘ | w</tbody></table-alphabet></landscape>'
                       - <h2>Rules</h2>
                       - <textarea-id>rulesbox|· &gt; ə
                       - ʔ &gt;  y
                       - '{hː &gt; ç'
-                      - '[alveolar, sonorant]ː &gt; [palatal, sonorant]ː // palatalisation of geminates'
-                      - '[plosive, +voice]ː &gt; [spirant, +voice]ː // frication of voiced plosive geminates'
-                      - ᴚ &gt; r
-                      - ʝ &gt; ʒ
-                      - '[plosive, -voice]ː &gt; [plosive, +voice]ː}'
-                      - '{[+stress] &gt; [-stress] / _# // placing stress'
-                      - '[+stress] &gt; [-stress] / Cː_'
-                      - ↻ [+stress] &gt; [-stress] / _CVC(ː)[-stress]
-                      - '[-stress] &gt; [+stress] / [-stress]C_'
-                      - '[-stress] &gt; [+stress] / #C_#}'
+                      - '[alveolar sonorant]ː &gt; [palatal sonorant]ː // palatalisation of geminates'
+                      - '[voiced plosive]ː &gt; [voiced spirant]ː // frication of voiced plosive geminates'
+                      - '[unsafe] &gt; [safe]'
+                      - '[voiceless plosive]ː &gt; [voiced plosive]ː}'
+                      - '{[stressed vowel] &gt; [unstressed vowel] / _# // placing stress'
+                      - '[stressed vowel] &gt; [unstressed vowel] / Cː_'
+                      - ↻ [stressed vowel] &gt; [unstressed vowel] / _CVC(ː)[unstressed]
+                      - '[unstressed vowel] &gt; [stressed vowel] / [unstressed vowel]C_'
+                      - '[unstressed vowel] &gt; [stressed vowel] / #C_#}'
                       - Cː &gt; C
                       - ’ &gt; ∅
                       - '{[alveolar] &gt; [palatal] / _[front] // palatalisation before front vowels'
                       - h &gt; ç / _[front]} // including glottal
-                      - '{[-stress] &gt; [semivowel] / _V'
-                      - '[+stress] &gt; [-stress] / [+stress]_'
-                      - a[-stress] &gt; [monophthong]
-                      - '[+stress]ə &gt; [long]'
-                      - ∅ &gt; [semivowel] / [+stress]_[-stress]
+                      - '{[unstressed vowel vowel] &gt; [semivowel] / _V'
+                      - '[stressed vowel] &gt; [unstressed vowel] / [stressed vowel]_'
+                      - a[unstressed vowel] &gt; [monophthong]
+                      - '[stressed vowel]ə &gt; [long]'
+                      - ∅ &gt; [semivowel] / [stressed vowel]_[unstressed vowel]
                       - ə &gt; ∅
-                      - · &gt; ∅}
+                      - · &gt; ∅
+                      - '[unsafe] &gt; [safe]'
+                      - '[stressed vowel]ː &gt; [long]'
+                      - V &gt; ∅ / V_}
                       - '{[nasal] &gt; n / _[alveolar]'
                       - '[nasal] &gt; m / _[labial]'
                       - '[nasal] &gt; q / _[velar]'
@@ -128,23 +138,28 @@ entries:
                       - ɫ &gt; l / [alveolar]_
                       - l &gt; ɫ / _[palatal]
                       - ɫ &gt; l / _[alveolar]}
-                      - '[+voice, obstruent] &gt; [-voice, obstruent] / _[-voice]'
-                      - '[-voice, obstruent] &gt; [+voice, obstruent] / _[+voice]'
+                      - '[voiced obstruent] &gt; [voiceless obstruent] / _[voiceless]'
+                      - '[voiceless obstruent] &gt; [voiced obstruent] / _[voiced]'
                       - '[back, close] &gt; [back, central] / _[+coronal]'
                       - '{[glottal] &gt; ∅ / _# // elision of /h/'
                       - '[glottal] &gt; ∅ / C_}'
                       - '∅ &gt; ɨ / #_[sonorant]C'
-                      - '[palatal, sonorant] &gt; [alveolar, sonorant] / _[front]'
+                      - '[palatal sonorant] &gt; [alveolar sonorant] / _[front]'
                       - '{pt &gt; p&t // protect ''pt'''
-                      - '[plosive] &gt; ː / [plosive]'
-                      - '& &gt; ∅}'
+                      - '[plosive] &gt; ː / [plosive]_'
+                      - '& &gt; ∅'
+                      - 'ː &gt; ∅ / #[palatal plosive]_ // degeminate c,j at the start of words'
+                      - '[spirant] &gt; ∅ / #_[plosive]'
+                      - '[fricative] &gt; ∅ / #_[alveolar plosive]}'
                       - '{[back] &gt; [front] / _C(C)[front]  // orthography'
-                      - '[-stress] &gt; [+stress]'
+                      - '[unstressed vowel] &gt; [stressed vowel]'
                       - ʒ &gt; j
                       - ly &gt; ɫ
                       - iy &gt; ī / _C
                       - ili &gt; ī
-                      - d &gt; ∅ / _j}
+                      - d &gt; ∅ / _j
+                      - q &gt; n / _[velar]
+                      - x &gt; ∅ / [alveolar plosive]_}
                       - </textarea-id>
                       - <h2>Words</h2>
                       - <textarea-id>wordsbox|papara bapara tapara dapara capara japara kapara gapara mapara napara qapara lapara rapara fapara sapara xapara hapara ’apara
@@ -164,7 +179,25 @@ entries:
                       - pasara basara tasara dasara casara jasara kasara gasara masara nasara qasara lasara rasara fasara sasara xasara hasara ’asara
                       - paxara baxara taxara daxara caxara jaxara kaxara gaxara maxara naxara qaxara laxara raxara faxara saxara xaxara haxara ’axara
                       - pahara bahara tahara dahara cahara jahara kahara gahara mahara nahara qahara lahara rahara fahara sahara xahara hahara ’ahara
-                      - pa’ara ba’ara ta’ara da’ara ca’ara ja’ara ka’ara ga’ara ma’ara na’ara qa’ara la’ara ra’ara fa’ara sa’ara xa’ara ha’ara ’a’ara</textarea-id>
+                      - pa’ara ba’ara ta’ara da’ara ca’ara ja’ara ka’ara ga’ara ma’ara na’ara qa’ara la’ara ra’ara fa’ara sa’ara xa’ara ha’ara ’a’ara
+                      - tapapara tabapara tatapara tadapara tacapara tajapara takapara tagapara tamapara tanapara taqapara talapara tarapara tafapara tasapara taxapara tahapara ta’apara
+                      - tapabara tababara tatabara tadabara tacabara tajabara takabara tagabara tamabara tanabara taqabara talabara tarabara tafabara tasabara taxabara tahabara ta’abara
+                      - tapatara tabatara tatatara tadatara tacatara tajatara takatara tagatara tamatara tanatara taqatara talatara taratara tafatara tasatara taxatara tahatara ta’atara
+                      - tapadara tabadara tatadara tadadara tacadara tajadara takadara tagadara tamadara tanadara taqadara taladara taradara tafadara tasadara taxadara tahadara ta’adara
+                      - tapacara tabacara tatacara tadacara tacacara tajacara takacara tagacara tamacara tanacara taqacara talacara taracara tafacara tasacara taxacara tahacara ta’acara
+                      - tapajara tabajara tatajara tadajara tacajara tajajara takajara tagajara tamajara tanajara taqajara talajara tarajara tafajara tasajara taxajara tahajara ta’ajara
+                      - tapakara tabakara tatakara tadakara tacakara tajakara takakara tagakara tamakara tanakara taqakara talakara tarakara tafakara tasakara taxakara tahakara ta’akara
+                      - tapagara tabagara tatagara tadagara tacagara tajagara takagara tagagara tamagara tanagara taqagara talagara taragara tafagara tasagara taxagara tahagara ta’agara
+                      - tapamara tabamara tatamara tadamara tacamara tajamara takamara tagamara tamamara tanamara taqamara talamara taramara tafamara tasamara taxamara tahamara ta’amara
+                      - tapanara tabanara tatanara tadanara tacanara tajanara takanara taganara tamanara tananara taqanara talanara taranara tafanara tasanara taxanara tahanara ta’anara
+                      - tapaqara tabaqara tataqara tadaqara tacaqara tajaqara takaqara tagaqara tamaqara tanaqara taqaqara talaqara taraqara tafaqara tasaqara taxaqara tahaqara ta’aqara
+                      - tapalara tabalara tatalara tadalara tacalara tajalara takalara tagalara tamalara tanalara taqalara talalara taralara tafalara tasalara taxalara tahalara ta’alara
+                      - taparara tabarara tatarara tadarara tacarara tajarara takarara tagarara tamarara tanarara taqarara talarara tararara tafarara tasarara taxarara taharara ta’arara
+                      - tapafara tabafara tatafara tadafara tacafara tajafara takafara tagafara tamafara tanafara taqafara talafara tarafara tafafara tasafara taxafara tahafara ta’afara
+                      - tapasara tabasara tatasara tadasara tacasara tajasara takasara tagasara tamasara tanasara taqasara talasara tarasara tafasara tasasara taxasara tahasara ta’asara
+                      - tapaxara tabaxara tataxara tadaxara tacaxara tajaxara takaxara tagaxara tamaxara tanaxara taqaxara talaxara taraxara tafaxara tasaxara taxaxara tahaxara ta’axara
+                      - tapahara tabahara tatahara tadahara tacahara tajahara takahara tagahara tamahara tanahara taqahara talahara tarahara tafahara tasahara taxahara tahahara ta’ahara
+                      - tapa’ara taba’ara tata’ara tada’ara taca’ara taja’ara taka’ara taga’ara tama’ara tana’ara taqa’ara tala’ara tara’ara tafa’ara tasa’ara taxa’ara taha’ara ta’a’ara</textarea-id>
                       - '<button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label> '
                       - <div-id>output|</div-id>
                       - <internal-script>/data/scripts/sca.js</internal-script>
