@@ -34,11 +34,6 @@ checkbox:
     background: '#fc6'
 columns:
   type: div
-dd:
-  type: line
-  props:
-    off-key: Return
-    colour: '#00f'
 desktop:
   type: div
   rank: 150
@@ -61,17 +56,6 @@ div-id:
   close: '</div>'
   props:
     background: '#f6c'
-dl-feature-list:
-  type: line
-  open: '<dl class="features">'
-  close: </dl>
-  props:
-    background: '#ffc'
-dt:
-  type: line
-  props:
-    off-key: Return
-    colour: '#f0f'
 english:
   type: div
 example:
@@ -216,6 +200,14 @@ ol:
   type: block
   start: <li>
   end: </li>
+ol-feature-list:
+  type: block
+  open: '<ol id="features">'
+  close: </ol>
+  start: <li>
+  end: </li>
+  props:
+    background: '#ffc'
 overline:
   type: span
   props:

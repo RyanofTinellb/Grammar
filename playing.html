@@ -17,20 +17,17 @@
 <div class="landscape"><table class="alphabet"><thead><tr><th rowspan="4" colspan="2">consonant</th><th colspan="6">obstruent</th><th colspan="2">sonorant</th></tr>
 <tr><th rowspan="2" colspan="2">plosive</th><th colspan="4">fricative</th><th rowspan="2">nasal</th><th rowspan="2">liquid</th></tr>
 <tr><th colspan="2">sibilant</th><th colspan="2">spirant</th></tr>
-<tr><th>-voice</th><th>+voice</th><th>-voice</th><th>+voice</th><th>-voice</th><th>+voice</th><th>+voice</th><th>+voice</th></tr></thead>
+<tr><th>voiceless</th><th>voiced</th><th>voiceless</th><th>voiced</th><th>voiceless</th><th>voiced</th><th>voiced</th><th>voiced</th></tr></thead>
 <tbody><tr><th rowspan="3">peripheral</th><th>labial</th><td>p</td><td>b</td><td></td><td></td><td>f</td><td>v</td><td>m</td><td></td></tr>
 <tr><th>velar</th><td>k</td><td>g</td><td></td><td></td><td></td><td>ᴚ</td><td>q</td><td>r</td></tr>
 <tr><th>glottal</th><td>’</td><td></td><td></td><td></td><td>h</td><td>ɦ</td><td></td><td></td></tr>
 <tr><th rowspan="2">coronal</th><th>alveolar</th><td>t</td><td>d</td><td>s</td><td>z</td><td>þ</td><td>ð</td><td>n</td><td>l</td></tr>
 <tr><th>palatal</th><td>c</td><td>j</td><td>x</td><td>ʒ</td><td>ç</td><td>ʝ</td><td>ñ</td><td>ɫ</td></tr></tbody></table>
 </div><div class="portrait"><p>Please rotate screen or use desktop to see phoneme tables.</p></div>
-<dl class="features"><dt>place</dt>
-<dd>labial alveolar palatal velar</dd>
-<dt>voice</dt>
-<dd>voiceless voiced</dd></dl>
+<ol id="features"><li>place: labial, alveolar, palatal, velar</li>
+<li>voice: voiceless, voiced</li></ol>
 <h2 id="rules">Rules</h2>
-<textarea id="rulesbox">[nasal] &gt; [nasal #place] / _[#place]
-[plosive] &gt; [voiced plosive #place] / _[nasal #place]</textarea>
+<textarea id="rulesbox">[obstruent ∓voice] &gt; [obstruent ±voice] / _[±voice]</textarea>
 <h2 id="words">Words</h2>
 <textarea id="wordsbox">anpa anta ampa amba</textarea>
 <p><button onclick="intermediate()">Change</button> <label><input type="checkbox" id="chain" onclick="intermediate()" /> See intermediate steps?</label> <label><input type="checkbox" id="chance" onclick="intermediate()" /> Introduce chance?</label> <label><input type="checkbox" id="multi" onclick="intermediate()" /> Allow multigraphs?</label> <label><input type="checkbox" id="debug" onclick="intermediate()" /> Debug mode?</label> </p>
