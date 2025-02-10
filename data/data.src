@@ -3921,20 +3921,17 @@ entries:
           - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant
           - hc2r2 plosive |hc4 fricative |hr2 nasal |hr2 liquid
           - hc2 sibilant |hc2 spirant
-          - h -voice |h +voice |h -voice |h +voice |h -voice |h +voice |h +voice |h +voice</thead>
+          - h voiceless |h voiced |h voiceless |h voiced |h voiceless |h voiced |h voiced |h voiced</thead>
           - <tbody>hr3 peripheral |h labial | p | b ||| f | v | m |
           - h velar | k | g |||| ᴚ | q | r
           - h glottal | ’ |||| h | ɦ ||
           - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l
           - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ</tbody></table-alphabet>
           - </landscape><portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
-          - <dl-feature-list><dt>place</dt>
-          - <dd>labial alveolar palatal velar</dd>
-          - <dt>voice</dt>
-          - <dd>voiceless voiced</dd></dl-feature-list>
+          - '<ol-feature-list>place: labial, alveolar, palatal, velar'
+          - 'voice: voiceless, voiced</ol-feature-list>'
           - <h2>Rules</h2>
-          - '<textarea-id>rulesbox|[nasal] &gt; [nasal #place] / _[#place]'
-          - '[plosive] &gt; [voiced plosive #place] / _[nasal #place]</textarea-id>'
+          - <textarea-id>rulesbox|[obstruent ∓voice] &gt; [obstruent ±voice] / _[±voice]</textarea-id>
           - <h2>Words</h2>
           - <textarea-id>wordsbox|anpa anta ampa amba</textarea-id>
           - '<button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label> '

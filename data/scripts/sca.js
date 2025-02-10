@@ -43,7 +43,7 @@ function change() {
   chanceBox = check('chance') ? 1 : 0;
   multigraphs = check('multi');
   debug = check('debug');
-  let rules = new Rules('rulesbox');
+  let rules = new Rules('rulesbox', 'features');
   let words = getValue('wordsbox', / |\n/g);
   words = words.map(word => new Word(word, rules));
   if (chain) {
@@ -53,9 +53,39 @@ function change() {
   }
 }
 
+function expandFeatures(match, category, regexp, elements, firstLayer = true) {
+  let rules = [];
+  for (let i = 0; i < elements.length; i++) {
+    let element = elements[i];
+    rules[i] = match.replace(regexp, element);
+    if (firstLayer) {
+      let subregexp = RegExp(`∓${category}`, 'g')
+      if (match.match(subregexp)) {
+        let subelements = elements.toSpliced(i, 1);
+        rules[i] = expandFeatures(rules[i], category, subregexp, subelements, false)
+      }
+    }
+  }
+  return `{${rules.join('\n')}}`;
+}
+
+function prepareRulesBox(textarea, definitionList) {
+  let rules = getElt(textarea).value.replaceAll('&gt;', '>');
+  let features = getElt(definitionList).children;
+  for (const feature of features) {
+    let [category, ...elements] = feature.innerHTML.split(/\W+/);
+    let line = RegExp(`(.*[#±]${category}.*)`, 'g')
+    let regexp = RegExp(`[#±]${category}`, 'g');
+    rules = rules.replace(line, match => expandFeatures(match, category, regexp, elements));
+  }
+  console.log(rules);
+  return rules.split('\n')
+}
+
 class Rules {
-  constructor(elt) {
-    this.rules = getValue(elt).map(k => k.replace('&gt;', '>'));
+  constructor(textarea, definitionList) {
+    this.rules = prepareRulesBox(textarea, definitionList);
+    // this.rules = getValue(textarea).map(k => k.replace('&gt;', '>'));
     this.new = (name, parent) => ({
       '#': linenumber,
       name,
