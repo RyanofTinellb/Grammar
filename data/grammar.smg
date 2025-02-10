@@ -3,10 +3,7 @@ assets:
   source: C:\Users\Ryan\TinellbianLanguages\grammar\data\data.src
 entries:
 - - A Grammar of the Tinellbian Languages
-  - Languages
-  - Demotic Lulani
-  - Appendices
-  - Diachrony
+  - Playing
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime

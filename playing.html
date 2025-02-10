@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en"><head><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<meta charset="utf-8">
+<title>Playing</title>
+<link rel="stylesheet" type="text/css" href="/data/stylesheets/basic_style.css">
+<link rel="stylesheet" type="text/css" href="/data/stylesheets/style.css">
+<link rel="icon" type="image/png" href="/data/assets/favicon.png">
+<script src="/data/scripts/search.js"></script></head>
+<body><div class="flex"><nav class="main"><details id="menu"><summary>Menu</summary>
+<p><a href="/index.html">A Grammar of the Tinellbian Languages</a></p>
+<div class="javascript"><form id="search"><p><input type="text" name="term"></p>
+<p><button>Search</button></p></form></div><div class="nav-links"></div></details></nav>
+
+<div class="main-page"><nav class="mini"><p><a href="/languages/demoticlulani/appendices/diachrony.html">← Previous Page</a></p>
+<p><a href="/index.html">↑ Back to Index</a></p></nav>
+<main><h1>Playing</h1>
+<div class="landscape"><table class="alphabet"><thead><tr><th rowspan="4" colspan="2">consonant</th><th colspan="6">obstruent</th><th colspan="2">sonorant</th></tr>
+<tr><th rowspan="2" colspan="2">plosive</th><th colspan="4">fricative</th><th rowspan="2">nasal</th><th rowspan="2">liquid</th></tr>
+<tr><th colspan="2">sibilant</th><th colspan="2">spirant</th></tr>
+<tr><th>-voice</th><th>+voice</th><th>-voice</th><th>+voice</th><th>-voice</th><th>+voice</th><th>+voice</th><th>+voice</th></tr></thead>
+<tbody><tr><th rowspan="3">peripheral</th><th>labial</th><td>p</td><td>b</td><td></td><td></td><td>f</td><td>v</td><td>m</td><td></td></tr>
+<tr><th>velar</th><td>k</td><td>g</td><td></td><td></td><td></td><td>ᴚ</td><td>q</td><td>r</td></tr>
+<tr><th>glottal</th><td>’</td><td></td><td></td><td></td><td>h</td><td>ɦ</td><td></td><td></td></tr>
+<tr><th rowspan="2">coronal</th><th>alveolar</th><td>t</td><td>d</td><td>s</td><td>z</td><td>þ</td><td>ð</td><td>n</td><td>l</td></tr>
+<tr><th>palatal</th><td>c</td><td>j</td><td>x</td><td>ʒ</td><td>ç</td><td>ʝ</td><td>ñ</td><td>ɫ</td></tr></tbody></table>
+</div><div class="portrait"><p>Please rotate screen or use desktop to see phoneme tables.</p></div>
+<dl class="features"><dt>place</dt>
+<dd>labial alveolar palatal velar</dd>
+<dt>voice</dt>
+<dd>voiceless voiced</dd></dl>
+<h2 id="rules">Rules</h2>
+<textarea id="rulesbox">[nasal] &gt; [nasal #place] / _[#place]
+[plosive] &gt; [voiced plosive #place] / _[nasal #place]</textarea>
+<h2 id="words">Words</h2>
+<textarea id="wordsbox">anpa anta ampa amba</textarea>
+<p><button onclick="intermediate()">Change</button> <label><input type="checkbox" id="chain" onclick="intermediate()" /> See intermediate steps?</label> <label><input type="checkbox" id="chance" onclick="intermediate()" /> Introduce chance?</label> <label><input type="checkbox" id="multi" onclick="intermediate()" /> Allow multigraphs?</label> <label><input type="checkbox" id="debug" onclick="intermediate()" /> Debug mode?</label> </p>
+<div id="output"></div>
+<script src="/data/scripts/sca.js"></script>
+<script>intermediate()</script>
+</main>
+<nav class="mini"><p><a href="/languages/demoticlulani/appendices/diachrony.html">← Previous Page</a></p>
+<p><a href="/index.html">↑ Back to Index</a></p></nav>
+</div></div>
+<footer><div class="copyright"><span class="no-breaks">&copy;2017-2025 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
+<span class="no-breaks">Last updated: Monday, February 10th, 2025</span></div>
+</footer>
+<p><script src="/data/scripts/parse_href.js"></script></p>
+<script>
+let mql = window.matchMedia("(min-width: 800px)");
+let details = document.getElementById("menu");
+if(mql.matches) { details.open = true;}
+for (elt of document.getElementsByClassName('javascript')) {
+elt.style.display = "block";}</script></body></html>
