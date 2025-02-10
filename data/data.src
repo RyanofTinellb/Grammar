@@ -3916,7 +3916,7 @@ entries:
           date: null
           text: []
         Playing:
-          date: '2025-02-10'
+          date: '2025-02-11'
           text:
           - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant
           - hc2r2 plosive |hc4 fricative |hr2 nasal |hr2 liquid
@@ -3928,12 +3928,12 @@ entries:
           - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l
           - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ</tbody></table-alphabet>
           - </landscape><portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
-          - '<ol-feature-list>place: labial, alveolar, palatal, velar'
+          - '<ol-feature-list>place: labial, alveolar'
           - 'voice: voiceless, voiced</ol-feature-list>'
           - <h2>Rules</h2>
-          - <textarea-id>rulesbox|[obstruent ∓voice] &gt; [obstruent ±voice] / _[±voice]</textarea-id>
+          - <textarea-id>rulesbox|[obstruent ∓voice ∓place] &gt; [obstruent ±voice ±place] / _[±voice ±place]</textarea-id>
           - <h2>Words</h2>
-          - <textarea-id>wordsbox|anpa anta ampa amba</textarea-id>
+          - <textarea-id>wordsbox|afta avta asta azta afda avda asda azda</textarea-id>
           - '<button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label> '
           - <div-id>output|</div-id>
           - <internal-script>/data/scripts/sca.js</internal-script>
