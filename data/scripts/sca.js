@@ -98,17 +98,16 @@ class Rules {
       ruleset.rule.push(this.makeRule(rule));
     }
     const summary = {
-      sounds: this.fix(this.categories),
+      sounds: this.fix(this.categories, debug),
       rules: this.soundChanges
     };
-    if (debug) summary.cats = this.categories;
     console.log(summary);
   }
 
-  fix(cats) {
+  fix(cats, debug) {
     output = {}
     for (const cat in cats) {
-      output[cat] = cats[cat].replace(/[?\uf200-\uf300]/g, '.');
+      output[cat] = cats[cat].replace(/[?\uf200-\uf300]/g, debug ? '.' : '');
     }
     return output;
   }
@@ -139,15 +138,14 @@ class Rules {
     for (let [category, sounds] of sorted(this.categories)) {
       for (const star of ['*', '']) {
         regex = regex.split(category + star);
-        if (regex.length > 1) {
+        if (regex.length > 1 && sounds.length != 1) {
           savedCategory = savedCategory || sounds;
           sides = sides || regex;
           total += regex.length - 1;
         }
-        let soundList = multigraphs ?
-          `(?:${sounds})` : `[${this.tidy(sounds)}]`;
+        let soundList = multigraphs ? `(?:${sounds})` : (sounds.length == 1 ? sounds : `[${this.tidy(sounds)}]`);
         if (star) soundList += '+';
-        regex = regex.join(`)(${soundList})(`);
+        regex = sounds.length == 1 ? regex.join(soundList) : regex.join(`)(${soundList})(`);
       }
     }
     [before, after] = sides || [null, null];
@@ -414,8 +412,8 @@ function parseTable(table, sounds) {
         for (let colname of colnames[colnum]) {
           push(sounds, colname, text);
         }
+        if (tablename.length > 1) push(sounds, tablename.charAt(0).toUpperCase(), text);
         push(sounds, tablename, text);
-        push(sounds, tablename.charAt(0).toUpperCase(), text);
         colnum++;
       }
     }
