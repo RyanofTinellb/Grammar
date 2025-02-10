@@ -54,19 +54,20 @@ function change() {
 }
 
 function expandFeatures(match, category, regexp, elements, firstLayer = true) {
+  console.log('m', match);
   let rules = [];
-  for (let i = 0; i < elements.length; i++) {
-    let element = elements[i];
-    rules[i] = match.replace(regexp, element);
+  let subregexp = RegExp(`∓${category}`, 'g')
+  let [_, start, rule, end] = match.match(/({*)([^{}]*)(}*)/);
+  for (const element of elements) {
+    newRule = rule.replace(regexp, element);
     if (firstLayer) {
-      let subregexp = RegExp(`∓${category}`, 'g')
       if (match.match(subregexp)) {
-        let subelements = elements.toSpliced(i, 1);
-        rules[i] = expandFeatures(rules[i], category, subregexp, subelements, false)
+        newRule = expandFeatures(newRule, category, subregexp, elements, false)
       }
     }
+    rules.push(newRule);
   }
-  return `{${rules.join('\n')}}`;
+  return `${start}{${rules.join('\n')}}${end}`;
 }
 
 function prepareRulesBox(textarea, definitionList) {
@@ -74,12 +75,12 @@ function prepareRulesBox(textarea, definitionList) {
   let features = getElt(definitionList).children;
   for (const feature of features) {
     let [category, ...elements] = feature.innerHTML.split(/\W+/);
-    let line = RegExp(`(.*[#±]${category}.*)`, 'g')
+    let line = RegExp(`({*)(.*[#±]${category}[^{}]*)(}*)`, 'g');
     let regexp = RegExp(`[#±]${category}`, 'g');
-    rules = rules.replace(line, match => expandFeatures(match, category, regexp, elements));
+    rules = rules.replace(line, (_m, ...p) => `${p[0]}${expandFeatures(p[1], category, regexp, elements)}${p[2]}`);
   }
   console.log(rules);
-  return rules.split('\n')
+  return rules.split('\n');
 }
 
 class Rules {

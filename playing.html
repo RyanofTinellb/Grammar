@@ -24,12 +24,12 @@
 <tr><th rowspan="2">coronal</th><th>alveolar</th><td>t</td><td>d</td><td>s</td><td>z</td><td>þ</td><td>ð</td><td>n</td><td>l</td></tr>
 <tr><th>palatal</th><td>c</td><td>j</td><td>x</td><td>ʒ</td><td>ç</td><td>ʝ</td><td>ñ</td><td>ɫ</td></tr></tbody></table>
 </div><div class="portrait"><p>Please rotate screen or use desktop to see phoneme tables.</p></div>
-<ol id="features"><li>place: labial, alveolar, palatal, velar</li>
+<ol id="features"><li>place: labial, alveolar</li>
 <li>voice: voiceless, voiced</li></ol>
 <h2 id="rules">Rules</h2>
-<textarea id="rulesbox">[obstruent ∓voice] &gt; [obstruent ±voice] / _[±voice]</textarea>
+<textarea id="rulesbox">[obstruent ∓voice ∓place] &gt; [obstruent ±voice ±place] / _[±voice ±place]</textarea>
 <h2 id="words">Words</h2>
-<textarea id="wordsbox">anpa anta ampa amba</textarea>
+<textarea id="wordsbox">afta avta asta azta afda avda asda azda</textarea>
 <p><button onclick="intermediate()">Change</button> <label><input type="checkbox" id="chain" onclick="intermediate()" /> See intermediate steps?</label> <label><input type="checkbox" id="chance" onclick="intermediate()" /> Introduce chance?</label> <label><input type="checkbox" id="multi" onclick="intermediate()" /> Allow multigraphs?</label> <label><input type="checkbox" id="debug" onclick="intermediate()" /> Debug mode?</label> </p>
 <div id="output"></div>
 <script src="/data/scripts/sca.js"></script>
@@ -39,7 +39,7 @@
 <p><a href="/index.html">↑ Back to Index</a></p></nav>
 </div></div>
 <footer><div class="copyright"><span class="no-breaks">&copy;2017-2025 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Monday, February 10th, 2025</span></div>
+<span class="no-breaks">Last updated: Tuesday, February 11th, 2025</span></div>
 </footer>
 <p><script src="/data/scripts/parse_href.js"></script></p>
 <script>
