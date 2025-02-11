@@ -91,6 +91,14 @@ entries:
                       - hr3 monophthong |h close | ē ||| ő
                       - h central ||||
                       - h open ||| ā |</tbody></table-alphabet></landscape>
+                      - <table-alphabet><thead>h others |h unsafe |h safe</thead>
+                      - <tbody>hr7 | ᴚ | r
+                      - ' ʝ | ʒ'
+                      - ' ǡ | ā'
+                      - ' ḗ | ē'
+                      - ' ỗ | ő'
+                      - ' ỷ | y'
+                      - ' ẘ | w</tbody></table-alphabet>'
                       - '<ol-feature-list>place: labial, alveolar, velar, palatal'
                       - 'voice: voiceless, voiced'
                       - 'palatal: alveolar, palatal</ol-feature-list><landscape>'
