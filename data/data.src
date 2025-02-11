@@ -3928,10 +3928,10 @@ entries:
           - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l
           - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ</tbody></table-alphabet>
           - </landscape><portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
-          - '<ol-feature-list>place: labial, alveolar'
+          - '<ol-feature-list>place: labial, alveolar, velar, palatal'
           - 'voice: voiceless, voiced</ol-feature-list>'
           - <h2>Rules</h2>
-          - <textarea-id>rulesbox|[obstruent ∓voice ∓place] &gt; [obstruent ±voice ±place] / _[±voice ±place]</textarea-id>
+          - <textarea-id>rulesbox|{[obstruent ∓voice ∓place] &gt; [obstruent ±voice ±place] / _[±voice ±place]}</textarea-id>
           - <h2>Words</h2>
           - <textarea-id>wordsbox|afta avta asta azta afda avda asda azda</textarea-id>
           - '<button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label> '

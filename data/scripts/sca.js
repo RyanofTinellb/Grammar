@@ -54,7 +54,6 @@ function change() {
 }
 
 function expandFeatures(match, category, regexp, elements, firstLayer = true) {
-  console.log('m', match);
   let rules = [];
   let subregexp = RegExp(`∓${category}`, 'g')
   let [_, start, rule, end] = match.match(/({*)([^{}]*)(}*)/);
@@ -67,7 +66,7 @@ function expandFeatures(match, category, regexp, elements, firstLayer = true) {
     }
     rules.push(newRule);
   }
-  return `${start}{${rules.join('\n')}}${end}`;
+  return `${start}${rules.join('\n')}${end}`;
 }
 
 function prepareRulesBox(textarea, definitionList) {
@@ -79,7 +78,6 @@ function prepareRulesBox(textarea, definitionList) {
     let regexp = RegExp(`[#±]${category}`, 'g');
     rules = rules.replace(line, (_m, ...p) => `${p[0]}${expandFeatures(p[1], category, regexp, elements)}${p[2]}`);
   }
-  console.log(rules);
   return rules.split('\n');
 }
 
