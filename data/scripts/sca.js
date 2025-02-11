@@ -74,7 +74,7 @@ function prepareRulesBox(textarea, definitionList) {
   let features = getElt(definitionList).children;
   for (const feature of features) {
     let [category, ...elements] = feature.innerHTML.split(/\W+/);
-    let line = RegExp(`({*)(.*[#±]${category}[^{}]*)(}*)`, 'g');
+    let line = RegExp(`({*)(.*[#±]${category}[^{}]*)(}*.*)`, 'g');
     let regexp = RegExp(`[#±]${category}`, 'g');
     rules = rules.replace(line, (_m, ...p) => `${p[0]}${expandFeatures(p[1], category, regexp, elements)}${p[2]}`);
   }

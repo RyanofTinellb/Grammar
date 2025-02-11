@@ -51,7 +51,6 @@ directory:
     - - Sample Texts
     - - Appendices
       - - Diachrony
-- - Playing
 entries:
   children:
     A Grammar of the Tinellbian Languages:
@@ -63,27 +62,27 @@ entries:
                 Appendices:
                   children:
                     Diachrony:
-                      date: '2025-02-09'
+                      date: '2025-02-11'
                       position: '2.46'
                       text:
                       - <landscape><table-alphabet><thead>hr4c2 C |hc6 obstruent |hc2 sonorant
                       - hc2r2 plosive |hc4 fricative |hr2 nasal |hr2 liquid
                       - hc2 sibilant |hc2 spirant
-                      - h -voice |h +voice |h -voice |h +voice |h -voice |h +voice |h +voice |h +voice</thead>
+                      - h voiceless |h voiced |h voiceless |h voiced |h voiceless |h voiced |h voiced |h voiced</thead>
                       - <tbody>hr3 peripheral |h labial | p | b ||| f | v | m |
                       - h velar | k | g |||| ᴚ | q | r
                       - h glottal | ’ |||| h | ɦ ||
                       - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l
                       - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ</tbody></table-alphabet>
                       - <table-alphabet><thead>hr2c2 V |hc2 front |hc2 back
-                      - h -round |h +round |h -round |h +round</thead>
+                      - h unrounded |h rounded |h unrounded |h rounded</thead>
                       - <tbody>hr3 long |h close | ī | ű || ū
                       - h central || ő || ō
                       - h open | ē || ā |
-                      - hr3 +stress |h close | i | ü || u
+                      - hr3 stressed |h close | i | ü || u
                       - h central || ö || o
                       - h open | e || a |
-                      - hr3 -stress |h close | ɨ | ṻ || ʉ
+                      - hr3 unstressed |h close | ɨ | ṻ || ʉ
                       - h central || ṏ || ꝋ
                       - h open ||| ə |
                       - 'hr3 semivowel |h close | y ||| w '
@@ -91,57 +90,51 @@ entries:
                       - h open ||||
                       - hr3 monophthong |h close | ē ||| ő
                       - h central ||||
-                      - h open ||| ā |</tbody></table-alphabet>
+                      - h open ||| ā |</tbody></table-alphabet></landscape>
+                      - '<ol-feature-list>place: labial, alveolar, velar, palatal'
+                      - 'voice: voiceless, voiced'
+                      - 'palatal: alveolar, palatal</ol-feature-list><landscape>'
                       - </landscape><portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
                       - <h2>Rules</h2>
                       - <textarea-id>rulesbox|· &gt; ə
                       - ʔ &gt;  y
                       - '{hː &gt; ç'
-                      - '[alveolar, sonorant]ː &gt; [palatal, sonorant]ː // palatalisation of geminates'
-                      - '[plosive, +voice]ː &gt; [spirant, +voice]ː // frication of voiced plosive geminates'
+                      - '[alveolar sonorant]ː &gt; [palatal sonorant]ː // palatalisation of geminates'
+                      - '[plosive voiced]ː &gt; [spirant voiced]ː // frication of voiced plosive geminates'
                       - ᴚ &gt; r
                       - ʝ &gt; ʒ
-                      - '[plosive, -voice]ː &gt; [plosive, +voice]ː}'
-                      - '{[+stress] &gt; [-stress] / _# // placing stress'
-                      - '[+stress] &gt; [-stress] / Cː_'
-                      - ↻ [+stress] &gt; [-stress] / _CVC(ː)[-stress]
-                      - '[-stress] &gt; [+stress] / [-stress]C_'
-                      - '[-stress] &gt; [+stress] / #C_#}'
+                      - '[plosive, voiceless]ː &gt; [plosive, voiced]ː}'
+                      - '{[stressed] &gt; [unstressed] / _# // placing stress'
+                      - '[stressed] &gt; [unstressed] / Cː_'
+                      - ↻ [stressed] &gt; [unstressed] / _CVC(ː)[unstressed]
+                      - '[unstressed] &gt; [stressed] / [unstressed]C_'
+                      - '[unstressed] &gt; [stressed] / #C_#}'
                       - Cː &gt; C
                       - ’ &gt; ∅
                       - '{[alveolar] &gt; [palatal] / _[front] // palatalisation before front vowels'
                       - h &gt; ç / _[front]} // including glottal
-                      - '{[-stress] &gt; [semivowel] / _V'
-                      - '[+stress] &gt; [-stress] / [+stress]_'
-                      - a[-stress] &gt; [monophthong]
-                      - '[+stress]ə &gt; [long]'
-                      - ∅ &gt; [semivowel] / [+stress]_[-stress]
+                      - '{[unstressed] &gt; [semivowel] / _V'
+                      - '[stressed] &gt; [unstressed] / [stressed]_'
+                      - a[unstressed] &gt; [monophthong]
+                      - '[stressed]ə &gt; [long]'
+                      - ∅ &gt; [semivowel] / [stressed]_[unstressed]
                       - ə &gt; ∅
                       - · &gt; ∅}
-                      - '{[nasal] &gt; n / _[alveolar]'
-                      - '[nasal] &gt; m / _[labial]'
-                      - '[nasal] &gt; q / _[velar]'
-                      - '[nasal] &gt; ñ / _[palatal]}'
-                      - '{[plosive] &gt; b / _m'
-                      - '[plosive] &gt; d / _n'
-                      - '[plosive] &gt; g / _q'
-                      - '[plosive] &gt; j / _ñ}'
-                      - '{l &gt; ɫ / [palatal]_'
-                      - ɫ &gt; l / [alveolar]_
-                      - l &gt; ɫ / _[palatal]
-                      - ɫ &gt; l / _[alveolar]}
-                      - '[+voice, obstruent] &gt; [-voice, obstruent] / _[-voice]'
-                      - '[-voice, obstruent] &gt; [+voice, obstruent] / _[+voice]'
+                      - '{[∓place nasal] &gt; [±place nasal] / _[±place]} // homorganic nasal assimilation'
+                      - '{[∓place plosive] &gt; [voiced ±place plosive] / _[±place nasal]}'
+                      - '{[coronal ∓palatal liquid] &gt; [coronal ±palatal liquid] / [±palatal]_}'
+                      - '{[coronal ∓palatal liquid] &gt; [coronal ±palatal liquid] / _[±palatal]}'
+                      - '{∓voice obstruent] &gt; [±voice obstruent] / _[±voice]}'
                       - '[back, close] &gt; [back, central] / _[+coronal]'
                       - '{[glottal] &gt; ∅ / _# // elision of /h/'
                       - '[glottal] &gt; ∅ / C_}'
                       - '∅ &gt; ɨ / #_[sonorant]C'
-                      - '[palatal, sonorant] &gt; [alveolar, sonorant] / _[front]'
+                      - '[palatal sonorant] &gt; [alveolar sonorant] / _[front]'
                       - '{pt &gt; p&t // protect ''pt'''
-                      - '[plosive] &gt; ː / [plosive]'
+                      - '[plosive] &gt; ː / [plosive]_'
                       - '& &gt; ∅}'
                       - '{[back] &gt; [front] / _C(C)[front]  // orthography'
-                      - '[-stress] &gt; [+stress]'
+                      - '[unstressed] &gt; [stressed]'
                       - ʒ &gt; j
                       - ly &gt; ɫ
                       - iy &gt; ī / _C
@@ -3915,29 +3908,6 @@ entries:
               - I once had the beginnings of what was to be the Ptokan language, and the language of the Fezhlê. The latter was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhlê have been forced to change somewhat to adapt.
           date: null
           text: []
-        Playing:
-          date: '2025-02-11'
-          text:
-          - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant
-          - hc2r2 plosive |hc4 fricative |hr2 nasal |hr2 liquid
-          - hc2 sibilant |hc2 spirant
-          - h voiceless |h voiced |h voiceless |h voiced |h voiceless |h voiced |h voiced |h voiced</thead>
-          - <tbody>hr3 peripheral |h labial | p | b ||| f | v | m |
-          - h velar | k | g |||| ᴚ | q | r
-          - h glottal | ’ |||| h | ɦ ||
-          - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l
-          - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ</tbody></table-alphabet>
-          - </landscape><portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
-          - '<ol-feature-list>place: labial, alveolar, velar, palatal'
-          - 'voice: voiceless, voiced</ol-feature-list>'
-          - <h2>Rules</h2>
-          - <textarea-id>rulesbox|{[obstruent ∓voice ∓place] &gt; [obstruent ±voice ±place] / _[±voice ±place]}</textarea-id>
-          - <h2>Words</h2>
-          - <textarea-id>wordsbox|afta avta asta azta afda avda asda azda</textarea-id>
-          - '<button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label> '
-          - <div-id>output|</div-id>
-          - <internal-script>/data/scripts/sca.js</internal-script>
-          - <script>intermediate()</script>
       date: '2025-01-19'
       position: '4.208'
       text:
