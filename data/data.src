@@ -62,19 +62,20 @@ entries:
                 Appendices:
                   children:
                     Diachrony:
-                      date: '2025-02-11'
+                      date: '2025-02-12'
                       position: '2.46'
                       text:
-                      - <landscape><table-alphabet><thead>hr4c2 C |hc6 obstruent |hc2 sonorant
-                      - hc2r2 plosive |hc4 fricative |hr2 nasal |hr2 liquid
+                      - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc3 sonorant
+                      - hc2r2 plosive |hc4 fricative |hr3 nasal |hr3 liquid |hr3 glide
                       - hc2 sibilant |hc2 spirant
-                      - h voiceless |h voiced |h voiceless |h voiced |h voiceless |h voiced |h voiced |h voiced</thead>
-                      - <tbody>hr3 peripheral |h labial | p | b ||| f | v | m |
-                      - h velar | k | g |||| ᴚ | q | r
-                      - h glottal | ’ |||| h | ɦ ||
-                      - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l
-                      - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ</tbody></table-alphabet>
-                      - <table-alphabet><thead>hr2c2 V |hc2 front |hc2 back
+                      - h voiceless |h voiced |h voiceless |h voiced |h voiceless |h voiced</thead>
+                      - <tbody>hr2 peripheral |h labial | p | b ||| f | v | m || w
+                      - h velar | k | g |||| ᴚ | q | r |
+                      - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l |
+                      - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ | y</tbody></table-alphabet></landscape>
+                      - <landscape><table-alphabet><thead>h consonant |h stop |h transition</thead>
+                      - <tbody>h glottal | ’ | h</tbody></table-alphabet>
+                      - <table-alphabet><thead>hr2c2 vowel |hc2 front |hc2 back
                       - h unrounded |h rounded |h unrounded |h rounded</thead>
                       - <tbody>hr3 long |h close | ī | ű || ū
                       - h central || ő || ō
@@ -90,18 +91,19 @@ entries:
                       - h open ||||
                       - hr3 monophthong |h close | ē ||| ő
                       - h central ||||
-                      - h open ||| ā |</tbody></table-alphabet></landscape>
+                      - h open ||| ā |</tbody></table-alphabet>
                       - <table-alphabet><thead>h others |h unsafe |h safe</thead>
-                      - <tbody>hr7 | ᴚ | r
+                      - <tbody>hr8 | ᴚ | r
                       - ' ʝ | ʒ'
                       - ' ǡ | ā'
                       - ' ḗ | ē'
                       - ' ỗ | ő'
                       - ' ỷ | y'
-                      - ' ẘ | w</tbody></table-alphabet>'
+                      - ' ẘ | w'
+                      - ' ɦ | h</tbody></table-alphabet>'
                       - '<ol-feature-list>place: labial, alveolar, velar, palatal'
                       - 'voice: voiceless, voiced'
-                      - 'palatal: alveolar, palatal</ol-feature-list><landscape>'
+                      - 'palatal: alveolar, palatal</ol-feature-list>'
                       - </landscape><portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
                       - <h2>Rules</h2>
                       - <textarea-id>rulesbox|· &gt; ə
@@ -132,8 +134,9 @@ entries:
                       - '{[∓place plosive] &gt; [voiced ±place plosive] / _[±place nasal]}'
                       - '{[coronal ∓palatal liquid] &gt; [coronal ±palatal liquid] / [±palatal]_}'
                       - '{[coronal ∓palatal liquid] &gt; [coronal ±palatal liquid] / _[±palatal]}'
-                      - '{∓voice obstruent] &gt; [±voice obstruent] / _[±voice]}'
-                      - '[back, close] &gt; [back, central] / _[+coronal]'
+                      - '{[∓voice obstruent] &gt; [±voice obstruent] / _[±voice]'
+                      - '[unsafe] &gt; [safe]}'
+                      - '[close back vowel] &gt; [central back vowel] / _[+coronal]'
                       - '{[glottal] &gt; ∅ / _# // elision of /h/'
                       - '[glottal] &gt; ∅ / C_}'
                       - '∅ &gt; ɨ / #_[sonorant]C'
