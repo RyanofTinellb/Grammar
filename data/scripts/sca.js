@@ -361,7 +361,7 @@ class Word {
       this.etymology.push(
         !debug ? this.lemma() :
           `<span class="lemma"><span class="hidden-info">
-          (${rule.str}) </span>${this.lemma()}</span>`
+          ${rule.str}</span>${this.lemma()}</span>`
       );
     }
     this.etymology = this.etymology.join(' > ');
