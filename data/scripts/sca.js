@@ -71,10 +71,12 @@ function expandFeatures(match, category, regexp, elements, firstLayer = true) {
 
 function prepareRulesBox(textarea, definitionList) {
   let rules = getElt(textarea).value.replaceAll('&gt;', '>');
+  double_spaces = rules.match(/.*  .*/);
+  if (double_spaces) {console.log(double_spaces[0])};
   let features = getElt(definitionList).children;
   for (const feature of features) {
     let [category, ...elements] = feature.innerHTML.split(/\W+/);
-    let line = RegExp(`({*)(.*[#±]${category}[^{}]*)(}*.*)`, 'g');
+    let line = RegExp(`({*)(.*[#±]${category}[^{}\n\r]*)(}*.*)`, 'g');
     let regexp = RegExp(`[#±]${category}`, 'g');
     rules = rules.replace(line, (_m, ...p) => `${p[0]}${expandFeatures(p[1], category, regexp, elements)}${p[2]}`);
   }

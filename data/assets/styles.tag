@@ -263,6 +263,8 @@ textarea-id:
   open: '<textarea id="'
   pipe: '">'
   close: </textarea>
+textarea-text:
+  type: blank
 tbody:
   type: block
   props:

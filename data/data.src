@@ -103,17 +103,18 @@ entries:
                       - ' ɦ | h</tbody></table-alphabet>'
                       - '<ol-feature-list>place: labial, alveolar, velar, palatal'
                       - 'voice: voiceless, voiced'
-                      - 'palatal: alveolar, palatal</ol-feature-list>'
+                      - 'palatal: alveolar, palatal'
+                      - 'short: stressed, unstressed</ol-feature-list>'
                       - </landscape><portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
                       - <h2>Rules</h2>
-                      - <textarea-id>rulesbox|· &gt; ə
-                      - ʔ &gt;  y
+                      - <textarea-id>rulesbox|<textarea-text>· &gt; ə
+                      - ʔ &gt; y
                       - '{hː &gt; ç'
                       - '[alveolar sonorant]ː &gt; [palatal sonorant]ː // palatalisation of geminates'
                       - '[plosive voiced]ː &gt; [spirant voiced]ː // frication of voiced plosive geminates'
                       - ᴚ &gt; r
                       - ʝ &gt; ʒ
-                      - '[plosive, voiceless]ː &gt; [plosive, voiced]ː}'
+                      - '[voiceless plosive]ː &gt; [voiced plosive]ː}'
                       - '{[stressed] &gt; [unstressed] / _# // placing stress'
                       - '[stressed] &gt; [unstressed] / Cː_'
                       - ↻ [stressed] &gt; [unstressed] / _CVC(ː)[unstressed]
@@ -128,8 +129,7 @@ entries:
                       - a[unstressed] &gt; [monophthong]
                       - '[stressed]ə &gt; [long]'
                       - ∅ &gt; [semivowel] / [stressed]_[unstressed]
-                      - ə &gt; ∅
-                      - · &gt; ∅}
+                      - ə &gt; ∅}
                       - '{[∓place nasal] &gt; [±place nasal] / _[±place]} // homorganic nasal assimilation'
                       - '{[∓place plosive] &gt; [voiced ±place plosive] / _[±place nasal]}'
                       - '{[coronal ∓palatal liquid] &gt; [coronal ±palatal liquid] / [±palatal]_}'
@@ -144,13 +144,21 @@ entries:
                       - '{pt &gt; p&t // protect ''pt'''
                       - '[plosive] &gt; ː / [plosive]_'
                       - '& &gt; ∅}'
-                      - '{[back] &gt; [front] / _C(C)[front]  // orthography'
+                      - '[labial ±voice spirant] &gt; [alveolar ±voice sibilant] / #_[±voice plosive]'
+                      - 'h &gt; ∅ / #_[plosive]'
+                      - '[stressed]h &gt; [long] / _[plosive]'
+                      - '[fricative] &gt; ∅ / [palatal plosive]_'
+                      - '{[back] &gt; [front] / _C(C)[front] // orthography'
                       - '[unstressed] &gt; [stressed]'
+                      - '[#short]h &gt; [long] / _[plosive]'
                       - ʒ &gt; j
+                      - ç &gt; h
                       - ly &gt; ɫ
                       - iy &gt; ī / _C
                       - ili &gt; ī
-                      - d &gt; ∅ / _j}
+                      - q &gt; n / _[velar plosive]
+                      - ñ &gt; n / _[palatal plosive]
+                      - d &gt; ∅ / _j}</textarea-text>
                       - </textarea-id>
                       - <h2>Words</h2>
                       - <textarea-id>wordsbox|papara bapara tapara dapara capara japara kapara gapara mapara napara qapara lapara rapara fapara sapara xapara hapara ’apara
