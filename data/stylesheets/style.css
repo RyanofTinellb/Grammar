@@ -138,6 +138,10 @@ main .interlinear .paragraph {
     font-family: georgia, serif;
 }
 
+main .lemma {
+    position: relative;
+}
+
 main .lemma .hidden-info {
     display: none;
     color: red;
@@ -152,4 +156,15 @@ main .lemma:hover .hidden-info {
     right: calc(75% + 1ch);
     display: inline;
     text-decoration: none;
+}
+
+@media screen and (max-width: 800px) {
+    main .lemma:hover .hidden-info {
+        background: white;
+        right: unset;
+        left: -2ch;
+        top: -2lh;
+        padding: 5px;
+        border: 1px solid black;
+    }
 }
