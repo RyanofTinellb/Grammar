@@ -138,3 +138,19 @@ main .interlinear .paragraph {
     margin-block-end: 1.7lh;
     font-family: georgia, serif;
 }
+
+main .lemma .hidden-info {
+    display: none;
+    color: red;
+}
+
+main .lemma:hover {
+    text-decoration: underline;
+}
+
+main .lemma:hover .hidden-info {
+    position: absolute;
+    left: 20%;
+    display: inline;
+    text-decoration: none;
+}

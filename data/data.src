@@ -62,11 +62,11 @@ entries:
                 Appendices:
                   children:
                     Diachrony:
-                      date: '2025-02-12'
+                      date: '2025-02-13'
                       position: '2.46'
                       text:
-                      - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc3 sonorant
-                      - hc2r2 plosive |hc4 fricative |hr3 nasal |hr3 liquid |hr3 glide
+                      - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant |hr4 glide
+                      - hc2r2 plosive |hc4 fricative |hr3 nasal |hr3 liquid
                       - hc2 sibilant |hc2 spirant
                       - h voiceless |h voiced |h voiceless |h voiced |h voiceless |h voiced</thead>
                       - <tbody>hr2 peripheral |h labial | p | b ||| f | v | m || w
@@ -145,40 +145,30 @@ entries:
                       - '[plosive] &gt; ː / [plosive]_'
                       - '& &gt; ∅}'
                       - '[labial ±voice spirant] &gt; [alveolar ±voice sibilant] / #_[±voice plosive]'
-                      - 'h &gt; ∅ / #_[plosive]'
-                      - '[stressed]h &gt; [long] / _[plosive]'
+                      - '[labial spirant] &gt; [alveolar sibilant] / #_[nasal]'
+                      - 'h &gt; ∅ / #_C'
+                      - '[#short]h &gt; [long] / _C'
                       - '[fricative] &gt; ∅ / [palatal plosive]_'
                       - '{[back] &gt; [front] / _C(C)[front] // orthography'
                       - '[unstressed] &gt; [stressed]'
-                      - '[#short]h &gt; [long] / _[plosive]'
                       - ʒ &gt; j
                       - ç &gt; h
                       - ly &gt; ɫ
                       - iy &gt; ī / _C
                       - ili &gt; ī
                       - q &gt; n / _[velar plosive]
-                      - ñ &gt; n / _[palatal plosive]
-                      - d &gt; ∅ / _j}</textarea-text>
-                      - </textarea-id>
+                      - '[palatal sonorant] &gt; [alveolar sonorant] / _[palatal]'
+                      - '[palatal sonorant] &gt; [alveolar sonorant] / [palatal]_'
+                      - x &gt; s / _c
+                      - tx &gt; c
+                      - x &gt; ∅ / _s
+                      - x &gt; ∅ / s_
+                      - d &gt; ∅ / _j
+                      - 'ː &gt; ∅ / #[fricative]_'
+                      - 'ː &gt; ∅ / #h_'
+                      - 'ː &gt; ∅ / #j_}</textarea-text></textarea-id>'
                       - <h2>Words</h2>
-                      - <textarea-id>wordsbox|papara bapara tapara dapara capara japara kapara gapara mapara napara qapara lapara rapara fapara sapara xapara hapara ’apara
-                      - pabara babara tabara dabara cabara jabara kabara gabara mabara nabara qabara labara rabara fabara sabara xabara habara ’abara
-                      - patara batara tatara datara catara jatara katara gatara matara natara qatara latara ratara fatara satara xatara hatara ’atara
-                      - padara badara tadara dadara cadara jadara kadara gadara madara nadara qadara ladara radara fadara sadara xadara hadara ’adara
-                      - pacara bacara tacara dacara cacara jacara kacara gacara macara nacara qacara lacara racara facara sacara xacara hacara ’acara
-                      - pajara bajara tajara dajara cajara jajara kajara gajara majara najara qajara lajara rajara fajara sajara xajara hajara ’ajara
-                      - pakara bakara takara dakara cakara jakara kakara gakara makara nakara qakara lakara rakara fakara sakara xakara hakara ’akara
-                      - pagara bagara tagara dagara cagara jagara kagara gagara magara nagara qagara lagara ragara fagara sagara xagara hagara ’agara
-                      - pamara bamara tamara damara camara jamara kamara gamara mamara namara qamara lamara ramara famara samara xamara hamara ’amara
-                      - panara banara tanara danara canara janara kanara ganara manara nanara qanara lanara ranara fanara sanara xanara hanara ’anara
-                      - paqara baqara taqara daqara caqara jaqara kaqara gaqara maqara naqara qaqara laqara raqara faqara saqara xaqara haqara ’aqara
-                      - palara balara talara dalara calara jalara kalara galara malara nalara qalara lalara ralara falara salara xalara halara ’alara
-                      - parara barara tarara darara carara jarara karara garara marara narara qarara larara rarara farara sarara xarara harara ’arara
-                      - pafara bafara tafara dafara cafara jafara kafara gafara mafara nafara qafara lafara rafara fafara safara xafara hafara ’afara
-                      - pasara basara tasara dasara casara jasara kasara gasara masara nasara qasara lasara rasara fasara sasara xasara hasara ’asara
-                      - paxara baxara taxara daxara caxara jaxara kaxara gaxara maxara naxara qaxara laxara raxara faxara saxara xaxara haxara ’axara
-                      - pahara bahara tahara dahara cahara jahara kahara gahara mahara nahara qahara lahara rahara fahara sahara xahara hahara ’ahara
-                      - pa’ara ba’ara ta’ara da’ara ca’ara ja’ara ka’ara ga’ara ma’ara na’ara qa’ara la’ara ra’ara fa’ara sa’ara xa’ara ha’ara ’a’ara</textarea-id>
+                      - <textarea-id>wordsbox|pa’ara ba’ara ta’ara da’ara ca’ara ja’ara ka’ara ga’ara ma’ara na’ara qa’ara la’ara ra’ara fa’ara sa’ara xa’ara ha’ara ’a’ara</textarea-id>
                       - '<button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label> '
                       - <div-id>output|</div-id>
                       - <internal-script>/data/scripts/sca.js</internal-script>

@@ -2,7 +2,6 @@ let chanceBox;
 let chain;
 let multigraphs;
 let debug;
-let linenumber = 0;
 const firstNullChar = 200;
 let nullChar;
 
@@ -33,7 +32,6 @@ function intermediate() {
   let outputArea = document.getElementById('output');
   chain = check('chain');
   nullChar = 61952;
-  linenumber = 0;
   // numcols = window.innerWidth < 800 ? 2 : 3;
   // outputArea.style.columns = chain ? 'initial' : numcols;
   outputArea.innerHTML = change();
@@ -49,7 +47,8 @@ function change() {
   if (chain) {
     return words.map(word => word.etymology).join('<br><br>');
   } else {
-    return words.map(word => word.word).join(' ');
+    return words.map(word => `<span class="lemma">${word.word}<span class="hidden-info">
+      ${word.natural}</span></span>`).join(' ');
   }
 }
 
@@ -72,7 +71,7 @@ function expandFeatures(match, category, regexp, elements, firstLayer = true) {
 function prepareRulesBox(textarea, definitionList) {
   let rules = getElt(textarea).value.replaceAll('&gt;', '>');
   double_spaces = rules.match(/.*  .*/);
-  if (double_spaces) {console.log(double_spaces[0])};
+  if (double_spaces) { console.log(double_spaces[0]) };
   let features = getElt(definitionList).children;
   for (const feature of features) {
     let [category, ...elements] = feature.innerHTML.split(/\W+/);
@@ -88,7 +87,6 @@ class Rules {
     this.rules = prepareRulesBox(textarea, definitionList);
     // this.rules = getValue(textarea).map(k => k.replace('&gt;', '>'));
     this.new = (name, parent) => ({
-      '#': linenumber,
       name,
       parent,
       rule: [],
@@ -103,7 +101,6 @@ class Rules {
     this.tidy = str => str ? str.replace(/[?@*ː\uf200-\uf300]/g, '') : '';
     this.pipeOr = (match, p1) => multigraphs ? `(${p1})` : match;
     for (let line of this.rules) {
-      linenumber++;
       if (!line) continue;
       [rule, name] = line.split(' // ');
       if (rule.includes('=')) {
@@ -226,17 +223,17 @@ class Rules {
       .split(/ [/>] /)
       .map(this.replaceCategories, this);
     let environment = this.createEnvironment(during, before);
-    if (debug) console.log(linenumber, environment);
     let alter = this.factory(before, after, during);
     let regex = new RegExp(environment, 'g');
+    let str = rule;
     rule = word => word.replace(regex, alter.eqn).replace(/∅/g, '');
     return {
-      '#': linenumber,
       before: environment,
       after: alter.after,
       rule,
       chance,
-      repeat
+      repeat,
+      str
     };
   }
 
@@ -271,27 +268,18 @@ class Rules {
         let j = i + 2;
         eqn = (...p) => {
           arr = [p[1], later.before, matchHash[p[i]], later.after, p[j]];
-          if (debug) {
-            console.log(2, p, `{${arr.join('|')}}`);
-          }
           return arr.join('');
         }
       } else if (during.before.category) {
         matchHash = this.categoryMatch(during.before, later);
         eqn = (...p) => {
           arr = [p[1], later.before, matchHash[p[3]], later.after, p[6]];
-          if (debug) {
-            console.log(3, p, `{${arr.join('|')}}`);
-          }
           return arr.join('');
         }
       } else {
         matchHash = this.categoryMatch(during.after, later);
         eqn = (...p) => {
           arr = [p[1], later.before, matchHash[p[6]], later.after, p[4]];
-          if (debug) {
-            console.log(4, p, `{${arr.join('|')}}`);
-          }
           return arr.join('');
         }
       }
@@ -304,9 +292,6 @@ class Rules {
       let i = during ? during.before.i + earlier.i + 2 : earlier.i + 2;
       eqn = (...p) => {
         arr = [p[1], after, p[i]];
-        if (debug) {
-          console.log(1, p, `{${arr.join('|')}}`);
-        }
         return arr.join('');
       }
     }
@@ -372,7 +357,12 @@ class Word {
     for (let rule of this.rules) {
       this.original = this.lemma();
       this.apply(rule);
-      if (this.isNew() || debug) this.etymology.push(this.lemma());
+      if (!this.isNew()) continue;
+      this.etymology.push(
+        !debug ? this.lemma() :
+          `<span class="lemma"><span class="hidden-info">
+          (${rule.str}) </span>${this.lemma()}</span>`
+      );
     }
     this.etymology = this.etymology.join(' > ');
     this.word = this.lemma();
