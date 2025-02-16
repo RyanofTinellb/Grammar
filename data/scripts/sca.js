@@ -16,6 +16,12 @@ const bracket = name => name.match(/[^a-z+-]/) ? name : `[${name}]`;
 const sorted = obj =>
   Object.entries(obj).sort((a, b) => b[0].length - a[0].length);
 
+
+getElt = str => document.getElementById(str);
+check = str => getElt(str).checked;
+getValue = (str, sep) => getElt(str).value.split(sep || '\n');
+
+
 async function fillWords(language) {
   let data = await fetch('wordlist.json');
   data = await data.json();
@@ -34,18 +40,18 @@ function intermediate() {
   nullChar = 61952;
   // numcols = window.innerWidth < 800 ? 2 : 3;
   // outputArea.style.columns = chain ? 'initial' : numcols;
-  outputArea.innerHTML = change();
+  outputArea.innerHTML = `<p>${change()}</p>`;
 }
 
 function change() {
   chanceBox = check('chance') ? 1 : 0;
   multigraphs = check('multi');
   debug = check('debug');
-  let rules = new Rules('rulesbox', 'features');
+  let rules = new Rules('rulesbox', 'features', 'rewrite');
   let words = getValue('wordsbox', / |\n/g);
   words = words.map(word => new Word(word, rules));
   if (chain) {
-    return words.map(word => word.etymology).join('<br><br>');
+    return words.map(word => word.etymology).join('</p><p>');
   } else {
     return words.map(word => `<span class="lemma">${word.word}<span class="hidden-info">
       ${word.natural}</span></span>`).join(' ');
@@ -75,17 +81,35 @@ function prepareRulesBox(textarea, definitionList) {
   let features = getElt(definitionList).children;
   for (const feature of features) {
     let [category, ...elements] = feature.innerHTML.split(/\W+/);
-    let line = RegExp(`({*)(.*[#±]${category}[^{}\n\r]*)(}*.*)`, 'g');
+    let line = RegExp(`([{↻ ]*)(.*[#±]${category}[^{}\n\r]*)(}*.*)`, 'g');
     let regexp = RegExp(`[#±]${category}`, 'g');
     rules = rules.replace(line, (_m, ...p) => `${p[0]}${expandFeatures(p[1], category, regexp, elements)}${p[2]}`);
   }
+  let line = RegExp(`([{↻ ]*)(.* [|] [^{}\n\r]*)(}*.*)`, 'g');
+  rules = rules.replace(line, (_m, ...p) => `${p[0]}${duplicateLines(p[1])}${p[2]}`)
   return rules.split('\n');
 }
 
+function duplicateLines(line) {
+  const output = [];
+  const [sources, target, environments] = line.split(/ [/→>] /);
+  for (const source of sources.split(' | ')) {
+    for (const environment of environments.split(' | ')) {
+      output.push(`${source} → ${target} / ${environment}`);
+    }
+  }
+  return output.join('\n');
+}
+
+function parseRewrite(name, sep) {
+  const hash = Object.fromEntries(Array.from(document.getElementById(name).children).map(line => line.innerHTML.split(sep)));
+  const regex = RegExp(`[${Object.keys(hash).join('')}]`, 'g');
+  return str => str.replace(regex, match => hash[match]);
+}
+
 class Rules {
-  constructor(textarea, definitionList) {
+  constructor(textarea, definitionList, rewriteList) {
     this.rules = prepareRulesBox(textarea, definitionList);
-    // this.rules = getValue(textarea).map(k => k.replace('&gt;', '>'));
     this.new = (name, parent) => ({
       name,
       parent,
@@ -97,6 +121,7 @@ class Rules {
     let name = '';
     let rule;
     this.categories = parseTables();
+    let rewrite = parseRewrite(rewriteList, ' → ');
     this.clean = str => str.replace(/[∅]/g, '');
     this.tidy = str => str ? str.replace(/[?@*ː\uf200-\uf300]/g, '') : '';
     this.pipeOr = (match, p1) => multigraphs ? `(${p1})` : match;
@@ -118,16 +143,16 @@ class Rules {
       } else if (rule.includes('}')) {
         rule = rule.slice(0, -1);
         if (!debug) {
-          ruleset.rule.push(this.makeRule(rule));
+          ruleset.rule.push(this.makeRule(rule, rewrite));
           ruleset = ruleset.parent;
           continue;
         }
       }
-      ruleset.rule.push(this.makeRule(rule));
+      ruleset.rule.push(this.makeRule(rule, rewrite));
     }
     const summary = {
       sounds: this.fix(this.categories, debug),
-      rules: this.soundChanges
+      rules: this.soundChanges,
     };
     console.log(summary);
   }
@@ -210,7 +235,7 @@ class Rules {
     return str;
   }
 
-  makeRule(rule) {
+  makeRule(rule, rewrite) {
     let chance;
     let repeat = rule.includes('↻');
     if (rule.includes('% ')) {
@@ -219,14 +244,14 @@ class Rules {
       chance = 100;
     }
     chance = Math.sqrt(1 - chance / 100);
-    let [before, after, during] = rule.replace('↻ ', '')
-      .split(/ [/>] /)
+    let [source, target, environment] = rule.replace('↻ ', '')
+      .split(/ [/→>] /)
       .map(this.replaceCategories, this);
-    let environment = this.createEnvironment(during, before);
-    let alter = this.factory(before, after, during);
+    let alter = this.factory(source, target, environment);
+    environment = this.createEnvironment(environment, source);
     let regex = new RegExp(environment, 'g');
     let str = rule;
-    rule = word => word.replace(regex, alter.eqn).replace(/∅/g, '');
+    rule = word => rewrite(word.replace(regex, alter.eqn).replace(/∅/g, ''));
     return {
       before: environment,
       after: alter.after,
@@ -301,10 +326,6 @@ class Rules {
     };
   }
 }
-
-getElt = str => document.getElementById(str);
-check = str => getElt(str).checked;
-getValue = (str, sep) => getElt(str).value.split(sep || '\n');
 
 class Word {
   constructor(word, rules) {

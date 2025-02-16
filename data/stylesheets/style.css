@@ -158,6 +158,9 @@ main .lemma:hover .hidden-info {
     text-decoration: none;
     background: white;
     word-wrap: none;
+    padding: 5px;
+    border: 1px solid black;
+    width: max-content;
 }
 
 @media screen and (max-width: 800px) {
@@ -169,8 +172,5 @@ main .lemma:hover .hidden-info {
         right: unset;
         left: -2ch;
         top: -2lh;
-        padding: 5px;
-        border: 1px solid black;
-        width: max-content;
     }
 }

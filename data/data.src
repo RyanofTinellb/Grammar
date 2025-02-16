@@ -46,9 +46,15 @@ directory:
       - - Elements
     - - Sample Texts
       - - Prelude
+    - - Appendices
+      - - Sample Texts
+        - - Prelude
   - - Demotic Lulani
     - - Phonology
     - - Sample Texts
+    - - Appendices
+      - - Diachrony
+  - - Early Fezhlê
     - - Appendices
       - - Diachrony
 entries:
@@ -62,19 +68,22 @@ entries:
                 Appendices:
                   children:
                     Diachrony:
-                      date: '2025-02-13'
+                      date: '2025-02-16'
                       position: '2.46'
                       text:
+                      - <h2>Phoneme Tables</h2>
                       - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant |hr4 glide
                       - hc2r2 plosive |hc4 fricative |hr3 nasal |hr3 liquid
                       - hc2 sibilant |hc2 spirant
                       - h voiceless |h voiced |h voiceless |h voiced |h voiceless |h voiced</thead>
-                      - <tbody>hr2 peripheral |h labial | p | b ||| f | v | m || w
-                      - h velar | k | g |||| ᴚ | q | r |
+                      - <tbody>hr3 peripheral |h labial | p | b ||| f | v | m || w
+                      - h velar | k | g |||| ᴚ | q ||
+                      - h rhotic |||||||| r |
                       - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l |
-                      - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ | y</tbody></table-alphabet></landscape>
-                      - <landscape><table-alphabet><thead>h consonant |h stop |h transition</thead>
-                      - <tbody>h glottal | ’ | h</tbody></table-alphabet>
+                      - h palatal | c | j | x | ž | ç | ʝ | ñ | ɫ | y</tbody></table-alphabet>
+                      - <table-alphabet><thead>h consonant |h stop |h transition</thead>
+                      - <tbody>h glottal | ’ | h
+                      - h glotto-palatal | y | ç</tbody></table-alphabet>
                       - <table-alphabet><thead>hr2c2 vowel |hc2 front |hc2 back
                       - h unrounded |h rounded |h unrounded |h rounded</thead>
                       - <tbody>hr3 long |h close | ī | ű || ū
@@ -86,95 +95,83 @@ entries:
                       - hr3 unstressed |h close | ɨ | ṻ || ʉ
                       - h central || ṏ || ꝋ
                       - h open ||| ə |
-                      - 'hr3 semivowel |h close | y ||| w '
+                      - 'hr3 semivowel |h close | ỷ ||| ẘ '
                       - h central ||||
                       - h open ||||
                       - hr3 monophthong |h close | ḗ ||| ỗ
                       - h central ||||
-                      - h open ||| ǡ |</tbody></table-alphabet>
-                      - <table-alphabet><thead>h others |h unsafe |h safe</thead>
-                      - <tbody>hr8 | ᴚ | r
-                      - ' ʝ | ʒ'
-                      - ' ǡ | ā'
-                      - ' ḗ | ē'
-                      - ' ỗ | ő'
-                      - ' ỷ | y'
-                      - ' ẘ | w'
-                      - ' ɦ | h</tbody></table-alphabet>'
-                      - '<ol-feature-list>place: labial, alveolar, velar, palatal'
+                      - h open ||| ǡ |</tbody></table-alphabet></landscape>
+                      - <portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
+                      - <h3>Helper Lists</h3>
+                      - 'Rewrite rules:'
+                      - <ul-rewrite>ᴚ → r
+                      - ʝ → ž
+                      - ǡ → ā
+                      - ḗ → ē
+                      - ỗ → ő
+                      - ỷ → y
+                      - ẘ → w
+                      - ɦ → h
+                      - · → ə
+                      - ʔ → ’’</ul-rewrite>
+                      - 'List of features:'
+                      - '<ul-features>place: labial, alveolar, velar, palatal'
                       - 'voice: voiceless, voiced'
                       - 'palatal: alveolar, palatal'
-                      - 'short: stressed, unstressed</ol-feature-list>'
-                      - </landscape><portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
+                      - 'short: stressed, unstressed</ul-features>'
                       - <h2>Rules</h2>
-                      - <textarea-id>rulesbox|<textarea-text>· &gt; ə
-                      - ʔ &gt; y
-                      - '{hː &gt; ç'
-                      - '[alveolar sonorant]ː &gt; [palatal sonorant]ː // palatalisation of geminates'
-                      - '[plosive voiced]ː &gt; [spirant voiced]ː // frication of voiced plosive geminates'
-                      - ᴚ &gt; r
-                      - ʝ &gt; ʒ
-                      - '[voiceless plosive]ː &gt; [voiced plosive]ː}'
-                      - '{[stressed] &gt; [unstressed] / _# // placing stress'
-                      - '[stressed] &gt; [unstressed] / Cː_'
-                      - ↻ [stressed] &gt; [unstressed] / _CVC(ː)[unstressed]
-                      - '[unstressed] &gt; [stressed] / [unstressed]C_'
-                      - '[unstressed] &gt; [stressed] / #C_#}'
-                      - Cː &gt; C
-                      - ’ &gt; ∅
-                      - '{[alveolar] &gt; [palatal] / _[front] // palatalisation before front vowels'
-                      - h &gt; ç / _[front]} // including glottal
-                      - '{[unstressed] &gt; [semivowel] / _V'
-                      - '[stressed] &gt; [unstressed] / [stressed]_'
-                      - a[unstressed] &gt; [monophthong]
-                      - '[stressed]ə &gt; [long]'
-                      - ∅ &gt; [semivowel] / [stressed]_[unstressed]
-                      - ə &gt; ∅}
-                      - '{[∓place nasal] &gt; [±place nasal] / _[±place]} // homorganic nasal assimilation'
-                      - '{[∓place plosive] &gt; [voiced ±place plosive] / _[±place nasal]}'
-                      - '{[coronal ∓palatal liquid] &gt; [coronal ±palatal liquid] / [±palatal]_}'
-                      - '{[coronal ∓palatal liquid] &gt; [coronal ±palatal liquid] / _[±palatal]}'
-                      - '{[∓voice obstruent] &gt; [±voice obstruent] / _[±voice]'
-                      - '[unsafe] &gt; [safe]}'
-                      - '[close back vowel] &gt; [central back vowel] / _[coronal]'
-                      - '{[glottal] &gt; ∅ / _# // elision of /h/'
-                      - '[glottal] &gt; ∅ / C_}'
-                      - '∅ &gt; ɨ / #_[sonorant]C'
-                      - '[palatal sonorant] &gt; [alveolar sonorant] / _[front]'
-                      - '{pt &gt; p&t // protect ''pt'''
-                      - '[plosive] &gt; ː / [plosive]_'
-                      - '& &gt; ∅}'
-                      - '[labial ±voice spirant] &gt; [alveolar ±voice sibilant] / #_[±voice plosive]'
-                      - '[labial spirant] &gt; [alveolar sibilant] / #_[nasal]'
-                      - 'h &gt; ∅ / #_C'
-                      - '[#short]h &gt; [long] / _C'
-                      - '[fricative] &gt; ∅ / [palatal plosive]_'
-                      - '{[back] &gt; [front] / _C(C)[front] // orthography'
-                      - '[unstressed] &gt; [stressed]'
-                      - ʒ &gt; j
-                      - ç &gt; h
-                      - ly &gt; ɫ
-                      - iy &gt; ī / _C
-                      - ili &gt; ī
-                      - q &gt; n / _[velar plosive]
-                      - '[palatal sonorant] &gt; [alveolar sonorant] / _[palatal]'
-                      - '[palatal sonorant] &gt; [alveolar sonorant] / [palatal]_'
-                      - x &gt; s / _c
-                      - tx &gt; c
-                      - x &gt; ∅ / _s
-                      - x &gt; ∅ / s_
-                      - d &gt; ∅ / _j
-                      - 'ː &gt; ∅ / #[fricative]_'
-                      - 'ː &gt; ∅ / #h_'
-                      - 'ː &gt; ∅ / #j_}</textarea-text></textarea-id>'
-                      - <h2>Words</h2>
-                      - <textarea-id>wordsbox|disinnamuka kurila cani pamilami matta naru ’ala qira’ataqa nigup·pi jagaru pamana cani maditiba bataniqqi kanura ra’u kal·li nicur·ru gupikarafi pi bi’u kifiqa qixa turubasillu xitaqa lanu turubasillu ’aditihutuja cani pa haru’usi dattusaqa tinalli li ’usi marila canari ku’ahati micita dissuka ’usu kikafasa dissu kal·li kal·lu’ipu’a nura dukku na kixina hibu ku·li ’amilaru piba kuppu xiku racaxa disi ’usaju’illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami bufiqa daru ra’u qapaccafuni harujagaru nacca gupikunaqi jamicussi hulu’anisa ji bigusuli qu rubaqa gusuli ra’u xidu dissillu daru tasi jami ji rika nufira ru ’alamusa ra’u kalupa’akagi cussixa musa gabasilluru nuki ’usixaru ra’u ’usu gibi sumikasija nakalu ra’u piba kuppura’u rubaqa ciʔa du’ikalumusa ji li kikami ru cikki gi’a li ci’u kalugupinuru sa’ibassilu ji palinu tuhinuhulu nin·niga kibbasu’a qu canisi jannibittaru bataniqqi kassula musaqapi ’iluqa turassi xisa’i rannaxi xiku ninali qa kunubitu’afu gi’assa lanu ra’u ga’i gi’a pajiga nallimiqa sulata ninaxatiqa karra lisami’ulata purakassu li ju’isatadu ximussaru gusutakki qu kugusunulli kikaga’i nura nagi lati li xi’allaru sula hafinullitaqa ta’i puramilami jagarudacani quhhaqa ta’i lanuqa lati ninali turukuffa ’ita’i’assa canari ca kitisu taku nikamiriqa sula bili padissu kiluquru qixa ca pada kikaxiku ’adi ni’adda ru laruluminisa bili qakunulli jannillu pi’adu cani du’ikaluhafitisaka kumallijakuqa tu rubasika kiladikka ’ilusu’a gi’a kuturassi ’inada ’ixxa’i kutisakaqa hisubajana ’inara kukitisusu’a matta qu ma’iki kuli ’aditurassi ’ita’·’assata cani jannikiluqu sara cani kukipuqa rali sisa pada ’ita’·’assa ra’usi janni pi’adu kikabijaju curriqa faluki janni’ita’ikka jafa’akaqa quhha qanulli janni quhha qa xidu ’usixa pa ra’u nifa’idaqa laru suxudini kituci qaliʔi mallijakuqa turassi tuhi cani haru lanu kalu’ita’iqa janni’issaru nara pi’adu qirisunarakka quhu dumi daru’i li nirasi kalupamilamirudisi kissa’agudanna nubitu’afuri da’aru lanu pagi ci’u ji nidaru xabanisa ra’u xiku kalu’ita’i kiputa xu’illu ra’u pa ’ita’i tikunarra janni ra’u mani pi’adu nujanniruqa kipu gi’ika sisa tuhiru kaluqa gusu ga’iniqqi tuci ji jusi ’ilagini li mihu janni lanu qu kusu’a nu surra mihu pasu’a nidu’usaji luffu ’usa nagi ’usu kalli ba’u ’ihiqaku qixa dissu ’isili qu sama xidu’umi harucu’i malukka fu ra’u qikaʔa rusa saqalaqa ’allaxi faʔaji’a cani ’ixarunisaqa su’a cani kuxiku qiniddaku xuga ra’u tu kuffa sara pada lanu qakalu’ita’i janni pi li mihu tu’afuri lisina ru kal·li ku’iludisi cikki ji pa pada fukaru pa madusi gi’a kukiʔatuciruqa sikkadisi pa’usa cussigi dusunidisi pada kadutakkulu gipa qu xahaqa su’a ’i kal·ulu dusunidisi cani padissu li xahaqa ’umi ru kurila ku’ita’i ’ussakka mihu qu jusi kulikka turassi kutu ’ihusabi li jannijarudisi madi kurila fuca lanu kurila ni’u’ilikasi kikacaqaraluminisa pi maqa raqura tuhhisa gupi fihaniqqi nimusacari jannika nagi nidaca narini qu funi pasatadu’adi hulutuci salilu ra’usi mani pi’adu nin·nar·ru qacca nifidaru tuja si’apaqafa ra’u xiku turassi ’idu qixa jaffaracani dara’idu gapi pi’adu ji nidajju nara hadissuri qu ra’u niqatidi ’ita’i lagicirri kunaqi nixima cussidiccixa qu ’alamusa ’adi kuxaʔa purakka dahikunaqi qu kucissa ga’ala ’ita’i nibijajubatari kulusufi’i ninakassuru tisaka janni pi’adu harukurila ’ita’ita gupicadi pi mani turassi hisubaqa kassutuja satali cahuri suqanatiha lanu ’usaju’i pi’adu fu taku ha’usu lakupira hira pi’adu ’irippa ’usu qilu pali filli ’isaqala ji sama di ’ikka ci’u qilu ’usu satacura’a padissu faʔaba ’usu ji kafilli cikkinadapu’a ’usu ru paruci cikki ka’usu gusu kalusama filli ru li ’usu kupiki xikka cihafi nagi qira fa filli paru’ihajaba ’umi pagi ru ru’ihajaxidu cipati ru cikkirucipu’a ru ’usu miru pasama ra’u xiku puttu lilluna tajihu kaku’usu hafaxita ’icussa nisa kurila ’itamu ’usu ninali pamana li linataqa kuppakutuja mituja ru qu padissu faʔaba jati qixa cikki ti’ici qu mari ru ’aba pi’adu cani kalumatanniruji’a jannitiqaxi liqa nifiku’ita’i jannigata kanu mani ’ikahu nikunaqi ra’u maqa cani cussigi dusunidisi qu cahussurudisi cani kura fipacani daruhubaqa lusufimala bufi’idu hifu ’ussakka mihu li kumituja su’a mihuta janni piddi lanu kalu’usadajabillunigiruqa capuhaqa hifu padissu cani xiku du’i’i’uja gupi ra’u qumu nimixi nijifadiqa ja ’usa qumu ra’u ju’i xiku nidifigi ga’i ju’i nubitu’afuri na sunufi pi’adu qixa ’iqaca qu kurila ’i da’aru funi madi diha latuhiru ta cabadisi ma’ikkalugurrisulukku janni’adi ku·li tapassi narini fana rusara ’icipuxa caba xitama pada kaludihaqa jannihusabiru qu’ukalumixi janni hisubatapassi lanu si’abassa pi’adu ’ihucillu kulina ru haru’usu jannilanu pi’adu ’ussa dumi qu nuxa li gurrisu du’ijannibiqixa gusura turillu cani ji nixiku haruhafasu’a nimalu ru ga’i paxici li hafamari xifipu fana ru li tana laruraqi ji pamana qu kukipu gupira’u tuta jannulu kurila jajifadi gajannidillu qu ji kalu’umi hussudiccaha dumihita gurrisu qixa ’arisu’a
-                        qarrillu qu ra’u miru qu’utuhiru mixi jamihulu diha qixa kudacataca ’ussakka mihu qu cani gupikka mihu qu lanu jann·nura kurila cani nimixi nili qisa pi janniditiba qu hu kalucussiruqa cadi pahini paxita gurrisura’aba qarri qu ci’u ji kalu’irudisi ’idata ra’u patisaka ji’i qu nidu’ara kutaritiqa ’alamusa cussi mani nifikimadiru madu gupitiba ra’u qarri gurrisu matta dumi miru pada ’umi kalutanajimuli marila xita caba qixa kalufaʔasu’a ’i ’umi pada kurila nagi jusi kalukasiqa pi’adu ’i li su’a kassi gi’i ji ti’a filli kalufaxila’inisa ’i jami tappa ru kal·li kukasi puraga cani ’i ’usu ’icipu li filli qi’iku pi miru filli kaluli ’usu majja ra’u qidaccatu’i gi’a ’usu ’adi ru xiku kalupasani gusuli’adipagu padissu qiriji qixa mihunisa filli qilu kadimukadi xi ’usu qarihu kanubidisa filli kuli dasidu kasuja nidiba ra’u ’ixa qilu kalu’iducidatilluqixa saqalapifa qapi cani dissurippa kurila lanu kalu lafuca jannidifirunisa ’adimiru gusu ji ma’iludihha qa’i kamari mihu parida li ’usacu’iba palinu li dasidu miru ra’u na pu’i ’usu sarrupacadu ’imari ’i qarihu ’usu ’ixahillu laruni rapi basi ’ili filli kulina ru rafa ra’u mukicukka mihu pada ’ili qi’iku rani ra’u sama ’adi xifipukka ’usu ra’u ’usu kamihu guqqi pada ’usu papa pa pu’i fu kalu’irupagu ’usaju’i dasidu kurila ru pa ximussa kurila qixa pamihu naxuʔa qu ra’u kusu’a nidibamarika hagaquhu gi’a la’apa pi tukihagi natiha batuqa ’alatucipi data quhu lanu ni’arrida xaci gaxiku su’a ji’i ra’u pa qu su’a ninali ’iqaca sinnasu’a hu mutaddikka pa’asu’a kujannuluruqa sassu’a gupi na mani turassi ra’u kutujanaracam·mari gasu’a nidaruqa narra tuhiru tujaramirra pi’adu qu’ukumixi janni ma’adi turassi pi gataddi mirisu’apa mica tupagu filli qi’iku ra’u ra’u tucinaci sabba turassi ’itamu kurila mudibada pi ra’u nufira qu dihhami lanu si’abassaca’alla mihu qaffi pi’aduqa kahi cani ditudisiqa pa’aka qu du’ikugurissu jannikiluqukka quhu ra’u nitujadasiqa tujaramirra hiqadasidu kassinixi ’umi paxatu li kusu’apa laqquraqi musara lanu rika dasi ta’itu’iraqixu ’umi dasippatapa fuca hu kuxima ra’u ’ala sa’akuta musara lusubi’i kiru tisaka japa’ala qixa capa gaqqu pi’adu turassita ra’u kalumixi kucahuriqapi ’arrikassudu jannigi pi’adu capisuqapi ’i’uja gupitiba mani turassi lanu ninamariqa ladumiru la piba xi’asilanagi xuʔa qapuraxu tisakarra lanu nidu ’assa dumi kassuru na kikaxima lusubi lanu ’ala piba cussi taritinaci rika tisakarra narabatari la karu musa ganibasillu ma’adi xiku nisabi hukurila laniga na laruni janni’adi caba funi nina’umiqa kassuruji’a majja raqa fillira kalusama majja ra’u pi’adu ’icipu mari dissutihura kasi ra’u kalupa’abatudisi gusu laruni ’itamu ra’u pali fu kulillu ritada rusa tucinaci pu’i kasi ji pa’illu kurila mukicukka ’usu pakicu li xiku puttu nixaladi majja la’illu rixi hu pa harufilli nagi tucinaci kica suma puttu kutujatihu ga’illu dumi xiku ’usu nimajja pi tujali’aba ’usu nakaru nipa lahifami rixi bixaca ’usu li filli ju’ibassa ra’u piba ma’ilu sumapa ninakasi sulla nufira pi’adu ji xihataji’a nuli ’usu harufilli janni ruku funi ’usu ji kulahiputiru dissutti filli ji ’usa tupi filli kalusullaru lanu hu’usupa mudallijillu lanu ’usu pi kal·li kumajja gifilli qixa lapaddi ’adi rukaru turassi dasad·disiqa kiru cikki jannicijukka fippaqa disi hi hira sabba fu dissu’anukka su’a nagi ’usu pafaru li ’usufu papifa ’amilarudisi fuca ra’u kassumiqa ’i’illu ji qira kurila lanu ’ini ’usu taku kukassumi kalisa da’aru ’ili ’usu kalumari sufilli mu tasi filli ji cikkinada nubitu’afuri ’usu ra’u hiru ta kalutajihupagu cikkituci lisina pi’adu ’ifuhhanaku xani ruku mu ba’u dalliji hu surra filli haru’usupa tihu mica tisakaqa pacadu paqacca li filli ’amila nagi maqa kutujatihu ga ’usufupa laruni capi’·’uja ganiga kurila pada xidu janni cahuriqapi rakaru raqa rika turassi sabbata kutujaramirra jannulukka kurila su’arata cani kurila kalularuni satadiru gikassu si’apasu’a qu nagi nitujaram·marika kalumixi saki dihhalumi turassi pi ’adikumihu janni musara xima qu cani nisi’apa gaquhu lanu bipa nilusubi kucahuriqa bijaju musa kurila pi cikkixi ’adisu’a kuruci qaxatu’i fati mari parasi kassumisama nagi lamadusi nuki lakadusi kukuffaruqa dir·raqi mafatti’ika qu qacca mahakassuru pi’adu dissutarratu’i macu qu tuca ra’u cikki hari ji papa xu quhu kudiru ’assija purakassu’ika batusu’a na daru’i na kikamusa tuhipacca naru ’umi ruku lakassu kikamusalumi qu pi’adu paqacca li pura tanali musara lanu kalumari dissu’ahatikkilu ra’u kalunubitu’afuri qidixxinaci qu kassi na qinaranada da’aru kalucagaqa ’ikka pahapakuda ca’alla ga’·’aba pali kurila la ’inagidisi pa na li mari rikka kasi ra’uta rippa pi’adu qixa nara maqa turassi capi jikaru harukurila hacci dumi haru nirafiki dasini cijja ra’u pa’usa li laruni nigurrisulukku gupitiba nagi rika kalu’ihusubi janni mihu</textarea-id>
-                      - '<button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label> '
+                      - <textarea-id>rulesbox|<textarea-text>{[glottal] → [glotto-palatal] / _ː // palatalisation of geminates
+                      - '[alveolar sonorant] → [palatal sonorant] / _ː}'
+                      - '{[plosive voiced] → [spirant voiced] / _ː // chain shift of geminate plosives'
+                      - '[voiceless plosive] → [voiced plosive] / _ː}'
+                      - '{[stressed] → [unstressed] / _# | Cː_ // placing stress'
+                      - ↻ [stressed] → [unstressed] / _CVC(ː)[unstressed]
+                      - '[unstressed] → [stressed] / #C_# | [unstressed]C_}'
+                      - ː → ∅ / C_
+                      - ’ → ∅
+                      - '{[unstressed] → [semivowel] / _V'
+                      - '[stressed] → [unstressed] / [stressed]_'
+                      - a[unstressed] → [monophthong]
+                      - '[stressed]ə → [long]'
+                      - ∅ → [semivowel] / [stressed]_[unstressed]
+                      - ə → ∅
+                      - '[unstressed] → [stressed]}'
+                      - '[alveolar obstruent] → [palatal obstruent] / _[front] // palatalisation before front vowels'
+                      - '{[∓place nasal] → [±place nasal] / _[±place]} // homorganic nasal assimilation'
+                      - '{[∓place plosive] → [voiced ±place plosive] / _[±place nasal]}'
+                      - '{[coronal ∓palatal liquid] → [coronal ±palatal liquid] / [±palatal]_ | _[±palatal]}'
+                      - '{[∓voice obstruent] → [±voice obstruent] / _[±voice]}'
+                      - '[close back vowel] → [central back vowel] / _[coronal]'
+                      - '{[glottal] → ∅ / _#  | C_} // elision of /h/'
+                      - '∅ → i / #_[sonorant]C'
+                      - '[palatal sonorant] → [alveolar sonorant] / _[front]'
+                      - '{pt → p&t // geminate plosive clusters based on second sound'
+                      - '[plosive] → っ / _[plosive]'
+                      - っ[plosive] → [plosive]ː
+                      - '& → ∅}'
+                      - '[labial ±voice spirant] → [alveolar ±voice sibilant] / #_[±voice plosive]'
+                      - '[labial spirant] → [alveolar sibilant] / #_[nasal]'
+                      - 'h → ∅ / #_C'
+                      - '[#short]h → [long] / _C'
+                      - '[fricative] → ∅ / [palatal plosive]_'
+                      - '{[back] → [front] / _C(C)[front] // orthography'
+                      - ly → ɫ
+                      - iy → ī / _C
+                      - ili → ī
+                      - q → n / _[velar plosive]
+                      - '[palatal sonorant] → [alveolar sonorant] / _[palatal] | [palatal]_'
+                      - x → s / _c
+                      - tx → c
+                      - x → ∅ / _s | s_
+                      - d → ∅ / _j
+                      - 'ː → ∅ / #[fricative]_ | #h_ | #j_}'
+                      - </textarea-text></textarea-id><h2>Words</h2>
+                      - <textarea-id>wordsbox|disinnamuka kurila cani pamila matta naru ’ala qira’ataqa nigup·pi jagaru pamana cani maditiba bataniqqi kanura ra’u kal·li nicur·ru gupikarafi pi bi’u kifiqa qixa turubasillu xitaqa lanu turubasillu ’aditihutuja cani pa haru’usi dattusaqa tinalli li ’usi marila canari ku’ahati micita dissuka ’usu kikafasa dissu kal·li kal·lu’ipu’a nura dukku na kixina hibu ku·li ’amilaru piba kuppu xiku racaxa disi ’usaju’illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami bufiqa daru ra’u qapaccafuni harujagaru nacca gupikunaqi jamicussi hulu’anisa ji bigusuli qu rubaqa gusuli ra’u xidu dissillu daru tasi jami ji rika nufira ru ’alamusa ra’u kalupa’akagi cussixa musa gabasilluru nuki ’usixaru ra’u ’usu gibi sumikasija nakalu ra’u piba kuppura’u rubaqa ciʔa du’ikalumusa ji li kikami ru cikki gi’a li ci’u kalugupinuru sa’ibassilu ji palinu tuhinuhulu nin·niga kibbasu’a qu canisi jannibittaru bataniqqi kassula musaqapi ’iluqa turassi xisa’i rannaxi xiku ninali qa kunubitu’afu gi’assa lanu ra’u ga’i gi’a pajiga nallimiqa sulata ninaxatiqa karra lisami’ulata purakassu li ju’isatadu ximussaru gusutakki qu kugusunulli kikaga’i nura nagi lati li xi’allaru sula hafinullitaqa ta’i puramilami jagarudacani quhhaqa ta’i lanuqa lati ninali turukuffa ’ita’i’assa</textarea-id>
+                      - <button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label>
                       - <div-id>output|</div-id>
                       - <internal-script>/data/scripts/sca.js</internal-script>
                       - <script>intermediate()</script>
-                  date: '2019-01-17'
+                  date: '2025-02-15'
                   position: '4.0'
                   text:
                   - '<message>Warning: This section is a work in progress.</message>'
@@ -247,6 +244,70 @@ entries:
               text:
               - '<message>Warning: This section is a work in progress.</message>'
               - While High Lulani continued being used in the Palace and its surrounds, the living language continued to evolve in the mouths of the people.
+            Early Fezhlê:
+              children:
+                Appendices:
+                  children:
+                    Diachrony:
+                      date: '2025-02-13'
+                      text:
+                      - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant |hr4 glide
+                      - hc2r2 plosive |hc4 fricative |hr3 nasal |hr3 liquid
+                      - hc2 sibilant |hc2 spirant
+                      - h voiceless |h voiced |h voiceless |h voiced |h voiceless |h voiced</thead>
+                      - <tbody>hr2 peripheral |h labial | p | b ||| f | v | m || w
+                      - h velar | k | g |||| ᴚ | q | r |
+                      - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l |
+                      - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ | y</tbody></table-alphabet></landscape>
+                      - <landscape><table-alphabet><thead>h consonant |h stop |h transition</thead>
+                      - <tbody>h glottal | ’ | h</tbody></table-alphabet>
+                      - <table-alphabet><thead>hr2c2 vowel |hc2 front |hc2 back
+                      - h unrounded |h rounded |h unrounded |h rounded</thead>
+                      - <tbody>hr3 long |h close | ī | ű || ū
+                      - h central || ő || ō
+                      - h open | ē || ā |
+                      - hr3 stressed |h close | i | ü || u
+                      - h central || ö || o
+                      - h open | e || a |
+                      - hr3 unstressed |h close | ɨ | ṻ || ʉ
+                      - h central || ṏ || ꝋ
+                      - h open ||| ə |
+                      - 'hr3 semivowel |h close | y ||| w '
+                      - h central ||||
+                      - h open ||||
+                      - hr3 monophthong |h close | ḗ ||| ỗ
+                      - h central ||||
+                      - h open ||| ǡ |</tbody></table-alphabet>
+                      - <table-alphabet><thead>h others |h unsafe |h safe</thead>
+                      - <tbody>hr8 | ᴚ | r
+                      - ' ʝ | ʒ'
+                      - ' ǡ | ā'
+                      - ' ḗ | ē'
+                      - ' ỗ | ő'
+                      - ' ỷ | y'
+                      - ' ẘ | w'
+                      - ' ɦ | h</tbody></table-alphabet>'
+                      - '<ol-feature-list>place: labial, alveolar, velar, palatal'
+                      - 'voice: voiceless, voiced'
+                      - 'palatal: alveolar, palatal'
+                      - 'short: stressed, unstressed</ol-feature-list>'
+                      - </landscape><portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
+                      - <h2>Rules</h2>
+                      - <textarea-id>rulesbox|<textarea-text>· &gt; ə
+                      - ʔ &gt; y
+                      - '{hː &gt; ç'
+                      - '[alveolar sonorant]ː &gt; [palatal sonorant]ː // palatalisation</textarea-text>'
+                      - </textarea-id><h2>Words</h2>
+                      - <textarea-id>wordsbox|jiximmuk küril ceni pemilemi mad naru al qirātaq niguppi jaru bman ceni mejicib bejniqi dnur rő kleli nicurru güpikrefi pi biyu kifiq qix turüpxiɫu xitaq lanu turüpxiɫu ejicihotoj ceni pa harwöxi dadosaq cineli li öxi iqril dneri kūheci micit jisuka osu kikfas jisu kleli kallüwipū nur dugu na kixin hibu kőli emilaru pib kubu xiku ircax jixi osejwiɫuru lanu qepi ru plinu qix sur mejicib ceni pajjaru milemi büfiq daru rő impacöni rojjaru naj güpikoneqi jemicöxi holőnis ji bigosöli qu rubaq gosöli rő xidu jixiɫu daru texi jemi ji rik nüfir ru almos rő kalupākegi cöxixa mos gepxiɫuru nüki öxixaru rő osu gibi sümikxij inkalu rő pib kubürő rubaq ciy düwikalumos ji li kikemi ru cigi gī li ciyu kalugüpinuru sēbexilu ji plinu töhinuholu niññig kifsū qu jnixi jenibidru bejniqi kasola mosqepi iluq turexi xisē renxi xiku nineli qa konübitwafu gyas lanu rő gē gī bbig nelimiq solat ninesciq kar lismiyolat purkasu li jwistadu ximosru gosotegi qu kugosonöli kiggē nur negi leci li xyaɫru sol hefinölitaq tē puremilemi jagrotteni qohaq tē ilnuq leci nineli turukuf itayas dneri ca kicisu taku nikemiriq sol bī bbisu kiluquru qix ca pad kikxiku eji inyað ru larolüminis bī qakonöli jeniɫu pyadu ceni dwiklűficisak kumelijakuq tu rüpxik kiljig ilosū gī koturexi inad ixi köciskaq hisubban inar kükicisosū mad qu miki köli jiturexi itaasta ceni jenikiluqu sar ceni kükipuq reli xis pad itaas röxi jeni pyadu kikebijaju cüriqa flüki jenyitig cākaq qoh nnöli jeni qoh qa xidu öxix pa rő nifēdaq laru soxöjini kitöci iñliyi melijakuq turexi töhi ceni haru lanu kelwitiq jenyisru nar pyadu qirisuqrag quhu dümi drüwi li nirexi klübmilmiröjixi kisagodañ nübitūfüri daru lanu pegi ciyu ji nidaru xejnis rő xiku klüwitē kipot xwiɫu rő pa itē cikonar jeni rő meni pyadu nojeniruq kipu gyik xis töhiru kluq gosu gēniqi töci ji jöxi ilgini li mihu jeni lanu qu kosū nu sur mihu psū niduwoseji lufu os negi osu keli bő ihiqaku qix jisu ixī qu sam xidwümi harocüwi inlug fu rő qikay ros sanlaq elxi feyjī ceni ixrönisaq sū ceni köxiku qiniþku xug rő tu kuf sar pad lanu qaklüwitē jeni pi li mihu tūfüri lixin ru kleli kwilöjixi cigi ji pa pad fukaru pa indöxi gī kükītöciruq xiggixi pos cöxigi dosönijixi pad kadotagolu gip qu xaq sū i kalolu dosönijixi ceni bbisu li xaq ümi ru küril küwitē ozg mihu qu jöxi kölig turexi kotu ihosebi li jenijaröjixi meji küril foc lanu küril niwīkexi kikagqarlüminis pi maq irqur töhis güpi fīniqi nimosceri jenika negi nidac iqrini qu föni pastadweji holotöci slilu röxi meni pyadu ninaqraru qaj nifidaru toj xyagqaf rő xiku turexi idu qix jafraceni deridu gepi pyadu ji nidaju nar jisüri qu rő ninciji itē legiciri koneqi nixim cöxijijixa qu almos eji koxay purag thikoneqi qu köcis gal itē nibijjupteri kolosüfiyi ninkasuru cisak jeni pyadu ruküril itit güpiceji pi meni turexi hisubaq kasotoj steli cüri suqenci lanu ozjüwi pyadu fu taku hosu laküpir hir pyadu irib osu qilu peli fī isqal ji sam ji ig ciyu qilu osu stacurā bbisu fyab osu ji kfī ciginattū osu ru pröci cigi kosu gosu kalosam fī ru li osu küpiki xig cihefi negi qir fa fī perwījab ümi pegi ru rüwihecidu cipeci ru cigiröcipū ru osu miru psam rő xiku podu liɫona ddihu kakwosu hefxit icos nis küril itamu osu nineli bman li lintaq kuppotoj mitoj ru qu bbisu fyab jeci qix cigi cyici qu meri ru ab pyadu ceni klonteniröjī jeniciqexi liq nifiküwitē jenigat kanu meni ikahu nikoneqi rő maq ceni cöxigi dosönijixi qu cosuröjixi ceni kur fippeni druhubaq losüfimal büfyidu hifu ozg mihu li kümitoj sū mihot jeni piji lanu kalwozdajjiɫönigiruq capuhaq hifu bbisu ceni xiku dwiyoj güpi rő qumu nimixi nijivjiq ja os qumu rő jüwi xiku nijifigi gē jüwi nübitūfüri na sonüfi pyadu qix iqac qu küril i daru föni meji ji latöhiru ta cabbixi miglugürisolugu jenyeji kőli ttexi iqrini fan rosar icipox cab xitam pad klöjihaq jenihözbiru quwukalümixi jeni hisubattexi lanu xības pyadu ihöciɫu kölin ru harwosu jenilanu pyadu os dümi qu nox li gürisu düwijenibiqix gosur türiɫu ceni ji nixiku haruhafsū nimalu ru gē pxici li hafmeri xifipu fan ru li tan larureqi ji bman qu kükipu güpirő tot jañolu küril jejifeji ggenijiɫu qu ji kalwümi hosöjija dümihit gürisu qix erisū qeriɫu qu rő miru imwotöhiru mixi jemiholu ji qix kodaccac ozg mihu qu ceni güpig mihu qu lanu jannur küril ceni nimixi nī qis pi jenijicib qu hu kalocöxiruq ceji phini pxit gürisurab qeri qu ciyu ji kelwiröjixi idat rő pecisak jiyi qu nidwar kotericiq almos cöxi meni nifikinjiru madu güpicib rő qeri gürisu mad dümi miru pad ümi klodnejimöli iqril xit cab qix kalufaysū i ümi pad küril negi jöxi klükxiq pyadu i li sū kexi giyi ji cī fī kalufexilēnis i jemi tab ru kleli kukexi purag ceni i osu icipu li fī inyiku pi miru fī klöli osu maj rő qidaccüwi gī osu eji ru xiku klupseni gosöɫejipagu bbisu qiriji qix mihönis fī qilu ggimukeji xi osu iqrihu dnübijis fī köli cidu ksoj nijib rő ix qilu kelwidöcittiɫüqix sqelpif qepi ceni jisürib küril lanu kalu ilfoc jenijifirönis ejimiru gosu ji milöjih qē bmeri mihu
+                        prid li osecwib plinu li cidu miru rő na püwi osu sarupacadu imeri i iqrihu osu ixhiɫu ilröni repi bexi ī fī kölin ru raf rő mükicug mihu pad ī inyiku reni rő sam eji xifipug osu rő osu bmihu güqi pad osu pap pa püwi fu kelwirupagu ozjüwi cidu küril ru pa ximos küril qix bmihu inxoy qu rő kosū nijibeqrik hagquhu gī lap pi tükihegi inci ptuq latöcipi dat quhu lanu inyerida xeci kxiku sū jiyi rő pa qu sū nineli iqac xinsū hu motejig pāsū kojañoluruq saswa güpi na meni turexi rő kotodnarcammeri ksū nidruq nar töhiru tojermir pyadu imwukümixi jeni meji turexi pi kkeji miriswap mic tupagu fī inyiku rő rő töcineci sav turexi itamu küril möjibad pi rő nüfir qu jihemi lanu xībascaaɫ mihu qefi pīduq kehi ceni jitöjixiq pak qu düwikugürisu jenikiluqug quhu rő nitojeciq tojermir hiqecidu kexinixi ümi pxatu li koswap laqureqi mosar lanu rik dexi titwirqixu ümi ciptap foc hu köxim rő al sākot mosar losübiyi kiru cisak japal qix cap gaqu pyadu turexita rő kalümixi kocüriqepi erikasodu jenigi pyadu ccisuqepi yoj güpicib meni turexi lanu nineqriq ladümiru la pib xīxilnegi xoy qapuraxu ciskar lanu nidu as dümi kasuru na kikxim losübi lanu al pib cöxi tricineci rik ciskar iqrapteri la karu mos jnipxiɫu meji xiku nisebi huküril iɫnig na ilröni jenyeji cab föni ninőmiq kasuröjī maj raq fīra kalosam maj rő pyadu icipu meri jisöcihur kexi rő kalupābatöjixi gosu ilröni itamu rő peli fu köliɫu ritad ros töcineci püwi kexi ji piɫu küril mükicug osu ppicu li xiku podu nixleji maj liɫu rixi hu pa harüfī negi töcineci kic sum podu kotoccihu giɫu dümi xiku osu nimaj pi tojeɫab osu inkaru nip lehifemi rixi bixac osu li fī jüwibas rő pib milu sumap ninkexi soɫ nüfir pyadu ji xihaddī nöli osu harüfī jeni ruku föni osu ji köɫhipöciru jisöji fī ji os tüpi fī kalosoɫru lanu huwosup modelijiɫu lanu osu pi kleli kumaj gifī qix ilpeji eji rukaru turexi tsaddixiq kiru cigi jenicijug figqa jixi hi hir sav fu jiswanug sū negi osu pfaru li osufu ppif emilaröjixi foc rő kasümiq yiɫu ji qir küril lanu ini osu taku kukasümi klis daru ī osu kalumeri süfī mu texi fī ji ciginad nübitūfüri osu rő hiru ta kloddihupagu cigitöci lixin pyadu ifohnaku xeni ruku mu bő deliji hu sur fī ruwosup cihu mic ciskaq ppadu gqaj li fī mil negi maq kotoccihu ga osufup ilröni cciyoj jnig küril pad xidu jeni cüriqepi irkaru raq rik turexi safta kotojermir jañolug küril sūrat ceni küril klolröni saddiru gikasu xyapsū qu negi nitojrammerik kalümixi seki jihɫümi turexi pi jikümihu jeni mosar xim qu ceni nixyap gquhu lanu bip nilosübi kocahüriq bijaju mos küril pi cigixi ejisū kuröci qaxtüwi feci meri prexi kasümisam negi landöxi nüki laggöxi kukufruq jirreqi imfejyik qu qaj mākasuru pyadu jisotartüwi macu qu toc rő cigi heri ji pap xu quhu köjiru exija purkeswik batosū na drüwi na kibmos töhipaj naru ümi ruku ilkasu kibmoslümi qu pyadu gqaj li pur dneli mosar lanu kalumeri jiswēcigilu rő kalonübitūfüri qijixineci qu kexi na qinarnad daru klojjaq ig pappod caɫ gaab peli küril la inegijixi pa na li meri rig kexi rot rib pyadu qix nar maq turexi cepi jikaru ruküril heji dümi haru nirfiki cini cij rő pos li ilröni nigürisolugu güpicib negi rik kelwihosübi jeni mihu</textarea-id>
+                      - '<button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label> '
+                      - <div-id>output|</div-id>
+                      - <internal-script>/data/scripts/sca.js</internal-script>
+                      - <script>intermediate()</script>
+                  date: null
+                  text: []
+              date: null
+              text: []
             High Lulani:
               children:
                 Apocrypha:
@@ -622,6 +683,13 @@ entries:
                   position: '1.0'
                   text:
                   - This section details particular categories of vocabulary items.
+                Appendices:
+                  children:
+                    Sample Texts:
+                      children:
+                        Prelude:
+                          text: []
+                      text: []
                 Morphology:
                   children:
                     Adpositions:
@@ -1867,7 +1935,7 @@ entries:
                           - <dictionary@x-tlb-hl>nu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬ</tinellbian@x-tlb-hl> <gloss>to stop</gloss>
                           - <dictionary@x-tlb-hl>naqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なげ</tinellbian@x-tlb-hl> <gloss>to need</gloss>
                           - <dictionary@x-tlb-hl>tapu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たぷ</tinellbian@x-tlb-hl> <gloss>to look forward to; to enjoy</gloss></wordlist>
-                      date: '2025-01-21'
+                      date: '2025-02-15'
                       position: '33.2'
                       text:
                       - A verb is a necessary part of any sentence, except when making <grammar-link@x-tlb-hl>copular sentences</grammar-link@x-tlb-hl>. Verbs can be categorised on the basis of how many elements compose them.
@@ -1891,9 +1959,9 @@ entries:
                       - <dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> + <dictionary@x-tlb-hl>’ahati</dictionary@x-tlb-hl>
                       - <gloss>feel-happiness</gloss></folding>
                       - “to be happy”
-                      - <folding><folded><transliteration@x-tlb-hl>pamilami</transliteration@x-tlb-hl></folded>
-                      - <tinellbian@x-tlb-hl>ぱみわみ</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> + <dictionary@x-tlb-hl>milami</dictionary@x-tlb-hl>
+                      - <folding><folded><transliteration@x-tlb-hl>pamila</transliteration@x-tlb-hl></folded>
+                      - <tinellbian@x-tlb-hl>ぱみわ</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> + <dictionary@x-tlb-hl>mila</dictionary@x-tlb-hl>
                       - <gloss>think-surroundings</gloss></folding>
                       - “to be conscious”</wordlist>
                   date: '2024-05-11'
@@ -2334,7 +2402,7 @@ entries:
                   children:
                     Prelude:
                       children: []
-                      date: '2025-01-25'
+                      date: '2025-02-15'
                       position: '17.109'
                       text:
                       - This comes from an early draft of <gloss>The Coelacanth Quartet</gloss> – <season>夏</season> <gloss>The Crackled Egg</gloss>.<interlinear>
@@ -2344,9 +2412,9 @@ entries:
                       - <gloss>prologue</gloss>
                       - That which is above the story
                       - </folding-open>Prelude</paragraph>
-                      - <paragraph><folding-open><folded><transliteration@x-tlb-hl>Kurila cani pamilami matta naru, ’ala qira’ataqa nigup·pi jagaru pamana.</transliteration@x-tlb-hl></folded>
-                      - <tinellbian@x-tlb-hl>。くりわやにぱみわみまったなる、あわねらあたげにぐぴぴぢがるぱまな。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>$kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pamilami</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>naru</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>’ala</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qira</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’a</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ta</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>gupi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jagaru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pamana</dictionary@x-tlb-hl>.
+                      - <paragraph><folding-open><folded><transliteration@x-tlb-hl>Kurila cani pamila matta naru, ’ala qira’ataqa nigup·pi jagaru pamana.</transliteration@x-tlb-hl></folded>
+                      - <tinellbian@x-tlb-hl>。くりわやにぱみわまったなる、あわねらあたげにぐぴぴぢがるぱまな。</tinellbian@x-tlb-hl>
+                      - "<dictionary@x-tlb-hl>$kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pamila\x1A</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>naru</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>’ala</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qira</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’a</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ta</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>gupi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jagaru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pamana</dictionary@x-tlb-hl>."
                       - <gloss>CT:<ipa>/ˈǂʰɔːlə/</ipa> <abbr>prs;dyn</abbr> be_conscious again slowly, heat rough-<abbr>nmn</abbr>-and-<abbr>gen</abbr> in-sit-<abbr>pst;sta</abbr> sand realise.</gloss>
                       - <dictionary@x-tlb-hl>$qōla</dictionary@x-tlb-hl> is becoming slowly conscious again, realising the heat and roughness of the sand in which (she) is sitting.
                       - </folding-open>Corla came back to consciousness slowly, the heat and the coarseness of the sand on which she sat penetrating her mind.
@@ -2529,9 +2597,9 @@ entries:
                       - <gloss>Down-beginning joy-<abbr>aug</abbr>-<abbr>gen</abbr> KF:<ipa>/tr̩ʃ/</ipa> small <abbr>prs;dyn</abbr>, as <abbr>fut;dyn</abbr> <abbr>abl</abbr>-car-<abbr>gen</abbr> move-vibration-<abbr>ger</abbr> sleep.</gloss>
                       - As the big joy of Tŗsh from since the beginning became small, (she) will sleep because of the vibration of the car.</folding-open>
                       - Toresh’s initial excitement faded as she was lulled into sleep by the gently rocking wagon.
-                      - <folding-open><folded><transliteration@x-tlb-hl>Pi’adu qirisunarakka quhu dumi daru’i, li nirasi kalupamilamirudisi kissa’agudanna nubitu’afuri da’aru lanu pagi.</transliteration@x-tlb-hl></folded>
-                      - <tinellbian@x-tlb-hl>。ぴあどねりすならっかもほどみだるい、え・にらせかをぱみわみるでせきっさあぐだっなぬびとあふりだあるわぬぱぎ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>$pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>risu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nara-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dumi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>daru’i</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>rasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>milami</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>disi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kissa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’agu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>danna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>naqi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tu’afu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ri</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>da’aru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pagi</dictionary@x-tlb-hl>.
+                      - <folding-open><folded><transliteration@x-tlb-hl>Pi’adu qirisunarakka quhu dumi daru’i, li nirasi kalupamilarudisi kissa’agudanna nubitu’afuri da’aru lanu pagi.</transliteration@x-tlb-hl></folded>
+                      - <tinellbian@x-tlb-hl>。ぴあどねりすならっかもほどみだるい、え・にらせかをぱみわるでせきっさあぐだっなぬびとあふりだあるわぬぱぎ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>$pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>risu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nara-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dumi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>daru’i</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>rasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mila</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>disi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kissa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’agu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>danna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>naqi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tu’afu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ri</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>da’aru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pagi</dictionary@x-tlb-hl>.
                       - <gloss>KF:<ipa>/pʰɪ.ˈa.dɯ/</ipa> experience-want-sleep-<abbr>abv</abbr> <abbr>3ani;tra</abbr> try because, <abbr>com</abbr> at-future <abbr>abl</abbr>-think-surroundings-<abbr>ger</abbr>-<abbr>3ani;gen</abbr> fight-contest-succeed land-plain-<abbr>nmn</abbr> experience <abbr>fut;dyn</abbr> think-hold.</gloss>
                       - Piadû tries to make her experience a want for sleep, because (he) knows that in the future her being conscious of her surroundings will have (them) succeed in contest with the people of the plains.
                       - </folding-open>Piado encouraged her sleepiness because he knew he would need her awake if they were to best the flatlanders.</paragraph>

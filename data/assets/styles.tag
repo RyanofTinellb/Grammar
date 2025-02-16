@@ -197,17 +197,7 @@ multiline:
 nextline:
   type: span
 ol:
-  type: block
-  start: <li>
-  end: </li>
-ol-feature-list:
-  type: block
-  open: '<ol id="features">'
-  close: </ol>
-  start: <li>
-  end: </li>
-  props:
-    background: '#ffc'
+  type: ol
 overline:
   type: span
   props:
@@ -255,7 +245,6 @@ table:
 table-alphabet:
   type: table
   open: <table class="alphabet">
-  close: </table>
 textarea-id:
   props:
     background: '#ff9'
@@ -288,10 +277,18 @@ transliteration:
   type: span
   language: true
 ul:
-  type: block
-  start: <li>
-  end: </li>
+  type: ul
   key: Alt-U
+ul-rewrite:
+  type: ul
+  open: '<ul id="rewrite">'
+  props:
+    background: '#ffc'
+ul-features:
+  type: ul
+  open: '<ul id="features">'
+  props:
+    background: '#fec'
 wordlist:
   type: div
   key: Alt-W
