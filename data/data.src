@@ -56,7 +56,6 @@ directory:
       - - Diachrony
   - - Early Fezhlê
     - - Appendices
-      - - Diachrony
 entries:
   children:
     A Grammar of the Tinellbian Languages:
@@ -247,63 +246,7 @@ entries:
             Early Fezhlê:
               children:
                 Appendices:
-                  children:
-                    Diachrony:
-                      date: '2025-02-13'
-                      text:
-                      - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant |hr4 glide
-                      - hc2r2 plosive |hc4 fricative |hr3 nasal |hr3 liquid
-                      - hc2 sibilant |hc2 spirant
-                      - h voiceless |h voiced |h voiceless |h voiced |h voiceless |h voiced</thead>
-                      - <tbody>hr2 peripheral |h labial | p | b ||| f | v | m || w
-                      - h velar | k | g |||| ᴚ | q | r |
-                      - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l |
-                      - h palatal | c | j | x | ʒ | ç | ʝ | ñ | ɫ | y</tbody></table-alphabet></landscape>
-                      - <landscape><table-alphabet><thead>h consonant |h stop |h transition</thead>
-                      - <tbody>h glottal | ’ | h</tbody></table-alphabet>
-                      - <table-alphabet><thead>hr2c2 vowel |hc2 front |hc2 back
-                      - h unrounded |h rounded |h unrounded |h rounded</thead>
-                      - <tbody>hr3 long |h close | ī | ű || ū
-                      - h central || ő || ō
-                      - h open | ē || ā |
-                      - hr3 stressed |h close | i | ü || u
-                      - h central || ö || o
-                      - h open | e || a |
-                      - hr3 unstressed |h close | ɨ | ṻ || ʉ
-                      - h central || ṏ || ꝋ
-                      - h open ||| ə |
-                      - 'hr3 semivowel |h close | y ||| w '
-                      - h central ||||
-                      - h open ||||
-                      - hr3 monophthong |h close | ḗ ||| ỗ
-                      - h central ||||
-                      - h open ||| ǡ |</tbody></table-alphabet>
-                      - <table-alphabet><thead>h others |h unsafe |h safe</thead>
-                      - <tbody>hr8 | ᴚ | r
-                      - ' ʝ | ʒ'
-                      - ' ǡ | ā'
-                      - ' ḗ | ē'
-                      - ' ỗ | ő'
-                      - ' ỷ | y'
-                      - ' ẘ | w'
-                      - ' ɦ | h</tbody></table-alphabet>'
-                      - '<ol-feature-list>place: labial, alveolar, velar, palatal'
-                      - 'voice: voiceless, voiced'
-                      - 'palatal: alveolar, palatal'
-                      - 'short: stressed, unstressed</ol-feature-list>'
-                      - </landscape><portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
-                      - <h2>Rules</h2>
-                      - <textarea-id>rulesbox|<textarea-text>· &gt; ə
-                      - ʔ &gt; y
-                      - '{hː &gt; ç'
-                      - '[alveolar sonorant]ː &gt; [palatal sonorant]ː // palatalisation</textarea-text>'
-                      - </textarea-id><h2>Words</h2>
-                      - <textarea-id>wordsbox|jiximmuk küril ceni pemilemi mad naru al qirātaq niguppi jaru bman ceni mejicib bejniqi dnur rő kleli nicurru güpikrefi pi biyu kifiq qix turüpxiɫu xitaq lanu turüpxiɫu ejicihotoj ceni pa harwöxi dadosaq cineli li öxi iqril dneri kūheci micit jisuka osu kikfas jisu kleli kallüwipū nur dugu na kixin hibu kőli emilaru pib kubu xiku ircax jixi osejwiɫuru lanu qepi ru plinu qix sur mejicib ceni pajjaru milemi büfiq daru rő impacöni rojjaru naj güpikoneqi jemicöxi holőnis ji bigosöli qu rubaq gosöli rő xidu jixiɫu daru texi jemi ji rik nüfir ru almos rő kalupākegi cöxixa mos gepxiɫuru nüki öxixaru rő osu gibi sümikxij inkalu rő pib kubürő rubaq ciy düwikalumos ji li kikemi ru cigi gī li ciyu kalugüpinuru sēbexilu ji plinu töhinuholu niññig kifsū qu jnixi jenibidru bejniqi kasola mosqepi iluq turexi xisē renxi xiku nineli qa konübitwafu gyas lanu rő gē gī bbig nelimiq solat ninesciq kar lismiyolat purkasu li jwistadu ximosru gosotegi qu kugosonöli kiggē nur negi leci li xyaɫru sol hefinölitaq tē puremilemi jagrotteni qohaq tē ilnuq leci nineli turukuf itayas dneri ca kicisu taku nikemiriq sol bī bbisu kiluquru qix ca pad kikxiku eji inyað ru larolüminis bī qakonöli jeniɫu pyadu ceni dwiklűficisak kumelijakuq tu rüpxik kiljig ilosū gī koturexi inad ixi köciskaq hisubban inar kükicisosū mad qu miki köli jiturexi itaasta ceni jenikiluqu sar ceni kükipuq reli xis pad itaas röxi jeni pyadu kikebijaju cüriqa flüki jenyitig cākaq qoh nnöli jeni qoh qa xidu öxix pa rő nifēdaq laru soxöjini kitöci iñliyi melijakuq turexi töhi ceni haru lanu kelwitiq jenyisru nar pyadu qirisuqrag quhu dümi drüwi li nirexi klübmilmiröjixi kisagodañ nübitūfüri daru lanu pegi ciyu ji nidaru xejnis rő xiku klüwitē kipot xwiɫu rő pa itē cikonar jeni rő meni pyadu nojeniruq kipu gyik xis töhiru kluq gosu gēniqi töci ji jöxi ilgini li mihu jeni lanu qu kosū nu sur mihu psū niduwoseji lufu os negi osu keli bő ihiqaku qix jisu ixī qu sam xidwümi harocüwi inlug fu rő qikay ros sanlaq elxi feyjī ceni ixrönisaq sū ceni köxiku qiniþku xug rő tu kuf sar pad lanu qaklüwitē jeni pi li mihu tūfüri lixin ru kleli kwilöjixi cigi ji pa pad fukaru pa indöxi gī kükītöciruq xiggixi pos cöxigi dosönijixi pad kadotagolu gip qu xaq sū i kalolu dosönijixi ceni bbisu li xaq ümi ru küril küwitē ozg mihu qu jöxi kölig turexi kotu ihosebi li jenijaröjixi meji küril foc lanu küril niwīkexi kikagqarlüminis pi maq irqur töhis güpi fīniqi nimosceri jenika negi nidac iqrini qu föni pastadweji holotöci slilu röxi meni pyadu ninaqraru qaj nifidaru toj xyagqaf rő xiku turexi idu qix jafraceni deridu gepi pyadu ji nidaju nar jisüri qu rő ninciji itē legiciri koneqi nixim cöxijijixa qu almos eji koxay purag thikoneqi qu köcis gal itē nibijjupteri kolosüfiyi ninkasuru cisak jeni pyadu ruküril itit güpiceji pi meni turexi hisubaq kasotoj steli cüri suqenci lanu ozjüwi pyadu fu taku hosu laküpir hir pyadu irib osu qilu peli fī isqal ji sam ji ig ciyu qilu osu stacurā bbisu fyab osu ji kfī ciginattū osu ru pröci cigi kosu gosu kalosam fī ru li osu küpiki xig cihefi negi qir fa fī perwījab ümi pegi ru rüwihecidu cipeci ru cigiröcipū ru osu miru psam rő xiku podu liɫona ddihu kakwosu hefxit icos nis küril itamu osu nineli bman li lintaq kuppotoj mitoj ru qu bbisu fyab jeci qix cigi cyici qu meri ru ab pyadu ceni klonteniröjī jeniciqexi liq nifiküwitē jenigat kanu meni ikahu nikoneqi rő maq ceni cöxigi dosönijixi qu cosuröjixi ceni kur fippeni druhubaq losüfimal büfyidu hifu ozg mihu li kümitoj sū mihot jeni piji lanu kalwozdajjiɫönigiruq capuhaq hifu bbisu ceni xiku dwiyoj güpi rő qumu nimixi nijivjiq ja os qumu rő jüwi xiku nijifigi gē jüwi nübitūfüri na sonüfi pyadu qix iqac qu küril i daru föni meji ji latöhiru ta cabbixi miglugürisolugu jenyeji kőli ttexi iqrini fan rosar icipox cab xitam pad klöjihaq jenihözbiru quwukalümixi jeni hisubattexi lanu xības pyadu ihöciɫu kölin ru harwosu jenilanu pyadu os dümi qu nox li gürisu düwijenibiqix gosur türiɫu ceni ji nixiku haruhafsū nimalu ru gē pxici li hafmeri xifipu fan ru li tan larureqi ji bman qu kükipu güpirő tot jañolu küril jejifeji ggenijiɫu qu ji kalwümi hosöjija dümihit gürisu qix erisū qeriɫu qu rő miru imwotöhiru mixi jemiholu ji qix kodaccac ozg mihu qu ceni güpig mihu qu lanu jannur küril ceni nimixi nī qis pi jenijicib qu hu kalocöxiruq ceji phini pxit gürisurab qeri qu ciyu ji kelwiröjixi idat rő pecisak jiyi qu nidwar kotericiq almos cöxi meni nifikinjiru madu güpicib rő qeri gürisu mad dümi miru pad ümi klodnejimöli iqril xit cab qix kalufaysū i ümi pad küril negi jöxi klükxiq pyadu i li sū kexi giyi ji cī fī kalufexilēnis i jemi tab ru kleli kukexi purag ceni i osu icipu li fī inyiku pi miru fī klöli osu maj rő qidaccüwi gī osu eji ru xiku klupseni gosöɫejipagu bbisu qiriji qix mihönis fī qilu ggimukeji xi osu iqrihu dnübijis fī köli cidu ksoj nijib rő ix qilu kelwidöcittiɫüqix sqelpif qepi ceni jisürib küril lanu kalu ilfoc jenijifirönis ejimiru gosu ji milöjih qē bmeri mihu
-                        prid li osecwib plinu li cidu miru rő na püwi osu sarupacadu imeri i iqrihu osu ixhiɫu ilröni repi bexi ī fī kölin ru raf rő mükicug mihu pad ī inyiku reni rő sam eji xifipug osu rő osu bmihu güqi pad osu pap pa püwi fu kelwirupagu ozjüwi cidu küril ru pa ximos küril qix bmihu inxoy qu rő kosū nijibeqrik hagquhu gī lap pi tükihegi inci ptuq latöcipi dat quhu lanu inyerida xeci kxiku sū jiyi rő pa qu sū nineli iqac xinsū hu motejig pāsū kojañoluruq saswa güpi na meni turexi rő kotodnarcammeri ksū nidruq nar töhiru tojermir pyadu imwukümixi jeni meji turexi pi kkeji miriswap mic tupagu fī inyiku rő rő töcineci sav turexi itamu küril möjibad pi rő nüfir qu jihemi lanu xībascaaɫ mihu qefi pīduq kehi ceni jitöjixiq pak qu düwikugürisu jenikiluqug quhu rő nitojeciq tojermir hiqecidu kexinixi ümi pxatu li koswap laqureqi mosar lanu rik dexi titwirqixu ümi ciptap foc hu köxim rő al sākot mosar losübiyi kiru cisak japal qix cap gaqu pyadu turexita rő kalümixi kocüriqepi erikasodu jenigi pyadu ccisuqepi yoj güpicib meni turexi lanu nineqriq ladümiru la pib xīxilnegi xoy qapuraxu ciskar lanu nidu as dümi kasuru na kikxim losübi lanu al pib cöxi tricineci rik ciskar iqrapteri la karu mos jnipxiɫu meji xiku nisebi huküril iɫnig na ilröni jenyeji cab föni ninőmiq kasuröjī maj raq fīra kalosam maj rő pyadu icipu meri jisöcihur kexi rő kalupābatöjixi gosu ilröni itamu rő peli fu köliɫu ritad ros töcineci püwi kexi ji piɫu küril mükicug osu ppicu li xiku podu nixleji maj liɫu rixi hu pa harüfī negi töcineci kic sum podu kotoccihu giɫu dümi xiku osu nimaj pi tojeɫab osu inkaru nip lehifemi rixi bixac osu li fī jüwibas rő pib milu sumap ninkexi soɫ nüfir pyadu ji xihaddī nöli osu harüfī jeni ruku föni osu ji köɫhipöciru jisöji fī ji os tüpi fī kalosoɫru lanu huwosup modelijiɫu lanu osu pi kleli kumaj gifī qix ilpeji eji rukaru turexi tsaddixiq kiru cigi jenicijug figqa jixi hi hir sav fu jiswanug sū negi osu pfaru li osufu ppif emilaröjixi foc rő kasümiq yiɫu ji qir küril lanu ini osu taku kukasümi klis daru ī osu kalumeri süfī mu texi fī ji ciginad nübitūfüri osu rő hiru ta kloddihupagu cigitöci lixin pyadu ifohnaku xeni ruku mu bő deliji hu sur fī ruwosup cihu mic ciskaq ppadu gqaj li fī mil negi maq kotoccihu ga osufup ilröni cciyoj jnig küril pad xidu jeni cüriqepi irkaru raq rik turexi safta kotojermir jañolug küril sūrat ceni küril klolröni saddiru gikasu xyapsū qu negi nitojrammerik kalümixi seki jihɫümi turexi pi jikümihu jeni mosar xim qu ceni nixyap gquhu lanu bip nilosübi kocahüriq bijaju mos küril pi cigixi ejisū kuröci qaxtüwi feci meri prexi kasümisam negi landöxi nüki laggöxi kukufruq jirreqi imfejyik qu qaj mākasuru pyadu jisotartüwi macu qu toc rő cigi heri ji pap xu quhu köjiru exija purkeswik batosū na drüwi na kibmos töhipaj naru ümi ruku ilkasu kibmoslümi qu pyadu gqaj li pur dneli mosar lanu kalumeri jiswēcigilu rő kalonübitūfüri qijixineci qu kexi na qinarnad daru klojjaq ig pappod caɫ gaab peli küril la inegijixi pa na li meri rig kexi rot rib pyadu qix nar maq turexi cepi jikaru ruküril heji dümi haru nirfiki cini cij rő pos li ilröni nigürisolugu güpicib negi rik kelwihosübi jeni mihu</textarea-id>
-                      - '<button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label> '
-                      - <div-id>output|</div-id>
-                      - <internal-script>/data/scripts/sca.js</internal-script>
-                      - <script>intermediate()</script>
+                  children: {}
                   date: null
                   text: []
               date: null
@@ -2325,7 +2268,7 @@ entries:
                       - Interrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (ǎ) or a falling tone (â), placed on the syllable of the appropriate word which has the greatest stress.
                       - Falling tone can also be used to bring focus to a particular word.
                     Vowels:
-                      date: '2024-05-14'
+                      date: '2025-02-16'
                       position: '36.0'
                       text:
                       - There are three phonemic vowels, with two main allophones for each. The vowels are distinguished by closeness and frontness.
