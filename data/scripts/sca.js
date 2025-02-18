@@ -13,6 +13,8 @@ const degeminate = str => str.replace(/(.)ː/g, '$1$1');
 const choose = arr => arr[Math.floor(Math.random() * arr.length)];
 const bracket = name => name.match(/[^a-z+-]/) ? name : `[${name}]`;
 
+const identityFunction = x => x
+
 const sorted = obj =>
   Object.entries(obj).sort((a, b) => b[0].length - a[0].length);
 
@@ -78,16 +80,22 @@ function prepareRulesBox(textarea, definitionList) {
   let rules = getElt(textarea).value.replaceAll('&gt;', '>');
   double_spaces = rules.match(/.*  .*/);
   if (double_spaces) { console.log(double_spaces[0]) };
-  let features = getElt(definitionList).children;
-  for (const feature of features) {
+  rules = replaceFeatures(definitionList, rules);
+  let line = RegExp(`([{↻ ]*)(.* [|] [^{}\n\r]*)(}*.*)`, 'g');
+  rules = rules.replace(line, (_m, ...p) => `${p[0]}${duplicateLines(p[1])}${p[2]}`)
+  return rules.split('\n');
+}
+
+function replaceFeatures(definitionList, rules) {
+  definitionList = getElt(definitionList)
+  if (!definitionList) return rules;
+  for (const feature of definitionList.children) {
     let [category, ...elements] = feature.innerHTML.split(/\W+/);
     let line = RegExp(`([{↻ ]*)(.*[#±]${category}[^{}\n\r]*)(}*.*)`, 'g');
     let regexp = RegExp(`[#±]${category}`, 'g');
     rules = rules.replace(line, (_m, ...p) => `${p[0]}${expandFeatures(p[1], category, regexp, elements)}${p[2]}`);
   }
-  let line = RegExp(`([{↻ ]*)(.* [|] [^{}\n\r]*)(}*.*)`, 'g');
-  rules = rules.replace(line, (_m, ...p) => `${p[0]}${duplicateLines(p[1])}${p[2]}`)
-  return rules.split('\n');
+  return rules
 }
 
 function duplicateLines(line) {
@@ -102,7 +110,9 @@ function duplicateLines(line) {
 }
 
 function parseRewrite(name, sep) {
-  const hash = Object.fromEntries(Array.from(document.getElementById(name).children).map(line => line.innerHTML.split(sep)));
+  rewriteRules = getElt(name);
+  if (!rewriteRules) return identityFunction;
+  const hash = Object.fromEntries(Array.from(rewriteRules.children).map(line => line.innerHTML.split(sep)));
   const regex = RegExp(`[${Object.keys(hash).join('')}]`, 'g');
   return str => str.replace(regex, match => hash[match]);
 }

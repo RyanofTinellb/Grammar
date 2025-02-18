@@ -46,9 +46,6 @@ directory:
       - - Elements
     - - Sample Texts
       - - Prelude
-    - - Appendices
-      - - Sample Texts
-        - - Prelude
   - - Demotic Lulani
     - - Phonology
     - - Sample Texts
@@ -56,6 +53,7 @@ directory:
       - - Diachrony
   - - Early Fezhlê
     - - Appendices
+      - - Diachrony
 entries:
   children:
     A Grammar of the Tinellbian Languages:
@@ -246,11 +244,58 @@ entries:
             Early Fezhlê:
               children:
                 Appendices:
-                  children: {}
+                  children:
+                    Diachrony:
+                      date: '2025-02-17'
+                      text:
+                      - '<message>Warning: this section has not been completed. Please proceed with caution.</message>'
+                      - <h2>Phoneme Tables</h2>
+                      - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant |hr4 glide
+                      - hc2r2 plosive |hc4 fricative |hr3 nasal |hr3 liquid
+                      - hc2 sibilant |hc2 spirant
+                      - h voiceless |h voiced |h voiceless |h voiced |h voiceless |h voiced</thead>
+                      - <tbody>hr3 peripheral |h labial | p | b ||| f | v | m || w
+                      - h velar | k | g |||| ᴚ | q ||
+                      - h rhotic |||||||| r |
+                      - hr2 coronal |h alveolar | t | d | s | z | þ | ð | n | l |
+                      - h palatal | c | j | x | ž | ç | ʝ | ñ | ɫ | y</tbody></table-alphabet>
+                      - <table-alphabet><thead>h consonant |h stop |h transition</thead>
+                      - <tbody>h glottal | ’ | h
+                      - h glotto-palatal | y | ç</tbody></table-alphabet>
+                      - <table-alphabet><thead>hr2c2 vowel |hc2 front |hc2 back
+                      - h unrounded |h rounded |h unrounded |h rounded</thead>
+                      - <tbody>hr3 long |h close | ī | ű || ū
+                      - h central || ő || ō
+                      - h open | ē || ā |
+                      - hr3 stressed |h close | i | ü || u
+                      - h central || ö || o
+                      - h open | e || a |
+                      - hr3 unstressed |h close | ɨ | ṻ || ʉ
+                      - h central || ṏ || ꝋ
+                      - h open ||| ə |
+                      - 'hr3 semivowel |h close | ỷ ||| ẘ '
+                      - h central ||||
+                      - h open ||||
+                      - hr3 monophthong |h close | ḗ ||| ỗ
+                      - h central ||||
+                      - h open ||| ǡ |</tbody></table-alphabet></landscape>
+                      - <portrait>Please rotate screen or use desktop to see phoneme tables.</portrait>
+                      - <h3>Helper Lists</h3>
+                      - <h2>Rules</h2>
+                      - <textarea-id>rulesbox|{[stressed] → [unstressed] / _#
+                      - '[unstressed] → [stressed] / #C_#'
+                      - '[unstressed] → ∅}<textarea-text>'
+                      - </textarea-text></textarea-id><h2>Words</h2>
+                      - <textarea-id>wordsbox|jiximmuk küril ceni bmil mad naru al qirātaq niguppi ggaru bman ceni mejicib bedniqi dnur rő kleli nicurru güpikrefi pi biyu kifiq kifiqa qix turüpxiɫu xitaq lanu turüpxiɫu ejicihotoj ceni pa harwöxi dadosaq cineli li öxi imril dneri kūheci micit jisuka osu kikfas jisu kleli kallüwipū nur dugu na kixin hibu kőli emilaru pib kubu xiku ircax jixi osejwiɫuru lanu qepi ru plinu qix sur mejicib ceni paggaru milemi büfiq daru rő impacöni roggaru naj güpikoneqi jemicöxi holőnis ji bigosöli qu rubaq gosöli rő xidu jixiɫu daru texi jemi ji rik nüfir ru almos rő kalupākegi cöxixa mos gepxiɫuru nüki öxixaru rő osu gibi sümikxij inkalu rő pib kubürő rubaq cī düwikalumos ji li kikemi ru cigi gī li ciyu kalugüpinuru xēbexilu ji plinu tühinuholu ninnig kifsū qu dnixi jenibidru bedniqi kasola mosqepi iluq turexi xixē renxi xiku nineli qa konübitwafu gyas lanu rő gē gī jig nelimiq solat ninesciq kar lismiyolat purkasu li jwistadu ximosru gosotegi qu kugosonöli kiggē nur negi leci li xyaɫru sol hefinölitaq cē puremilemi jagrocceni qoçqa cē ilnuq leci nineli turukuf itayas</textarea-id>
+                      - <button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label>
+                      - <div-id>output|</div-id>
+                      - <internal-script>/data/scripts/sca.js</internal-script>
+                      - <script>intermediate()</script>
                   date: null
                   text: []
-              date: null
-              text: []
+              date: '2025-02-17'
+              text:
+              - Early Fezhlê was spoken by the first peoples to leave Mala Ptokonoi. They called themselves “The Survivors” and lived in what is now known as Zhalad.
             High Lulani:
               children:
                 Apocrypha:
@@ -626,13 +671,6 @@ entries:
                   position: '1.0'
                   text:
                   - This section details particular categories of vocabulary items.
-                Appendices:
-                  children:
-                    Sample Texts:
-                      children:
-                        Prelude:
-                          text: []
-                      text: []
                 Morphology:
                   children:
                     Adpositions:
@@ -3918,7 +3956,7 @@ entries:
                       - <dictionary@x-tlb-hl>julliga</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nura</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kasa-ta-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ara</dictionary@x-tlb-hl>
                       - <gloss>mother leave-<abbr>pst;dyn</abbr> man-and-<abbr>gen</abbr> face</gloss></folding>
                       - the faces of the mothers <highlight>and the men who left</highlight>.</wordlist>
-                  date: '2019-05-04'
+                  date: '2025-02-18'
                   position: '2.0'
                   text:
                   - High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.
