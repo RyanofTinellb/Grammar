@@ -68,9 +68,12 @@ entries:
                 Appendices:
                   children:
                     Diachrony:
-                      date: '2025-02-16'
+                      date: '2025-03-02'
                       position: '2.46'
                       text:
+                      - <textarea-id>wordsbox|disinnamuka kurila cani pamila matta naru ’ala qira’ataqa nigup·pi jagaru pamana cani maditiba bataniqqi kanura ra’u kal·li nicur·ru gupikarafi pi bi’u kifiqa qixa turubasillu xitaqa lanu turubasillu ’aditihutuja cani pa haru’usi dattusaqa tinalli li ’usi marila canari ku’ahati micita dissuka ’usu kikafasa dissu kal·li kal·lu’ipu’a nura dukku na kixina hibu kuli ’amilaru piba kuppu xiku racaxa disi ’usaju’illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami bufiqa daru ra’u qapaccafuni harujagaru nacca gupikunaqi jamicussi hulu’anisa ji bigusuli qu rubaqa gusuli ra’u xidu dissillu daru tasi jami ji rika nufira ru ’alamusa ra’u kalupa’akagi cussixa musa gabasilluru nuki ’usixaru ra’u ’usu gibi sumikasija nakalu ra’u piba kuppura’u rubaqa ciʔa du’ikalumusa ji li kikami ru cikki gi’a li ci’u kalugupinuru sa’ibassilu ji palinu tuhinuhulu nin·niga kibbasu’a qu canisi jannibittaru bataniqqi kassula musaqapi ’iluqa turassi xisa’i rannaxi xiku ninali qa kunubitu’afu gi’assa lanu ra’u ga’i gi’a pajiga nallimiqa sulata ninaxatiqa karra lisami’ulata purakassu li ju’isatadu ximussaru gusutakki qu kugusunulli kikaga’i nura nagi lati li xi’allaru sula hafinullitaqa ta’i puramilami jagarudacani quhhaqa ta’i lanuqa lati ninali turukuffa ’ita’i’assa</textarea-id>
+                      - <button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label>
+                      - <div-id>output|</div-id>
                       - <h2>Phoneme Tables</h2>
                       - <landscape><table-alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant |hr4 glide
                       - hc2r2 plosive |hc4 fricative |hr3 nasal |hr3 liquid
@@ -164,11 +167,10 @@ entries:
                       - tx → c
                       - x → ∅ / _s | s_
                       - d → ∅ / _j
-                      - 'ː → ∅ / #[fricative]_ | #h_ | #j_}'
-                      - </textarea-text></textarea-id><h2>Words</h2>
-                      - <textarea-id>wordsbox|disinnamuka kurila cani pamila matta naru ’ala qira’ataqa nigup·pi jagaru pamana cani maditiba bataniqqi kanura ra’u kal·li nicur·ru gupikarafi pi bi’u kifiqa qixa turubasillu xitaqa lanu turubasillu ’aditihutuja cani pa haru’usi dattusaqa tinalli li ’usi marila canari ku’ahati micita dissuka ’usu kikafasa dissu kal·li kal·lu’ipu’a nura dukku na kixina hibu ku·li ’amilaru piba kuppu xiku racaxa disi ’usaju’illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami bufiqa daru ra’u qapaccafuni harujagaru nacca gupikunaqi jamicussi hulu’anisa ji bigusuli qu rubaqa gusuli ra’u xidu dissillu daru tasi jami ji rika nufira ru ’alamusa ra’u kalupa’akagi cussixa musa gabasilluru nuki ’usixaru ra’u ’usu gibi sumikasija nakalu ra’u piba kuppura’u rubaqa ciʔa du’ikalumusa ji li kikami ru cikki gi’a li ci’u kalugupinuru sa’ibassilu ji palinu tuhinuhulu nin·niga kibbasu’a qu canisi jannibittaru bataniqqi kassula musaqapi ’iluqa turassi xisa’i rannaxi xiku ninali qa kunubitu’afu gi’assa lanu ra’u ga’i gi’a pajiga nallimiqa sulata ninaxatiqa karra lisami’ulata purakassu li ju’isatadu ximussaru gusutakki qu kugusunulli kikaga’i nura nagi lati li xi’allaru sula hafinullitaqa ta’i puramilami jagarudacani quhhaqa ta’i lanuqa lati ninali turukuffa ’ita’i’assa</textarea-id>
-                      - <button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label>
-                      - <div-id>output|</div-id>
+                      - 'ː → ∅ / #[fricative]_ | #h_ | #j_'
+                      - ɫ &gt; ll
+                      - ç &gt; hh
+                      - ñ &gt; nn}</textarea-text></textarea-id>
                       - <internal-script>/data/scripts/sca.js</internal-script>
                       - <script>intermediate()</script>
                   date: '2025-02-15'

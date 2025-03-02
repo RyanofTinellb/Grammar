@@ -14,6 +14,9 @@
 <div class="main-page"><nav class="mini"><p><a href="/languages/demoticlulani/appendices/index.html">← Previous Page</a></p>
 <p><a href="/languages/earlyfezhlê/index.html">Next Page →</a></p></nav>
 <main><h1>Diachrony</h1>
+<textarea id="wordsbox">disinnamuka kurila cani pamila matta naru ’ala qira’ataqa nigup·pi jagaru pamana cani maditiba bataniqqi kanura ra’u kal·li nicur·ru gupikarafi pi bi’u kifiqa qixa turubasillu xitaqa lanu turubasillu ’aditihutuja cani pa haru’usi dattusaqa tinalli li ’usi marila canari ku’ahati micita dissuka ’usu kikafasa dissu kal·li kal·lu’ipu’a nura dukku na kixina hibu kuli ’amilaru piba kuppu xiku racaxa disi ’usaju’illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami bufiqa daru ra’u qapaccafuni harujagaru nacca gupikunaqi jamicussi hulu’anisa ji bigusuli qu rubaqa gusuli ra’u xidu dissillu daru tasi jami ji rika nufira ru ’alamusa ra’u kalupa’akagi cussixa musa gabasilluru nuki ’usixaru ra’u ’usu gibi sumikasija nakalu ra’u piba kuppura’u rubaqa ciʔa du’ikalumusa ji li kikami ru cikki gi’a li ci’u kalugupinuru sa’ibassilu ji palinu tuhinuhulu nin·niga kibbasu’a qu canisi jannibittaru bataniqqi kassula musaqapi ’iluqa turassi xisa’i rannaxi xiku ninali qa kunubitu’afu gi’assa lanu ra’u ga’i gi’a pajiga nallimiqa sulata ninaxatiqa karra lisami’ulata purakassu li ju’isatadu ximussaru gusutakki qu kugusunulli kikaga’i nura nagi lati li xi’allaru sula hafinullitaqa ta’i puramilami jagarudacani quhhaqa ta’i lanuqa lati ninali turukuffa ’ita’i’assa</textarea>
+<p><button onclick="intermediate()">Change</button> <label><input type="checkbox" id="chain" onclick="intermediate()" /> See intermediate steps?</label> <label><input type="checkbox" id="chance" onclick="intermediate()" /> Introduce chance?</label> <label><input type="checkbox" id="multi" onclick="intermediate()" /> Allow multigraphs?</label> <label><input type="checkbox" id="debug" onclick="intermediate()" /> Debug mode?</label></p>
+<div id="output"></div>
 <h2 id="phonemetables">Phoneme Tables</h2>
 <div class="landscape"><table class="alphabet"><thead><tr><th rowspan="4" colspan="2">consonant</th><th colspan="6">obstruent</th><th colspan="2">sonorant</th><th rowspan="4">glide</th></tr>
 <tr><th rowspan="2" colspan="2">plosive</th><th colspan="4">fricative</th><th rowspan="3">nasal</th><th rowspan="3">liquid</th></tr>
@@ -107,11 +110,10 @@ x → s / _c
 tx → c
 x → ∅ / _s | s_
 d → ∅ / _j
-ː → ∅ / #[fricative]_ | #h_ | #j_}
-</textarea><h2 id="words">Words</h2>
-<textarea id="wordsbox">disinnamuka kurila cani pamila matta naru ’ala qira’ataqa nigup·pi jagaru pamana cani maditiba bataniqqi kanura ra’u kal·li nicur·ru gupikarafi pi bi’u kifiqa qixa turubasillu xitaqa lanu turubasillu ’aditihutuja cani pa haru’usi dattusaqa tinalli li ’usi marila canari ku’ahati micita dissuka ’usu kikafasa dissu kal·li kal·lu’ipu’a nura dukku na kixina hibu ku·li ’amilaru piba kuppu xiku racaxa disi ’usaju’illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami bufiqa daru ra’u qapaccafuni harujagaru nacca gupikunaqi jamicussi hulu’anisa ji bigusuli qu rubaqa gusuli ra’u xidu dissillu daru tasi jami ji rika nufira ru ’alamusa ra’u kalupa’akagi cussixa musa gabasilluru nuki ’usixaru ra’u ’usu gibi sumikasija nakalu ra’u piba kuppura’u rubaqa ciʔa du’ikalumusa ji li kikami ru cikki gi’a li ci’u kalugupinuru sa’ibassilu ji palinu tuhinuhulu nin·niga kibbasu’a qu canisi jannibittaru bataniqqi kassula musaqapi ’iluqa turassi xisa’i rannaxi xiku ninali qa kunubitu’afu gi’assa lanu ra’u ga’i gi’a pajiga nallimiqa sulata ninaxatiqa karra lisami’ulata purakassu li ju’isatadu ximussaru gusutakki qu kugusunulli kikaga’i nura nagi lati li xi’allaru sula hafinullitaqa ta’i puramilami jagarudacani quhhaqa ta’i lanuqa lati ninali turukuffa ’ita’i’assa</textarea>
-<p><button onclick="intermediate()">Change</button> <label><input type="checkbox" id="chain" onclick="intermediate()" /> See intermediate steps?</label> <label><input type="checkbox" id="chance" onclick="intermediate()" /> Introduce chance?</label> <label><input type="checkbox" id="multi" onclick="intermediate()" /> Allow multigraphs?</label> <label><input type="checkbox" id="debug" onclick="intermediate()" /> Debug mode?</label></p>
-<div id="output"></div>
+ː → ∅ / #[fricative]_ | #h_ | #j_
+ɫ &gt; ll
+ç &gt; hh
+ñ &gt; nn}</textarea>
 <script src="/data/scripts/sca.js"></script>
 <script>intermediate()</script>
 </main>
@@ -119,7 +121,7 @@ d → ∅ / _j
 <p><a href="/languages/earlyfezhlê/index.html">Next Page →</a></p></nav>
 </div></div>
 <footer><div class="copyright"><span class="no-breaks">&copy;2017-2025 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Sunday, February 16th, 2025</span></div>
+<span class="no-breaks">Last updated: Sunday, March 2nd, 2025</span></div>
 </footer>
 <p><script src="/data/scripts/parse_href.js"></script></p>
 <script>
