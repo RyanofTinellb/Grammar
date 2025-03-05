@@ -2,6 +2,7 @@ default:
   props:
     size: 18
     ime: autocorrect
+    font: Garamond
 abbr:
   props:
     font: Felix Titling
@@ -77,19 +78,20 @@ folded:
   key: f
   props:
     left: 40
+    off-key: Return
 folding:
   type: block
   open: <details class="folding">
   close: </details>
   key: Alt-F
+  pipe: '&NoBreak;'
   props:
-    background: '#ff66ff'
+    background: '#ffccff'
     off_key: Return
 folding-open:
   type: block
   open: <details class="folding" open>
   close: </details>
-  key: Alt-F
   props:
     background: '#f9f'
     off_key: Return
