@@ -243,10 +243,9 @@ entries:
                   - <message>In this section, I am translating <gloss>Waterfall</gloss> into High Lulani, and then evolving the language into its Demotic form.</message>
                   - This is the second <external>http://coelacanthquartet.tinellb.com/thecrackledegg/waterfall|chapter</external> of the <external>http://coelacanthquartet.tinellb.com/thecrackledegg|<gloss>Crackled Egg</gloss></external>, from the <external>http://coelacanthquartet.tinellb.com|<gloss>Coelacanth Quartet</gloss></external>.
                   - <folding><folded>When Tussol, head of the Department of Intercultural Relations at Lusov University, reached his office that morning, he found Lharen already waiting outside.</folded>
-                  - <dictionary@x-tlb-hl>$tussuli</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>$lusubi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tisiqqi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>maniki</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sabufi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ari</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$laruni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’ajjatuja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl>.
-                  - Tussuli’i hisubaqa Lusubimalu Tisiqq·qa Manikisabufi ’ariLaruni ku’ajjatuja malu.
-                  - Tosölii hisubqa Losübimalu Cixiq·qa N·nikizbüfi eriIlröni kuaxtoj malu.
-                  - </folding>
+                  - Tussuli’i hisubaqa Lusubimalu Tisiqq·qa Manikisabutu ’ariLaruni ku’ajjatuja malu.
+                  - <dictionary@x-tlb-hl>$tussuli</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>$lusubi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tisiqqi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>maniki</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sabutu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ari</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$laruni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’ajjatuja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl>.
+                  - Tosöliyi hisubaq Losübimalu Cixiq·qa Menikizbotu eriIlröni kwaxtoj malu.</folding>
               date: '2019-01-17'
               position: '41.0'
               text:
