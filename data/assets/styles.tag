@@ -99,13 +99,6 @@ folding:
   props:
     background: '#ffccff'
     off_key: Return
-folding-open:
-  type: block
-  open: <details class="folding" open>
-  close: </details>
-  props:
-    background: '#f9f'
-    off_key: Return
 gloss:
   type: span
   key: Alt-g
