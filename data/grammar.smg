@@ -6,11 +6,6 @@ entries:
   - Languages
   - Demotic Lulani
   - Sample Texts
-- - A Grammar of the Tinellbian Languages
-  - Languages
-  - Demotic Lulani
-  - Appendices
-  - Diachrony
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime
@@ -20,6 +15,7 @@ imes:
 language: 'en: English'
 languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 links:
+  external: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\external-links.glk
   glossary: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\glossary.glk
   grammar: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\internal-links.glk
   lang: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml

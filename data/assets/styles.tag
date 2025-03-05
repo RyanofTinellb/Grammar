@@ -6,7 +6,7 @@ default:
 abbr:
   props:
     font: Felix Titling
-    size: 80
+    size: 70
   type: span
   open: <dfn><abbr class="glossary" title="
   pipe: '">'
@@ -33,6 +33,11 @@ checkbox:
   end: ''
   props:
     background: '#fc6'
+cite:
+  key: Alt-c
+  props:
+    italics: true
+    off-key: Return
 columns:
   type: div
 desktop:
@@ -66,6 +71,12 @@ example:
   key: Alt-E
   props:
     background: '#66ff66'
+external-link:
+  type: anchor
+  param: $lookup:external$|$text$
+  key: Alt-e
+  props:
+    colour: '#33c'
 external:
   props:
     colour: blue
