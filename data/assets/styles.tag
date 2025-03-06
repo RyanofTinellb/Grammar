@@ -40,6 +40,13 @@ cite:
     off-key: Return
 columns:
   type: div
+details|folding:
+  type: block
+  key: Alt-F
+  pipe: '&NoBreak;'
+  props:
+    background: '#ffccff'
+    off_key: Return
 desktop:
   type: div
   rank: 150
@@ -64,10 +71,8 @@ div-id:
     background: '#f6c'
 english:
   type: div
-example:
+details|example:
   type: block
-  open: <details class="example">
-  close: </details>
   key: Alt-E
   props:
     background: '#66ff66'
@@ -82,23 +87,12 @@ external:
     colour: blue
     underline: true
   type: anchor
-folded:
+summary|folding:
   type: line
-  open: <summary class="folding">
-  close: </summary>
   key: f
   props:
     left: 40
     off-key: Return
-folding:
-  type: block
-  open: <details class="folding">
-  close: </details>
-  key: Alt-F
-  pipe: '&NoBreak;'
-  props:
-    background: '#ffccff'
-    off_key: Return
 gloss:
   type: span
   key: Alt-g
@@ -248,9 +242,8 @@ symbol:
     italics: true
 table:
   type: table
-table-alphabet:
+table|alphabet:
   type: table
-  open: <table class="alphabet">
 textarea-id:
   props:
     background: '#ff9'
@@ -285,14 +278,12 @@ transliteration:
 ul:
   type: ul
   key: Alt-U
-ul-rewrite:
+ul#rewrite:
   type: ul
-  open: '<ul id="rewrite">'
   props:
     background: '#ffc'
-ul-features:
+ul#features:
   type: ul
-  open: '<ul id="features">'
   props:
     background: '#fec'
 wordlist:
