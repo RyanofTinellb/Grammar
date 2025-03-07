@@ -74,6 +74,7 @@ english:
 details|example:
   type: block
   key: Alt-E
+  pipe: '&NoBreak;'
   props:
     background: '#66ff66'
 external-link:
