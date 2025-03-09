@@ -45,8 +45,6 @@ directory:
       - - Kinship
       - - Elements
     - - Sample Text
-    - - Sample Texts
-      - - Prelude
   - - Demotic Lulani
     - - Phonology
     - - Sample Text
@@ -2401,8 +2399,8 @@ entries:
                   - </columns>The suprasegmental symbols are all exemplified in <ipa@x-tlb-hl>/ˌpʰaːmɨˈlamɨ/</ipa@x-tlb-hl>.
                 Sample Text:
                   children: {}
-                  date: '2025-03-07'
-                  position: '17.109'
+                  date: '2025-03-10'
+                  position: '367.44'
                   text:
                   - This comes from an early draft of <cite><external-link>Prelude</external-link></cite>, the first chapter of <cite><external-link>The Crackled Egg</external-link></cite>, from <cite><external-link>The Coelacanth Quartet</external-link></cite><interlinear>
                   - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Disinnamuka</transliteration@x-tlb-hl></summary|folding>
@@ -3470,13 +3468,13 @@ entries:
                   - <details|folding><summary|folding><transliteration@x-tlb-hl>Pali Kurila la ’inagidisi pa na li mari rikka kasi ra’uta rippa.</transliteration@x-tlb-hl></summary|folding>
                   - <tinellbian@x-tlb-hl>。ぱえくりわわいなぎでせぱなえまりりっかかせらうたりっぱ。</tinellbian@x-tlb-hl>
                   - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>$kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>la</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nagi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>disi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ri</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>rippa</dictionary@x-tlb-hl>.
-                  - <gloss>Think-<abbr>com</abbr> CT:<ipa>/ˈǂʰɔː.lə/</ipa> do speak-promise-<abbr>3ani;gen</abbr> <abbr>3ina;int</abbr> prs;hab <abbr>com</abbr> this easy-<abbr>abl</abbr> that <abbr>prs;sta</abbr>-and surprise.</gloss>
+                  - <gloss>Think-<abbr>com</abbr> CT:<ipa>/ˈǂʰɔː.lə/</ipa> do speak-promise-<abbr>3ani;gen</abbr> <abbr>3ina;int</abbr> </gloss><abbr>prs;hab</abbr><gloss> <abbr>com</abbr> this easy-<abbr>abl</abbr> that <abbr>prs;sta</abbr>-and surprise.</gloss>
                   - (He) thought in surprise that Qōla is doing the thing she promised and that this makes that easy.</details|folding>
                   - Still, he reflected, Corla seems to be doing what she promised. That does make it slightly easier.</paragraph>
                   - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu qixa nara maqa, Turassi capi jikaru haruKurila hacci dumi haru, nirafiki dasini cijja ra’u.</transliteration@x-tlb-hl></summary|folding>
                   - <tinellbian@x-tlb-hl>。ぴあどねざならまげ、とらっせやぴじかるはるくりわはっちどみはる、にらべきだせっにちっぢらう。</tinellbian@x-tlb-hl>
                   - <dictionary@x-tlb-hl>$pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>$turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>capi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ji</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>karu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hacci</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dumi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>rafiki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ini</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cijja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>.
-                  - <gloss>KF:<ipa>/pʰɪ.ˈa.dɯ/</ipa> <abbr>pst;dyn</abbr> sleep when-down, KF:<ipa>/tr̩ʃ/</ipa> behind <abbr>prs;neg</abbr>-<abbr>trm</abbr> with-CT:<ipa>/ˈǂʰɔː.lə/</ipa> wake night with, at-bar consume-dim alcohol <abbr>prs;sta</abbr>.</gloss>
+                  - <gloss>KF:<ipa>/pʰɪ.ˈa.dɯ/</ipa> <abbr>pst;dyn</abbr> sleep when-down, KF:<ipa>/tr̩ʃ/</ipa> behind <abbr>prs;neg</abbr>-<abbr>trm</abbr> with-CT:<ipa>/ˈǂʰɔː.lə/</ipa> wake night with, at-bar consume-</gloss><abbr>dim</abbr><gloss> alcohol <abbr>prs;sta</abbr>.</gloss>
                   - After Piadû went to sleep, later Tŗsh was not stopping being awake with Corla, while having small drinks of alcohol.</details|folding>
                   - Later that evening, when Piado had gone to bed, the two women remained awake, sipping their drinks in the bar.
                   - <details|folding><summary|folding><transliteration@x-tlb-hl>Pa’usa li Laruni nigurrisulukku gupitiba nagi rika, kalu’ihusubi janni mihu.</transliteration@x-tlb-hl></summary|folding>
@@ -3488,13 +3486,7 @@ entries:
                   - </interlinear>
                   - <script>
                   - const interlinear = document.getElementsByClassName("interlinear")[0];
-                  - for (elt of interlinear.getElementsByTagName("details")) { elt.open = false }
-                  - </script>
-                Sample Texts:
-                  children:
-                    Prelude:
-                      text: []
-                  text: []
+                  - for (elt of interlinear.getElementsByTagName("details")) { elt.open = false }</script>
                 Syntax:
                   children:
                     Argument Promotion:
