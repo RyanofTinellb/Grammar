@@ -1,295 +1,311 @@
-default:
-  props:
-    size: 18
-    ime: autocorrect
-    font: Garamond
 abbr:
+  close: </abbr></dfn>
+  keys:
+    'on': Alt-G
+  open: <dfn><abbr class="glossary" title="
+  param: $lookup:glossary$|$text$
+  pipe: '">'
   props:
     font: Felix Titling
     size: 70
-  type: span
-  open: <dfn><abbr class="glossary" title="
-  pipe: '">'
-  close: </abbr></dfn>
-  param: $lookup:glossary$|$text$
   rank: -50
-  key: Alt-G
+  type: span
 block:
+  keys:
+    'on': Alt-b
   type: div
-  key: Alt-b
 button:
-  open: '<button onclick="'
+  open: <button onclick="
   pipe: '">'
   props:
     background: '#ffd'
-label:
-  props:
-    colour: '#09f'
 checkbox:
-  open: '<input type="checkbox" id="'
-  pipe: '" onclick="'
   close: '" />'
-  start: ''
   end: ''
+  open: <input type="checkbox" id="
+  pipe: '" onclick="'
   props:
     background: '#fc6'
+  start: ''
 cite:
-  key: Alt-c
+  keys:
+    'off': Return
+    'on': Alt-c
   props:
     italics: true
-    off-key: Return
 columns:
   type: div
-details|folding:
+default:
+  props:
+    font: Garamond
+    ime: autocorrect
+    size: 18
+desktop:
+  props:
+    background: '#ff33ff'
+  rank: 150
+  type: div
+details|example:
+  keys:
+    'on': Alt-E
+  pipe: '&NoBreak;'
+  props:
+    background: '#66ff66'
   type: block
-  key: Alt-F
+details|folding:
+  keys:
+    'on': Alt-F
   pipe: '&NoBreak;'
   props:
     background: '#ffccff'
     off_key: Return
-desktop:
-  type: div
-  rank: 150
-  props:
-    background: '#ff33ff'
+  type: block
 dictionary:
+  keys:
+    'off': space
+    'on': Alt-n
+  language: true
+  param: http://dictionary.tinellb.com/lex/$text$.html#$url(lookup:lang)$|$upper(text)$
   props:
     colour: '#0000ff'
-    underline: true
-    off-key: space
     ime: transliteration
+    underline: true
   type: anchor
-  param: http://dictionary.tinellb.com/lex/$text$.html#$url(lookup:lang)$|$upper(text)$
-  language: true
-  key: Alt-n
 div-id:
-  type: line
-  open: '<div id="'
+  close: </div>
+  open: <div id="
   pipe: '">'
-  close: '</div>'
   props:
     background: '#f6c'
+  type: line
 english:
   type: div
-details|example:
-  type: block
-  key: Alt-E
-  pipe: '&NoBreak;'
-  props:
-    background: '#66ff66'
-external-link:
-  type: anchor
-  param: $lookup:external$|$text$
-  key: Alt-e
-  props:
-    colour: '#33c'
 external:
   props:
     colour: blue
     underline: true
   type: anchor
-summary|folding:
-  type: line
-  key: f
+external-link:
+  keys:
+    'on': Alt-e
+  param: $lookup:external$|$text$
   props:
-    left: 40
-    off-key: Return
+    colour: '#33c'
+  type: anchor
 gloss:
-  type: span
-  key: Alt-g
+  keys:
+    'off': Return
+    'on': Alt-g
   props:
     italics: true
-    off-key: Return
+  type: span
 grammar-link:
+  language: true
+  param: $link:lookup:grammar$|$text$
   props:
     colour: '#000099'
     underline: true
   type: anchor
-  param: $link:lookup:grammar$|$text$
-  language: true
 h2:
-  type: heading
-  key: KeyPress-2
+  keys:
+    'off': Return
+    'on': KeyPress-2
   props:
     bold: true
     size: 150
-    off-key: Return
-h3:
   type: heading
+h3:
+  keys:
+    'off': Return
+    'on': KeyPress-3
   props:
     bold: true
     size: 140
-    off-key: Return
-  key: KeyPress-3
-h4:
   type: heading
+h4:
   props:
     bold: true
     size: 130
-h5:
   type: heading
+h5:
   props:
     bold: true
     size: 120
+  type: heading
 heading-link:
+  close: </a></h2>
+  language: true
+  open: <h2><a
+  param: href="$link:lookup:grammar$"|$text$
+  pipe: '>'
   props:
     bold: true
-    underline: true
     colour: '#3366cc'
+    underline: true
   type: heading
-  open: <h2><a
-  pipe: '>'
-  close: </a></h2>
-  param: href="$link:lookup:grammar$"|$text$
-  language: true
 highlight:
-  type: span
   props:
     background: yellow
+  type: span
 i:
+  keys:
+    'on': i
   props:
     italics: true
-  key: i
 image:
-  open: <img src="
   close: '">'
-  param: $link:lookup:grammar$
   language: true
+  open: <img src="
+  param: $link:lookup:grammar$
 interlinear:
-  type: div
-  start: ''
   end: ''
+  start: ''
+  type: div
 internal:
-  type: anchor
   props:
     colour: blue
     underline: true
+  type: anchor
 internal-script:
+  close: '></script>'
+  end: '"'
+  open: <script src=
   props:
     background: '#cf6'
-  type: block
-  open: '<script src='
   start: '"'
-  end: '"'
-  close: '></script>'
+  type: block
 ipa:
+  keys:
+    'on': Alt-i
+  language: true
   props:
     font: lucida sans unicode
     ime: ipa
   type: span
-  language: true
-  key: Alt-i
+label:
+  props:
+    colour: '#09f'
 landscape:
   type: div
 left-columns:
   type: div
 message:
-  type: div
   props:
     colour: red
-mobile:
   type: div
-  rank: 150
+mobile:
   props:
     background: '#ffff33'
+  rank: 150
+  type: div
 multiline:
-  type: span
   rank: -100
+  type: span
 nextline:
   type: span
 ol:
   type: ol
 overline:
-  type: span
   props:
     underline: true
+  type: span
 paragraph:
-  type: div
-  open: <hr><div class="paragraph">
-  start: <p>
   end: </p>
+  open: <hr><div class="paragraph">
   rank: 150
+  start: <p>
+  type: div
 portrait:
   type: div
 script:
-  type: line
   props:
     background: '#cc3'
+  type: line
 season:
-  open: <dfn class="season" title="
-  pipe: '">'
   close: </dfn>
+  open: <dfn class="season" title="
   param: $lookup:season$|$text$
+  pipe: '">'
 sentence-list:
   props:
     left: 5
   type: div
 stars:
+  end: </p>
   props:
     justify: right
-  type: div
   start: <p>
-  end: </p>
+  type: div
 strong:
   props:
     bold: true
   rank: -20
+summary|folding:
+  keys:
+    'off': Return
+    'on': f
+  props:
+    left: 40
+  type: line
 sup:
   props:
     offset: superscript
 symbol:
-  type: span
   props:
     italics: true
+  type: span
 table:
   type: table
 table|alphabet:
   type: table
+tbody:
+  props:
+    background: '#99f'
+  type: block
 textarea-id:
+  close: </textarea>
+  open: <textarea id="
+  pipe: '">'
   props:
     background: '#ff9'
   type: line
-  open: '<textarea id="'
-  pipe: '">'
-  close: </textarea>
 textarea-text:
   type: blank
-tbody:
-  type: block
-  props:
-    background: '#99f'
 thead:
-  type: block
   props:
     background: '#66f'
+  type: block
 tinellbian:
+  keep_tags: true
+  keys:
+    'off': space
+    'on': Alt-t
+  language: true
   props:
     font: tinellbian
     ime: tinellbian
-    off-key: space
-  language: true
-  keep_tags: true
   type: span
-  key: Alt-t
 transliteration:
+  language: true
   props:
     bold: true
   type: span
-  language: true
 ul:
+  keys:
+    'on': Alt-U
   type: ul
-  key: Alt-U
-ul#rewrite:
-  type: ul
-  props:
-    background: '#ffc'
 ul#features:
-  type: ul
   props:
     background: '#fec'
+  type: ul
+ul#rewrite:
+  props:
+    background: '#ffc'
+  type: ul
 wordlist:
-  type: div
-  key: Alt-W
+  keys:
+    'on': Alt-W
   props:
     background: '#cccc99'
     left: 50
+  type: div
