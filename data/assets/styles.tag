@@ -1,7 +1,6 @@
 abbr:
   close: </abbr></dfn>
-  keys:
-    'on': Alt-G
+  key: Alt-G
   open: <dfn><abbr class="glossary" title="
   param: $lookup:glossary$|$text$
   pipe: '">'
@@ -11,8 +10,7 @@ abbr:
   rank: -50
   type: span
 block:
-  keys:
-    'on': Alt-b
+  key: Alt-b
   type: div
 button:
   open: <button onclick="
@@ -46,15 +44,13 @@ desktop:
   rank: 150
   type: div
 details|example:
-  keys:
-    'on': Alt-E
+  key: Alt-E
   pipe: '&NoBreak;'
   props:
     background: '#66ff66'
   type: block
 details|folding:
-  keys:
-    'on': Alt-F
+  key: Alt-F
   pipe: '&NoBreak;'
   props:
     background: '#ffccff'
@@ -86,8 +82,7 @@ external:
     underline: true
   type: anchor
 external-link:
-  keys:
-    'on': Alt-e
+  key: Alt-e
   param: $lookup:external$|$text$
   props:
     colour: '#33c'
@@ -148,8 +143,7 @@ highlight:
     background: yellow
   type: span
 i:
-  keys:
-    'on': i
+  key: i
   props:
     italics: true
 image:
@@ -175,8 +169,7 @@ internal-script:
   start: '"'
   type: block
 ipa:
-  keys:
-    'on': Alt-i
+  key: Alt-i
   language: true
   props:
     font: lucida sans unicode
@@ -291,8 +284,7 @@ transliteration:
     bold: true
   type: span
 ul:
-  keys:
-    'on': Alt-U
+  key: Alt-U
   type: ul
 ul#features:
   props:
@@ -303,8 +295,7 @@ ul#rewrite:
     background: '#ffc'
   type: ul
 wordlist:
-  keys:
-    'on': Alt-W
+  key: Alt-W
   props:
     background: '#cccc99'
     left: 50
