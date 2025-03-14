@@ -9,6 +9,10 @@ abbr:
     size: 70
   rank: -50
   type: span
+b:
+  key: b
+  props:
+    bold: true
 block:
   key: Alt-b
   type: div
@@ -104,7 +108,7 @@ grammar-link:
 h2:
   keys:
     'off': Return
-    'on': KeyPress-2
+    'on': 2
   props:
     bold: true
     size: 150
@@ -112,21 +116,27 @@ h2:
 h3:
   keys:
     'off': Return
-    'on': KeyPress-3
+    'on': 3
   props:
     bold: true
     size: 140
   type: heading
 h4:
+  type: heading
   props:
     bold: true
     size: 130
-  type: heading
+  keys:
+    'on': 4
+    'off': Return
 h5:
+  type: heading
   props:
     bold: true
     size: 120
-  type: heading
+  keys:
+    'on': 5
+    'off': Return
 heading-link:
   close: </a></h2>
   language: true

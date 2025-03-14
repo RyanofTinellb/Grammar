@@ -42,6 +42,7 @@ x-tlb-hl:
   communicativeverbs: languages/highlulani/morphology/verbs/ambitransitivity#communicativeverbs
   complement: languages/highlulani/syntax/dependentclauses/index#contentclauses
   comparatives: languages/highlulani/apocrypha/comparatives
+  comparison: languages/highlulani/apocrypha/comparatives
   compoundnouns: languages/highlulani/morphology/nouns/index#compoundnouns
   compoundverbs: languages/highlulani/morphology/verbs/index#compoundverbs
   conjunctions: languages/highlulani/morphology/conjunctions
@@ -61,7 +62,7 @@ x-tlb-hl:
   elements: languages/highlulani/apocrypha/elements
   emotion: languages/highlulani/morphology/nouns/adverbs#emotion
   episodicandgeneric: languages/highlulani/morphology/auxiliaries#episodicandgeneric
-  equilatives: languages/highlulani/apocrypha/comparatives#equilatives
+  equatives: languages/highlulani/apocrypha/comparatives#equatives
   evidential: languages/highlulani/morphology/nouns/adverbs#evidential
   extent: languages/highlulani/morphology/nouns/adverbs#extent
   fractions: languages/highlulani/apocrypha/numbers#fractions
@@ -124,6 +125,7 @@ x-tlb-hl:
   particles: languages/highlulani/morphology/particles/index
   passive: languages/highlulani/syntax/argumentpromotion#passive
   perceptiveverbs: languages/highlulani/morphology/verbs/ambitransitivity#perceptiveverbs
+  personalpronoun: languages/highlulani/morphology/deixis/personalpro-forms
   personalpro-forms: languages/highlulani/morphology/deixis/personalpro-forms
   phonology: languages/highlulani/phonology/index
   phonotactics: languages/highlulani/phonology/phonotactics
