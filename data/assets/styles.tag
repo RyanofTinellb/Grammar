@@ -51,13 +51,13 @@ details|example:
   key: Alt-E
   pipe: '&NoBreak;'
   props:
-    background: '#66ff66'
+    background: '#cfc'
   type: block
 details|folding:
   key: Alt-F
   pipe: '&NoBreak;'
   props:
-    background: '#ffccff'
+    background: '#fcf'
     off_key: Return
   type: block
 dictionary:
@@ -242,13 +242,14 @@ stars:
 strong:
   props:
     bold: true
+    colour: '#f00'
   rank: -20
 summary|folding:
   keys:
     'off': Return
     'on': f
   props:
-    left: 40
+    colour: '#0cc'
   type: line
 sup:
   props:
@@ -289,10 +290,14 @@ tinellbian:
     ime: tinellbian
   type: span
 transliteration:
+  type: span
+  keys:
+    'on': Alt-T
+    'off': Return
   language: true
   props:
     bold: true
-  type: span
+    ime: transliteration
 ul:
   key: Alt-U
   type: ul
@@ -307,6 +312,5 @@ ul#rewrite:
 wordlist:
   key: Alt-W
   props:
-    background: '#cccc99'
     left: 50
   type: div

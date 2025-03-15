@@ -688,7 +688,7 @@ entries:
                   children:
                     Adpositions:
                       date: '2025-03-15'
-                      position: '66.52'
+                      position: '110.6'
                       text:
                       - Adpositions are a closed class. They can be used in three different ways.
                       - <h3>As a Preposition</h3>
@@ -715,7 +715,19 @@ entries:
                       - <gloss>down-<abbr>abl</abbr>-car</gloss>
                       - </details|folding>“down from the cart”</wordlist>
                       - <h4>Government</h4>
-                      - When the object of an adposition is a <grammar-link@x-tlb-hl>personal pronoun</grammar-link@x-tlb-hl>, they can take different cases depending on the adposition.
+                      - When the object of an adposition is an <grammar-link@x-tlb-hl>animate</grammar-link@x-tlb-hl> <grammar-link@x-tlb-hl>personal pronoun</grammar-link@x-tlb-hl>, they can take different cases depending on the adposition.
+                      - <wordlist><details|folding><summary|folding><transliteration@x-tlb-hl>harupixi</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>はるぴし</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pixi</dictionary@x-tlb-hl>
+                      - <gloss>with-</gloss><abbr>1dat</abbr>
+                      - '<gloss>lit: “with to me”</gloss> </details|folding>'
+                      - “with me”
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>susacu</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>すさゆ</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>su</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>sacu</dictionary@x-tlb-hl>
+                      - <gloss>than-</gloss><abbr>2abl</abbr>
+                      - '<gloss>lit: “than from you”</gloss></details|folding>'
+                      - “than you”</wordlist>
                       - <h3>As a Nominal or Verbal Modifier</h3>
                       - 'Adpositions can be used to form compound nouns:'
                       - <wordlist><details|folding><summary|folding><transliteration@x-tlb-hl>gusu’adi</transliteration@x-tlb-hl></summary|folding>
@@ -751,13 +763,13 @@ entries:
                       - “The bear is to the north.”
                       - <details|example><summary|folding><transliteration@x-tlb-hl>Kuhisuba ’adi na cijja.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。くひすばあでなちっぢ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-hisuba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cijja</dictionary@x-tlb-hl>.
+                      - <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cijja</dictionary@x-tlb-hl>.
                       - <gloss><abbr>dat</abbr>-administrator near <abbr>prs;hab</abbr> alcohol.</gloss></details|example>
                       - “The minister is usually having a drink around now.”
                       - <h2>Comparative
                       - </h2>These are used to mark the standard of a <grammar-link@x-tlb-hl>comparison</grammar-link@x-tlb-hl>.
-                      - <wordlist><dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>equative</gloss>
-                      - <dictionary@x-tlb-hl>su</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>comparative</gloss></wordlist>
+                      - <wordlist><dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>equative</gloss> (+<abbr>dat</abbr>)
+                      - <dictionary@x-tlb-hl>su</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>comparative</gloss> (+<abbr>abl</abbr>)</wordlist>
                       - <h2>Directions</h2>
                       - This list includes both relative and absolute terms.
                       - <wordlist><block><dictionary@x-tlb-hl>saqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さげ</tinellbian@x-tlb-hl><gloss> right</gloss>
@@ -797,9 +809,9 @@ entries:
                       - <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>び</tinellbian@x-tlb-hl> <gloss>out of</gloss></wordlist>
                       - <h2>Animates</h2>
                       - This group have animate objects.
-                      - <wordlist><dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>with</gloss>
-                      - <dictionary@x-tlb-hl>ha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl> <gloss>for the benefit of</gloss>
-                      - <dictionary@x-tlb-hl>’aga</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あが</tinellbian@x-tlb-hl> <gloss>to the detriment of</gloss></wordlist>
+                      - <wordlist><dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>with</gloss> (+<abbr>dat</abbr>)
+                      - <dictionary@x-tlb-hl>ha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl> <gloss>for the benefit of</gloss> (+<abbr>dat</abbr>)
+                      - <dictionary@x-tlb-hl>’aga</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あが</tinellbian@x-tlb-hl> <gloss>to the detriment of</gloss> (+<abbr>abl</abbr>)</wordlist>
                       - <h2>Inanimates</h2>
                       - This group have inanimate objects.
                       - <wordlist><dictionary@x-tlb-hl>nidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>にど</tinellbian@x-tlb-hl> <gloss>using</gloss>
@@ -809,8 +821,8 @@ entries:
                       - <dictionary@x-tlb-hl>sata</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さた</tinellbian@x-tlb-hl> <gloss>in order to obtain</gloss>
                       - <dictionary@x-tlb-hl>’arri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっり</tinellbian@x-tlb-hl> <gloss>along with</gloss></wordlist>
                     Auxiliaries:
-                      date: '2024-05-18'
-                      position: '66.32'
+                      date: '2025-03-15'
+                      position: '64.67'
                       text:
                       - Auxiliaries are a type of <grammar-link@x-tlb-hl>verb</grammar-link@x-tlb-hl>, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
                       - <desktop><table><thead>|h dynamic |h stative |h negative |h habitual |h gnomic</thead>
@@ -838,23 +850,23 @@ entries:
                       - Auxiliary stacking gives a poetic or archaic nuance.
                       - <details|example><summary|folding><transliteration@x-tlb-hl>ʔusu rusarukuru lu’i fu.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。うするさるくるをいふ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>rusarukuru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl>.
+                      - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>rusa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ruku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl>.
                       - <gloss><abbr>1int</abbr> <abbr>pst;gno</abbr>-<abbr>fut;gno</abbr>-<abbr>prs;gno</abbr> love <abbr>2tra</abbr>.</gloss></details|example>
                       - “I have always and will always love you.”
                       - <h2>Tense</h2>
                       - The three tenses are past, present and future. In conversation, the tenses tend to mark the time at which the action began or occurred.
                       - On the other hand, narratives are mainly told in present tense. The other tenses are then used relatively, so that past tense is used for things that happened earlier than the narrative present, and the future tense for things that happened later.
                       - <details|example><summary|folding><transliteration@x-tlb-hl>Quhu qixa dasi si’apa pada, jimuli cani janni qu, lanu haruqikanni la kiluqu.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。もほねざだせせあぱぱだ、じむえやに ・ ぢっにも、わぬはるねかっにわきをも。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。もほねざだせせあぱぱだ、じむえやにぢっにも、わぬはるねかっにわきをも。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>si’apa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>jimuli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qikanni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>la</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kiluqu</dictionary@x-tlb-hl>.
                       - <gloss><abbr>3ani;tra</abbr> <abbr>pst;dyn</abbr> eat meal and_then, outside <abbr>prs;dyn</abbr> move and, <abbr>fut;dyn</abbr> with-dog do walk.</gloss>
                       - '<gloss>lit.: She did eat the meal, and then is going outside, and will do a walk with a dog.</gloss></details|example>'
                       - “She ate the meal, went outside and walked the dog.”
                       - <h2>Aspect</h2>
                       - 'The aspects of positive polarity can be categorised in two different ways. Each of these has two possibilities, and thus there are four altogether:'
-                      - <table>|h episodic |h generic
-                      - h activity | dynamic | habitual
-                      - h state | stative | gnomic</table>
+                      - <table><thead>|h episodic |h generic</thead>
+                      - <tbody>h activity | dynamic | habitual
+                      - h state | stative | gnomic</tbody></table>
                       - There is a single category of auxiliaries with the opposite polarity — the <strong>negative</strong>.
                       - <h3>Episodic and Generic</h3>
                       - The difference between episodic and generic markers is one of extent. Events in <strong>episodic</strong> sentences take place over a finite duration; generic ones are prototypically unbounded, although this doesn’t literally have to cover all of time.
@@ -1629,8 +1641,8 @@ entries:
                     Verbs:
                       children:
                         Ambitransitivity:
-                          date: '2025-03-06'
-                          position: '9.12'
+                          date: '2025-03-15'
+                          position: '59.0'
                           text:
                           - Ambitransitive verbs can be used with or without an argument in the object position.
                           - <h2>Perceptive Verbs</h2>
@@ -1650,7 +1662,7 @@ entries:
                           - 'When used with a <strong>dative</strong> object, this instead lacks that effort:'
                           - <details|example><summary|folding><transliteration@x-tlb-hl>Mihu kulasidaxi ju’isataduru ’usa.</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>。みほくわせだしよいさたどるうさ。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lasida</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ju’isatadu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usa</dictionary@x-tlb-hl>.
+                          - <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>lasida</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ju’isatadu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usa</dictionary@x-tlb-hl>.
                           - <gloss><abbr>3ani;int</abbr> <abbr>dat</abbr>-secret-seem conversation-</gloss><abbr>ger</abbr><gloss> see.</gloss></details|example>
                           - “She saw the secret meeting.”
                           - <wordlist><dictionary@x-tlb-hl>’usa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl> <gloss>to see</gloss>
@@ -1666,7 +1678,7 @@ entries:
                           - The communication itself is the <strong>object</strong>, and the recipient is <strong>dative</strong>.
                           - <details|example><summary|folding><transliteration@x-tlb-hl>Kimilli kul·lani ’i ’issi.</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>。きみっえくをわにいいっせ。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>kimilli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lulani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’issi</dictionary@x-tlb-hl>.
+                          - <dictionary@x-tlb-hl>kimilli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’issi</dictionary@x-tlb-hl>.
                           - <gloss>king </gloss><abbr>dat</abbr><gloss>-queen speak song</gloss></details|example>
                           - “The king sang to the queen.”
                           - Indirect speech is signified by a <grammar-link@x-tlb-hl>complement</grammar-link@x-tlb-hl> <strong>object</strong>. As with any complement, the topic of the inner clause is the same as the outer clause.
@@ -1691,8 +1703,8 @@ entries:
                           - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss>
                           - <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to consider</gloss></wordlist>
                         Intransitivity:
-                          date: '2025-01-18'
-                          position: '9.36'
+                          date: '2025-03-15'
+                          position: '105.19'
                           text:
                           - Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
                           - <details|example><summary|folding><transliteration@x-tlb-hl>Badiri ru cura</transliteration@x-tlb-hl>.</summary|folding>
@@ -1718,13 +1730,13 @@ entries:
                           - The actor who imparts such an attribute is put in the <strong>ablative</strong> case.
                           - <details|example><summary|folding><transliteration@x-tlb-hl>Juffila kaluMa’iliguna pani.</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>。よっべわかをまいえぐなぱに。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>juffila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl><internal>https://en.wikipedia.org/wiki/Maelgwn_Gwynedd|Ma’iliguna</internal> <dictionary@x-tlb-hl>pani</dictionary@x-tlb-hl>.
+                          - <dictionary@x-tlb-hl>juffila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<external-link>ma’iliguna</external-link> <dictionary@x-tlb-hl>pani</dictionary@x-tlb-hl>.
                           - <gloss>dragon <abbr>abl</abbr>-Maelgwn tame.</gloss></details|example>
                           - ”The dragon was tamed by Maelgwn.”
                           - The experiencer who perceives such an attribute is put in the <strong>dative</strong> case.
                           - <details|example><summary|folding><transliteration@x-tlb-hl>Liqa kuhisuba bi’u.</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>。えげくひすばびう。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>liqa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-hisuba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi’u</dictionary@x-tlb-hl>.
+                          - <dictionary@x-tlb-hl>liqa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi’u</dictionary@x-tlb-hl>.
                           - <gloss>head <abbr>dat</abbr>-administrator hurt.</gloss>
                           - '<gloss>lit: “The head seems sore to the administrator.”</gloss></details|example>'
                           - “The administrator has a headache.”
@@ -1767,10 +1779,10 @@ entries:
                           - <h2>Quasi-Transitive Verbs</h2>
                           - These are intransitive verbs in that they do not require a noun phrase in the object position. However, they act transitively by having a second noun phrase marked in a particular way.
                           - <h3>Oblique Arguments</h3>
-                          - 'These are marked with an <internal>../../syntax/case.html#obliquecases|oblique case marker</internal>:'
+                          - 'These are marked with an <grammar-link@x-tlb-hl>oblique case marker</grammar-link@x-tlb-hl>:'
                           - <details|example><summary|folding><transliteration@x-tlb-hl>Luna kalujifiru’i mala; luna kalu’ilupahi mala.</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>。をなかをじべるいまわ / をなかをいをぱひまわ。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-jifiru’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl>; <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-’ilu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-pahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl>.
+                          - <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>jifiru’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl>; <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’ilu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-pahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl>.
                           - <gloss>moon <abbr>abl</abbr>-lake reflect; moon <abbr>abl</abbr>-heart-<abbr>1gen</abbr> reflect.</gloss></details|example>
                           - “The moon is reflected in the lake; the moon is reflected in my heart.”
                           - The usual case assignment for objects of each of these verbs is shown in the wordlist for this section.
@@ -1781,7 +1793,7 @@ entries:
                           - Case denotes unmarked similarity or difference, <strong>dative</strong> for the former, <strong>ablative</strong> for the latter.
                           - <details|example><summary|folding><transliteration@x-tlb-hl>Nimalu kuquliruxita runi.</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>。にまをくもえるしたるに。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-quliru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>runi</dictionary@x-tlb-hl>.
+                          - <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>quliru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>runi</dictionary@x-tlb-hl>.
                           - <gloss>bear <abbr>dat</abbr>-family-one similar.</gloss></details|example>
                           - “The bear is like one of the family.”
                           - The adposition <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>with</gloss> denotes a slight similarity or difference.
@@ -1800,7 +1812,7 @@ entries:
                           - <dictionary@x-tlb-hl>tinna</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっな</tinellbian@x-tlb-hl> <gloss>to be different from</gloss></wordlist>
                           - <h3>Symmetric Relations</h3>
                           - 'The participants of these verbs are equivalent to each other, that is, if Alice acts on Bob, then Bob acts on Alice in the same way. When the subject is Alice, say, then Bob can:'
-                          - '1. Be placed in the object position. Despite the structure, this is not transitive, as the verb has no <internal>../../syntax/argumentpromotion.html#passive|passive</internal>, and pronouns use the intransitive form:'
+                          - '1. Be placed in the object position. Despite the structure, this is not transitive, as the verb has no <grammar-link@x-tlb-hl>passive</grammar-link@x-tlb-hl>, and pronouns use the intransitive form:'
                           - <details|example><summary|folding><transliteration@x-tlb-hl>ʔallisi sisa Bubu.</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>。あっえせせさぶぶ。</tinellbian@x-tlb-hl>
                           - ʔallisi <dictionary@x-tlb-hl>sisa</dictionary@x-tlb-hl> Bubu.
@@ -1824,8 +1836,8 @@ entries:
                           - <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>to accompany</gloss>
                           - <dictionary@x-tlb-hl>hulla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ほっわ</tinellbian@x-tlb-hl> <gloss>to copulate; to have consumated</gloss></wordlist>
                         Transitivity:
-                          date: '2024-05-14'
-                          position: '9.12'
+                          date: '2025-03-15'
+                          position: '19.115'
                           text:
                           - The divalent verbs are called transitive, and these require an object to complete its meaning. It is possible to elide this object if it is obvious or irrelevant. The <strong>subject</strong> is the agent, and the <strong>object</strong> is the patient.
                           - <details|example><summary|folding><transliteration@x-tlb-hl>Nimalu dasi (nukki).</transliteration@x-tlb-hl></summary|folding>
@@ -1845,7 +1857,7 @@ entries:
                           - <dictionary@x-tlb-hl>qarri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げっり</tinellbian@x-tlb-hl> <gloss>to open</gloss>
                           - <dictionary@x-tlb-hl>turu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とる</tinellbian@x-tlb-hl> <gloss>to close</gloss></wordlist>
                           - <h2>Motive Verbs</h2>
-                          - 'The unmarked argument structure is as follows: the oblique arguments for these are the same as for <internal>intransitivity.html#kineticverbs|kinetic</internal> verbs,<gloss> i.e.:</gloss> <strong>ablative</strong> <gloss>source</gloss>, <strong>dative</strong> <gloss>destination</gloss>, and <gloss>direction</gloss> with <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>. As for the core arguments, the agent of the movement is the <strong>subject</strong>, and the patient being moved is the <strong>object</strong>.'
+                          - 'The unmarked argument structure is as follows: the oblique arguments for these are the same as for <grammar-link@x-tlb-hl>kinetic verbs</grammar-link@x-tlb-hl>,<gloss> i.e.:</gloss> <strong>ablative</strong> <gloss>source</gloss>, <strong>dative</strong> <gloss>destination</gloss>, and <gloss>direction</gloss> with <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>. As for the core arguments, the agent of the movement is the <strong>subject</strong>, and the patient being moved is the <strong>object</strong>.'
                           - <h3>Dative</h3>
                           - These are motive verbs focussing on movement <gloss>to</gloss> the destination.
                           - <details|example><summary|folding><transliteration@x-tlb-hl>Suma gi pa.</transliteration@x-tlb-hl></summary|folding>

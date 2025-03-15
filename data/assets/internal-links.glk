@@ -15,7 +15,7 @@ x-tlb-hl:
   alveolars: languages/highlulani/phonology/consonants#alveolars
   ambitransitivity: languages/highlulani/morphology/verbs/ambitransitivity
   animacy: languages/highlulani/morphology/nouns/index#animacy
-  animate: languages/highlulani/morphology/suffixes/index#animate
+  animate: languages/highlulani/morphology/nouns/index#animacy
   animatenoun: languages/highlulani/morphology/nouns/index#animatenoun
   animates: languages/highlulani/morphology/adpositions#animates
   apocrypha: languages/highlulani/apocrypha/index
@@ -116,6 +116,7 @@ x-tlb-hl:
   objectnoun: languages/highlulani/morphology/deixis/indefinitepro-forms#objectnoun
   obliquearguments: languages/highlulani/morphology/verbs/intransitivity#obliquearguments
   obliquecases: languages/highlulani/syntax/case#obliquecases
+  obliquecasemarker: languages/highlulani/syntax/case#obliquecases
   one-digitnumbers: languages/highlulani/apocrypha/numbers#one-digitnumbers
   open: languages/highlulani/phonology/vowels#open
   ordinalnumbers: languages/highlulani/apocrypha/numbers#ordinalnumbers
