@@ -67,8 +67,8 @@ entries:
                 Appendices:
                   children:
                     Diachrony:
-                      date: '2025-03-05'
-                      position: '2.46'
+                      date: '2025-03-17'
+                      position: '104.7'
                       text:
                       - <textarea-id>wordsbox|disinnamuka kurila cani pamila matta naru ’ala qira’ataqa nigup·pi jagaru pamana cani maditiba bataniqqi kanura ra’u kal·li nicur·ru gupikarafi pi bi’u kifiqa qixa turubasillu xitaqa lanu turubasillu ’aditihutuja cani pa haru’usi dattusaqa tinalli li ’usi marila canari ku’ahati micita dissuka ’usu kikafasa dissu kal·li kal·lu’ipu’a nura dukku na kixina hibu kuli ’amilaru piba kuppu xiku racaxa disi ’usaju’illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami bufiqa daru ra’u qapaccafuni harujagaru nacca gupikunaqi jamicussi hulu’anisa ji bigusuli qu rubaqa gusuli ra’u xidu dissillu daru tasi jami ji rika nufira ru ’alamusa ra’u kalupa’akagi cussixa musa gabasilluru nuki ’usixaru ra’u ’usu gibi sumikasija nakalu ra’u piba kuppura’u rubaqa ciʔa du’ikalumusa ji li kikami ru cikki gi’a li ci’u kalugupinuru sa’ibassilu ji palinu tuhinuhulu nin·niga kibbasu’a qu canisi jannibittaru bataniqqi kassula musaqapi ’iluqa turassi xisa’i rannaxi xiku ninali qa kunubitu’afu gi’assa lanu ra’u ga’i gi’a pajiga nallimiqa sulata ninaxatiqa karra lisami’ulata purakassu li ju’isatadu ximussaru gusutakki qu kugusunulli kikaga’i nura nagi lati li xi’allaru sula hafinullitaqa ta’i puramilami jagarudacani quhhaqa ta’i lanuqa lati ninali turukuffa ’ita’i’assa</textarea-id>
                       - <button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label>
@@ -167,6 +167,7 @@ entries:
                       - x → ∅ / _s | s_
                       - d → ∅ / _j
                       - 'ː → ∅ / #[fricative]_ | #h_ | #j_'
+                      - q → n / _#
                       - lː &gt; l•l
                       - hː &gt; h•h
                       - nː &gt; n•n
@@ -236,19 +237,19 @@ entries:
                   - Rounded vowels are lowered, <gloss>i.e.:</gloss> <ipa@x-tlb-dl><strong>u</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>o</strong></ipa@x-tlb-dl> and <ipa@x-tlb-dl><strong>y</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>ø</strong></ipa@x-tlb-dl>, before peripheral consonants. The latter change also occurs at the ends of words.
                 Sample Text:
                   children: []
-                  date: '2025-03-06'
-                  position: '9.2'
+                  date: '2025-03-17'
+                  position: '8.73'
                   text:
                   - <message>In this section, I am translating a text into High Lulani, and then evolving the language into its Demotic form.</message>
                   - This is from an early draft of <cite><external-link>Firesight</external-link></cite>, the second chapter of <cite><external-link>The Crackled Egg</external-link></cite>, from <cite><external-link>The Coelacanth Quartet</external-link></cite>.
-                  - <details|folding><summary|folding>When Tussol, head of the Department of Intercultural Relations at Lusov University, reached his office that morning, he found Lharen already waiting outside.</summary|folding>
-                  - Tussuli’i hisubaqa Lusubimalu Tisiqq·qa Manikisabutu ’ariLaruni ku’ajjatuja malu.
-                  - <dictionary@x-tlb-hl>$tussuli</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>$lusubi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tisiqqi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>maniki</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sabutu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ari</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$laruni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’ajjatuja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl>.
-                  - Tosöliyi hisubaq Losübimalu Cixiq·qa Menikizbotu eriIlröni kwaxtoj malu.</details|folding>
-                  - <details|folding><summary|folding>He bade her wait for a few moments longer while he set himself up inside.</summary|folding>
-                  - Jusi ’i li mihu ~~~ luxxa</details|folding>
-              date: '2019-01-17'
-              position: '41.0'
+                  - <details|folding><summary|folding><transliteration@x-tlb-hl>Tosöliyi hisuban Losübimalu Cixiqqa Menikizbotu eriIlröni kwaxtoj maloceni.</transliteration@x-tlb-hl></summary|folding>
+                  - Tussuli’i hisubaqa Lusubimalu Tisiqq·qa Manikisabutu ’ariLaruni ku’ajjatuja malucani.
+                  - <dictionary@x-tlb-hl>$tussuli</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>$lusubi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tisiqqi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>maniki</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sabutu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ari</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$laruni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’ajjatuja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl>.
+                  - </details|folding>When Tussol, head of the Department of Intercultural Relations at Lusov University, reached his office that morning, he found Lharen already waiting outside.
+                  - <details|folding>Jusi ’i li mihu ~~~ luxxa
+                  - </details|folding>He bade her wait for a few moments longer while he set himself up inside.
+              date: '2025-03-16'
+              position: '3.0'
               text:
               - '<message>Warning: This section is a work in progress.</message>'
               - While High Lulani continued being used in the Palace and its surrounds, the living language continued to evolve in the mouths of the people.
@@ -1445,7 +1446,8 @@ entries:
                     Suffixes:
                       children:
                         Cisclass:
-                          date: '2024-09-01'
+                          date: '2025-03-17'
+                          position: '61.25'
                           text:
                           - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
                           - The augmentative <dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・あく</tinellbian@x-tlb-hl> is most often attached to nouns to reference something large or important. It is rarely used for people.
@@ -1501,6 +1503,8 @@ entries:
                           - The animate giver of the inanimate or abstract base is denoted by <dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>.
                           - <wordlist><dictionary@x-tlb-hl>’aggami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police officer</gloss> / <gloss>law giver</gloss>
                           - <dictionary@x-tlb-hl>Sa’imi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss> / <gloss>light giver</gloss></wordlist>
+                          - The animate user of an inanimate item is denoted by <dictionary@x-tlb-hl>-nissa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>にっさ</tinellbian@x-tlb-hl>.
+                          - <wordlist><dictionary@x-tlb-hl>taʔanissa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たっあにっさ</tinellbian@x-tlb-hl> <gloss>musician</gloss></wordlist>
                           - <h3>Quasi-suffixes</h3>
                           - Some nouns are so generic when forming compounds that they tend to end up acting as suffixes.
                           - <wordlist><block><dictionary@x-tlb-hl>tihutuja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てほとぢ</tinellbian@x-tlb-hl>  <gloss>home</gloss></block>
@@ -1641,8 +1645,8 @@ entries:
                     Verbs:
                       children:
                         Ambitransitivity:
-                          date: '2025-03-15'
-                          position: '59.0'
+                          date: '2025-03-17'
+                          position: '37.29'
                           text:
                           - Ambitransitive verbs can be used with or without an argument in the object position.
                           - <h2>Perceptive Verbs</h2>
@@ -1692,6 +1696,18 @@ entries:
                           - <dictionary@x-tlb-hl>kimilli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jusi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl>.
                           - <gloss>king</gloss> <abbr>3ani;dat</abbr> <gloss>speak</gloss> <abbr>com</abbr> <abbr>3ani;int</abbr> <gloss>love queen</gloss> <abbr>prs;gno</abbr></details|example>
                           - “The king told her <i>she</i> loved the queen.”
+                          - Normally, the manner of communication forms a compound with the main verb.
+                          - <details|example><summary|folding><transliteration@x-tlb-hl>Taʔanissa ba’u ’i’issi li filli ku’ahatilaru dissukillu nagi.</transliteration@x-tlb-hl></summary|folding>
+                          - <tinellbian@x-tlb-hl>。たっあにっさばういいっせえべっえくあはてわるでっすきっをなぎ。</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>taʔanissa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ba’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i’issi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>filli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’ahatilaru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nagi</dictionary@x-tlb-hl>.
+                          - <gloss>musician</gloss> <abbr>2dat</abbr> <gloss>sing</gloss> <abbr>com</abbr> <abbr>2int</abbr> <abbr>dat</abbr>-<gloss>anniversary feel</gloss>-<abbr>abv</abbr>-<abbr>psv</abbr> <abbr>fut;sta</abbr></details|example>
+                          - “The musician sang for you to have a happy birthday.”
+                          - 'If a particular compound is not common, the manner of communication can become an adverb, <i>i.e.</i>: placed as an object noun, after the complement.'
+                          - <details|example><summary|folding><transliteration@x-tlb-hl>Mihu ’i li pa xiciri ru xuʔa.</transliteration@x-tlb-hl></summary|folding>
+                          - <tinellbian@x-tlb-hl>。みほいえぱしちりるずっあ。</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xiciri</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xuʔa</dictionary@x-tlb-hl>
+                          - <abbr>3ani;int</abbr> <gloss>speak</gloss> <abbr>com</abbr> <abbr>3ina;int</abbr> <gloss>be_funny</gloss> <abbr>prs;gno</abbr> <gloss>smile</gloss></details|example>
+                          - “It was funny, she smiled.”
                           - Directly reported communication is separated from the main clause by a comma, and may be put on either side. In this case, the recipient may be in either the <strong>object</strong> position or <strong>dative</strong>. This argument structure can also be used without a specific communication.
                           - <details|example><summary|folding><transliteration@x-tlb-hl>(Mica,) kimilli ’i lulani.</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>。みや、きみっえいをわに。</tinellbian@x-tlb-hl>
@@ -1797,9 +1813,9 @@ entries:
                           - <gloss>bear <abbr>dat</abbr>-family-one similar.</gloss></details|example>
                           - “The bear is like one of the family.”
                           - The adposition <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>with</gloss> denotes a slight similarity or difference.
-                          - <details|example><summary|folding><transliteration@x-tlb-hl>ʔusu ra’u haruxissatanissa runi.</transliteration@x-tlb-hl></summary|folding>
+                          - <details|example><summary|folding><transliteration@x-tlb-hl>ʔusu ra’u harutaʔanissa runi.</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>。うすらうはるしっさたにっさるに。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xissatanissa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>runi</dictionary@x-tlb-hl>.
+                          - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>taʔanissa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>runi</dictionary@x-tlb-hl>.
                           - <gloss><abbr>1int</abbr> <abbr>prs;sta</abbr> with-musician similar.</gloss></details|example>
                           - “I am somewhat of a musician.”
                           - The adpositions <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あで</tinellbian@x-tlb-hl> <gloss>near</gloss> and <dictionary@x-tlb-hl>xidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しど</tinellbian@x-tlb-hl> <gloss>far</gloss> denote a large similarity or difference.

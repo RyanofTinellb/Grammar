@@ -3,15 +3,11 @@ assets:
   source: C:\Users\Ryan\TinellbianLanguages\grammar\data\data.src
 entries:
 - - A Grammar of the Tinellbian Languages
-  - Languages
-  - High Lulani
-  - Morphology
-  - Verbs
-  - Transitivity
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime
   ipa: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\ipa.ime
+  links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\links.ime
   tinellbian: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\tinellbian.ime
   transliteration: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\transliteration.ime
 language: 'en: English'

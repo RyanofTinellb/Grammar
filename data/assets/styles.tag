@@ -1,6 +1,8 @@
 abbr:
   close: </abbr></dfn>
-  key: Alt-G
+  keys:
+    'on': Alt-G
+    'off': space
   open: <dfn><abbr class="glossary" title="
   param: $lookup:glossary$|$text$
   pipe: '">'
@@ -68,7 +70,7 @@ dictionary:
   param: http://dictionary.tinellb.com/lex/$text$.html#$url(lookup:lang)$|$upper(text)$
   props:
     colour: '#0000ff'
-    ime: transliteration
+    ime: links
     underline: true
   type: anchor
 div-id:
