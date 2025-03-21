@@ -892,8 +892,8 @@ entries:
                       - <h3>Negative</h3>
                       - The negative aspect is used for actions, attributes and perceptions which do not occur. These act as the negation of any other aspectual marker. That is, while positive sentences can be classified by aspect, negative sentences all use the same auxiliaries.
                     Conjunctions:
-                      date: '2025-03-10'
-                      position: '23.0'
+                      date: '2025-03-21'
+                      position: '20.16'
                       text:
                       - Conjunctions are a closed class of words which are used to join phrases or clauses together.
                       - <h2>Phrase-level Conjunctions</h2>
@@ -909,12 +909,12 @@ entries:
                       - <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱだ</tinellbian@x-tlb-hl> <gloss>and then</gloss></wordlist>
                       - <h3>Subordinating Conjunctions</h3>
                       - Subordinating conjunctions are used to introduce a dependent clause. See the section on <grammar-link@x-tlb-hl>subordinate clauses</grammar-link@x-tlb-hl> for syntactical information.
-                      - <wordlist><dictionary@x-tlb-hl>surra</dictionary@x-tlb-hl> <gloss>if</gloss>
-                      - <dictionary@x-tlb-hl>daru’i</dictionary@x-tlb-hl> <gloss>because</gloss>
+                      - <wordlist><dictionary@x-tlb-hl>surra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すっら</tinellbian@x-tlb-hl> <gloss>if</gloss>
+                      - <dictionary@x-tlb-hl>daru’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だるい</tinellbian@x-tlb-hl> <gloss>because</gloss>
                       - <dictionary@x-tlb-hl>gi’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎあ</tinellbian@x-tlb-hl> <gloss>that is</gloss>
                       - <dictionary@x-tlb-hl>gi’ika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎいか</tinellbian@x-tlb-hl> <gloss>in order to</gloss>
-                      - <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <gloss>when</gloss>
-                      - <dictionary@x-tlb-hl>rika</dictionary@x-tlb-hl> <gloss>and thus</gloss>
+                      - <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>when</gloss>
+                      - <dictionary@x-tlb-hl>rika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>りか</tinellbian@x-tlb-hl> <gloss>and thus</gloss>
                       - <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>while</gloss>
                       - <dictionary@x-tlb-hl>fati</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へて</tinellbian@x-tlb-hl> <gloss>enough to</gloss></wordlist>
                     Deixis:
@@ -4062,6 +4062,7 @@ entries:
               date: null
               text: []
           date: null
+          position: '1.0'
           text: []
       date: '2025-03-20'
       position: '2.11'
