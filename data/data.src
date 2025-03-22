@@ -181,19 +181,19 @@ entries:
                   text:
                   - '<message>Warning: This section is a work in progress.</message>'
                 Phonology:
-                  date: '2024-05-19'
-                  position: '58.117'
+                  date: '2025-03-23'
+                  position: '54.122'
                   text:
                   - '<message>Warning: This section is a work in progress.</message>'
                   - <h2>Consonants</h2>
                   - <desktop><table><thead>|h labial |h dental  |h palatal |h velar |h glottal</thead>
                   - <tbody>h stop | <ipa@x-tlb-dl>p b</ipa@x-tlb-dl> | <ipa@x-tlb-dl>t d</ipa@x-tlb-dl> || <ipa@x-tlb-dl>k g</ipa@x-tlb-dl> |
                   - h affricate ||| <ipa@x-tlb-dl>tɕ</ipa@x-tlb-dl> &lt; c &gt; <ipa@x-tlb-dl>dʑ</ipa@x-tlb-dl> &lt; j &gt; ||
-                  - h nasal | <ipa@x-tlb-dl>m</ipa@x-tlb-dl> | <ipa@x-tlb-dl>n</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ɲ</ipa@x-tlb-dl> &lt; ñ &gt; | <ipa@x-tlb-dl>ŋ</ipa@x-tlb-dl> &lt; q &gt; |
-                  - h lateral || <ipa@x-tlb-dl>l</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ʎ</ipa@x-tlb-dl> &lt; l̰ &gt;||
+                  - h nasal | <ipa@x-tlb-dl>m</ipa@x-tlb-dl> | <ipa@x-tlb-dl>n</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ɲ</ipa@x-tlb-dl> &lt; nn &gt; | <ipa@x-tlb-dl>ŋ</ipa@x-tlb-dl> &lt; q &gt; |
+                  - h lateral || <ipa@x-tlb-dl>l</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ʎ</ipa@x-tlb-dl> &lt; ll &gt;||
                   - h trill || <ipa@x-tlb-dl>r</ipa@x-tlb-dl> |||
                   - h sibilant || <ipa@x-tlb-dl>s</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ɕ</ipa@x-tlb-dl> &lt; x &gt; ||
-                  - h fricative | <ipa@x-tlb-dl>f v</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ð</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ç</ipa@x-tlb-dl> &lt; h̰ &gt; || <ipa@x-tlb-dl>h</ipa@x-tlb-dl>
+                  - h fricative | <ipa@x-tlb-dl>f v</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ð</ipa@x-tlb-dl> &lt;&hairsp;dd&hairsp;&gt; | <ipa@x-tlb-dl>ç</ipa@x-tlb-dl> &lt; hh &gt; || <ipa@x-tlb-dl>h</ipa@x-tlb-dl>
                   - h approximant | <ipa@x-tlb-dl>w</ipa@x-tlb-dl> || <ipa@x-tlb-dl>j</ipa@x-tlb-dl> &lt; y &gt; ||</tbody></table></desktop>
                   - '<mobile>stops:'
                   - '<ul>labial: <ipa@x-tlb-dl>p</ipa@x-tlb-dl>'
@@ -209,7 +209,7 @@ entries:
                   - nasals:<ul>
                   - 'labial: <ipa@x-tlb-dl>m</ipa@x-tlb-dl>'
                   - 'alveolar: <ipa@x-tlb-dl>n</ipa@x-tlb-dl>'
-                  - 'palatal: <ipa@x-tlb-dl>ɲ</ipa@x-tlb-dl> &lt; ñ &gt;'
+                  - 'palatal: <ipa@x-tlb-dl>ɲ</ipa@x-tlb-dl> &lt; nn &gt;'
                   - 'velar: <ipa@x-tlb-dl>ŋ</ipa@x-tlb-dl> &lt; q &gt;</ul>'
                   - 'liquids:'
                   - '<ul>alveolar lateral: <ipa@x-tlb-dl>l</ipa@x-tlb-dl>'
@@ -220,21 +220,24 @@ entries:
                   - 'non-sibilant fricatives:'
                   - '<ul>voiceless labial: <ipa@x-tlb-dl>f</ipa@x-tlb-dl>'
                   - 'voiced labial: <ipa@x-tlb-dl>v</ipa@x-tlb-dl>'
-                  - 'dental: <ipa@x-tlb-dl>ð</ipa@x-tlb-dl>'
-                  - 'palatal: <ipa@x-tlb-dl>ç</ipa@x-tlb-dl> &lt; h̰ &gt;'
+                  - 'dental: <ipa@x-tlb-dl>ð</ipa@x-tlb-dl> &lt;&hairsp;dd&hairsp;&gt;'
+                  - 'palatal: <ipa@x-tlb-dl>ç</ipa@x-tlb-dl> &lt; hh&gt;'
                   - 'glottal: <ipa@x-tlb-dl>h</ipa@x-tlb-dl></ul>'
                   - 'approximants:'
                   - '<ul>labio-velar: <ipa@x-tlb-dl>w</ipa@x-tlb-dl>'
                   - 'palatal: <ipa@x-tlb-dl>j</ipa@x-tlb-dl> &lt; y &gt;</ul></mobile>'
                   - This table shows the consonants phonemically, using the International Phonetic Alphabet. Where it differs from IPA, the transliteration is given in &lt; triangular brackets &gt;.
+                  - A middot (·) is placed between geminate <ipa@x-tlb-dl>d</ipa@x-tlb-dl>, <ipa@x-tlb-dl>n</ipa@x-tlb-dl>, <ipa@x-tlb-dl>l</ipa@x-tlb-dl> and <ipa@x-tlb-dl>h</ipa@x-tlb-dl> to distinguish them from the palatalised letters listed above.
+                  - <wordlist>bannu <ipa@x-tlb-dl>/bæɲə/</ipa@x-tlb-dl>
+                  - ban·nu <ipa@x-tlb-dl>/bænːə/</ipa@x-tlb-dl></wordlist>
                   - <h2>Vowels</h2>
                   - <table>|h front |h central |h back
                   - h close | <ipa@x-tlb-dl>i y</ipa@x-tlb-dl> &lt; ü &gt; || <ipa@x-tlb-dl>u</ipa@x-tlb-dl>
-                  - h mid | <ipa@x-tlb-dl>e</ipa@x-tlb-dl> (<ipa@x-tlb-dl>ø</ipa@x-tlb-dl> &lt; ö &gt;) | <ipa@x-tlb-dl>(ə)</ipa@x-tlb-dl> | (<ipa@x-tlb-dl>o</ipa@x-tlb-dl>)
+                  - h mid | <ipa@x-tlb-dl>e</ipa@x-tlb-dl> (<ipa@x-tlb-dl>ø</ipa@x-tlb-dl> &lt; ö &gt;) | (<ipa@x-tlb-dl>ə</ipa@x-tlb-dl>) | (<ipa@x-tlb-dl>o</ipa@x-tlb-dl>)
                   - h open | <ipa@x-tlb-dl>æ</ipa@x-tlb-dl> ||</table>
                   - <h3>Allophony</h3>
                   - Unstressed vowels are realised as <ipa@x-tlb-dl><strong>ə</strong></ipa@x-tlb-dl>.
-                  - Rounded vowels are lowered, <gloss>i.e.:</gloss> <ipa@x-tlb-dl><strong>u</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>o</strong></ipa@x-tlb-dl> and <ipa@x-tlb-dl><strong>y</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>ø</strong></ipa@x-tlb-dl>, before peripheral consonants. The latter change also occurs at the ends of words.
+                  - Rounded vowels are lowered, <gloss>i.e.:</gloss> <ipa@x-tlb-dl><strong>u</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>o</strong></ipa@x-tlb-dl> and <ipa@x-tlb-dl><strong>y</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>ø</strong></ipa@x-tlb-dl>, before peripheral consonants. This is reflected in the transliteration.
                 Sample Text:
                   children: []
                   date: '2025-03-17'
