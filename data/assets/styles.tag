@@ -4,7 +4,7 @@ abbr:
     'on': Alt-G
     'off': space
   open: <dfn><abbr class="glossary" title="
-  param: $lookup:glossary$|$text$
+  param: $link:lookup:glossary$|$text$
   pipe: '">'
   props:
     font: Felix Titling
@@ -89,7 +89,7 @@ external:
   type: anchor
 external-link:
   key: Alt-e
-  param: $lookup:external$|$text$
+  param: $link:lookup:external$|$text$
   props:
     colour: '#33c'
   type: anchor
