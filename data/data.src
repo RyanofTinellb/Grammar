@@ -1495,7 +1495,7 @@ entries:
                           - <block><dictionary@x-tlb-hl>ru’ihaja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るいはぢ</tinellbian@x-tlb-hl> <gloss>history</gloss></block></wordlist>
                           - The suffix <dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> derives nouns which are somehow distinct from their stem.
                           - <wordlist><dictionary@x-tlb-hl>daruli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だるえ</tinellbian@x-tlb-hl> <gloss>wrong way</gloss>
-                          - <dictionary@x-tlb-hl>gusuli</dictionary@x-tlb-hl> <gloss>non-Guozu person</gloss></wordlist>
+                          - <dictionary@x-tlb-hl>gusuli</dictionary@x-tlb-hl> <gloss>non-guozu person</gloss></wordlist>
                           - The names of parts of the body are derived using <dictionary@x-tlb-hl>-kku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っく</tinellbian@x-tlb-hl> on either nouns or verbs.
                           - <wordlist><block><dictionary@x-tlb-hl>’itikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっく</tinellbian@x-tlb-hl> <gloss>breast</gloss>
                           - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss></block>
@@ -4068,7 +4068,7 @@ entries:
       date: '2025-03-20'
       position: '2.11'
       text:
-      - This reference guide is for the Tinellbian languages that descend from High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.
+      - This reference guide is for the Tinellbian languages that descend from High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the guozu.
       - <heading-link@x-tlb-hl>High Lulani</heading-link@x-tlb-hl>
       - <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> Created by Queen Loren on Ptoko.
       - I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <dictionary@x-tlb-hl>mica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みや</tinellbian@x-tlb-hl> <gloss>hello</gloss> dates from that time.
