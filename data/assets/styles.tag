@@ -89,7 +89,7 @@ external:
   type: anchor
 external-link:
   key: Alt-e
-  param: $link:lookup:external$|$text$
+  param: $lookup:external$|$text$
   props:
     colour: '#33c'
   type: anchor

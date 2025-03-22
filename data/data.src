@@ -1564,6 +1564,7 @@ entries:
                           - <dictionary@x-tlb-hl>-na’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なう</tinellbian@x-tlb-hl> <gloss>will be</gloss></wordlist>
                         Transclass:
                           date: '2024-09-01'
+                          position: '1.0'
                           text:
                           - These tend to move words from one part of speech to another.
                           - <h2>Nominalisation</h2>
@@ -1719,8 +1720,8 @@ entries:
                           - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss>
                           - <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to consider</gloss></wordlist>
                         Intransitivity:
-                          date: '2025-03-15'
-                          position: '105.19'
+                          date: '2025-03-22'
+                          position: '26.24'
                           text:
                           - Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
                           - <details|example><summary|folding><transliteration@x-tlb-hl>Badiri ru cura</transliteration@x-tlb-hl>.</summary|folding>
