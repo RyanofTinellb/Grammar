@@ -182,7 +182,7 @@ entries:
                   - '<message>Warning: This section is a work in progress.</message>'
                 Phonology:
                   date: '2025-03-23'
-                  position: '54.122'
+                  position: '37.15'
                   text:
                   - '<message>Warning: This section is a work in progress.</message>'
                   - <h2>Consonants</h2>
@@ -193,7 +193,7 @@ entries:
                   - h lateral || <ipa@x-tlb-dl>l</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ʎ</ipa@x-tlb-dl> &lt; ll &gt;||
                   - h trill || <ipa@x-tlb-dl>r</ipa@x-tlb-dl> |||
                   - h sibilant || <ipa@x-tlb-dl>s</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ɕ</ipa@x-tlb-dl> &lt; x &gt; ||
-                  - h fricative | <ipa@x-tlb-dl>f v</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ð</ipa@x-tlb-dl> &lt;&hairsp;dd&hairsp;&gt; | <ipa@x-tlb-dl>ç</ipa@x-tlb-dl> &lt; hh &gt; || <ipa@x-tlb-dl>h</ipa@x-tlb-dl>
+                  - h fricative | <ipa@x-tlb-dl>f v</ipa@x-tlb-dl> | <ipa@x-tlb-dl>ð</ipa@x-tlb-dl> &lt; dd &gt; | <ipa@x-tlb-dl>ç</ipa@x-tlb-dl> &lt; hh &gt; || <ipa@x-tlb-dl>h</ipa@x-tlb-dl>
                   - h approximant | <ipa@x-tlb-dl>w</ipa@x-tlb-dl> || <ipa@x-tlb-dl>j</ipa@x-tlb-dl> &lt; y &gt; ||</tbody></table></desktop>
                   - '<mobile>stops:'
                   - '<ul>labial: <ipa@x-tlb-dl>p</ipa@x-tlb-dl>'
@@ -220,7 +220,7 @@ entries:
                   - 'non-sibilant fricatives:'
                   - '<ul>voiceless labial: <ipa@x-tlb-dl>f</ipa@x-tlb-dl>'
                   - 'voiced labial: <ipa@x-tlb-dl>v</ipa@x-tlb-dl>'
-                  - 'dental: <ipa@x-tlb-dl>ð</ipa@x-tlb-dl> &lt;&hairsp;dd&hairsp;&gt;'
+                  - 'dental: <ipa@x-tlb-dl>ð</ipa@x-tlb-dl> &lt; dd &gt;'
                   - 'palatal: <ipa@x-tlb-dl>ç</ipa@x-tlb-dl> &lt; hh&gt;'
                   - 'glottal: <ipa@x-tlb-dl>h</ipa@x-tlb-dl></ul>'
                   - 'approximants:'
@@ -237,7 +237,8 @@ entries:
                   - h open | <ipa@x-tlb-dl>æ</ipa@x-tlb-dl> ||</table>
                   - <h3>Allophony</h3>
                   - Unstressed vowels are realised as <ipa@x-tlb-dl><strong>ə</strong></ipa@x-tlb-dl>.
-                  - Rounded vowels are lowered, <gloss>i.e.:</gloss> <ipa@x-tlb-dl><strong>u</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>o</strong></ipa@x-tlb-dl> and <ipa@x-tlb-dl><strong>y</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>ø</strong></ipa@x-tlb-dl>, before peripheral consonants. This is reflected in the transliteration.
+                  - Rounded vowels are lowered, <gloss>i.e.:</gloss> <ipa@x-tlb-dl><strong>u</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>o</strong></ipa@x-tlb-dl> and <ipa@x-tlb-dl><strong>y</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>ø</strong></ipa@x-tlb-dl>, before peripheral consonants (labial and velar sounds). This is reflected in the transliteration.
+                  - Dental <ipa@x-tlb-dl>t</ipa@x-tlb-dl>, <ipa@x-tlb-dl>d</ipa@x-tlb-dl>, <ipa@x-tlb-dl>n</ipa@x-tlb-dl>, <ipa@x-tlb-dl>l</ipa@x-tlb-dl>, <ipa@x-tlb-dl>s</ipa@x-tlb-dl>, and glottal <ipa@x-tlb-dl>h</ipa@x-tlb-dl> are palatalised before <ipa@x-tlb-dl>i</ipa@x-tlb-dl>.
                 Sample Text:
                   children: []
                   date: '2025-03-17'
