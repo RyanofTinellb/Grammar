@@ -6,7 +6,8 @@ entries:
   - Languages
   - High Lulani
   - Morphology
-  - Adpositions
+  - Verbs
+  - Intransitivity
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime

@@ -35,6 +35,7 @@ x-tlb-hl:
   chromaticverbs: languages/highlulani/morphology/verbs/intransitivity#chromaticverbs
   cisclasssuffixes: languages/highlulani/morphology/suffixes/index#cisclasssuffixes
   clause-levelconjunctions: languages/highlulani/morphology/conjunctions#clause-levelconjunctions
+  colour: languages/highlulani/apocrypha/colours
   colours: languages/highlulani/apocrypha/colours
   colourwheel: data/images/colourwheel.png
   nineshadesofgrey: data/images/nineshadesofgrey.png
