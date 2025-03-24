@@ -181,7 +181,9 @@ internal-script:
   start: '"'
   type: block
 ipa:
-  key: Alt-i
+  keys: 
+    'on': Alt-i
+    'off': Return
   language: true
   props:
     font: lucida sans unicode
