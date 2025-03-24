@@ -693,7 +693,7 @@ entries:
                   children:
                     Adpositions:
                       date: '2025-03-24'
-                      position: '133.0'
+                      position: '80.3'
                       text:
                       - Adpositions are a closed class. They can be used in three different ways.
                       - <h2>Uses</h2>
@@ -773,8 +773,8 @@ entries:
                       - <gloss><abbr>dat</abbr>-administrator near <abbr>prs;hab</abbr> alcohol.</gloss></details|example>
                       - “The minister is usually having a drink around now.”
                       - <h2>List of Adpositions</h2>
-                      - <h3>Comparative</h3><h2>
-                      - </h2>These are used to mark the standard of a <grammar-link@x-tlb-hl>comparison</grammar-link@x-tlb-hl>.
+                      - <h3>Comparative</h3>
+                      - These are used to mark the standard of a <grammar-link@x-tlb-hl>comparison</grammar-link@x-tlb-hl>.
                       - <wordlist><dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>equative</gloss> (+<abbr>dat</abbr>)
                       - <dictionary@x-tlb-hl>su</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>comparative</gloss> (+<abbr>abl</abbr>)</wordlist>
                       - <h3>Directions</h3>
