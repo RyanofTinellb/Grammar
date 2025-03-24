@@ -1,0 +1,44 @@
+p, ul, ol, nav, footer, details, table, textarea, hr, .wordlist {
+    display: none;
+}
+
+h1::before {
+    content: "1. ";
+}
+h2::before {
+    content: "2. ";
+}
+h3::before {
+    content: "3. ";
+}
+h4::before {
+    content: "4. ";
+}
+h5::before {
+    content: "5. ";
+}
+h6::before {
+    content: "6. ";
+}
+
+h6.h7::before {
+    content: "7. ";
+}
+h6.h8::before {
+    content: "8. ";
+}
+h6.h9::before {
+    content: "9. ";
+}
+h6.h10::before {
+    content: "10. ";
+}
+h6.h11::before {
+    content: "11. ";
+}
+h6.h12::before {
+    content: "12. ";
+}
+h6.h13::before {
+    content: "13. ";
+}

@@ -1261,15 +1261,15 @@ entries:
                     Nouns:
                       children:
                         Adverbs:
-                          date: '2025-03-06'
-                          position: '81.26'
+                          date: '2025-03-24'
+                          position: '29.0'
                           text:
                           - 'A closed subset of nouns can have an adverbial function. These adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <internal>../../syntax/dependentclauses/index.html#locationadverbialclauses|Adverbial Clauses</internal>'
                           - <wordlist><dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まった</tinellbian@x-tlb-hl> <gloss>also</gloss>
                           - <dictionary@x-tlb-hl>gicirri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎちっり</tinellbian@x-tlb-hl> <gloss>instead</gloss>
                           - <dictionary@x-tlb-hl>naku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なく</tinellbian@x-tlb-hl> <gloss>together</gloss>
                           - <dictionary@x-tlb-hl>basa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばさ</tinellbian@x-tlb-hl> <gloss>unlawfully</gloss></wordlist>
-                          - <h3>Purpose</h3>
+                          - <h2>Purpose</h2>
                           - <wordlist><dictionary@x-tlb-hl>piddi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぴっで</tinellbian@x-tlb-hl> <gloss>on purpose</gloss>
                           - <dictionary@x-tlb-hl>qiriji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ねりじ</tinellbian@x-tlb-hl> <gloss>with effort</gloss>
                           - <dictionary@x-tlb-hl>bata</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばた</tinellbian@x-tlb-hl> <gloss>carefully</gloss>
@@ -1283,7 +1283,7 @@ entries:
                           - <dictionary@x-tlb-hl>macu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まゆ</tinellbian@x-tlb-hl> <gloss>unexpectedly</gloss>
                           - <dictionary@x-tlb-hl>xani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざに</tinellbian@x-tlb-hl> <gloss>unwillingly</gloss>
                           - <dictionary@x-tlb-hl>dukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どっく</tinellbian@x-tlb-hl> <gloss>not by choice</gloss></wordlist>
-                          - <h3>Extent</h3>
+                          - <h2>Extent</h2>
                           - <wordlist><dictionary@x-tlb-hl>dapi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だぴ</tinellbian@x-tlb-hl> <gloss>more than is necessary</gloss>
                           - <dictionary@x-tlb-hl>famu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へむ</tinellbian@x-tlb-hl> <gloss>completely</gloss>
                           - <dictionary@x-tlb-hl>rali</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らえ</tinellbian@x-tlb-hl> <gloss>intensely</gloss>
@@ -1292,7 +1292,7 @@ entries:
                           - <dictionary@x-tlb-hl>cipati</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ちぱて</tinellbian@x-tlb-hl> <gloss>to that extent</gloss>
                           - <dictionary@x-tlb-hl>tuci</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とち</tinellbian@x-tlb-hl> <gloss>barely</gloss>
                           - <dictionary@x-tlb-hl>xibbuti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しっぶて</tinellbian@x-tlb-hl> <gloss>never again</gloss></wordlist>
-                          - <h3>Time</h3>
+                          - <h2>Time</h2>
                           - <wordlist><dictionary@x-tlb-hl>xuga</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ずが</tinellbian@x-tlb-hl> <gloss>instantly</gloss>
                           - <dictionary@x-tlb-hl>cidatu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ちだと</tinellbian@x-tlb-hl> <gloss>suddenly</gloss>
                           - <dictionary@x-tlb-hl>karu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かる</tinellbian@x-tlb-hl> <gloss>commonly</gloss>
@@ -1720,8 +1720,8 @@ entries:
                           - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss>
                           - <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to consider</gloss></wordlist>
                         Intransitivity:
-                          date: '2025-03-22'
-                          position: '26.24'
+                          date: '2025-03-23'
+                          position: '34.35'
                           text:
                           - Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
                           - <details|example><summary|folding><transliteration@x-tlb-hl>Badiri ru cura</transliteration@x-tlb-hl>.</summary|folding>
@@ -1971,20 +1971,20 @@ entries:
                           - <dictionary@x-tlb-hl>nu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬ</tinellbian@x-tlb-hl> <gloss>to stop</gloss>
                           - <dictionary@x-tlb-hl>naqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なげ</tinellbian@x-tlb-hl> <gloss>to need</gloss>
                           - <dictionary@x-tlb-hl>tapu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たぷ</tinellbian@x-tlb-hl> <gloss>to look forward to; to enjoy</gloss></wordlist>
-                      date: '2025-02-15'
-                      position: '33.2'
+                      date: '2025-03-24'
+                      position: '11.120'
                       text:
                       - A verb is a necessary part of any sentence, except when making <grammar-link@x-tlb-hl>copular sentences</grammar-link@x-tlb-hl>. Verbs can be categorised on the basis of how many elements compose them.
-                      - <h3>Stem Verbs</h3>
-                      - The class of stem verbs is semi-closed — there are only about 100 pure verbs in the entire language. Stem verbs consist of a single element.
+                      - <h2>Stem Verbs
+                      - </h2>The class of stem verbs is semi-closed — there are only about 100 pure verbs in the entire language. Stem verbs consist of a single element.
                       - <wordlist><dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to say</gloss>
                       - <dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>to feel</gloss>
                       - <dictionary@x-tlb-hl>’usa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl> <gloss>to see</gloss>
                       - <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっに</tinellbian@x-tlb-hl> <gloss>to move</gloss>
                       - <dictionary@x-tlb-hl>kissa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きっさ</tinellbian@x-tlb-hl> <gloss>to fight</gloss>
                       - <dictionary@x-tlb-hl>miku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みく</tinellbian@x-tlb-hl> <gloss>to be red</gloss></wordlist>
-                      - <h3>Compound Verbs</h3>
-                      - In order to extend or specify meeaning,  verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of stem verbs.
+                      - <h2>Compound Verbs
+                      - </h2>In order to extend or specify meeaning,  verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of stem verbs.
                       - <wordlist><details|folding><summary|folding><transliteration@x-tlb-hl>’isinna</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>いせっな</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> + <dictionary@x-tlb-hl>sinna</dictionary@x-tlb-hl>
@@ -4005,8 +4005,8 @@ entries:
                   position: '2.0'
                   text:
                   - High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.
-              date: '2024-05-12'
-              position: '2.349'
+              date: '2025-03-24'
+              position: '3.0'
               text:
               - High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.
               - I once had the beginnings of what was to be the Ptokan language, and the language of the Fezhlê. The latter was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhlê have been forced to change somewhat to adapt.
