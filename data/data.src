@@ -692,10 +692,11 @@ entries:
                 Morphology:
                   children:
                     Adpositions:
-                      date: '2025-03-15'
-                      position: '110.6'
+                      date: '2025-03-24'
+                      position: '133.0'
                       text:
                       - Adpositions are a closed class. They can be used in three different ways.
+                      - <h2>Uses</h2>
                       - <h3>As a Preposition</h3>
                       - The most basic use for an adposition is prefixed to a noun (called the <b>object</b> of the adposition) to signify where the action is taking place with relation to a reference.
                       - <wordlist><details|folding><summary|folding><transliteration@x-tlb-hl>di’i’uja</transliteration@x-tlb-hl></summary|folding>
@@ -771,11 +772,12 @@ entries:
                       - <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cijja</dictionary@x-tlb-hl>.
                       - <gloss><abbr>dat</abbr>-administrator near <abbr>prs;hab</abbr> alcohol.</gloss></details|example>
                       - “The minister is usually having a drink around now.”
-                      - <h2>Comparative
+                      - <h2>List of Adpositions</h2>
+                      - <h3>Comparative</h3><h2>
                       - </h2>These are used to mark the standard of a <grammar-link@x-tlb-hl>comparison</grammar-link@x-tlb-hl>.
                       - <wordlist><dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>equative</gloss> (+<abbr>dat</abbr>)
                       - <dictionary@x-tlb-hl>su</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>comparative</gloss> (+<abbr>abl</abbr>)</wordlist>
-                      - <h2>Directions</h2>
+                      - <h3>Directions</h3>
                       - This list includes both relative and absolute terms.
                       - <wordlist><block><dictionary@x-tlb-hl>saqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さげ</tinellbian@x-tlb-hl><gloss> right</gloss>
                       - <dictionary@x-tlb-hl>gi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎ</tinellbian@x-tlb-hl> <gloss>left</gloss></block>
@@ -783,7 +785,7 @@ entries:
                       - <dictionary@x-tlb-hl>sumika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すみか</tinellbian@x-tlb-hl> <gloss>west</gloss>
                       - <dictionary@x-tlb-hl>sani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さに</tinellbian@x-tlb-hl> <gloss>north</gloss>
                       - <dictionary@x-tlb-hl>gibi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎび</tinellbian@x-tlb-hl> <gloss>east</gloss></block></wordlist>
-                      - <h2>Locations</h2>
+                      - <h3>Locations</h3>
                       - These can be used to refer to locations in either space or time.
                       - <wordlist><block><dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あで</tinellbian@x-tlb-hl> <gloss>near</gloss> / <gloss>now</gloss>
                       - <dictionary@x-tlb-hl>xidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しど</tinellbian@x-tlb-hl> <gloss>far</gloss> / <gloss>then</gloss></block>
@@ -794,8 +796,8 @@ entries:
                       - <block><dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>towards</gloss> / <gloss>at</gloss>
                       - <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> <gloss>at</gloss> / <gloss>during</gloss>
                       - <dictionary@x-tlb-hl>kika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きか</tinellbian@x-tlb-hl> <gloss>over</gloss> / <gloss>over</gloss></block></wordlist>
-                      - <h2>Spatial Locations</h2>
-                      - These can only be used to refer to locations in space.
+                      - <h3>Spatial Locations
+                      - </h3>These can only be used to refer to locations in space.
                       - <wordlist><dictionary@x-tlb-hl>jimuli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>じむえ</tinellbian@x-tlb-hl> <gloss>outside</gloss>
                       - <dictionary@x-tlb-hl>qu’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>もう</tinellbian@x-tlb-hl>  <gloss>in; inside</gloss>
                       - <dictionary@x-tlb-hl>nifi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>にべ</tinellbian@x-tlb-hl> <gloss>beside</gloss>
@@ -804,7 +806,7 @@ entries:
                       - <dictionary@x-tlb-hl>du’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どい</tinellbian@x-tlb-hl>  <gloss>beyond</gloss>
                       - <dictionary@x-tlb-hl>la’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わあ</tinellbian@x-tlb-hl> <gloss>on a horizontal surface</gloss>
                       - <dictionary@x-tlb-hl>kadu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かど</tinellbian@x-tlb-hl> <gloss>on a vertical surface</gloss></wordlist>
-                      - <h2>Motion</h2>
+                      - <h3>Motion</h3>
                       - These refer to motion.
                       - <wordlist><dictionary@x-tlb-hl>data</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だた</tinellbian@x-tlb-hl> <gloss>backwards</gloss>
                       - <dictionary@x-tlb-hl>tirri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっり</tinellbian@x-tlb-hl> <gloss>forwards</gloss>
@@ -812,12 +814,12 @@ entries:
                       - <dictionary@x-tlb-hl>ma’iki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まいき</tinellbian@x-tlb-hl> <gloss>across</gloss>
                       - <dictionary@x-tlb-hl>tiku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てく</tinellbian@x-tlb-hl> <gloss>around</gloss>
                       - <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>び</tinellbian@x-tlb-hl> <gloss>out of</gloss></wordlist>
-                      - <h2>Animates</h2>
+                      - <h3>Animates</h3>
                       - This group have animate objects.
                       - <wordlist><dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>with</gloss> (+<abbr>dat</abbr>)
                       - <dictionary@x-tlb-hl>ha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl> <gloss>for the benefit of</gloss> (+<abbr>dat</abbr>)
                       - <dictionary@x-tlb-hl>’aga</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あが</tinellbian@x-tlb-hl> <gloss>to the detriment of</gloss> (+<abbr>abl</abbr>)</wordlist>
-                      - <h2>Inanimates</h2>
+                      - <h3>Inanimates</h3>
                       - This group have inanimate objects.
                       - <wordlist><dictionary@x-tlb-hl>nidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>にど</tinellbian@x-tlb-hl> <gloss>using</gloss>
                       - <dictionary@x-tlb-hl>sarru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さっる</tinellbian@x-tlb-hl> <gloss>instead of</gloss>
@@ -4069,8 +4071,8 @@ entries:
           date: null
           position: '1.0'
           text: []
-      date: '2025-03-20'
-      position: '2.11'
+      date: '2025-03-24'
+      position: '2.5'
       text:
       - This reference guide is for the Tinellbian languages that descend from High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the guozu.
       - <heading-link@x-tlb-hl>High Lulani</heading-link@x-tlb-hl>
