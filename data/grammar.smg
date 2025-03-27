@@ -10,9 +10,9 @@ entries:
   - Transclass
 - - A Grammar of the Tinellbian Languages
   - Languages
-  - High Lulani
-  - Syntax
-  - Noun Phrases
+  - Lulani
+  - High
+  - Orthography
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime
