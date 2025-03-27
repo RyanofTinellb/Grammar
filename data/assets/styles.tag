@@ -215,6 +215,7 @@ mobile:
 multiline:
   rank: -100
   type: span
+  pipe: <br>
 nextline:
   type: span
 overline:
