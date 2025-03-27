@@ -17,7 +17,12 @@ b:
     bold: true
 block:
   key: Alt-b
-  type: div
+  props:
+    border: true
+  rank: 90
+  prequel: <li>
+  sequel: </li>
+  type: ul
 button:
   open: <button onclick="
   pipe: '">'
@@ -39,6 +44,8 @@ cite:
     italics: true
 columns:
   type: div
+components:
+  type: ol
 default:
   props:
     font: Garamond
@@ -210,8 +217,6 @@ multiline:
   type: span
 nextline:
   type: span
-ol:
-  type: ol
 overline:
   props:
     underline: true
@@ -316,5 +321,6 @@ ul#rewrite:
 wordlist:
   key: Alt-W
   props:
-    left: 50
-  type: div
+    background: '#ffc'
+    left: 15
+  type: ul

@@ -69,12 +69,8 @@ main p {
     margin-block-start: 1lh;
 }
 
-main ul,
-main ol {
+main ol.components {
     margin-inline-start: 10%;
-}
-
-main ol {
     list-style: lower-roman;
 }
 
@@ -88,8 +84,7 @@ main table th {
     padding: 2px 1em;
 }
 
-main .columns,
-main .left-columns {
+main .columns {
     display: flex;
     flex-flow: row wrap;
 }
@@ -99,26 +94,19 @@ main .columns table {
 }
 
 main .columns table th,
-main .columns table td,
-main .left-columns table th,
-main .left-columns table td {
+main .columns table td {
     border: none;
     padding: 0.5em 0.5em;
 }
 
-main .left-columns table th,
-main .left-columns table td {
-    text-align: left;
+main .columns table th:first-child {
+    text-align: center;
 }
 
 main .gloss {
     font-style: italic;
 }
 
-main .columns table th:first-child,
-main .left-columns table th:first-child {
-    text-align: center;
-}
 
 main .hierarchy table td {
     border: none;
