@@ -6,8 +6,13 @@ entries:
   - Languages
   - High Lulani
   - Morphology
-  - Verbs
-  - Intransitivity
+  - Suffixes
+  - Transclass
+- - A Grammar of the Tinellbian Languages
+  - Languages
+  - High Lulani
+  - Syntax
+  - Noun Phrases
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\autocorrect.ime
