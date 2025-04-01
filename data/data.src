@@ -91,19 +91,27 @@ entries:
                   date: '2025-03-27'
                   position: '1.15'
                   text:
+                  - <h1>Archaic Brequèn</h1>
                   - Archaic Brequèn
+                  title: Archaic Brequèn - A Grammar of the Tinellbian Languages
                 Common:
                   date: '2025-03-27'
                   position: '1.14'
                   text:
+                  - <h1>Common Brequèn</h1>
                   - Common Brequèn
+                  title: Common Brequèn - A Grammar of the Tinellbian Languages
                 Primitive:
                   date: '2025-03-27'
                   position: '1.13'
                   text:
+                  - <h1>Primitive Brequèn</h1>
                   - Primitive Brequèn
+                  title: Primitive Brequèn - A Grammar of the Tinellbian Languages
               date: null
-              text: []
+              text:
+              - <h1>Brequèn</h1>
+              title: Brequèn - A Grammar of the Tinellbian Languages
             Fezhlê:
               children:
                 Early:
@@ -113,6 +121,7 @@ entries:
                         Diachrony:
                           date: '2025-02-17'
                           text:
+                          - <h1>Diachrony</h1>
                           - '<message>Warning: this section has not been completed. Please proceed with caution.</message>'
                           - <h2>Phoneme Tables</h2>
                           - <landscape><table|alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant |hr4 glide
@@ -156,23 +165,34 @@ entries:
                           - <div-id>output|</div-id>
                           - <internal-script>/data/scripts/sca.js</internal-script>
                           - <script>intermediate()</script>
+                          title: Early Fezhlê Diachrony - A Grammar of the Tinellbian Languages
                       date: null
-                      text: []
+                      text:
+                      - <h1>Appendices</h1>
+                      title: Early Fezhlê Appendices - A Grammar of the Tinellbian Languages
                   date: '2025-02-17'
                   text:
+                  - <h1>Early Fezhlê</h1>
                   - Early Fezhlê was spoken by the first peoples to leave Mala Ptokonoi. They called themselves “The Survivors” and lived in what is now known as Zhalad.
+                  title: Early Fezhlê - A Grammar of the Tinellbian Languages
                 Koine:
                   date: '2025-03-27'
                   position: '1.12'
                   text:
+                  - <h1>Koine Fezhlê</h1>
                   - Koine Fezhlê
+                  title: Koine Fezhlê - A Grammar of the Tinellbian Languages
                 Late:
                   date: '2025-03-27'
                   position: '1.5'
                   text:
+                  - <h1>Late Fezhlê</h1>
                   - Late Fezhlê
+                  title: Late Fezhlê - A Grammar of the Tinellbian Languages
               date: null
-              text: []
+              text:
+              - <h1>Fezhlê</h1>
+              title: Fezhlê - A Grammar of the Tinellbian Languages
             Lulani:
               children:
                 Demotic:
@@ -183,6 +203,7 @@ entries:
                           date: '2025-03-17'
                           position: '104.7'
                           text:
+                          - <h1>Diachrony</h1>
                           - <textarea-id>wordsbox|disinnamuka kurila cani pamila matta naru ’ala qira’ataqa nigup·pi jagaru pamana cani maditiba bataniqqi kanura ra’u kal·li nicur·ru gupikarafi pi bi’u kifiqa qixa turubasillu xitaqa lanu turubasillu ’aditihutuja cani pa haru’usi dattusaqa tinalli li ’usi marila canari ku’ahati micita dissuka ’usu kikafasa dissu kal·li kal·lu’ipu’a nura dukku na kixina hibu kuli ’amilaru piba kuppu xiku racaxa disi ’usaju’illuru lanu qapi ru palinu qixa surra maditiba cani pajagaru milami bufiqa daru ra’u qapaccafuni harujagaru nacca gupikunaqi jamicussi hulu’anisa ji bigusuli qu rubaqa gusuli ra’u xidu dissillu daru tasi jami ji rika nufira ru ’alamusa ra’u kalupa’akagi cussixa musa gabasilluru nuki ’usixaru ra’u ’usu gibi sumikasija nakalu ra’u piba kuppura’u rubaqa ciʔa du’ikalumusa ji li kikami ru cikki gi’a li ci’u kalugupinuru sa’ibassilu ji palinu tuhinuhulu nin·niga kibbasu’a qu canisi jannibittaru bataniqqi kassula musaqapi ’iluqa turassi xisa’i rannaxi xiku ninali qa kunubitu’afu gi’assa lanu ra’u ga’i gi’a pajiga nallimiqa sulata ninaxatiqa karra lisami’ulata purakassu li ju’isatadu ximussaru gusutakki qu kugusunulli kikaga’i nura nagi lati li xi’allaru sula hafinullitaqa ta’i puramilami jagarudacani quhhaqa ta’i lanuqa lati ninali turukuffa ’ita’i’assa</textarea-id>
                           - <button>intermediate()|Change</button> <label><checkbox>chain|intermediate()</checkbox> See intermediate steps?</label> <label><checkbox>chance|intermediate()</checkbox> Introduce chance?</label> <label><checkbox>multi|intermediate()</checkbox> Allow multigraphs?</label> <label><checkbox>debug|intermediate()</checkbox> Debug mode?</label>
                           - <div-id>output|</div-id>
@@ -289,14 +310,18 @@ entries:
                           - ñ &gt; nn}</textarea-text></textarea-id>
                           - <internal-script>/data/scripts/sca.js</internal-script>
                           - <script>intermediate()</script>
+                          title: Demotic Lulani Diachrony - A Grammar of the Tinellbian Languages
                       date: '2025-02-15'
                       position: '4.0'
                       text:
+                      - <h1>Appendices</h1>
                       - '<message>Warning: This section is a work in progress.</message>'
+                      title: Demotic Lulani Appendices - A Grammar of the Tinellbian Languages
                     Phonology:
                       date: '2025-03-23'
                       position: '37.15'
                       text:
+                      - <h1>Phonology</h1>
                       - '<message>Warning: This section is a work in progress.</message>'
                       - <h2>Consonants</h2>
                       - <desktop><table><thead>|h labial |h dental  |h palatal |h velar |h glottal</thead>
@@ -352,11 +377,13 @@ entries:
                       - Unstressed vowels are realised as <ipa@x-tlb-dl><strong>ə</strong></ipa@x-tlb-dl>.
                       - Rounded vowels are lowered, <gloss>i.e.:</gloss> <ipa@x-tlb-dl><strong>u</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>o</strong></ipa@x-tlb-dl> and <ipa@x-tlb-dl><strong>y</strong></ipa@x-tlb-dl> → <ipa@x-tlb-dl><strong>ø</strong></ipa@x-tlb-dl>, before peripheral consonants (labial and velar sounds). This is reflected in the transliteration.
                       - Dental <ipa@x-tlb-dl>t</ipa@x-tlb-dl>, <ipa@x-tlb-dl>d</ipa@x-tlb-dl>, <ipa@x-tlb-dl>n</ipa@x-tlb-dl>, <ipa@x-tlb-dl>l</ipa@x-tlb-dl>, <ipa@x-tlb-dl>s</ipa@x-tlb-dl>, and glottal <ipa@x-tlb-dl>h</ipa@x-tlb-dl> are palatalised before <ipa@x-tlb-dl>i</ipa@x-tlb-dl>.
+                      title: Demotic Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: []
                       date: '2025-03-17'
                       position: '8.73'
                       text:
+                      - <h1>Sample Text</h1>
                       - <message>In this section, I am translating a text into High Lulani, and then evolving the language into its Demotic form.</message>
                       - This is from an early draft of <cite><external-link>Firesight</external-link></cite>, the second chapter of <cite><external-link>The Crackled Egg</external-link></cite>, from <cite><external-link>The Coelacanth Quartet</external-link></cite>.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Tosöliyi hisuban Losübimalu Cixiqqa Menikizbotu eriIlröni kwaxtoj maloceni.</transliteration@x-tlb-hl></summary|folding>
@@ -365,11 +392,14 @@ entries:
                       - </details|folding>When Tussol, head of the Department of Intercultural Relations at Lusov University, reached his office that morning, he found Lharen already waiting outside.
                       - <details|folding>Jusi ’i li mihu ~~~ luxxa
                       - </details|folding>He bade her wait for a few moments longer while he set himself up inside.
+                      title: Demotic Lulani Sample Text - A Grammar of the Tinellbian Languages
                   date: '2025-03-16'
                   position: '3.0'
                   text:
+                  - <h1>Demotic Lulani</h1>
                   - '<message>Warning: This section is a work in progress.</message>'
                   - While High Lulani continued being used in the Palace and its surrounds, the living language continued to evolve in the mouths of the people.
+                  title: Demotic Lulani - A Grammar of the Tinellbian Languages
                 High:
                   children:
                     Apocrypha:
@@ -378,6 +408,7 @@ entries:
                           date: '2024-05-18'
                           position: '12.146'
                           text:
+                          - <h1>Colours</h1>
                           - 'The basic colour terms are all verbs:'
                           - <wordlist><block><dictionary@x-tlb-hl>baju</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばよ</tinellbian@x-tlb-hl> <gloss>blue</gloss>
                           - <dictionary@x-tlb-hl>sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>yellow</gloss>
@@ -393,10 +424,12 @@ entries:
                           - <wordlist><block><dictionary@x-tlb-hl>mikumulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みくむを</tinellbian@x-tlb-hl> <gloss>blood red</gloss>
                           - <dictionary@x-tlb-hl>bajukunubi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばよくぬび</tinellbian@x-tlb-hl> <gloss>sky blue</gloss>
                           - <dictionary@x-tlb-hl>kiʔamasi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きっあませ</tinellbian@x-tlb-hl> <gloss>snow white</gloss></block></wordlist>
+                          title: High Lulani Colours - A Grammar of the Tinellbian Languages
                         Comparatives:
                           date: '2025-03-15'
                           position: '28.11'
                           text:
+                          - <h1>Comparatives</h1>
                           - There are three degrees by which items can be compared with one other.
                           - <h2>Equative</h2>
                           - The equative marker is <dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>as</gloss>, an adposition.
@@ -436,10 +469,12 @@ entries:
                           - <dictionary@x-tlb-hl>piba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>sajja</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jamahi</dictionary@x-tlb-hl>
                           - <gloss>most be_quiet-<abbr>prs;sta</abbr> garden</gloss></details|example>
                           - “the quietest garden.”
+                          title: High Lulani Comparatives - A Grammar of the Tinellbian Languages
                         Elements:
                           date: '2024-07-27'
                           position: '1.0'
                           text:
+                          - <h1>Elements</h1>
                           - The first 118 chemical elements have been named.
                           - <desktop><table> <multiline><dictionary@x-tlb-hl>li’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>えあ</tinellbian@x-tlb-hl> <gloss>helium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>kuxalu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>くざを</tinellbian@x-tlb-hl> <gloss>neon</gloss></multiline> | <multiline><dictionary@x-tlb-hl>laqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わげ</tinellbian@x-tlb-hl> <gloss>argon</gloss></multiline> | <multiline><dictionary@x-tlb-hl>quffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>もっべ</tinellbian@x-tlb-hl> <gloss>krypton</gloss></multiline> | <multiline><dictionary@x-tlb-hl>sahha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さっは</tinellbian@x-tlb-hl> <gloss>xenon</gloss></multiline> | <multiline><dictionary@x-tlb-hl>fasami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へさみ</tinellbian@x-tlb-hl> <gloss>radon</gloss></multiline> | <multiline><dictionary@x-tlb-hl>’ittika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いってか</tinellbian@x-tlb-hl> <gloss>oganesson</gloss></multiline>
                           - ' <multiline><dictionary@x-tlb-hl>la</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> <gloss>hydrogen</gloss></multiline> | <multiline><dictionary@x-tlb-hl>ca’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やあ</tinellbian@x-tlb-hl> <gloss>fluorine</gloss></multiline> | <multiline><dictionary@x-tlb-hl>limma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>えっま</tinellbian@x-tlb-hl> <gloss>chlorine</gloss></multiline> | <multiline><dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>び</tinellbian@x-tlb-hl> <gloss>bromine</gloss></multiline> | <multiline><dictionary@x-tlb-hl>papa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぱ</tinellbian@x-tlb-hl> <gloss>iodine</gloss></multiline> | <multiline><dictionary@x-tlb-hl>sicu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せゆ</tinellbian@x-tlb-hl> <gloss>astatine</gloss></multiline> | <multiline><dictionary@x-tlb-hl>buccata</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶっやた</tinellbian@x-tlb-hl> <gloss>tennessine</gloss></multiline>'
@@ -592,10 +627,12 @@ entries:
                           - <dictionary@x-tlb-hl>’aqqixi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっねし</tinellbian@x-tlb-hl> <gloss>yttrium</gloss>
                           - <dictionary@x-tlb-hl>hika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひか</tinellbian@x-tlb-hl> <gloss>zinc</gloss>
                           - <dictionary@x-tlb-hl>pusu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぷす</tinellbian@x-tlb-hl> <gloss>zirconium</gloss></ul></mobile>
+                          title: High Lulani Elements - A Grammar of the Tinellbian Languages
                         Kinship:
                           date: '2024-05-18'
                           position: '2.42'
                           text:
+                          - <h1>Kinship</h1>
                           - <h2>Marriage</h2>
                           - The verb for the life-bonding of two people is <dictionary@x-tlb-hl>ju’iduku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>よいどくる</tinellbian@x-tlb-hl> <gloss>to marry.</gloss> This is intended to be eternal, but can be broken if requested by either partner. It is not an exclusive arrangement, and one can be involved in concurrent marriages.
                           - A bonded person is called a <dictionary@x-tlb-hl>silu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せを</tinellbian@x-tlb-hl> <gloss>spouse</gloss> when using possessive pronouns, and <dictionary@x-tlb-hl>xalli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざっえ</tinellbian@x-tlb-hl> <gloss>married person</gloss> otherwise.
@@ -618,10 +655,12 @@ entries:
                           - offspring-link-2<abbr>gen</abbr></details|folding>
                           - “your step-daughter”</block></wordlist>
                           - Other kinship terms began as nuclear family names, but were thence extended across a generation. So <dictionary@x-tlb-hl>kaqqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっげ</tinellbian@x-tlb-hl> <gloss>elder sibling</gloss> and <dictionary@x-tlb-hl>kica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きや</tinellbian@x-tlb-hl> <gloss>younger sibling</gloss> can also be applied to cousins.
+                          title: High Lulani Kinship - A Grammar of the Tinellbian Languages
                         Numbers:
                           date: '2025-03-27'
                           position: '6.16'
                           text:
+                          - <h1>Numbers</h1>
                           - Numerals and mathematical operations are particles.
                           - <h2>Cardinal Numbers</h2>
                           - 'The number system in High Lulani uses balanced sesquidecimal (base 15), and so numbers are written with the positive digits (1, 2, 3, 4, 5, 6 and 7), their negative counterparts (<overline>1</overline>, <overline>2</overline>, <overline>3</overline>, <overline>4</overline>, <overline>5</overline>, <overline>6</overline> and <overline>7</overline>) and a zero (0). A period (fractional point: . ) is used to separate the integer part of the number from the mantissa. A comma (,) is used in the integer part to separate the digits into groupings of four, beginning from the fractional point.'
@@ -743,16 +782,20 @@ entries:
                           - <wordlist><block><dictionary@x-tlb-hl>luffura</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をっふら</tinellbian@x-tlb-hl> <gloss>eyes</gloss>
                           - <dictionary@x-tlb-hl>’itikkura</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっくら</tinellbian@x-tlb-hl> <gloss>breasts</gloss>
                           - <dictionary@x-tlb-hl>tibara</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てばら</tinellbian@x-tlb-hl> <gloss>legs</gloss></block></wordlist>
+                          title: High Lulani Numbers - A Grammar of the Tinellbian Languages
                       date: '2017-07-16'
                       position: '1.0'
                       text:
+                      - <h1>Apocrypha</h1>
                       - This section details particular categories of vocabulary items.
+                      title: High Lulani Apocrypha - A Grammar of the Tinellbian Languages
                     Morphology:
                       children:
                         Adpositions:
                           date: '2025-03-24'
                           position: '80.3'
                           text:
+                          - <h1>Adpositions</h1>
                           - Adpositions are a closed class. They can be used in three different ways.
                           - <h2>Uses</h2>
                           - <h3>As a Preposition</h3>
@@ -885,10 +928,12 @@ entries:
                           - <dictionary@x-tlb-hl>nina</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>にな</tinellbian@x-tlb-hl> <gloss>used for a purpose</gloss>
                           - <dictionary@x-tlb-hl>sata</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さた</tinellbian@x-tlb-hl> <gloss>in order to obtain</gloss>
                           - <dictionary@x-tlb-hl>’arri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっり</tinellbian@x-tlb-hl> <gloss>along with</gloss></block></wordlist>
+                          title: High Lulani Adpositions - A Grammar of the Tinellbian Languages
                         Auxiliaries:
                           date: '2025-03-15'
                           position: '64.67'
                           text:
+                          - <h1>Auxiliaries</h1>
                           - Auxiliaries are a type of <grammar-link@x-tlb-hl>verb</grammar-link@x-tlb-hl>, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
                           - <desktop><table><thead>|h dynamic |h stative |h negative |h habitual |h gnomic</thead>
                           - <tbody>h past | <multiline><dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>qilu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>taku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>rusa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></multiline>
@@ -955,10 +1000,12 @@ entries:
                           - 'Activity: “Are you watching the TV?” / State: “Can you see the TV?”'
                           - <h3>Negative</h3>
                           - The negative aspect is used for actions, attributes and perceptions which do not occur. These act as the negation of any other aspectual marker. That is, while positive sentences can be classified by aspect, negative sentences all use the same auxiliaries.
+                          title: High Lulani Auxiliaries - A Grammar of the Tinellbian Languages
                         Conjunctions:
                           date: '2025-03-21'
                           position: '20.16'
                           text:
+                          - <h1>Conjunctions</h1>
                           - Conjunctions are a closed class of words which are used to join phrases or clauses together.
                           - <h2>Phrase-level Conjunctions</h2>
                           - These conjunctions are used to join words or phrases. They are enclitics on the second and subsequent nouns.
@@ -981,12 +1028,14 @@ entries:
                           - <dictionary@x-tlb-hl>rika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>りか</tinellbian@x-tlb-hl> <gloss>and thus</gloss>
                           - <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>while</gloss>
                           - <dictionary@x-tlb-hl>fati</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へて</tinellbian@x-tlb-hl> <gloss>enough to</gloss></block></wordlist>
+                          title: High Lulani Conjunctions - A Grammar of the Tinellbian Languages
                         Deixis:
                           children:
                             Indefinite Pro-forms:
                               date: '2025-01-19'
                               position: '158.13'
                               text:
+                              - <h1>Indefinite Pro-forms</h1>
                               - The indefinite pro-forms are sets of deictic words which can be placed into a table.
                               - <desktop><table><thead>hr2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
                               - h noun |h determiner</thead>
@@ -1150,10 +1199,12 @@ entries:
                               - <dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gajita</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>fana</dictionary@x-tlb-hl>.
                               - <gloss>This <abbr>prs;sta</abbr> treasure-somehow</gloss></details|example>
                               - “This is some kind of treasure.”
+                              title: High Lulani Indefinite Pro-forms - A Grammar of the Tinellbian Languages
                             Personal Pro-forms:
                               date: '2024-05-18'
                               position: '65.15'
                               text:
+                              - <h1>Personal Pro-forms</h1>
                               - These are a closed class. They are marked for <grammar-link@x-tlb-hl>case</grammar-link@x-tlb-hl> and <external>https://en.wikipedia.org/wiki/Grammatical_person|person</external>. The third person pronouns are additionally marked for topicality or <grammar-link@x-tlb-hl>animacy</grammar-link@x-tlb-hl>. The alienable genitive acts as the nominal head of a possessive phrase, the inalienable genitive is a determiner, and the other pronouns all act as nouns.
                               - <desktop><table><thead>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
                               - h topic |h animate |h inanimate</thead>
@@ -1313,21 +1364,25 @@ entries:
                               - <gloss>face</gloss></details|folding>
                               - “the face” / “his face”</block></wordlist>
                               - Some kinship terms have suppletive forms when used with a plain possessive pronoun. See <internal>../../apocrypha/kinship.html#nuclearfamily|that section</internal> for details.
+                              title: High Lulani Personal Pro-forms - A Grammar of the Tinellbian Languages
                           date: '2019-05-04'
                           position: '7.0'
                           text:
+                          - <h1>Deixis</h1>
                           - Deixis encompasses words and phrases which rely on an external context to complete their meaning.
                           - <h2>Topicality</h2>
                           - Once a topic is introduced in a discourse or narrative, it can be assumed to be the subject until changed.
                           - <h2>Pro-forms</h2>
                           - The two groups of pro-forms are classified on the basis of their semantic properties.
                           - <internal>personalpro-forms.html|Personal pro-forms</internal>, otherwise known as definite pro-forms, are those that encode case, person, animacy and topicality.  <internal>indefinitepro-forms.html|Indefinite pro-forms</internal> comprise the remaining deictic terms.
+                          title: High Lulani Deixis - A Grammar of the Tinellbian Languages
                         Nouns:
                           children:
                             Adverbs:
                               date: '2025-03-24'
                               position: '29.0'
                               text:
+                              - <h1>Adverbs</h1>
                               - 'A closed subset of nouns can have an adverbial function. These adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <internal>../../syntax/dependentclauses/index.html#locationadverbialclauses|Adverbial Clauses</internal>'
                               - <wordlist><block><dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まった</tinellbian@x-tlb-hl> <gloss>also</gloss>
                               - <dictionary@x-tlb-hl>gicirri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎちっり</tinellbian@x-tlb-hl> <gloss>instead</gloss>
@@ -1425,9 +1480,11 @@ entries:
                               - '<gloss>lit.: “<overline>1</overline>-year”</gloss></details|folding>'
                               - “two years ago”</block></wordlist>
                               - "\t"
+                              title: High Lulani Adverbs - A Grammar of the Tinellbian Languages
                           date: '2025-01-18'
                           position: '9.17'
                           text:
+                          - <h1>Nouns</h1>
                           - Common and proper nouns are open classes; the pronouns are closed.
                           - <h2>Common Nouns</h2>
                           - Common nouns can refer to abstract or concrete items.
@@ -1483,12 +1540,14 @@ entries:
                           - <dictionary@x-tlb-hl>ʔirri’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いっりあ</tinellbian@x-tlb-hl> <gloss>Irìa</gloss> (name of a city)
                           - <dictionary@x-tlb-hl>$lulani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> <gloss>Lulani</gloss> (name of a language)
                           - <dictionary@x-tlb-hl>$xucipura.$cula</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ずちぷら ゆわ</tinellbian@x-tlb-hl> <gloss>The Crackled Egg</gloss> (name of a story)</block></wordlist>
+                          title: High Lulani Nouns - A Grammar of the Tinellbian Languages
                         Particles:
                           children:
                             Interjections:
                               date: '2019-05-17'
                               position: '1.0'
                               text:
+                              - <h1>Interjections</h1>
                               - These are exclamations that do not fit the syntactic rules of the other parts of speech, hence their classification among the particles. All interjections end with the same vowel, either naturally,
                               - <wordlist><block><dictionary@x-tlb-hl>ta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>た</tinellbian@x-tlb-hl> <gloss>um</gloss>
                               - <dictionary@x-tlb-hl>ti’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てあ</tinellbian@x-tlb-hl>  <gloss>oh!</gloss></block></wordlist>
@@ -1498,21 +1557,25 @@ entries:
                               - <dictionary@x-tlb-hl>hacca</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はっや</tinellbian@x-tlb-hl> <gloss>good morning</gloss>
                               - <dictionary@x-tlb-hl>kica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きや</tinellbian@x-tlb-hl> <gloss>what?</gloss>
                               - <dictionary@x-tlb-hl>hira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひら</tinellbian@x-tlb-hl> <gloss>please; thank-you</gloss></block></wordlist>
+                              title: High Lulani Interjections - A Grammar of the Tinellbian Languages
                           date: '2025-01-19'
                           position: '1.39'
                           text:
+                          - <h1>Particles</h1>
                           - 'There are very few particles. These are simply words that do not fit neatly into any other category. This includes:'
                           - <ul><internal>interjections.html|interjections</internal>,
                           - <internal>../../apocrypha/numbers.html|numbers</internal> and mathematical operations,
                           - pronouns of the <internal>../deixis/personalpro-forms.html#alienablepossession|alienable genitive</internal>,
                           - <internal>../../syntax/dependentclauses.html#contentclauses|content</internal> and <internal>../../syntax/dependentclauses.html#relativeclauses|relative</internal> clause introductory markers, and
                           - the <internal>../../apocrypha/comparatives.html#superlative|superlative</internal> marker.</ul>
+                          title: High Lulani Particles - A Grammar of the Tinellbian Languages
                         Suffixes:
                           children:
                             Cisclass:
                               date: '2025-03-25'
                               position: '12.25'
                               text:
+                              - <h1>Cisclass</h1>
                               - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
                               - The augmentative <dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・あく</tinellbian@x-tlb-hl> is most often attached to nouns to reference something large or important. It is rarely used for people.
                               - <wordlist><block><dictionary@x-tlb-hl>tissaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっさく</tinellbian@x-tlb-hl> <gloss>wind</gloss>
@@ -1589,10 +1652,12 @@ entries:
                               - The infix <dictionary@x-tlb-hl>-ar-</dictionary@x-tlb-hl> is placed before the final vowel of auxiliaries, and denotes an end to the action described by the sentence.
                               - <wordlist><block><dictionary@x-tlb-hl>lanaru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl> <gloss>will finish doing</gloss>
                               - <dictionary@x-tlb-hl>nagari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl> <gloss>will finish being</gloss></block></wordlist>
+                              title: High Lulani Cisclass - A Grammar of the Tinellbian Languages
                             Determiners:
                               date: '2024-07-27'
                               position: '37.7'
                               text:
+                              - <h1>Determiners</h1>
                               - A determiner can be used to narrow the reference of a noun. They appear at the end of a noun phrase, after any normal suffixes. They do not move the stress of the noun, and can only receive up to secondary stress themselves.
                               - <wordlist><block><dictionary@x-tlb-hl>-cama</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やま</tinellbian@x-tlb-hl> <gloss>usual</gloss>
                               - <dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>にさ</tinellbian@x-tlb-hl> <gloss>only</gloss>
@@ -1626,10 +1691,12 @@ entries:
                               - <dictionary@x-tlb-hl>-hita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひた</tinellbian@x-tlb-hl> <gloss>opposite</gloss>
                               - <dictionary@x-tlb-hl>-ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>used to be</gloss>
                               - <dictionary@x-tlb-hl>-na’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なう</tinellbian@x-tlb-hl> <gloss>will be</gloss></block></wordlist>
+                              title: High Lulani Determiners - A Grammar of the Tinellbian Languages
                             Transclass:
                               date: '2025-03-25'
                               position: '26.25'
                               text:
+                              - <h1>Transclass</h1>
                               - These tend to move words from one part of speech to another.
                               - <h2>Nominalisation</h2>
                               - These derive a noun from another part of speech, most often a verb.
@@ -1695,17 +1762,21 @@ entries:
                               - <dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>good night</gloss>
                               - <dictionary@x-tlb-hl>hira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひた</tinellbian@x-tlb-hl> <gloss>please</gloss>
                               - <dictionary@x-tlb-hl>kica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きや</tinellbian@x-tlb-hl> <gloss>pardon?</gloss></block></wordlist>
+                              title: High Lulani Transclass - A Grammar of the Tinellbian Languages
                           date: '2024-09-01'
                           position: '1.177'
                           text:
+                          - <h1>Suffixes</h1>
                           - Suffixes are attached to other words, but cannot stand alone. A suffix beginning with a vowel replaces the final vowel of the base.
                           - 'There are two categories of suffixes proper: depending on whether they move vocabulary items from one lexical class to another. Determiners, which are used to specify the reference of a noun, can also be treated as suffixes.'
+                          title: High Lulani Suffixes - A Grammar of the Tinellbian Languages
                         Verbs:
                           children:
                             Ambitransitivity:
                               date: '2025-03-17'
                               position: '37.29'
                               text:
+                              - <h1>Ambitransitivity</h1>
                               - Ambitransitive verbs can be used with or without an argument in the object position.
                               - <h2>Perceptive Verbs</h2>
                               - These verbs deal with the subject’s ability to perceive stimuli.
@@ -1776,10 +1847,12 @@ entries:
                               - <dictionary@x-tlb-hl>buma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶま</tinellbian@x-tlb-hl> <gloss>to draw</gloss>
                               - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss>
                               - <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to consider</gloss></block></wordlist>
+                              title: High Lulani Ambitransitivity - A Grammar of the Tinellbian Languages
                             Intransitivity:
                               date: '2025-03-25'
                               position: '72.184'
                               text:
+                              - <h1>Intransitivity</h1>
                               - Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Badiri ru cura</transliteration@x-tlb-hl>.</summary|folding>
                               - <tinellbian@x-tlb-hl>。ばでりるゆら。</tinellbian@x-tlb-hl>
@@ -1909,10 +1982,12 @@ entries:
                               - <dictionary@x-tlb-hl>sisa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せさ</tinellbian@x-tlb-hl> <gloss>to touch</gloss>
                               - <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>to accompany</gloss>
                               - <dictionary@x-tlb-hl>hulla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ほっわ</tinellbian@x-tlb-hl> <gloss>to copulate; to have consumated</gloss></block></wordlist>
+                              title: High Lulani Intransitivity - A Grammar of the Tinellbian Languages
                             Transitivity:
                               date: '2025-03-15'
                               position: '19.115'
                               text:
+                              - <h1>Transitivity</h1>
                               - The divalent verbs are called transitive, and these require an object to complete its meaning. It is possible to elide this object if it is obvious or irrelevant. The <strong>subject</strong> is the agent, and the <strong>object</strong> is the patient.
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Nimalu dasi (nukki).</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>。にまをだせぬっき。</tinellbian@x-tlb-hl>
@@ -2028,9 +2103,11 @@ entries:
                               - <dictionary@x-tlb-hl>nu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬ</tinellbian@x-tlb-hl> <gloss>to stop</gloss>
                               - <dictionary@x-tlb-hl>naqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なげ</tinellbian@x-tlb-hl> <gloss>to need</gloss>
                               - <dictionary@x-tlb-hl>tapu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たぷ</tinellbian@x-tlb-hl> <gloss>to look forward to; to enjoy</gloss></block></wordlist>
+                              title: High Lulani Transitivity - A Grammar of the Tinellbian Languages
                           date: '2025-03-24'
                           position: '11.120'
                           text:
+                          - <h1>Verbs</h1>
                           - A verb is a necessary part of any sentence, except when making <grammar-link@x-tlb-hl>copular sentences</grammar-link@x-tlb-hl>. Verbs can be categorised on the basis of how many elements compose them.
                           - <h2>Stem Verbs
                           - </h2>The class of stem verbs is semi-closed — there are only about 100 pure verbs in the entire language. Stem verbs consist of a single element.
@@ -2057,16 +2134,20 @@ entries:
                           - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> + <dictionary@x-tlb-hl>mila</dictionary@x-tlb-hl>
                           - <gloss>think-surroundings</gloss></details|folding>
                           - “to be conscious”</block></wordlist>
+                          title: High Lulani Verbs - A Grammar of the Tinellbian Languages
                       date: '2024-05-11'
                       position: '1.0'
                       text:
+                      - <h1>Morphology</h1>
                       - High Lulani is an analytic agglutinative language, as morphemes tend to keep their own shape, even when forming words.
+                      title: High Lulani Morphology - A Grammar of the Tinellbian Languages
                     Orthography:
                       children:
                         Spelling Syllabary:
                           date: '2024-05-25'
                           position: '5.10'
                           text:
+                          - <h1>Spelling Syllabary</h1>
                           - There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol is represented by the word <dictionary@x-tlb-hl>faʔa</dictionary@x-tlb-hl> <gloss>language</gloss>.
                           - '<desktop><columns><table> ’a: <dictionary@x-tlb-hl>’ara</dictionary@x-tlb-hl> <gloss>face</gloss>'
                           - ' pa: <dictionary@x-tlb-hl>pacca</dictionary@x-tlb-hl> <gloss>number</gloss>'
@@ -2176,10 +2257,12 @@ entries:
                           - ' su: <dictionary@x-tlb-hl>silu</dictionary@x-tlb-hl> <gloss>spouse</gloss>'
                           - ' xu: <dictionary@x-tlb-hl>xaʔu</dictionary@x-tlb-hl> <gloss>child</gloss>'
                           - ' hu: <dictionary@x-tlb-hl>halu</dictionary@x-tlb-hl> <gloss>algorithm</gloss></mobile>'
+                          title: High Lulani Spelling Syllabary - A Grammar of the Tinellbian Languages
                         Tactile Syllabary:
                           date: '2024-05-25'
                           position: '1.0'
                           text:
+                          - <h1>Tactile Syllabary</h1>
                           - There is a tactile syllabary for use by blind and visually-impaired language users.
                           - Each cell is three rows by two columns of raised dots. The upper four dots generally denote the consonant, with syllables beginning with b, d, j, g, f, or x being the exceptions. The lowest pair generally denote the vowel.
                           - <desktop><table>|h ʔ |h p |h b |h t |h d |h c |h j |h k |h g
@@ -2210,9 +2293,11 @@ entries:
                           - h x | ⠡ | ⠳ | ⠻
                           - h h | ⠂ | ⠆ | ⠦</table></mobile>
                           - Dot 5 (⠐) by itself is the geminate. Word separation is shown by (⠀) an empty space, clause separation by (⠤) the comma, and sentence separation by (⠔) the period. Numbers are prefixed with (⠨) the number sign, and the first syllable of each number is used.
+                          title: High Lulani Tactile Syllabary - A Grammar of the Tinellbian Languages
                       date: '2025-03-30'
                       position: '19.18'
                       text:
+                      - <h1>Orthography</h1>
                       - As well as the syllabary for most written use, there are also special-use syllabaries. One of these encodes more redundancy for use with noisy channels. The other is a non-visual written code for blind and other visually impaired users.
                       - The Lulani syllabary was developed as a featural script, with similar sounds having similar symbols.
                       - It is written in horizontal rows, right-to-left, and top-to-bottom.
@@ -2252,12 +2337,14 @@ entries:
                       - ' ha: <tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl> | hi: <tinellbian@x-tlb-hl>ひ</tinellbian@x-tlb-hl> | hu: <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl></table></mobile>'
                       - Geminate consonants are shown as <tinellbian@x-tlb-hl>っ</tinellbian@x-tlb-hl>, placed before the geminated consonant.
                       - A central dot <tinellbian@x-tlb-hl>・</tinellbian@x-tlb-hl> is placed between words, and sentences begin and end with a <tinellbian@x-tlb-hl>。</tinellbian@x-tlb-hl> symbol.
+                      title: High Lulani Orthography - A Grammar of the Tinellbian Languages
                     Phonology:
                       children:
                         Consonants:
                           date: '2024-05-26'
                           position: '81.21'
                           text:
+                          - <h1>Consonants</h1>
                           - Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
                           - <desktop><table><thead>|h labial |h alveolar |h retroflex |h palatal |h velar |h glottal</thead>
                           - h stop | <ipa@x-tlb-hl>p b</ipa@x-tlb-hl> | <ipa@x-tlb-hl>t d</ipa@x-tlb-hl> || <ipa@x-tlb-hl>c ɟ</ipa@x-tlb-hl> &lt;j&gt; | <ipa@x-tlb-hl>k g</ipa@x-tlb-hl> | <ipa@x-tlb-hl>ʔ</ipa@x-tlb-hl> &lt;’&gt;
@@ -2369,15 +2456,19 @@ entries:
                           - <wordlist><block><dictionary@x-tlb-hl>hannaku</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈ<strong>h</strong>aɲːəku/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>はっなく</tinellbian@x-tlb-hl> <gloss>cat</gloss>
                           - <dictionary@x-tlb-hl>tihu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈtʰi<strong>h</strong>ʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>てほ</tinellbian@x-tlb-hl> <gloss>to dwell</gloss>
                           - <dictionary@x-tlb-hl>quhha</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈŋu<strong>çː</strong>ə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>もっは</tinellbian@x-tlb-hl> <gloss>river</gloss></block></wordlist>
+                          title: High Lulani Consonants - A Grammar of the Tinellbian Languages
                         Phonotactics:
                           date: '2019-05-04'
                           position: '1.0'
                           text:
+                          - <h1>Phonotactics</h1>
                           - Phonemically, all syllables are CV, that is, one consonant followed by one vowel. Word-internal consonants can be geminated. The only consonant clusters are geminate consonants, and there are no phonemic vowel clusters or long vowels.
+                          title: High Lulani Phonotactics - A Grammar of the Tinellbian Languages
                         Suprasegmentals:
                           date: '2024-05-14'
                           position: '1.0'
                           text:
+                          - <h1>Suprasegmentals</h1>
                           - <h2>Syllabication</h2>
                           - Syllable breaks are placed between two geminate consonants.
                           - <wordlist><block>bat.ta</block></wordlist>
@@ -2417,10 +2508,12 @@ entries:
                           - <h2>Prosody</h2>
                           - Interrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (ǎ) or a falling tone (â), placed on the syllable of the appropriate word which has the greatest stress.
                           - Falling tone can also be used to bring focus to a particular word.
+                          title: High Lulani Suprasegmentals - A Grammar of the Tinellbian Languages
                         Vowels:
                           date: '2025-02-16'
                           position: '36.0'
                           text:
+                          - <h1>Vowels</h1>
                           - There are three phonemic vowels, with two main allophones for each. The vowels are distinguished by closeness and frontness.
                           - <table>|h front |h central |h back
                           - h close | <ipa@x-tlb-hl>i</ipa@x-tlb-hl> | <ipa@x-tlb-hl>(ɨ) (ʉ)</ipa@x-tlb-hl> | <ipa@x-tlb-hl>u</ipa@x-tlb-hl>
@@ -2442,9 +2535,11 @@ entries:
                           - <wordlist><block><dictionary@x-tlb-hl>mulu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈm<strong>u</strong>l<strong>ʉ</strong>/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>むを</tinellbian@x-tlb-hl> <gloss>blood</gloss>
                           - <dictionary@x-tlb-hl>hulla</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈh<strong>u</strong>ʎːə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ほっわ</tinellbian@x-tlb-hl> <gloss>to have sex</gloss>
                           - <dictionary@x-tlb-hl>riccu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈɽicː<strong>ʉ</strong>/</ipa@x-tlb-hl><tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl> <gloss>sphere</gloss></block></wordlist>
+                          title: High Lulani Vowels - A Grammar of the Tinellbian Languages
                       date: '2024-07-16'
                       position: '1.0'
                       text:
+                      - <h1>Phonology</h1>
                       - High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated, which can palatalise or change the voicing of the original sound.
                       - This page will show each of the International Phonetic Alphabet characters used in High Lulani pronunciations.
                       - <columns><table>h Sound |h Example
@@ -2491,11 +2586,13 @@ entries:
                       - ' </strong><ipa@x-tlb-hl>ɨ</ipa@x-tlb-hl> | kas<strong>i'
                       - </strong> <ipa@x-tlb-hl>ʉ</ipa@x-tlb-hl> | l<strong>u</strong>lani</table>
                       - </columns>The suprasegmental symbols are all exemplified in <ipa@x-tlb-hl>/ˌpʰaːmɨˈlamɨ/</ipa@x-tlb-hl>.
+                      title: High Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: {}
                       date: '2025-03-11'
                       position: '1075.0'
                       text:
+                      - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><external-link>Prelude</external-link></cite>, the first chapter of <cite><external-link>The Crackled Egg</external-link></cite>, from <cite><external-link>The Coelacanth Quartet</external-link></cite><interlinear>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Disinnamuka</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>でせっなむか</tinellbian@x-tlb-hl>
@@ -3581,12 +3678,14 @@ entries:
                       - <script>
                       - const interlinear = document.getElementsByClassName("interlinear")[0];
                       - for (elt of interlinear.getElementsByTagName("details")) { elt.open = false }</script>
+                      title: High Lulani Sample Text - A Grammar of the Tinellbian Languages
                     Syntax:
                       children:
                         Argument Promotion:
                           date: '2025-03-07'
                           position: '90.0'
                           text:
+                          - <h1>Argument Promotion</h1>
                           - The first noun in a clause is the subject, which is prototypically the agent in transitive sentences and the patient in intransitive sentences. However, suffixes can be added to the verb to promote other nouns in the clause, other than the genitive.
                           - There are three such verbal suffixes, which can be stacked, however, once something has been shifted from the subject position, it can’t be promoted again.
                           - <h2>Passive</h2>
@@ -3664,10 +3763,12 @@ entries:
                           - <dictionary@x-tlb-hl>jagaru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nukki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl>.
                           - <gloss>sand <abbr>pst;sta</abbr> <abbr>dat</abbr>-strawberry in-eat <abbr>3ani;tra</abbr>.</gloss></details|example>
                           - “It was in the sand that he was eating the strawberry.”
+                          title: High Lulani Argument Promotion - A Grammar of the Tinellbian Languages
                         Case:
                           date: '2024-05-18'
                           position: '11.124'
                           text:
+                          - <h1>Case</h1>
                           - <h2>Alignment</h2>
                           - The three basic arguments for any verb (intransitive subjects, transitive subjects and transitive objects) are marked in High Lulani. Because intransitive subjects cannot co-occur with transitive arguments, it is possible to mark either of the transitive arguments in the same way as the intransitive without confusion. In the ergative alignment, it is the transitive object that is marked the same as the intransitive subject. In accusative alignment, it is instead the transitive subject that shares marking with intransitive subjects. In either alignment, the intransitive case is the one treated like the intransitive subject, and the transitive case is the other.
                           - High Lulani has an ergativity split, made down aspectual lines. A clause using dynamic or iterative auxiliaries uses ergative alignment; gnomic, stative and negative aspects attract the accusative.
@@ -3708,12 +3809,14 @@ entries:
                           - <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lulani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kuffa</dictionary@x-tlb-hl>
                           - <gloss><abbr>dat</abbr>-queen give</gloss></details|folding>
                           - “give to the queen”</block></wordlist>
+                          title: High Lulani Case - A Grammar of the Tinellbian Languages
                         Dependent Clauses:
                           children:
                             Relative Clauses:
                               date: '2025-01-19'
                               position: '1.0'
                               text:
+                              - <h1>Relative Clauses</h1>
                               - Relative clauses specify the noun by describing it. They begin with the relativiser <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しく</tinellbian@x-tlb-hl> and are placed before the modified noun, The auxiliary is not optional, and is given a rising tone. Only subjects can be relativised. Other cases must be promoted to subject.
                               - <wordlist><block><details|folding><summary|folding><transliteration@x-tlb-hl>Xiku lu’i kimilli pi lulani</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>しくをいきみっえぴをわに</tinellbian@x-tlb-hl>
@@ -3781,9 +3884,11 @@ entries:
                               - <dictionary@x-tlb-hl>hafi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kipu</dictionary@x-tlb-hl>
                               - <gloss>grass-eat-<abbr>prs;sta</abbr> ox</gloss></details|folding>
                               - “the grass-eating cow.”</block></wordlist>
+                              title: High Lulani Relative Clauses - A Grammar of the Tinellbian Languages
                           date: '2024-05-18'
                           position: '81.31'
                           text:
+                          - <h1>Dependent Clauses</h1>
                           - A dependent clause is a clause that is unable to stand meaningfully by itself.
                           - They are marked by having a non-optional auxiliary at the end.
                           - <h2>Subordinate Clauses</h2>
@@ -3868,10 +3973,12 @@ entries:
                           - <dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ruku</dictionary@x-tlb-hl>!
                           - <gloss>Queen love-<abbr>fut;gno</abbr>!</gloss></details|example>
                           - “Love the queen!”
+                          title: High Lulani Dependent Clauses - A Grammar of the Tinellbian Languages
                         Gerunds:
                           date: '2024-05-18'
                           position: '18.0'
                           text:
+                          - <h1>Gerunds</h1>
                           - The gerund suffix <dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl> changes basic verbs into nouns describing the activity.
                           - <wordlist><block><dictionary@x-tlb-hl>huba</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>ほばる</tinellbian@x-tlb-hl> <gloss>breathing</gloss>
                           - <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>まわる</tinellbian@x-tlb-hl><gloss> reflecting</gloss>
@@ -3907,12 +4014,14 @@ entries:
                           - <dictionary@x-tlb-hl>’usa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-xa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl>
                           - <gloss>look-<abbr>dtv</abbr>-<abbr>ger</abbr>-<abbr>gen</abbr> moon</gloss></details|folding>
                           - “looking at the moon”</block></wordlist>
+                          title: High Lulani Gerunds - A Grammar of the Tinellbian Languages
                         Matrix Clauses:
                           children:
                             Negative Complements:
                               date: '2024-05-18'
                               position: '24.16'
                               text:
+                              - <h1>Negative Complements</h1>
                               - 'Use of <strong>ci’u</strong> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl> <gloss>no one</gloss> to fill the object argument in a sentence is avoided where possible, thus verbs have a <strong>negative complement</strong>, i.e.: a syntactically positive word with a semantically negative meaning.'
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Lulanaku ju’i sisa</transliteration@x-tlb-hl>.</summary|folding>
                               - <tinellbian@x-tlb-hl>。をわなくよいせさ。</tinellbian@x-tlb-hl>
@@ -3934,9 +4043,11 @@ entries:
                               - <gloss>speak silence <abbr>fut;neg</abbr>! / speak silence <abbr>fut;dyn</abbr>!</gloss>
                               - <gloss>lit. “Speak silence!”</gloss></details|example>
                               - “Be quiet!”
+                              title: High Lulani Negative Complements - A Grammar of the Tinellbian Languages
                           date: '2024-05-18'
                           position: '27.20'
                           text:
+                          - <h1>Matrix Clauses</h1>
                           - 'The standard word order for matrix clauses is:'
                           - Subject ‐ Auxiliary ‐ Adposition - Oblique ‐ Verb ‐ Object ‐ Adverb.
                           - None of these slots are compulsorily filled. If a subject is obvious from context, or is the same as that of the immediately prior sentence, it can be dropped. The adverb can act as a pro-sentence.
@@ -4008,10 +4119,12 @@ entries:
                           - <gloss><abbr>3ani;int</abbr> <abbr>pst;sta</abbr> eat <abbr>3ina;tra</abbr></gloss></details|example>
                           - “She was eating it.”
                           - As can be seen, the only time the transitive case is used for the subject of a clause is in transitive (as well as copular) sentences using dynamic or iterative auxiliaries.
+                          title: High Lulani Matrix Clauses - A Grammar of the Tinellbian Languages
                         Noun Phrases:
                           date: '2025-03-27'
                           position: '16.13'
                           text:
+                          - <h1>Noun Phrases</h1>
                           - 'The full noun phrase is made up of these components in the following order:'
                           - <components>adposition-
                           - case marker-
@@ -4058,30 +4171,41 @@ entries:
                           - <dictionary@x-tlb-hl>julliga</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nura</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kasa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ta</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ara</dictionary@x-tlb-hl>
                           - <gloss>mother leave-<abbr>pst;dyn</abbr> man-and-<abbr>gen</abbr> face</gloss></details|folding>
                           - the faces of the mothers <highlight>and the men who left</highlight>.</block></wordlist>
+                          title: High Lulani Noun Phrases - A Grammar of the Tinellbian Languages
                       date: '2025-02-18'
                       position: '2.0'
                       text:
+                      - <h1>Syntax</h1>
                       - High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.
+                      title: High Lulani Syntax - A Grammar of the Tinellbian Languages
                   date: '2025-03-24'
                   position: '3.0'
                   text:
+                  - <h1>High Lulani</h1>
                   - High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.
                   - I once had the beginnings of what was to be the Ptokan language, and the language of the Fezhlê. The latter was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhlê have been forced to change somewhat to adapt.
+                  title: High Lulani - A Grammar of the Tinellbian Languages
               date: null
               position: '1.0'
-              text: []
+              text:
+              - <h1>Lulani</h1>
+              title: Lulani - A Grammar of the Tinellbian Languages
             Ptokan:
               children:
                 Middle:
                   date: '2025-03-27'
                   position: '2.0'
                   text:
+                  - <h1>Middle Ptokan</h1>
                   - Middle Ptokan
+                  title: Middle Ptokan - A Grammar of the Tinellbian Languages
                 New:
                   date: '2025-03-27'
                   position: '1.15'
                   text:
+                  - <h1>New Ptokan</h1>
                   - New Ptokan
+                  title: New Ptokan - A Grammar of the Tinellbian Languages
                 Old:
                   children:
                     Appendices:
@@ -4089,6 +4213,7 @@ entries:
                         Diachrony:
                           date: '2025-03-02'
                           text:
+                          - <h1>Diachrony</h1>
                           - '<message>Warning: this section has not been completed. Please proceed with caution.</message>'
                           - <h2>Phoneme Tables</h2>
                           - <landscape><table|alphabet><thead>hr4c2 consonant |hc6 obstruent |hc2 sonorant |hr4 glide
@@ -4130,79 +4255,112 @@ entries:
                           - <div-id>output|</div-id>
                           - <internal-script>/data/scripts/sca.js</internal-script>
                           - <script>intermediate()</script>
+                          title: Old Ptokan Diachrony - A Grammar of the Tinellbian Languages
                       date: null
-                      text: []
+                      text:
+                      - <h1>Appendices</h1>
+                      title: Old Ptokan Appendices - A Grammar of the Tinellbian Languages
                   date: null
-                  text: []
+                  text:
+                  - <h1>Old Ptokan</h1>
+                  title: Old Ptokan - A Grammar of the Tinellbian Languages
               date: null
               position: '1.0'
-              text: []
+              text:
+              - <h1>Ptokan</h1>
+              title: Ptokan - A Grammar of the Tinellbian Languages
             Solajin:
               children:
                 Ancient:
                   date: '2025-03-27'
                   position: '1.15'
                   text:
+                  - <h1>Ancient Solajin</h1>
                   - Ancient Solajin
+                  title: Ancient Solajin - A Grammar of the Tinellbian Languages
                 Medieval:
                   date: '2025-03-27'
                   position: '1.16'
                   text:
+                  - <h1>Medieval Solajin</h1>
                   - Medieval Solajin
+                  title: Medieval Solajin - A Grammar of the Tinellbian Languages
                 Standard:
                   date: '2025-03-27'
                   position: '1.11'
                   text:
+                  - <h1>Standard Solajin</h1>
                   - Standard Solajin
+                  title: Standard Solajin - A Grammar of the Tinellbian Languages
                 Traditional:
                   date: '2025-03-27'
                   position: '1.19'
                   text:
+                  - <h1>Traditional Solajin</h1>
                   - Traditional Solajin
+                  title: Traditional Solajin - A Grammar of the Tinellbian Languages
               date: null
-              text: []
+              text:
+              - <h1>Solajin</h1>
+              title: Solajin - A Grammar of the Tinellbian Languages
             Tsarin:
               children:
                 Classical:
                   date: '2025-03-27'
                   position: '1.16'
                   text:
+                  - <h1>Classical Tsarin</h1>
                   - Classical Tsarin
+                  title: Classical Tsarin - A Grammar of the Tinellbian Languages
                 Modern:
                   date: '2025-03-27'
                   position: '1.13'
                   text:
+                  - <h1>Modern Tsarin</h1>
                   - Modern Tsarin
+                  title: Modern Tsarin - A Grammar of the Tinellbian Languages
               date: null
-              text: []
+              text:
+              - <h1>Tsarin</h1>
+              title: Tsarin - A Grammar of the Tinellbian Languages
             Zhaladi:
               children:
                 Contemporary:
                   date: '2025-03-27'
                   position: '1.20'
                   text:
+                  - <h1>Contemporary Zhaladi</h1>
                   - Contemporary Zhaladi
+                  title: Contemporary Zhaladi - A Grammar of the Tinellbian Languages
                 Proto:
                   date: '2025-03-27'
                   position: '1.13'
                   text:
+                  - <h1>Proto Zhaladi</h1>
                   - Proto-Zhaladi
+                  title: Proto Zhaladi - A Grammar of the Tinellbian Languages
                 Reformed:
                   date: '2025-03-27'
                   position: '1.16'
                   text:
+                  - <h1>Reformed Zhaladi</h1>
                   - Reformed Zhaladi
+                  title: Reformed Zhaladi - A Grammar of the Tinellbian Languages
               date: null
-              text: []
+              text:
+              - <h1>Zhaladi</h1>
+              title: Zhaladi - A Grammar of the Tinellbian Languages
           date: null
           position: '1.0'
           text: []
       date: '2025-03-27'
       position: '4.197'
       text:
+      - <h1>A Grammar of the Tinellbian Languages</h1>
       - This reference guide is for the Tinellbian languages that descend from High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the guozu.
       - <heading-link@x-tlb-hl>High Lulani</heading-link@x-tlb-hl>
       - <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> Created by Queen Loren on Ptoko.
       - I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <dictionary@x-tlb-hl>mica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みや</tinellbian@x-tlb-hl> <gloss>hello</gloss> dates from that time.
       - When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information.
       - The Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality.
+      title: A Grammar of the Tinellbian Languages
