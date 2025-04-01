@@ -1,8 +1,8 @@
 abbr:
   close: </abbr></dfn>
   keys:
-    'on': Alt-G
     'off': space
+    'on': Alt-G
   open: <dfn><abbr class="glossary" title="
   param: $link:lookup:glossary$|$text$
   pipe: '">'
@@ -17,10 +17,10 @@ b:
     bold: true
 block:
   key: Alt-b
+  prequel: <li>
   props:
     border: true
   rank: 90
-  prequel: <li>
   sequel: </li>
   type: ul
 button:
@@ -42,10 +42,8 @@ cite:
     'on': Alt-c
   props:
     italics: true
-columns:
-  type: div
-components:
-  type: ol
+columns: div
+components: ol
 default:
   props:
     font: Garamond
@@ -87,8 +85,7 @@ div-id:
   props:
     background: '#f6c'
   type: line
-english:
-  type: div
+english: div
 external:
   props:
     colour: blue
@@ -131,21 +128,21 @@ h3:
     size: 140
   type: heading
 h4:
-  type: heading
+  keys:
+    'off': Return
+    'on': 4
   props:
     bold: true
     size: 130
-  keys:
-    'on': 4
-    'off': Return
-h5:
   type: heading
+h5:
+  keys:
+    'off': Return
+    'on': 5
   props:
     bold: true
     size: 120
-  keys:
-    'on': 5
-    'off': Return
+  type: heading
 heading-link:
   close: </a></h2>
   language: true
@@ -188,9 +185,9 @@ internal-script:
   start: '"'
   type: block
 ipa:
-  keys: 
-    'on': Alt-i
+  keys:
     'off': Return
+    'on': Alt-i
   language: true
   props:
     font: lucida sans unicode
@@ -199,10 +196,8 @@ ipa:
 label:
   props:
     colour: '#09f'
-landscape:
-  type: div
-left-columns:
-  type: div
+landscape: div
+left-columns: div
 message:
   props:
     colour: red
@@ -213,11 +208,10 @@ mobile:
   rank: 150
   type: div
 multiline:
+  pipe: <br>
   rank: -100
   type: span
-  pipe: <br>
-nextline:
-  type: span
+nextline: span
 overline:
   props:
     underline: true
@@ -228,8 +222,7 @@ paragraph:
   rank: 150
   start: <p>
   type: div
-portrait:
-  type: div
+portrait: div
 script:
   props:
     background: '#cc3'
@@ -268,10 +261,8 @@ symbol:
   props:
     italics: true
   type: span
-table:
-  type: table
-table|alphabet:
-  type: table
+table: table
+table|alphabet: table
 tbody:
   props:
     background: '#99f'
@@ -283,8 +274,7 @@ textarea-id:
   props:
     background: '#ff9'
   type: line
-textarea-text:
-  type: blank
+textarea-text: blank
 thead:
   props:
     background: '#66f'
@@ -300,14 +290,14 @@ tinellbian:
     ime: tinellbian
   type: span
 transliteration:
-  type: span
   keys:
-    'on': Alt-T
     'off': Return
+    'on': Alt-T
   language: true
   props:
     bold: true
     ime: transliteration
+  type: span
 ul:
   key: Alt-U
   type: ul
