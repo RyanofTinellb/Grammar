@@ -111,6 +111,14 @@ grammar-link:
     colour: '#000099'
     underline: true
   type: anchor
+h1:
+  type: heading
+  keys:
+    'off': Return
+    'on': 1
+  props:
+    bold: true
+    size: 180
 h2:
   keys:
     'off': Return

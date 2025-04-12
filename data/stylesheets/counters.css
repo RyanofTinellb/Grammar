@@ -1,0 +1,67 @@
+body {
+    counter-reset: h2 h3 h4 h5 h6 h7 h8;
+    counter-increment: h2;
+}
+
+h1, h2, h3, h4, h5, h6, h6 {
+    color: inherit;
+    background-color: inherit;
+}
+
+h2 {
+    counter-reset: h3 h4 h5 h6 h7 h8;
+    counter-increment: h2;
+
+    &::before {
+        content: "Book " counter(h4, upper-roman) ": "
+    }
+}
+
+h3 {
+    counter-reset: h4 h5 h6 h7 h8;
+    counter-increment: h3;
+
+    &::before {
+        content: "Section " counter(h3, upper-roman) ": "
+    }
+}
+
+h4 {
+    counter-reset: h5 h6 h7 h8;
+    counter-increment: h4;
+
+    &::before {
+        content: "Chapter " counter(h4, upper-roman) ": ";
+    }
+}
+h5 {
+    counter-reset: h6 h7 h8;
+    counter-increment: h5;
+
+    &::before {
+        content: counter(h5) ". " ;
+    }
+}
+h6.h6 {
+    counter-reset: h7 h8;
+    counter-increment: h6;
+
+    &::before {
+        content: counter(h5) "." counter(h6) ". " ;
+    }
+}
+h6.h7 {
+    counter-reset: h8;
+    counter-increment: h7;
+
+    &::before {
+        content: counter(h5) "." counter(h6) "." counter(h7) ". " ;
+    }
+}
+h6.h8 {
+    counter-increment: h8;
+
+    &::before {
+        content: counter(h5) "." counter(h6) "." counter(h7) "." counter(h8) ". " ;
+    }
+}
