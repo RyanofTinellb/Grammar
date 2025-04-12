@@ -1663,27 +1663,27 @@ entries:
                               - <dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>にさ</tinellbian@x-tlb-hl> <gloss>only</gloss>
                               - <dictionary@x-tlb-hl>-sabutu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さぶと</tinellbian@x-tlb-hl> <gloss>different</gloss>
                               - <dictionary@x-tlb-hl>-matta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まった</tinellbian@x-tlb-hl> <gloss>also</gloss></block></wordlist>
-                              - <h3>Quantity</h3>
-                              - These are used to answer ”how many?”
+                              - <h2>Quantity</h2>
+                              - These are used to answer “how many?”
                               - <wordlist><block><dictionary@x-tlb-hl>-mimutu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みむと</tinellbian@x-tlb-hl> <gloss>some</gloss>
                               - <dictionary@x-tlb-hl>-lumi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をみ</tinellbian@x-tlb-hl> <gloss>several</gloss>
                               - <dictionary@x-tlb-hl>-raqi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らね</tinellbian@x-tlb-hl> <gloss>more</gloss>
                               - <dictionary@x-tlb-hl>-’uhu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うほ</tinellbian@x-tlb-hl> <gloss>many</gloss>
                               - <dictionary@x-tlb-hl>-takki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たっき</tinellbian@x-tlb-hl> <gloss>many</gloss></block></wordlist>
-                              - <h3>Choice</h3>
+                              - <h2>Choice</h2>
                               - There are two sets of determiners that are both used to select a part from the whole. One group is used with count nouns, the other with mass nouns.
-                              - <h4>Count Nouns</h4>
+                              - <h3>Count Nouns</h3>
                               - These refer to particular members of a group.
                               - <wordlist><block><dictionary@x-tlb-hl>-ca</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>や</tinellbian@x-tlb-hl> <gloss>only</gloss>
                               - <dictionary@x-tlb-hl>-fi’atu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べあと</tinellbian@x-tlb-hl> <gloss>certain</gloss>
                               - <dictionary@x-tlb-hl>-tapa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たぱ</tinellbian@x-tlb-hl> <gloss>next</gloss>
                               - <dictionary@x-tlb-hl>-cari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やり</tinellbian@x-tlb-hl> <gloss>remaining</gloss>
                               - <dictionary@x-tlb-hl>-qafa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げへ</tinellbian@x-tlb-hl> <gloss>last</gloss></block></wordlist>
-                              - <h4>Mass Nouns</h4>
+                              - <h3>Mass Nouns</h3>
                               - These refer to sections of a substance.
                               - <wordlist><block><dictionary@x-tlb-hl>-cari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やり</tinellbian@x-tlb-hl> <gloss>remaining</gloss>
                               - <dictionary@x-tlb-hl>-sukki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すっき</tinellbian@x-tlb-hl> <gloss>entire</gloss></block></wordlist>
-                              - <h3>Degree</h3>
+                              - <h2>Degree</h2>
                               - These mark the degree to which the noun matches its referent.
                               - <wordlist><block><dictionary@x-tlb-hl>-nata</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なた</tinellbian@x-tlb-hl> <gloss>complete</gloss>
                               - <dictionary@x-tlb-hl>-naci</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なち</tinellbian@x-tlb-hl> <gloss>somewhat</gloss>
@@ -2294,8 +2294,8 @@ entries:
                           - h h | ⠂ | ⠆ | ⠦</table></mobile>
                           - Dot 5 (⠐) by itself is the geminate. Word separation is shown by (⠀) an empty space, clause separation by (⠤) the comma, and sentence separation by (⠔) the period. Numbers are prefixed with (⠨) the number sign, and the first syllable of each number is used.
                           title: High Lulani Tactile Syllabary - A Grammar of the Tinellbian Languages
-                      date: '2025-03-30'
-                      position: '19.18'
+                      date: '2025-04-11'
+                      position: '20.18'
                       text:
                       - <h1>Orthography</h1>
                       - As well as the syllabary for most written use, there are also special-use syllabaries. One of these encodes more redundancy for use with noisy channels. The other is a non-visual written code for blind and other visually impaired users.
@@ -2589,8 +2589,8 @@ entries:
                       title: High Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: {}
-                      date: '2025-03-11'
-                      position: '1075.0'
+                      date: '2025-04-12'
+                      position: '14.119'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><external-link>Prelude</external-link></cite>, the first chapter of <cite><external-link>The Crackled Egg</external-link></cite>, from <cite><external-link>The Coelacanth Quartet</external-link></cite><interlinear>
@@ -3059,7 +3059,7 @@ entries:
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Qumu ra’u ju’i xiku nidifigi ga’i ju’i nubitu’afuri na sunufi.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。もむらうよいしくにでべぎがいよい・ぬびとあふりなすぬべ。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>qumu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ju’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>difi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>gi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ga’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ju’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>naqi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tu’afu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sunu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-fi</dictionary@x-tlb-hl>.
-                      - <gloss>Woman <abbr>prs;sta</abbr> link <abbr>rel</abbr> at-formality-give time link land-plains-<abbr>nmn</abbr> prs;hab cloak-sacred.</gloss>
+                      - <gloss>Woman </gloss><abbr>prs;sta</abbr><gloss> link </gloss><abbr>rel</abbr><gloss> at-formality-give time link land-plains-</gloss><abbr>nmn</abbr><gloss> </gloss>prs;hab<gloss> cloak-sacred.</gloss>
                       - The woman is linked to a sacred cloak that the plains people wear at occasions that do formality.</details|folding>
                       - She was wearing the officious robes that the flatlanders wore for formal occasions.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu qixa ’iqaca qu, Kurila ’i da’aru funi, madi diha latuhiru ta.</transliteration@x-tlb-hl></summary|folding>
@@ -3089,13 +3089,13 @@ entries:
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Caba xitama pada, kaludihaqa jannihusabiru qu’ukalumixi janni.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。やばしたまぱだ、かをではげぢっにほさびるもうかをみしぢっに。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>caba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tama</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>diha</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>husabi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu’u</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>mixi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>.
-                      - <gloss>Helper project-assent and_then, <abbr>abl</abbr>-bureaucrat-<abbr>gen</abbr> move-fin<abbr>ger</abbr>-<abbr>ger</abbr> inside-<abbr>abl</abbr>-room move.</gloss>
+                      - <gloss>Helper project-assent and_then, </gloss><abbr>abl</abbr><gloss>-bureaucrat-</gloss><abbr>gen</abbr><gloss> move-fin<abbr>ger</abbr>-</gloss><abbr>ger</abbr><gloss> inside-</gloss><abbr>abl</abbr><gloss>-room move.</gloss>
                       - The helper showed assent, and then from the bureaucrat’s finger movement, moved from inside the room.</details|folding>
                       - The assistant nodded, and then left the room at a gesture from the official.</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>HisubaTapassi lanu si’abassa, Pi’adu ’ihucillu.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。ひすばたぱっせわぬせあばっさ、ぴあどいほちっを。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$tapassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>si’abassa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>$pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>hucu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl>.
-                      - <gloss>Administrator-TZ:<ipa@x-tlb-tz>/ʈɛ.ˈpet̪θ̪/</ipa@x-tlb-tz> <abbr>fut;dyn</abbr> fix-situation, KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf> speak-information-<abbr>psv</abbr>.</gloss>
+                      - <gloss>Administrator-TZ:<ipa@x-tlb-tz>/ʈɛ.ˈpet̪θ̪/</ipa@x-tlb-tz> </gloss><abbr>fut;dyn</abbr><gloss> fix-situation, KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf> speak-information-</gloss><abbr>psv</abbr><gloss>.</gloss>
                       - Administrator Ṭepet will fix this situation, Piadû was info-spoken to.</details|folding>
                       - Her Honour will take care of this, Piado was informed.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Kulina ru?</transliteration@x-tlb-hl></summary|folding>
@@ -4353,6 +4353,7 @@ entries:
           date: null
           position: '1.0'
           text: []
+          title: ''
       date: '2025-03-27'
       position: '4.197'
       text:
