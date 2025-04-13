@@ -4178,8 +4178,8 @@ entries:
                       - <h1>Syntax</h1>
                       - High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.
                       title: High Lulani Syntax - A Grammar of the Tinellbian Languages
-                  date: '2025-03-24'
-                  position: '3.0'
+                  date: '2025-04-13'
+                  position: '1.11'
                   text:
                   - <h1>High Lulani</h1>
                   - High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.
@@ -4333,12 +4333,12 @@ entries:
                   - Contemporary Zhaladi
                   title: Contemporary Zhaladi - A Grammar of the Tinellbian Languages
                 Proto:
-                  date: '2025-03-27'
-                  position: '1.13'
+                  date: '2025-04-14'
+                  position: '2.13'
                   text:
-                  - <h1>Proto Zhaladi</h1>
+                  - <h1>Proto-Zhaladi</h1>
                   - Proto-Zhaladi
-                  title: Proto Zhaladi - A Grammar of the Tinellbian Languages
+                  title: Proto-Zhaladi - A Grammar of the Tinellbian Languages
                 Reformed:
                   date: '2025-03-27'
                   position: '1.16'
@@ -4347,6 +4347,7 @@ entries:
                   - Reformed Zhaladi
                   title: Reformed Zhaladi - A Grammar of the Tinellbian Languages
               date: null
+              position: '1.0'
               text:
               - <h1>Zhaladi</h1>
               title: Zhaladi - A Grammar of the Tinellbian Languages
