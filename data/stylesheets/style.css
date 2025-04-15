@@ -1,7 +1,7 @@
 :root {
     --default-left: 5%;
     --interlinear-sep: 2rem;
-    --indent: 3ch;
+    --indent: 2ch;
 }
 
 .highlight {
@@ -161,8 +161,8 @@ main .interlinear details {
 }
 
 main .interlinear summary {
-    padding-inline-start: var(--indent);
-    text-indent: calc(-1 * var(--indent));
+    padding-inline-start: calc(var(--indent) + 1.5ch);
+    text-indent: calc(-1 * var(--indent) - 1.5ch);
 }
 
 main .interlinear p {
