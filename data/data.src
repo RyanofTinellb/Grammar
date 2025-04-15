@@ -15,9 +15,9 @@ directory:
         - - Nouns
           - - Adverbs
         - - Verbs
-          - - Intransitivity
-          - - Transitivity
-          - - Ambitransitivity
+          - - Intransitive
+          - - Transitive
+          - - Ambitransitive
         - - Auxiliaries
         - - Adpositions
         - - Suffixes
@@ -79,6 +79,7 @@ directory:
     - - Medieval
     - - Traditional
     - - Standard
+  - - Testing
 entries:
   children:
     A Grammar of the Tinellbian Languages:
@@ -657,34 +658,26 @@ entries:
                           - Other kinship terms began as nuclear family names, but were thence extended across a generation. So <dictionary@x-tlb-hl>kaqqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっげ</tinellbian@x-tlb-hl> <gloss>elder sibling</gloss> and <dictionary@x-tlb-hl>kica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きや</tinellbian@x-tlb-hl> <gloss>younger sibling</gloss> can also be applied to cousins.
                           title: High Lulani Kinship - A Grammar of the Tinellbian Languages
                         Numbers:
-                          date: '2025-03-27'
-                          position: '6.16'
+                          date: '2025-04-14'
+                          position: '67.6'
                           text:
                           - <h1>Numbers</h1>
                           - Numerals and mathematical operations are particles.
                           - <h2>Cardinal Numbers</h2>
                           - 'The number system in High Lulani uses balanced sesquidecimal (base 15), and so numbers are written with the positive digits (1, 2, 3, 4, 5, 6 and 7), their negative counterparts (<overline>1</overline>, <overline>2</overline>, <overline>3</overline>, <overline>4</overline>, <overline>5</overline>, <overline>6</overline> and <overline>7</overline>) and a zero (0). A period (fractional point: . ) is used to separate the integer part of the number from the mantissa. A comma (,) is used in the integer part to separate the digits into groupings of four, beginning from the fractional point.'
                           - <h3>One-digit Numbers</h3>
-                          - 'Here are the names for the one-digit numbers:'
-                          - <columns><ul> <dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> | <gloss>0</gloss>
-                          - ' <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>した </tinellbian@x-tlb-hl>| <gloss>1</gloss>'
-                          - ' <dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> | <gloss>2</gloss>'
-                          - ' <dictionary@x-tlb-hl>kifi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> | <gloss>3</gloss>'
-                          - ' <dictionary@x-tlb-hl>nuru</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぬる</tinellbian@x-tlb-hl> | <gloss>4</gloss>'
-                          - ' <dictionary@x-tlb-hl>guhi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぐひ</tinellbian@x-tlb-hl> | <gloss>5</gloss>'
-                          - ' <dictionary@x-tlb-hl>’usi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>うせ</tinellbian@x-tlb-hl> | <gloss>6</gloss>'
-                          - ' <dictionary@x-tlb-hl>salumi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>さをみ</tinellbian@x-tlb-hl> | <gloss>7</gloss></ul>'
-                          - <ul> (<dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> | <overline><gloss>0</gloss></overline>)
-                          - ' <dictionary@x-tlb-hl>mu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> | <overline><gloss>1</gloss></overline>'
-                          - ' <dictionary@x-tlb-hl>kannu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>かっぬ</tinellbian@x-tlb-hl> | <overline><gloss>2</gloss></overline>'
-                          - ' <dictionary@x-tlb-hl>bila</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>びわ</tinellbian@x-tlb-hl> | <overline><gloss>3</gloss></overline>'
-                          - ' <dictionary@x-tlb-hl>missu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>みっす</tinellbian@x-tlb-hl> | <overline><gloss>4</gloss></overline>'
-                          - ' <dictionary@x-tlb-hl>laffi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>わっべ</tinellbian@x-tlb-hl> | <overline><gloss>5</gloss></overline>'
-                          - ' <dictionary@x-tlb-hl>siti</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>せて</tinellbian@x-tlb-hl> | <overline><gloss>6</gloss></overline>'
-                          - ' <dictionary@x-tlb-hl>haki</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>はき</tinellbian@x-tlb-hl> | <overline><gloss>7</gloss></overline></ul></columns>'
+                          - 'These are the names for the one-digit numbers:'
+                          - <table|numbers> <dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> | <gloss>0</gloss> |||
+                          - ' <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>した </tinellbian@x-tlb-hl>| <gloss>1</gloss> | <dictionary@x-tlb-hl>mu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> | <gloss><overline>1</overline></gloss>'
+                          - ' <dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> | <gloss>2</gloss> | <dictionary@x-tlb-hl>kannu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>かっぬ</tinellbian@x-tlb-hl> | <gloss><overline>2</overline></gloss>'
+                          - ' <dictionary@x-tlb-hl>kifi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> | <gloss>3</gloss> | <dictionary@x-tlb-hl>bila</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>びわ</tinellbian@x-tlb-hl> | <gloss><overline>3</overline></gloss>'
+                          - ' <dictionary@x-tlb-hl>nuru</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぬる</tinellbian@x-tlb-hl> | <gloss>4</gloss> | <dictionary@x-tlb-hl>missu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>みっす</tinellbian@x-tlb-hl> | <gloss><overline>4</overline></gloss>'
+                          - ' <dictionary@x-tlb-hl>guhi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぐひ</tinellbian@x-tlb-hl> | <gloss>5</gloss> | <dictionary@x-tlb-hl>laffi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>わっべ</tinellbian@x-tlb-hl> | <gloss><overline>5</overline></gloss>'
+                          - ' <dictionary@x-tlb-hl>’usi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>うせ</tinellbian@x-tlb-hl> | <gloss>6</gloss> | <dictionary@x-tlb-hl>siti</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>せて</tinellbian@x-tlb-hl> | <gloss><overline>6</overline></gloss>'
+                          - ' <dictionary@x-tlb-hl>salumi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>さをみ</tinellbian@x-tlb-hl> | <gloss>7</gloss> | <dictionary@x-tlb-hl>haki</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>はき</tinellbian@x-tlb-hl> | <gloss><overline>7</overline></gloss></table|numbers>'
                           - The full form <dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> <gloss>zero</gloss> is only used when by itself, or first in a number or noun phrase. Otherwise, the clipped form <dictionary@x-tlb-hl>-hha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っは</tinellbian@x-tlb-hl> <gloss>ten</gloss> is used.
                           - <h3>Two-digit Numbers</h3>
-                          - Numbers between 1<overline>7</overline> and 16 are composed of the quasi-prefix <dictionary@x-tlb-hl>sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> and the final two syllables of the number, except for <dictionary@x-tlb-hl>salura</dictionary@x-tlb-hl> (not <dictionary@x-tlb-hl>sara</dictionary@x-tlb-hl>) <gloss>12</gloss>.
+                          - Numbers between <gloss>1<overline>7</overline></gloss> and <gloss>16</gloss> are composed of the quasi-prefix <dictionary@x-tlb-hl>sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> and the final two syllables of the number, except for <dictionary@x-tlb-hl>salura</dictionary@x-tlb-hl> (not <dictionary@x-tlb-hl>sara</dictionary@x-tlb-hl>) <gloss>12</gloss>.
                           - Round numbers, <gloss>i.e.:</gloss> numbers ending with a single zero, use the suffix <dictionary@x-tlb-hl>-hha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っは</tinellbian@x-tlb-hl>.
                           - <wordlist><block><dictionary@x-tlb-hl>sahha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さっは</tinellbian@x-tlb-hl> <gloss>10</gloss>
                           - rahha <tinellbian@x-tlb-hl>らっは</tinellbian@x-tlb-hl> <gloss>20</gloss>
@@ -727,13 +720,14 @@ entries:
                           - <h4>Repeating and Reflecting Strings</h4>
                           - All rational numbers end with a repeating string of digits. For some numbers, this string is “0”. In non-zero cases, the word <dictionary@x-tlb-hl>tuni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とに</tinellbian@x-tlb-hl> <gloss>repeat</gloss> is inserted before the repeating string. The string must be read out with individual digits.
                           - There are also numbers for which the repeating string can be cut in half, with digits in the second half being the negative of the digits in the first half. For these, only the first half is read out, with the word <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まわ</tinellbian@x-tlb-hl> <gloss>reflect</gloss> inserted.
-                          - <dictionary@x-tlb-hl>tuni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>guhira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とに ぐひら</tinellbian@x-tlb-hl> <gloss>0.5252…</gloss>
+                          - <wordlist><block><dictionary@x-tlb-hl>tuni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>guhira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とに ぐひら</tinellbian@x-tlb-hl> <gloss>0.5252…</gloss>
                           - pa<dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tuni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>guhira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱねっは したとにぐひら</tinellbian@x-tlb-hl> <gloss>0.15252…</gloss>
-                          - pa<dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>guhira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱねっは したまわぐひら</tinellbian@x-tlb-hl> <gloss>0.152<overline>52</overline>52<overline>52</overline>…</gloss><h4>Fractions</h4>
-                          - 'The suffix <dictionary@x-tlb-hl>-ki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> separates the numerator from the denominator. If the numerator is 1, then <dictionary@x-tlb-hl>saki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さき</tinellbian@x-tlb-hl> is used.There is also a commonly used variant for <gloss>½</gloss>: <dictionary@x-tlb-hl>’ima</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いま</tinellbian@x-tlb-hl>.'
+                          - pa<dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>guhira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱねっはしたまわぐひら</tinellbian@x-tlb-hl> <gloss>0.152<overline>52</overline>52<overline>52</overline>…</gloss></block></wordlist>
+                          - <h4>Fractions</h4>
+                          - 'The suffix <dictionary@x-tlb-hl>-ki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> separates the numerator from the denominator. If the numerator is 1, then <dictionary@x-tlb-hl>saki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さき</tinellbian@x-tlb-hl> is used. There is also a commonly used variant for <gloss>½</gloss>: <dictionary@x-tlb-hl>’ima</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いま</tinellbian@x-tlb-hl>.'
                           - <wordlist><block><dictionary@x-tlb-hl>’ima</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>saki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さき ら。いま</tinellbian@x-tlb-hl> <gloss>½</gloss>
                           - sak·<dictionary@x-tlb-hl>kifi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さき きべ</tinellbian@x-tlb-hl> <gloss>⅓</gloss>
-                          - <dictionary@x-tlb-hl>kifi</dictionary@x-tlb-hl>:-<dictionary@x-tlb-hl>ki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nuru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きべき ぬる</tinellbian@x-tlb-hl> <gloss>¾</gloss></block></wordlist>
+                          - <dictionary@x-tlb-hl>kifi</dictionary@x-tlb-hl>ki <dictionary@x-tlb-hl>nuru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きべき ぬる</tinellbian@x-tlb-hl> <gloss>¾</gloss></block></wordlist>
                           - <h3>Other Numbers</h3>
                           - 'Other numbers include:'
                           - <wordlist><block><dictionary@x-tlb-hl>fixi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べし</tinellbian@x-tlb-hl> <gloss>the circle constant</gloss> <symbol>τ</symbol>
@@ -1032,8 +1026,8 @@ entries:
                         Deixis:
                           children:
                             Indefinite Pro-forms:
-                              date: '2025-01-19'
-                              position: '158.13'
+                              date: '2025-04-14'
+                              position: '152.5'
                               text:
                               - <h1>Indefinite Pro-forms</h1>
                               - The indefinite pro-forms are sets of deictic words which can be placed into a table.
@@ -1181,9 +1175,9 @@ entries:
                               - “What does your father do?”
                               - <h2>Manner</h2>
                               - Manner pro-forms are used to refer to the way in which an action is undertaken. They function as modal adverbs in active sentences, <gloss>i.e.:</gloss> sentences with overt or implied auxiliaries of <internal>../auxiliaries.html#activityversusstate|activity</internal>.
-                              - <details|example><summary|folding><transliteration@x-tlb-hl>Kimilli jannikiluqu kadusi ’ili cani?</transliteration@x-tlb-hl></summary|folding>
-                              - <tinellbian@x-tlb-hl>。きみっえぢっにきをもかどせいえやに。</tinellbian@x-tlb-hl>
-                              - <dictionary@x-tlb-hl>kimilli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kiluqu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kadusi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ili</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl>?
+                              - <details|example><summary|folding><transliteration@x-tlb-hl>Kimilli jannikilubu kadusi ’ili cani?</transliteration@x-tlb-hl></summary|folding>
+                              - <tinellbian@x-tlb-hl>。きみっえぢっにきをぶかどせいえやに。</tinellbian@x-tlb-hl>
+                              - <dictionary@x-tlb-hl>kimilli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kadusi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ili</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl>?
                               - <gloss>King move-walk that_way really <abbr>prs;dyn</abbr>?</gloss></details|example>
                               - “Does the king really walk that way?”
                               - <h2>State</h2>
@@ -1772,11 +1766,11 @@ entries:
                           title: High Lulani Suffixes - A Grammar of the Tinellbian Languages
                         Verbs:
                           children:
-                            Ambitransitivity:
+                            Ambitransitive:
                               date: '2025-03-17'
                               position: '37.29'
                               text:
-                              - <h1>Ambitransitivity</h1>
+                              - <h1>Ambitransitive</h1>
                               - Ambitransitive verbs can be used with or without an argument in the object position.
                               - <h2>Perceptive Verbs</h2>
                               - These verbs deal with the subject’s ability to perceive stimuli.
@@ -1847,12 +1841,12 @@ entries:
                               - <dictionary@x-tlb-hl>buma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶま</tinellbian@x-tlb-hl> <gloss>to draw</gloss>
                               - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss>
                               - <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to consider</gloss></block></wordlist>
-                              title: High Lulani Ambitransitivity - A Grammar of the Tinellbian Languages
-                            Intransitivity:
+                              title: High Lulani Ambitransitive Verbs - A Grammar of the Tinellbian Languages
+                            Intransitive:
                               date: '2025-03-25'
                               position: '72.184'
                               text:
-                              - <h1>Intransitivity</h1>
+                              - <h1>Intransitive</h1>
                               - Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Badiri ru cura</transliteration@x-tlb-hl>.</summary|folding>
                               - <tinellbian@x-tlb-hl>。ばでりるゆら。</tinellbian@x-tlb-hl>
@@ -1982,12 +1976,12 @@ entries:
                               - <dictionary@x-tlb-hl>sisa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せさ</tinellbian@x-tlb-hl> <gloss>to touch</gloss>
                               - <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>to accompany</gloss>
                               - <dictionary@x-tlb-hl>hulla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ほっわ</tinellbian@x-tlb-hl> <gloss>to copulate; to have consumated</gloss></block></wordlist>
-                              title: High Lulani Intransitivity - A Grammar of the Tinellbian Languages
-                            Transitivity:
-                              date: '2025-03-15'
-                              position: '19.115'
+                              title: High Lulani Intransitive Verbs - A Grammar of the Tinellbian Languages
+                            Transitive:
+                              date: '2025-04-14'
+                              position: '117.36'
                               text:
-                              - <h1>Transitivity</h1>
+                              - <h1>Transitive</h1>
                               - The divalent verbs are called transitive, and these require an object to complete its meaning. It is possible to elide this object if it is obvious or irrelevant. The <strong>subject</strong> is the agent, and the <strong>object</strong> is the patient.
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Nimalu dasi (nukki).</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>。にまをだせぬっき。</tinellbian@x-tlb-hl>
@@ -2025,12 +2019,13 @@ entries:
                               - <details|example><summary|folding><transliteration@x-tlb-hl>ʔusu ku tali fu.</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>。っうすくたえふ。</tinellbian@x-tlb-hl>
                               - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tali</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl>.
-                              - <gloss><abbr>1int</abbr> <abbr>3ina;dat</abbr> take <abbr>2tra</abbr>.</gloss>
+                              - <abbr>1int</abbr> <abbr>3ina;dat</abbr><gloss> take </gloss><abbr>2tra</abbr><gloss>.</gloss>
                               - '<gloss>lit: “I took you to it.”</gloss></details|example>'
                               - “I’ve relieved you of it.”
                               - <wordlist><block><dictionary@x-tlb-hl>duci</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どち</tinellbian@x-tlb-hl>  <gloss>to gain; to possess</gloss>
                               - <dictionary@x-tlb-hl>gi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎ</tinellbian@x-tlb-hl> <gloss>to pick up; to carry</gloss>
-                              - <dictionary@x-tlb-hl>tali</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たえ</tinellbian@x-tlb-hl> <gloss>to take</gloss></block></wordlist>
+                              - <dictionary@x-tlb-hl>tali</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たえ</tinellbian@x-tlb-hl> <gloss>to take</gloss>
+                              - <dictionary@x-tlb-hl>kilu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きを</tinellbian@x-tlb-hl> <gloss>to gesture</gloss></block></wordlist>
                               - <h3>Ablative</h3>
                               - These are motive verbs focussing on movement <gloss>away</gloss> from a source.
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Suma maku pa.</transliteration@x-tlb-hl></summary|folding>
@@ -2103,7 +2098,7 @@ entries:
                               - <dictionary@x-tlb-hl>nu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬ</tinellbian@x-tlb-hl> <gloss>to stop</gloss>
                               - <dictionary@x-tlb-hl>naqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なげ</tinellbian@x-tlb-hl> <gloss>to need</gloss>
                               - <dictionary@x-tlb-hl>tapu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たぷ</tinellbian@x-tlb-hl> <gloss>to look forward to; to enjoy</gloss></block></wordlist>
-                              title: High Lulani Transitivity - A Grammar of the Tinellbian Languages
+                              title: High Lulani Transitive Verbs - A Grammar of the Tinellbian Languages
                           date: '2025-03-24'
                           position: '11.120'
                           text:
@@ -2144,65 +2139,29 @@ entries:
                     Orthography:
                       children:
                         Spelling Syllabary:
-                          date: '2024-05-25'
-                          position: '5.10'
+                          date: '2025-04-14'
+                          position: '11.44'
                           text:
                           - <h1>Spelling Syllabary</h1>
-                          - There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol is represented by the word <dictionary@x-tlb-hl>faʔa</dictionary@x-tlb-hl> <gloss>language</gloss>.
-                          - '<desktop><columns><table> ’a: <dictionary@x-tlb-hl>’ara</dictionary@x-tlb-hl> <gloss>face</gloss>'
-                          - ' pa: <dictionary@x-tlb-hl>pacca</dictionary@x-tlb-hl> <gloss>number</gloss>'
-                          - ' ba: <dictionary@x-tlb-hl>bitta</dictionary@x-tlb-hl> <gloss>time</gloss>'
-                          - ' ta: <dictionary@x-tlb-hl>tila</dictionary@x-tlb-hl> <gloss>shell</gloss>'
-                          - ' da: <dictionary@x-tlb-hl>diha</dictionary@x-tlb-hl> <gloss>bureaucrat</gloss>'
-                          - ' ca: <dictionary@x-tlb-hl>cula</dictionary@x-tlb-hl> <gloss>egg</gloss>'
-                          - ' ja: <dictionary@x-tlb-hl>jana</dictionary@x-tlb-hl> <gloss>elder</gloss>'
-                          - ' ka: <dictionary@x-tlb-hl>kaqqa</dictionary@x-tlb-hl> <gloss>brother</gloss>'
-                          - ' ga: <dictionary@x-tlb-hl>gata</dictionary@x-tlb-hl> <gloss>pendulum</gloss>'
-                          - ' ma: <dictionary@x-tlb-hl>marru</dictionary@x-tlb-hl> <gloss>flies</gloss>'
-                          - ' na: <dictionary@x-tlb-hl>nassa</dictionary@x-tlb-hl> <gloss>euphoria</gloss>'
-                          - ' qa: <dictionary@x-tlb-hl>qasa</dictionary@x-tlb-hl> <gloss>fish</gloss>'
-                          - ' la: <dictionary@x-tlb-hl>liffa</dictionary@x-tlb-hl> <gloss>speech</gloss>'
-                          - ' ra: <dictionary@x-tlb-hl>rippa</dictionary@x-tlb-hl> <gloss>surprise</gloss>'
-                          - ' fa: <dictionary@x-tlb-hl>fipa</dictionary@x-tlb-hl> <gloss>storey</gloss>'
-                          - ' sa: <dictionary@x-tlb-hl>sinna</dictionary@x-tlb-hl> <gloss>story</gloss>'
-                          - ' xa: <dictionary@x-tlb-hl>xima</dictionary@x-tlb-hl> <gloss>morning</gloss>'
-                          - ' ha: <dictionary@x-tlb-hl>hafa</dictionary@x-tlb-hl> <gloss>race</gloss></table>'
-                          - '<table> ’i: <dictionary@x-tlb-hl>’ussi</dictionary@x-tlb-hl> <gloss>gift</gloss>'
-                          - ' pi: <dictionary@x-tlb-hl>paji</dictionary@x-tlb-hl> <gloss>fruit</gloss>'
-                          - ' bi: <dictionary@x-tlb-hl>basi</dictionary@x-tlb-hl> <gloss>lid</gloss>'
-                          - ' ti: <dictionary@x-tlb-hl>tuhhi</dictionary@x-tlb-hl> <gloss>farming</gloss>'
-                          - ' di: <dictionary@x-tlb-hl>dicci</dictionary@x-tlb-hl> <gloss>cold</gloss>'
-                          - ' ci: <dictionary@x-tlb-hl>cadi</dictionary@x-tlb-hl> <gloss>wall</gloss>'
-                          - ' ji: <dictionary@x-tlb-hl>jakki</dictionary@x-tlb-hl> <gloss>candle</gloss>'
-                          - ' ki: <dictionary@x-tlb-hl>kiri</dictionary@x-tlb-hl> <gloss>marigold</gloss>'
-                          - ' gi: <dictionary@x-tlb-hl>gapi</dictionary@x-tlb-hl> <gloss>soup</gloss>'
-                          - ' mi: <dictionary@x-tlb-hl>mixi</dictionary@x-tlb-hl> <gloss>room</gloss>'
-                          - ' ni: <dictionary@x-tlb-hl>niddi</dictionary@x-tlb-hl> <gloss>alertness</gloss>'
-                          - ' qi: <dictionary@x-tlb-hl>quxi</dictionary@x-tlb-hl> <gloss>mountain</gloss>'
-                          - ' li: <dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl> <gloss>love</gloss>'
-                          - ' ri: <dictionary@x-tlb-hl>rali</dictionary@x-tlb-hl> <gloss>back</gloss>'
-                          - ' fi: <dictionary@x-tlb-hl>faxi</dictionary@x-tlb-hl> <gloss>to survive</gloss>'
-                          - ' si: <dictionary@x-tlb-hl>sutti</dictionary@x-tlb-hl> <gloss>fear</gloss>'
-                          - ' xi: <dictionary@x-tlb-hl>xalli</dictionary@x-tlb-hl> <gloss>spouse </gloss>'
-                          - ' hi: <dictionary@x-tlb-hl>huri</dictionary@x-tlb-hl> <gloss>ocean</gloss></table>'
-                          - '<table> ’u: <dictionary@x-tlb-hl>’iku</dictionary@x-tlb-hl> <gloss>hunger</gloss>'
-                          - ' pu: <dictionary@x-tlb-hl>pusu</dictionary@x-tlb-hl> <gloss>zirconium</gloss>'
-                          - ' bu: <dictionary@x-tlb-hl>batu</dictionary@x-tlb-hl> <gloss>group</gloss>'
-                          - ' tu: <dictionary@x-tlb-hl>tadu</dictionary@x-tlb-hl> <gloss>pig</gloss>'
-                          - ' du: <dictionary@x-tlb-hl>diru</dictionary@x-tlb-hl> <gloss>money</gloss>'
-                          - ' cu: <dictionary@x-tlb-hl>ciqu</dictionary@x-tlb-hl> <gloss>mould</gloss>'
-                          - ' ju: <dictionary@x-tlb-hl>jixu</dictionary@x-tlb-hl> <gloss>dictionary</gloss>'
-                          - ' ku: <dictionary@x-tlb-hl>kipu</dictionary@x-tlb-hl> <gloss>horse</gloss>'
-                          - ' gu: <dictionary@x-tlb-hl>gusu</dictionary@x-tlb-hl> <gloss>person</gloss>'
-                          - ' mu: <dictionary@x-tlb-hl>maʔu</dictionary@x-tlb-hl> <gloss>gingla</gloss>'
-                          - ' nu: <dictionary@x-tlb-hl>nuku</dictionary@x-tlb-hl> <gloss>world</gloss>'
-                          - ' qu: <dictionary@x-tlb-hl>qumu</dictionary@x-tlb-hl> <gloss>woman</gloss>'
-                          - ' lu: <dictionary@x-tlb-hl>laqqu</dictionary@x-tlb-hl> <gloss>wealth</gloss>'
-                          - ' ru: <dictionary@x-tlb-hl>riccu</dictionary@x-tlb-hl> <gloss>sphere</gloss>'
-                          - ' fu: <dictionary@x-tlb-hl>famu</dictionary@x-tlb-hl> <gloss>completely</gloss>'
-                          - ' su: <dictionary@x-tlb-hl>silu</dictionary@x-tlb-hl> <gloss>spouse</gloss>'
-                          - ' xu: <dictionary@x-tlb-hl>xaʔu</dictionary@x-tlb-hl> <gloss>child</gloss>'
-                          - ' hu: <dictionary@x-tlb-hl>halu</dictionary@x-tlb-hl>  <gloss>algorithm</gloss></table></columns></desktop>'
+                          - There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol is represented by the word <dictionary@x-tlb-hl>faʔa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へっあ</tinellbian@x-tlb-hl> <gloss>language</gloss>.
+                          - '<desktop><table|numbers> ’a: <dictionary@x-tlb-hl>’ara</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>あら</tinellbian@x-tlb-hl> | <gloss>face</gloss> | ’i: <dictionary@x-tlb-hl>’ussi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>うっせ</tinellbian@x-tlb-hl><gloss> | gift</gloss> | ’u: <dictionary@x-tlb-hl>’iku</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>いく</tinellbian@x-tlb-hl> | <gloss>hunger</gloss>'
+                          - ' pa: <dictionary@x-tlb-hl>pacca</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぱっや</tinellbian@x-tlb-hl> | <gloss>number</gloss> | pi: <dictionary@x-tlb-hl>paji</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぱじ</tinellbian@x-tlb-hl> | <gloss>fruit</gloss> | pu: <dictionary@x-tlb-hl>pusu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぷす</tinellbian@x-tlb-hl> | <gloss>zirconium</gloss>'
+                          - ' ba: <dictionary@x-tlb-hl>bitta</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>びった</tinellbian@x-tlb-hl> | <gloss>time</gloss> | bi: <dictionary@x-tlb-hl>basi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ばせ</tinellbian@x-tlb-hl> | <gloss>lid</gloss> | bu: <dictionary@x-tlb-hl>batu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ばと</tinellbian@x-tlb-hl> | <gloss>group</gloss>'
+                          - ' ta: <dictionary@x-tlb-hl>tila</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>てわ</tinellbian@x-tlb-hl> | <gloss>shell</gloss> | ti: <dictionary@x-tlb-hl>tuhhi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>とっひ</tinellbian@x-tlb-hl> | <gloss>farming</gloss> | tu: <dictionary@x-tlb-hl>tadu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>たど</tinellbian@x-tlb-hl> | <gloss>pig</gloss>'
+                          - ' da: <dictionary@x-tlb-hl>diha</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>では</tinellbian@x-tlb-hl> | <gloss>bureaucrat</gloss> | di: <dictionary@x-tlb-hl>dicci</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>でっち</tinellbian@x-tlb-hl> | <gloss>cold</gloss> | du: <dictionary@x-tlb-hl>diru</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>でる</tinellbian@x-tlb-hl> | <gloss>money</gloss>'
+                          - ' ca: <dictionary@x-tlb-hl>cula</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ゆわ</tinellbian@x-tlb-hl> | <gloss>egg</gloss> | ci: <dictionary@x-tlb-hl>cadi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>やで</tinellbian@x-tlb-hl> | <gloss>wall</gloss> | cu: <dictionary@x-tlb-hl>ciqu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ちも</tinellbian@x-tlb-hl> | <gloss>mould</gloss>'
+                          - ' ja: <dictionary@x-tlb-hl>jana</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぢな</tinellbian@x-tlb-hl> | <gloss>elder</gloss> | ji: <dictionary@x-tlb-hl>jakki</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぢっき</tinellbian@x-tlb-hl> | <gloss>candle</gloss> | ju: <dictionary@x-tlb-hl>jixu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>じず</tinellbian@x-tlb-hl> | <gloss>dictionary</gloss>'
+                          - ' ka: <dictionary@x-tlb-hl>kaqqa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>かっげ</tinellbian@x-tlb-hl> | <gloss>brother</gloss> | ki: <dictionary@x-tlb-hl>kiri</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>きり</tinellbian@x-tlb-hl> | <gloss>marigold</gloss> | ku: <dictionary@x-tlb-hl>kipu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>きぷ</tinellbian@x-tlb-hl> | <gloss>horse</gloss>'
+                          - ' ga: <dictionary@x-tlb-hl>gata</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>がた</tinellbian@x-tlb-hl> | <gloss>pendulum</gloss> | gi: <dictionary@x-tlb-hl>gapi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>がぴ</tinellbian@x-tlb-hl> | <gloss>soup</gloss> | gu: <dictionary@x-tlb-hl>gusu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぐす</tinellbian@x-tlb-hl> | <gloss>person</gloss>'
+                          - ' ma: <dictionary@x-tlb-hl>marru</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>まっる</tinellbian@x-tlb-hl> | <gloss>flies</gloss> | mi: <dictionary@x-tlb-hl>mixi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>みし</tinellbian@x-tlb-hl> | <gloss>room</gloss> | mu: <dictionary@x-tlb-hl>maʔu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>まっう</tinellbian@x-tlb-hl> | <gloss>gingla</gloss>'
+                          - ' na: <dictionary@x-tlb-hl>nassa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>なっさ</tinellbian@x-tlb-hl> | <gloss>euphoria</gloss> | ni: <dictionary@x-tlb-hl>niddi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>にっで</tinellbian@x-tlb-hl> | <gloss>alertness</gloss> | nu: <dictionary@x-tlb-hl>nuku</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぬく</tinellbian@x-tlb-hl> | <gloss>world</gloss>'
+                          - ' qa: <dictionary@x-tlb-hl>qasa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>げさ</tinellbian@x-tlb-hl> | <gloss>fish</gloss> | qi: <dictionary@x-tlb-hl>quxi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>もし</tinellbian@x-tlb-hl> | <gloss>mountain</gloss> | qu: <dictionary@x-tlb-hl>qumu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>もむ</tinellbian@x-tlb-hl> | <gloss>woman</gloss>'
+                          - ' la: <dictionary@x-tlb-hl>liffa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>えっへ</tinellbian@x-tlb-hl> | <gloss>speech</gloss> | li: <dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>をい</tinellbian@x-tlb-hl> | <gloss>love</gloss> | lu: <dictionary@x-tlb-hl>laqqu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>わっも</tinellbian@x-tlb-hl> | <gloss>wealth</gloss>'
+                          - ' ra: <dictionary@x-tlb-hl>rippa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>りっぱ</tinellbian@x-tlb-hl> | <gloss>surprise</gloss> | ri: <dictionary@x-tlb-hl>rali</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>らえ</tinellbian@x-tlb-hl> | <gloss>back</gloss> | ru: <dictionary@x-tlb-hl>riccu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl> | <gloss>sphere</gloss>'
+                          - ' fa: <dictionary@x-tlb-hl>fipa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>べぱ</tinellbian@x-tlb-hl> | <gloss>storey</gloss> | fi: <dictionary@x-tlb-hl>faxi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>へし</tinellbian@x-tlb-hl> | <gloss>to survive</gloss> | fu: <dictionary@x-tlb-hl>famu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>へむ</tinellbian@x-tlb-hl> | <gloss>completely</gloss>'
+                          - ' sa: <dictionary@x-tlb-hl>sinna</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>せっな</tinellbian@x-tlb-hl> | <gloss>story</gloss> | si: <dictionary@x-tlb-hl>sutti</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>すって</tinellbian@x-tlb-hl> | <gloss>fear</gloss> | su: <dictionary@x-tlb-hl>silu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>せを</tinellbian@x-tlb-hl> | <gloss>spouse</gloss>'
+                          - ' xa: <dictionary@x-tlb-hl>xima</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>しま</tinellbian@x-tlb-hl> | <gloss>morning</gloss> | xi: <dictionary@x-tlb-hl>xalli</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ざっえ</tinellbian@x-tlb-hl> | <gloss>spouse </gloss> | xu: <dictionary@x-tlb-hl>xaʔu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ざっう</tinellbian@x-tlb-hl> | <gloss>child</gloss>'
+                          - ' ha: <dictionary@x-tlb-hl>hafa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>はへ</tinellbian@x-tlb-hl> | <gloss>race</gloss> | hi: <dictionary@x-tlb-hl>huri</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ほり</tinellbian@x-tlb-hl> | <gloss>ocean</gloss> | hu: <dictionary@x-tlb-hl>halu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>はを</tinellbian@x-tlb-hl> | <gloss>algorithm</gloss></table|numbers></desktop>'
                           - '<mobile> ’a: <dictionary@x-tlb-hl>’ara</dictionary@x-tlb-hl> <gloss>face</gloss>'
                           - ' pa: <dictionary@x-tlb-hl>pacca</dictionary@x-tlb-hl> <gloss>number</gloss>'
                           - ' ba: <dictionary@x-tlb-hl>bitta</dictionary@x-tlb-hl> <gloss>time</gloss>'
@@ -2589,8 +2548,8 @@ entries:
                       title: High Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: {}
-                      date: '2025-04-13'
-                      position: '14.119'
+                      date: '2025-04-14'
+                      position: '777.63'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><external-link>Prelude</external-link></cite>, the first chapter of <cite><external-link>The Crackled Egg</external-link></cite>, from <cite><external-link>The Coelacanth Quartet</external-link></cite><interlinear>
@@ -3020,10 +2979,10 @@ entries:
                       - <gloss><abbr>1int</abbr> to-<abbr>com</abbr> think-ascent <abbr>com</abbr> population-<abbr>gen</abbr> density-</gloss><abbr>aug</abbr><gloss>-place anywhere <abbr>prs;gno</abbr> and, think-new language-<abbr>2gen</abbr> apparently <abbr>pst;dyn</abbr> telepath extent and, this <abbr>prs;gno</abbr> everything.</gloss>
                       - I hear to a certain extent in order to realise where places of high population density are and apparently learn your language, but this is everything.</details|folding>
                       - I can pick up enough to tell me where population centres are, and apparently to pick up your language, but that is it.</paragraph>
-                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu cani kalumatanniruji’a jannitiqaxi liqa.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。ぴあどやにかをまたっにるじあぢっにてげしえげ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>$pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tanni</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ji’a</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tiqaxi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>liqa</dictionary@x-tlb-hl>.
-                      - <gloss>KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf> <abbr>prs;dyn</abbr> <abbr>abl</abbr>-think-believe-<abbr>ger</abbr>-not move-tilt head.</gloss>
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu cani kalumatanniruji’a tikutiqaxi liqa.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。ぴあどやにかをまたっにるじあてくてげしえげ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>$pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tanni</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ji’a</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tiku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tiqaxi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>liqa</dictionary@x-tlb-hl>.
+                      - <gloss>KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf> <abbr>prs;dyn</abbr> <abbr>abl</abbr>-think-believe-<abbr>ger</abbr>-not turn-tilt head.</gloss>
                       - Piadû tilts his head because of not believing.</details|folding>
                       - Piado rolled his eyes in disbelief.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Nifiku’ita’i jannigata kanu mani, xukahu.</transliteration@x-tlb-hl></summary|folding>
@@ -3146,10 +3105,10 @@ entries:
                       - <gloss>Bureaucrat <abbr>pst;dyn</abbr> <abbr>dat</abbr>-seat-long follow-<abbr>abv</abbr> <abbr>3ani;int</abbr> and, <abbr>prs;dyn</abbr> sit-<abbr>abv</abbr> <abbr>3ani;int</abbr> and, <abbr>fut;dyn</abbr> move-separate.</gloss>
                       - The bureaucrat made her follow, makes her sit, and will go away.</details|folding>
                       - The official unceremoniously led her to a bench, sat her down, and then left again.</paragraph>
-                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Kurila cani nimixi nili harusa pi janniditiba qu, hu kalucussiruqa cadi pahini.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。くりわやににみしにえはるさぴぢっにでてばも、ほかをゆっせるげやでぱひに。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>$kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mixi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>sa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>di</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tiba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>hu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>cussi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cadi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>hini</dictionary@x-tlb-hl>.
-                      - <gloss>MT:<ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt> <abbr>prs;dyn</abbr> at-room at-<abbr>com</abbr> accompany-solitude <abbr>pst;sta</abbr> move-up-legs and, fut;hab <abbr>abl</abbr>-touch-<abbr>ger</abbr>-<abbr>gen</abbr> wall think-path.</gloss>
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Kurila cani nimixi nili harusa pi maditiba qu, hu kalucussiruqa cadi pahini.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。くりわやににみしにえはるさぴまでてばも、ほかをゆっせるげやでぱひに。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>$kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mixi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>sa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>madi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tiba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>hu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>cussi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cadi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>hini</dictionary@x-tlb-hl>.
+                      - <gloss>MT:<ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt> <abbr>prs;dyn</abbr> at-room at-<abbr>com</abbr> accompany-solitude <abbr>pst;sta</abbr> rise-legs and, fut;hab <abbr>abl</abbr>-touch-<abbr>ger</abbr>-<abbr>gen</abbr> wall think-path.</gloss>
                       - (She) was in the room experiencing solitude, Qōla does stand up, and will be learning the path by touching the wall.</details|folding>
                       - Alone in the room, Corla got up and felt her way around the wall.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Paxita gurrisura’aba qarri qu, ci’u ji kalu’irudisi ’idata.</transliteration@x-tlb-hl></summary|folding>
@@ -3212,10 +3171,10 @@ entries:
                       - <gloss><abbr>2int</abbr> <abbr>dat</abbr>-<abbr>com</abbr> eat-<abbr>nmn</abbr> there at-counter <abbr>prs;sta</abbr> speak-<abbr>dtv</abbr> <abbr>pst;neg</abbr>?</gloss>
                       - Were you not told there is food on the bench there?</details|folding>
                       - Were you not told about the food there on the counter?</paragraph>
-                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Kalu’iducidatilluqixa saqalapifa qapi cani dissurippa, Kurila lanu kalu lafuca jannidifirunisa.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。かをいどちだてっをねざさげわぴへげぴやにでっすりっぱ、くりわわぬかをわふやぢっにでべるにさ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’idu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>cidatu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>saqala</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pifa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qapi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>rippa</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>$kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>la</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>fuca</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>difi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl>.
-                      - <gloss><abbr>Abl</abbr>-make-sudden-<abbr>psv</abbr>-<abbr>pst;dyn</abbr> word-make chain <abbr>prs;dyn</abbr> feel-shock, MT:<ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt> <abbr>fut;dyn</abbr></gloss> <abbr>3ina;abl</abbr> <gloss>do-can move-drop-<abbr>ger</abbr>-only.</gloss>
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Kalu’iducidatilluqixa saqalapifa qapi cani dissurippa, Kurila lanu kalu lafuca hussudifirunisa.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。かをいどちだてっをねざさげわぴへげぴやにでっすりっぱ、くりわわぬかをわふやほっすでべるにさ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’idu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>cidatu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>saqala</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pifa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qapi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>rippa</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>$kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>la</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>fuca</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hussu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>difi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl>.
+                      - <abbr>abl</abbr><gloss>-make-sudden-</gloss><abbr>psv</abbr><gloss>-</gloss><abbr>pst;dyn</abbr><gloss> word-make chain </gloss><abbr>prs;dyn</abbr><gloss> feel-shock, MT:<ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt> </gloss><abbr>fut;dyn</abbr> <abbr>3ina;abl</abbr> <gloss>do-can fall-plunge-</gloss><abbr>ger</abbr><gloss>-only.</gloss>
                       - Did feel the shock from the suddenly created chain made of words, Qōla will only do the nod from it.</details|folding>
                       - Taken aback by the sudden stream of words, Corla could only shake her head.</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>ʔadimiru gusu!</transliteration@x-tlb-hl></summary|folding>
@@ -3368,7 +3327,7 @@ entries:
                       - <gloss>TZ:<ipa@x-tlb-tz>/ˈluː.soβ/</ipa@x-tlb-tz>-speak big-<abbr>prs;gno</abbr> town, mist-heat <abbr>pst;dyn</abbr> around-<abbr>3ina;int</abbr> not_surprising.</gloss>
                       - The big town called Lūsob, there was unsurprisingly heat-mist encircling it.</details|folding>
                       - The haze came up as usual around the large town of Lusov.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu Turassita ra’u kalumixi kucahuriqapi ’arrikassudu jannigi.</transliteration@x-tlb-hl></summary|folding>
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu Turassita ra’u kalumixi kucahuriqapi ’arrikassudu jann·nigi.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。ぴあどとらっせたらうかをみしくやほりげぴあっりかっすどぢっににぎ。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>$pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>$turassi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>mixi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>cahuri</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qapi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’arri</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kassu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-du</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nigi</dictionary@x-tlb-hl>.
                       - <gloss>KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf> KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf>-and <abbr>prs;sta</abbr> <abbr>abl</abbr>-room <abbr>dat</abbr>-stall-chain with-trade-<abbr>nmn</abbr> move-hurry.</gloss>
@@ -4303,6 +4262,12 @@ entries:
               text:
               - <h1>Solajin</h1>
               title: Solajin - A Grammar of the Tinellbian Languages
+            Testing:
+              children: {}
+              date: '2025-04-15'
+              position: '1.0'
+              text: []
+              title: Testing - A Grammar of the Tinellbian Languages
             Tsarin:
               children:
                 Classical:

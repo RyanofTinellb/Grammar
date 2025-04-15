@@ -17,11 +17,12 @@ b:
     bold: true
 block:
   key: Alt-b
+  pipe: ''
   prequel: <li>
+  sequel: </li>
   props:
     border: true
   rank: 90
-  sequel: </li>
   type: ul
 button:
   open: <button onclick="
@@ -42,7 +43,9 @@ cite:
     'on': Alt-c
   props:
     italics: true
-columns: div
+columns:
+  type: div
+  pipe: ''
 components: ol
 default:
   props:
@@ -271,6 +274,10 @@ symbol:
   type: span
 table: table
 table|alphabet: table
+table|numbers:
+  type: table
+  props:
+    background: '#c9f'
 tbody:
   props:
     background: '#99f'

@@ -1,3 +1,9 @@
+:root {
+    --default-left: 5%;
+    --interlinear-sep: 2rem;
+    --indent: 3ch;
+}
+
 .highlight {
     border: 1px solid red;
     padding: 4px 5px;
@@ -103,27 +109,84 @@ main .columns table th:first-child {
     text-align: center;
 }
 
-main .gloss {
-    font-style: italic;
-}
-
 
 main .hierarchy table td {
     border: none;
     height: 1em;
 }
 
-main .interlinear details.folding {
-    margin-block-start: 1.7lh;
+main details,
+main details + p {
+    margin-inline-start: calc(2 * var(--default-left));
+    padding-inline-start: 0;
 }
 
-main .interlinear details.folding+p {
-    margin-inline-start: 0;
+main details p {
+    padding-inline-start: 0;
+}
+
+main .wordlist details {
+    --default-left: 0;
+}
+
+main .wordlist li + details {
+    margin-block-start: var(--wordlist-sep);
+}
+
+main table.numbers {
+    margin-inline: auto;
+
+    & a {
+        text-decoration: none;
+    }
+
+    & td {
+        border: none;
+        padding-inline: 1ch;
+    }
+
+    & td:nth-child(3n) {
+        padding-inline-end: 2ch;
+    }
+
+    & td:nth-child(3n + 4) {
+        padding-inline-start: 2ch;
+        border-left: 1px solid white;
+    }
+}
+
+main .interlinear details {
+    line-height: 1.8;
+    margin-block-start: var(--interlinear-sep);
+}
+
+main .interlinear summary {
+    padding-inline-start: var(--indent);
+    text-indent: calc(-1 * var(--indent));
+}
+
+main .interlinear p {
+    line-height: 1.8;
+    margin-block-start: 0.5lh;
+    padding-inline-start: var(--indent);
+    text-indent: calc(-1 * var(--indent));
+}
+
+main .interlinear details + p {
+    margin-block-start: 0;
+}
+
+main .interlinear details[open] + p {
+    margin-block-start: 0.5lh;
+}
+
+main .interlinear details +p {
+    margin-block-end: var(--interlinear-sep);
 }
 
 main .interlinear .paragraph {
-    margin-block-end: 1.7lh;
     font-family: georgia, serif;
+
 }
 
 main .output {
