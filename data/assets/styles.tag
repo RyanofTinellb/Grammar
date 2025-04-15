@@ -4,7 +4,7 @@ abbr:
     'off': space
     'on': Alt-G
   open: <dfn><abbr class="glossary" title="
-  param: $link:lookup:glossary$|$text$
+  param: $lookup:glossary$|$text$
   pipe: '">'
   props:
     font: Felix Titling
@@ -67,8 +67,7 @@ details|folding:
   key: Alt-F
   pipe: '&NoBreak;'
   props:
-    background: '#fcf'
-    off_key: Return
+    left: 20
   type: block
 dictionary:
   keys:
@@ -129,6 +128,7 @@ h2:
   props:
     bold: true
     size: 150
+    left: 30
   type: heading
 h3:
   keys:
@@ -136,7 +136,8 @@ h3:
     'on': 3
   props:
     bold: true
-    size: 140
+    size: 130
+    left: 60
   type: heading
 h4:
   keys:
@@ -144,7 +145,8 @@ h4:
     'on': 4
   props:
     bold: true
-    size: 130
+    size: 110
+    left: 90
   type: heading
 h5:
   keys:
@@ -152,7 +154,8 @@ h5:
     'on': 5
   props:
     bold: true
-    size: 120
+    size: 90
+    left: 120
   type: heading
 heading-link:
   close: </a></h2>
@@ -328,5 +331,4 @@ wordlist:
   key: Alt-W
   props:
     background: '#ffc'
-    left: 15
   type: ul

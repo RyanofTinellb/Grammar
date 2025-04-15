@@ -43,8 +43,10 @@ gen: genitive
 ger: gerund
 inc: inceptive
 inj: interjection
+neg: negative aspect
 nmn: nominaliser
 ord: ordinal
+pos: positive aspect
 prs;dyn: present dynamic
 prs;gno: present gnomic
 prs;hab: present habitual

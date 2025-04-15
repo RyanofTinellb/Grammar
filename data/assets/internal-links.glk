@@ -1,7 +1,7 @@
 x-tlb-hl:
   ablative: languages/lulani/high/syntax/argumentpromotion#ablative
   abstract: languages/lulani/high/morphology/suffixes/index#abstract
-  abstractnoun: languages/lulani/high/morphology/nouns/index#abstractnoun
+  abstractnoun: languages/lulani/high/morphology/nouns/index#abstract
   action: languages/lulani/high/morphology/deixis/indefinitepro-forms#action
   actionverbs: languages/lulani/high/morphology/verbs/transitivity#actionverbs
   activity: languages/lulani/high/morphology/auxiliaries#activity
@@ -16,7 +16,7 @@ x-tlb-hl:
   ambitransitivity: languages/lulani/high/morphology/verbs/ambitransitivity
   animacy: languages/lulani/high/morphology/nouns/index#animacy
   animate: languages/lulani/high/morphology/nouns/index#animacy
-  animatenoun: languages/lulani/high/morphology/nouns/index#animatenoun
+  animatenoun: languages/lulani/high/morphology/nouns/index#animate
   animates: languages/lulani/high/morphology/adpositions#animates
   apocrypha: languages/lulani/high/apocrypha/index
   apparentverbs: languages/lulani/high/morphology/verbs/transitivity#apparentverbs
@@ -39,12 +39,12 @@ x-tlb-hl:
   colours: languages/lulani/high/apocrypha/colours
   colourwheel: data/images/colourwheel.png
   nineshadesofgrey: data/images/nineshadesofgrey.png
-  commonnouns: languages/lulani/high/morphology/nouns/index#commonnouns
+  commonnouns: languages/lulani/high/morphology/nouns/index#common
   communicativeverbs: languages/lulani/high/morphology/verbs/ambitransitivity#communicativeverbs
   complement: languages/lulani/high/syntax/dependentclauses/index#contentclauses
   comparatives: languages/lulani/high/apocrypha/comparatives
   comparison: languages/lulani/high/apocrypha/comparatives
-  compoundnouns: languages/lulani/high/morphology/nouns/index#compoundnouns
+  compoundnouns: languages/lulani/high/morphology/nouns/index#compound
   compoundverbs: languages/lulani/high/morphology/verbs/index#compoundverbs
   conjunctions: languages/lulani/high/morphology/conjunctions
   consonants: languages/lulani/high/phonology/consonants
@@ -53,7 +53,7 @@ x-tlb-hl:
   coordinatingconjunctions: languages/lulani/high/morphology/conjunctions#coordinatingconjunctions
   copularsentences: languages/lulani/high/syntax/matrixclauses/index#copularsentences
   corecases: languages/lulani/high/syntax/case#corecases
-  countnouns: languages/lulani/high/morphology/suffixes/determiners#countnouns
+  countnouns: languages/lulani/high/morphology/suffixes/determiners#count
   dative: languages/lulani/high/syntax/argumentpromotion#dative
   degree: languages/lulani/high/morphology/suffixes/determiners#degree
   deixis: languages/lulani/high/morphology/deixis/index
@@ -77,7 +77,7 @@ x-tlb-hl:
   imperatives: languages/lulani/high/syntax/dependentclauses/index#imperatives
   inalienablepossession: languages/lulani/high/morphology/deixis/personalpro-forms#inalienablepossession
   inanimate: languages/lulani/high/morphology/suffixes/index#inanimate
-  inanimatenoun: languages/lulani/high/morphology/nouns/index#inanimatenoun
+  inanimatenoun: languages/lulani/high/morphology/nouns/index#inanimate
   inanimates: languages/lulani/high/morphology/adpositions#inanimates
   indefinitepro-forms: languages/lulani/high/morphology/deixis/indefinitepro-forms
   interjections: languages/lulani/high/morphology/particles/interjections
@@ -136,7 +136,7 @@ x-tlb-hl:
   prelude: languages/lulani/high/sampletexts/prelude
   primarystress: languages/lulani/high/phonology/suprasegmentals#primarystress
   pro-forms: languages/lulani/high/morphology/deixis/index#pro-forms
-  propernouns: languages/lulani/high/morphology/nouns/index#propernouns
+  propernouns: languages/lulani/high/morphology/nouns/index#proper
   prosody: languages/lulani/high/phonology/suprasegmentals#prosody
   purpose: languages/lulani/high/morphology/nouns/adverbs#purpose
   quantity: languages/lulani/high/morphology/suffixes/determiners#quantity
@@ -152,7 +152,7 @@ x-tlb-hl:
   spatiallocations: languages/lulani/high/morphology/adpositions#spatiallocations
   spellingsyllabary: languages/lulani/high/orthography/spellingsyllabary
   state: languages/lulani/high/morphology/deixis/indefinitepro-forms#state
-  stemnouns: languages/lulani/high/morphology/nouns/index#stemnouns
+  stemnouns: languages/lulani/high/morphology/nouns/index#stem
   stemverbs: languages/lulani/high/morphology/verbs/index#stemverbs
   stops: languages/lulani/high/phonology/consonants#stops
   stress: languages/lulani/high/phonology/suprasegmentals#stress

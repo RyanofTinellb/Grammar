@@ -79,7 +79,6 @@ directory:
     - - Medieval
     - - Traditional
     - - Standard
-  - - Testing
 entries:
   children:
     A Grammar of the Tinellbian Languages:
@@ -109,7 +108,7 @@ entries:
                   - <h1>Primitive Brequèn</h1>
                   - Primitive Brequèn
                   title: Primitive Brequèn - A Grammar of the Tinellbian Languages
-              date: null
+              date: '2025-04-16'
               text:
               - <h1>Brequèn</h1>
               title: Brequèn - A Grammar of the Tinellbian Languages
@@ -167,7 +166,7 @@ entries:
                           - <internal-script>/data/scripts/sca.js</internal-script>
                           - <script>intermediate()</script>
                           title: Early Fezhlê Diachrony - A Grammar of the Tinellbian Languages
-                      date: null
+                      date: '2025-04-16'
                       text:
                       - <h1>Appendices</h1>
                       title: Early Fezhlê Appendices - A Grammar of the Tinellbian Languages
@@ -190,7 +189,7 @@ entries:
                   - <h1>Late Fezhlê</h1>
                   - Late Fezhlê
                   title: Late Fezhlê - A Grammar of the Tinellbian Languages
-              date: null
+              date: '2025-04-16'
               text:
               - <h1>Fezhlê</h1>
               title: Fezhlê - A Grammar of the Tinellbian Languages
@@ -1475,45 +1474,45 @@ entries:
                               - “two years ago”</block></wordlist>
                               - "\t"
                               title: High Lulani Adverbs - A Grammar of the Tinellbian Languages
-                          date: '2025-01-18'
-                          position: '9.17'
+                          date: '2025-04-16'
+                          position: '89.17'
                           text:
                           - <h1>Nouns</h1>
-                          - Common and proper nouns are open classes; the pronouns are closed.
-                          - <h2>Common Nouns</h2>
+                          - Common and proper nouns are open classes; the pronouns are closed. Nouns are classified according to four criteria. Wordlists on this page show examples of each type.
+                          - <h2>Class</h2>
+                          - <h3>Common</h3>
                           - Common nouns can refer to abstract or concrete items.
                           - <wordlist><block><dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をい</tinellbian@x-tlb-hl> <gloss>love</gloss>
                           - <dictionary@x-tlb-hl>bata</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばた</tinellbian@x-tlb-hl> <gloss>caution</gloss>
                           - <dictionary@x-tlb-hl>’ahati</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あはて</tinellbian@x-tlb-hl> <gloss>happiness</gloss>
                           - <dictionary@x-tlb-hl>caga</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やが</tinellbian@x-tlb-hl> <gloss>mouth</gloss>
+                          - <dictionary@x-tlb-hl>nasufi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なすべ</tinellbian@x-tlb-hl> <gloss>ruthenium</gloss>
                           - <dictionary@x-tlb-hl>purissiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぷりっせじ</tinellbian@x-tlb-hl> <gloss>circle</gloss></block></wordlist>
-                          - <h3>Stem Nouns</h3>
+                          - <h3>Proper</h3>
+                          - Proper nouns begin with a capital letter in the transliteration. These are names that refer to individual people, places or things.
+                          - <wordlist><block><dictionary@x-tlb-hl>$ra’ani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らあに</tinellbian@x-tlb-hl> <gloss>Ryan</gloss> (name of a person)
+                          - <b>ʔikinnisa</b> <tinellbian@x-tlb-hl>いきっにさ</tinellbian@x-tlb-hl> <gloss>Eakins</gloss> (name of a family)
+                          - <dictionary@x-tlb-hl>$sa’imi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss> (name of a deity)
+                          - <dictionary@x-tlb-hl>$tinalli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl> <gloss>Tinellb</gloss> (name of a universe)
+                          - <dictionary@x-tlb-hl>ʔirri’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いっりあ</tinellbian@x-tlb-hl> <gloss>Irìa</gloss> (name of a city)
+                          - <dictionary@x-tlb-hl>$lulani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> <gloss>Lulani</gloss> (name of a language)
+                          - <dictionary@x-tlb-hl>$xucipura.$cula</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ずちぷら、ゆわ</tinellbian@x-tlb-hl> <gloss>The Crackled Egg</gloss> (name of a story)</block></wordlist>
+                          - <h3>Pronoun</h3>
+                          - Pronouns are used to refer to a known noun or noun phrase. Full information can be found in the section on <grammar-link@x-tlb-hl>deixis</grammar-link@x-tlb-hl>.
+                          - <wordlist><block><dictionary@x-tlb-hl>su’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl> <gloss>them</gloss>
+                          - <dictionary@x-tlb-hl>puttu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぷっと</tinellbian@x-tlb-hl> <gloss>from me</gloss>
+                          - <dictionary@x-tlb-hl>ba’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばう</tinellbian@x-tlb-hl> <gloss>to you</gloss>
+                          - <dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl> <gloss>this</gloss>
+                          - <dictionary@x-tlb-hl>batuja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl> <gloss>everywhere</gloss>
+                          - </block></wordlist><h2>Composition</h2>
+                          - <h3>Stem</h3>
                           - Stem nouns are those that are neither compounded nor derived.
-                          - <h4>Mass Nouns</h4>
-                          - Mass nouns refer to an undifferentiated aggregation rather than separate units. These cannot take numbers, except for a postpended <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl> <gloss>one</gloss> to denote the smallest individual piece of that aggregate.
-                          - <wordlist><block><dictionary@x-tlb-hl>’iti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いて</tinellbian@x-tlb-hl> <gloss>milk</gloss> / <dictionary@x-tlb-hl>’itixita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてした</tinellbian@x-tlb-hl> <gloss>drop of milk</gloss>
-                          - <dictionary@x-tlb-hl>marru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まっる</tinellbian@x-tlb-hl> <gloss>flies</gloss> / <dictionary@x-tlb-hl>marruxita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まっるした</tinellbian@x-tlb-hl> <gloss>fly</gloss></block></wordlist>
-                          - <h4>Animacy</h4>
-                          - This determines which derivational suffixes can be applied, and which pronouns are used as reference.
-                          - <h5>Animate Noun</h5>
-                          - These refer to people and other multicellular organisms capable of independent movement.
-                          - <wordlist><block><dictionary@x-tlb-hl>gusu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぐす</tinellbian@x-tlb-hl> <gloss>person</gloss>
-                          - <dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> <gloss>queen</gloss>
-                          - <dictionary@x-tlb-hl>kitisu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きてす</tinellbian@x-tlb-hl> <gloss>father</gloss>
-                          - <dictionary@x-tlb-hl>sula</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すわ</tinellbian@x-tlb-hl> <gloss>goat</gloss></block></wordlist>
-                          - <h5>Inanimate Noun</h5>
-                          - These refer to things such as natural phenomena, plants, fungi and unicellular life.
-                          - <wordlist><block><dictionary@x-tlb-hl>tissa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっさ</tinellbian@x-tlb-hl> <gloss>wind</gloss>
-                          - <dictionary@x-tlb-hl>linu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>えぬ</tinellbian@x-tlb-hl> <gloss>tree</gloss>
-                          - <dictionary@x-tlb-hl>hurru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ほっる</tinellbian@x-tlb-hl> <gloss>yeast</gloss></block></wordlist>
-                          - <h5>Abstract Noun</h5>
-                          - This category encompasses concepts, ideas and other intangibles. They are referred to by inanimate pronouns.
-                          - <wordlist><block><dictionary@x-tlb-hl>sutti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すって</tinellbian@x-tlb-hl> <gloss>fear</gloss>
-                          - <dictionary@x-tlb-hl>’adda</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっだ</tinellbian@x-tlb-hl> <gloss>past</gloss>
-                          - <dictionary@x-tlb-hl>tuhhi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とっひ</tinellbian@x-tlb-hl> <gloss>agriculture</gloss>
-                          - <dictionary@x-tlb-hl>laru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わる</tinellbian@x-tlb-hl> <gloss>year</gloss>
-                          - <dictionary@x-tlb-hl>sajja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さっぢ</tinellbian@x-tlb-hl> <gloss>silence</gloss></block></wordlist>
-                          - <h3>Compound Nouns</h3>
+                          - <wordlist><block><dictionary@x-tlb-hl>da</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>water</gloss>
+                          - <dictionary@x-tlb-hl>qi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ね</tinellbian@x-tlb-hl> <gloss>pet</gloss>
+                          - <dictionary@x-tlb-hl>’u’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うあ</tinellbian@x-tlb-hl> <gloss>wood</gloss>
+                          - <dictionary@x-tlb-hl>silu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せを</tinellbian@x-tlb-hl> <gloss>spouse</gloss>
+                          - <dictionary@x-tlb-hl>limma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>えっま</tinellbian@x-tlb-hl> <gloss>chlorine</gloss></block></wordlist>
+                          - <h3>Compound</h3>
                           - The first part of a compound noun must be a noun, and the subsequent parts specify the meaning of that noun. These parts can be nouns or verbs. The whole noun is usually written without spaces. The syllabification and stress of nonce words are determined on a stem-by-stem basis. However, a compound in common use will start being treated whole.
                           - <wordlist><block><details|folding><summary|folding><transliteration@x-tlb-hl>jifiru’inulli</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>じべるいぬっえ</tinellbian@x-tlb-hl>
@@ -1525,15 +1524,62 @@ entries:
                           - <dictionary@x-tlb-hl>xu’a</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>baju</dictionary@x-tlb-hl>
                           - <gloss>bird-blue</gloss></details|folding>
                           - “bluebird”</block></wordlist>
-                          - <h3>Proper Nouns</h3>
-                          - Proper nouns begin with a capital letter in the transliteration. These are names that refer to individual people, places or things.
-                          - <wordlist><block><dictionary@x-tlb-hl>$ra’ani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らあに</tinellbian@x-tlb-hl> <gloss>Ryan</gloss> (name of a person)
-                          - <strong>ʔikinnisa</strong> <tinellbian@x-tlb-hl>いきっにさ</tinellbian@x-tlb-hl> <gloss>Eakins</gloss> (name of a family)
-                          - <dictionary@x-tlb-hl>$sa’imi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss> (name of a deity)
-                          - <dictionary@x-tlb-hl>$tinalli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl> <gloss>Tinellb</gloss> (name of a universe)
-                          - <dictionary@x-tlb-hl>ʔirri’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いっりあ</tinellbian@x-tlb-hl> <gloss>Irìa</gloss> (name of a city)
-                          - <dictionary@x-tlb-hl>$lulani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> <gloss>Lulani</gloss> (name of a language)
-                          - <dictionary@x-tlb-hl>$xucipura.$cula</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ずちぷら ゆわ</tinellbian@x-tlb-hl> <gloss>The Crackled Egg</gloss> (name of a story)</block></wordlist>
+                          - <h3>Derived</h3>
+                          - These nouns are derived from stem or compound nouns, or from other parts of speech, by means of <grammar-link@x-tlb-hl>suffixes</grammar-link@x-tlb-hl>.
+                          - <wordlist><block><details|folding><summary|folding><transliteration@x-tlb-hl>dasada</transliteration@x-tlb-hl></summary|folding>
+                          - <tinellbian@x-tlb-hl>ださだ</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>dasa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-da</dictionary@x-tlb-hl>
+                          - <gloss>passion-</gloss><abbr>neg</abbr></details|folding>
+                          - “anger”
+                          - <details|folding><summary|folding><transliteration@x-tlb-hl>lannuhu</transliteration@x-tlb-hl></summary|folding>
+                          - <tinellbian@x-tlb-hl>わっぬほ</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>lannu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-hu</dictionary@x-tlb-hl>
+                          - <gloss>protein-outwards</gloss></details|folding>
+                          - “stomach”
+                          - <details|folding><summary|folding><transliteration@x-tlb-hl>’aggami</transliteration@x-tlb-hl></summary|folding>
+                          - <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>’agga</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl>
+                          - <gloss>law-giver</gloss></details|folding>
+                          - “police officer”
+                          - <details|folding><summary|folding><transliteration@x-tlb-hl>sinnadi</transliteration@x-tlb-hl></summary|folding>
+                          - <tinellbian@x-tlb-hl>せっなで</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>sinna</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl>
+                          - <gloss>story</gloss>-<abbr>nmn</abbr></details|folding>
+                          - “book”</block></wordlist>
+                          - <h2>Animacy
+                          - </h2>This determines which derivational suffixes can be applied, and which pronouns are used as reference.
+                          - <h3>Animate</h3>
+                          - These refer to people and other multicellular organisms capable of independent movement.
+                          - <wordlist><block><dictionary@x-tlb-hl>gusu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぐす</tinellbian@x-tlb-hl> <gloss>person</gloss>
+                          - <dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> <gloss>queen</gloss>
+                          - <dictionary@x-tlb-hl>kitisu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きてす</tinellbian@x-tlb-hl> <gloss>father</gloss>
+                          - <dictionary@x-tlb-hl>sula</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すわ</tinellbian@x-tlb-hl> <gloss>goat</gloss></block></wordlist>
+                          - <h3>Inanimate</h3>
+                          - These refer to things such as natural phenomena, plants, fungi and unicellular life.
+                          - <wordlist><block><dictionary@x-tlb-hl>tissa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっさ</tinellbian@x-tlb-hl> <gloss>wind</gloss>
+                          - <dictionary@x-tlb-hl>linu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>えぬ</tinellbian@x-tlb-hl> <gloss>tree</gloss>
+                          - <dictionary@x-tlb-hl>hurru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ほっる</tinellbian@x-tlb-hl> <gloss>yeast</gloss></block></wordlist>
+                          - <h3>Abstract</h3>
+                          - This category encompasses concepts, ideas and other intangibles. They are referred to by inanimate pronouns.
+                          - <wordlist><block><dictionary@x-tlb-hl>sutti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すって</tinellbian@x-tlb-hl> <gloss>fear</gloss>
+                          - <dictionary@x-tlb-hl>’adda</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっだ</tinellbian@x-tlb-hl> <gloss>past</gloss>
+                          - <dictionary@x-tlb-hl>tuhhi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とっひ</tinellbian@x-tlb-hl> <gloss>agriculture</gloss>
+                          - <dictionary@x-tlb-hl>laru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わる</tinellbian@x-tlb-hl> <gloss>year</gloss>
+                          - <dictionary@x-tlb-hl>sajja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さっぢ</tinellbian@x-tlb-hl> <gloss>silence</gloss></block></wordlist>
+                          - <h2>Count</h2>
+                          - <h3>Discrete</h3>
+                          - Discrete nouns refer to distinct items, such as individual objects, people or animals.
+                          - <wordlist><block><dictionary@x-tlb-hl>bu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶ</tinellbian@x-tlb-hl> <gloss>foot</gloss>
+                          - <dictionary@x-tlb-hl>sunu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すぬ</tinellbian@x-tlb-hl> <gloss>cloak</gloss>
+                          - <dictionary@x-tlb-hl>farri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へっり</tinellbian@x-tlb-hl> <gloss>map</gloss>
+                          - <dictionary@x-tlb-hl>xaʔu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざっう</tinellbian@x-tlb-hl> <gloss>child</gloss>
+                          - <dictionary@x-tlb-hl>hannaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はっなく</tinellbian@x-tlb-hl> <gloss>cat</gloss></block></wordlist>
+                          - <h3>Mass</h3>
+                          - Mass nouns refer to an undifferentiated aggregation. These are often substances, groups of people, plants, or unpleasant insects. These cannot take numbers, except for a postpended <dictionary@x-tlb-hl>-xita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl> <gloss>one</gloss> to denote the smallest individual piece of that aggregate.
+                          - <wordlist><block><dictionary@x-tlb-hl>’iti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いて</tinellbian@x-tlb-hl> <gloss>milk</gloss> / <b>’itixita</b> <tinellbian@x-tlb-hl>いてした</tinellbian@x-tlb-hl> <gloss>drop of milk</gloss>
+                          - <dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>nation</gloss> / <b>kaxita</b> <tinellbian@x-tlb-hl>かした</tinellbian@x-tlb-hl> <gloss>countryman</gloss>
+                          - <dictionary@x-tlb-hl>jama</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢま</tinellbian@x-tlb-hl> <gloss>flowers</gloss> / <b>jamaxita</b> <tinellbian@x-tlb-hl>ぢました</tinellbian@x-tlb-hl> <gloss>a flower</gloss>
+                          - <dictionary@x-tlb-hl>marru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まっる</tinellbian@x-tlb-hl> <gloss>flies</gloss> / <b>marruxita</b> <tinellbian@x-tlb-hl>まっるした</tinellbian@x-tlb-hl> <gloss>a fly</gloss></block></wordlist>
                           title: High Lulani Nouns - A Grammar of the Tinellbian Languages
                         Particles:
                           children:
@@ -4144,7 +4190,7 @@ entries:
                   - High Lulani is the language created by Loren, queen of the Ptokonoi. It features a semi-closed verb class and extensive compounding. It has a featural script.
                   - I once had the beginnings of what was to be the Ptokan language, and the language of the Fezhlê. The latter was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhlê have been forced to change somewhat to adapt.
                   title: High Lulani - A Grammar of the Tinellbian Languages
-              date: null
+              date: '2025-04-16'
               position: '1.0'
               text:
               - <h1>Lulani</h1>
@@ -4215,15 +4261,15 @@ entries:
                           - <internal-script>/data/scripts/sca.js</internal-script>
                           - <script>intermediate()</script>
                           title: Old Ptokan Diachrony - A Grammar of the Tinellbian Languages
-                      date: null
+                      date: '2025-04-16'
                       text:
                       - <h1>Appendices</h1>
                       title: Old Ptokan Appendices - A Grammar of the Tinellbian Languages
-                  date: null
+                  date: '2025-04-16'
                   text:
                   - <h1>Old Ptokan</h1>
                   title: Old Ptokan - A Grammar of the Tinellbian Languages
-              date: null
+              date: '2025-04-16'
               position: '1.0'
               text:
               - <h1>Ptokan</h1>
@@ -4258,16 +4304,10 @@ entries:
                   - <h1>Traditional Solajin</h1>
                   - Traditional Solajin
                   title: Traditional Solajin - A Grammar of the Tinellbian Languages
-              date: null
+              date: '2025-04-16'
               text:
               - <h1>Solajin</h1>
               title: Solajin - A Grammar of the Tinellbian Languages
-            Testing:
-              children: {}
-              date: '2025-04-15'
-              position: '1.0'
-              text: []
-              title: Testing - A Grammar of the Tinellbian Languages
             Tsarin:
               children:
                 Classical:
@@ -4284,7 +4324,7 @@ entries:
                   - <h1>Modern Tsarin</h1>
                   - Modern Tsarin
                   title: Modern Tsarin - A Grammar of the Tinellbian Languages
-              date: null
+              date: '2025-04-16'
               text:
               - <h1>Tsarin</h1>
               title: Tsarin - A Grammar of the Tinellbian Languages
@@ -4311,12 +4351,12 @@ entries:
                   - <h1>Reformed Zhaladi</h1>
                   - Reformed Zhaladi
                   title: Reformed Zhaladi - A Grammar of the Tinellbian Languages
-              date: null
+              date: '2025-04-16'
               position: '1.0'
               text:
               - <h1>Zhaladi</h1>
               title: Zhaladi - A Grammar of the Tinellbian Languages
-          date: null
+          date: '2025-04-16'
           position: '1.0'
           text: []
           title: ''
