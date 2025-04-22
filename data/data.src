@@ -1612,8 +1612,8 @@ entries:
                         Suffixes:
                           children:
                             Cisclass:
-                              date: '2025-04-16'
-                              position: '22.28'
+                              date: '2025-04-22'
+                              position: '47.19'
                               text:
                               - <h1>Cisclass</h1>
                               - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
@@ -1657,9 +1657,11 @@ entries:
                               - <dictionary@x-tlb-hl>’asilari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あせわり</tinellbian@x-tlb-hl> <gloss>friend</gloss></block></wordlist>
                               - The <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> suffix also denotes people from a particular place.
                               - <wordlist><block><dictionary@x-tlb-hl>Tinalli</dictionary@x-tlb-hl>ri <tinellbian@x-tlb-hl>てなっえり</tinellbian@x-tlb-hl> <gloss>Tinellbian</gloss></block></wordlist>
-                              - The suffix <dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl> derives an inanimate noun from something abstract, and <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> does the opposite.
-                              - <wordlist><block><dictionary@x-tlb-hl>sinnadi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せっなで</tinellbian@x-tlb-hl> <gloss>book</gloss></block>
-                              - <block><dictionary@x-tlb-hl>ru’ihaja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るいはぢ</tinellbian@x-tlb-hl> <gloss>history</gloss></block></wordlist>
+                              - The suffix <dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl> derives an inanimate noun from something abstract.
+                              - <wordlist><block><dictionary@x-tlb-hl>sinnadi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せっなで</tinellbian@x-tlb-hl> <gloss>book</gloss></block></wordlist>
+                              - The suffix <dictionary@x-tlb-hl>-ji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl> derives an abstract noun from an inanimate count noun, whereas <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl> is used with inanimate mass nouns.
+                              - <wordlist><block><dictionary@x-tlb-hl>ru’ihaja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るいはぢ</tinellbian@x-tlb-hl> <gloss>history</gloss></block>
+                              - <block><dictionary@x-tlb-hl>busatta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶさった</tinellbian@x-tlb-hl> <gloss>colour</gloss></block></wordlist>
                               - The suffix <dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> derives nouns which are somehow distinct from their stem.
                               - <wordlist><block><dictionary@x-tlb-hl>daruli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だるえ</tinellbian@x-tlb-hl> <gloss>wrong way</gloss>
                               - <dictionary@x-tlb-hl>gusuli</dictionary@x-tlb-hl> <gloss>non-guozu person</gloss></block></wordlist>
@@ -2594,8 +2596,8 @@ entries:
                       title: High Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: {}
-                      date: '2025-04-14'
-                      position: '777.63'
+                      date: '2025-04-18'
+                      position: '148.19'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><external-link>Prelude</external-link></cite>, the first chapter of <cite><external-link>The Crackled Egg</external-link></cite>, from <cite><external-link>The Coelacanth Quartet</external-link></cite><interlinear>
@@ -2743,9 +2745,9 @@ entries:
                       - <gloss>of-<abbr>com</abbr> fill wagon <abbr>prs;dyn</abbr>&lt;<abbr>trm</abbr>&gt; help father.</gloss>
                       - (She) is finishing helping (her) father with stacking the wagon.</details|folding>
                       - She finished helping her parents fill the wagon.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Taku nikamiriqa sula bili padissu kiluquru qixa ca, pada kikaxiku ’adi ni’adda ru laruluminisa bili qakunulli jannillu.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。たくにかみりげすわびえぱでっすきをもる・ねざや、ぱだきかしくあでにあっだるわるをみにさびえげくぬっえ・ぢっににかなさきみちっを。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>taku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kamiri</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sula</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kiluqu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ca</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kika</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’adda</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>laru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lumi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>nulli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nika</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>saki</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mici</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl>.
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Taku nikamiriqa sula bili padissu kiluburu qixa ca, pada kikaxiku ’adi ni’adda ru laruluminisa bili qakunulli jannillu.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。たくにかみりげすわびえぱでっすきをぶるねざや、ぱだきかしくあでにあっだるわるをみにさびえげくぬっえぢっににかなさきみちっを。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>taku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kamiri</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sula</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ca</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kika</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’adda</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>laru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lumi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>nulli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nika</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>saki</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mici</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl>.
                       - <gloss><abbr>pst;hab</abbr> at-pen-<abbr>gen</abbr> goat from-<abbr>com</abbr> think-new walk-<abbr>ger</abbr> <abbr>pst;dyn</abbr> help, and_then over-<abbr>rel</abbr> near at-past <abbr>prs;gno</abbr> year-several-only from-<abbr>com</abbr> down-<abbr>dat</abbr>-hill move-travel prs;hab share-permission-<abbr>psv</abbr>.</gloss>
                       - (She) repeatedly helped in the goat pen from the learning to walk, and was given permission to repeatedly travel down the hill only over the several recent years in the past.</details|folding>
                       - She had helped in the goat pens since she learned to walk, but only been allowed to travel down the hills within the last few years.
@@ -2761,10 +2763,10 @@ entries:
                       - <gloss>Big-spreading-<abbr>abv</abbr> heart-self, and <abbr>dat</abbr>-KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> speak-emotional_plane pride.</gloss>
                       - (He) spread out his own emotional body, and empathically sent pride to Tŗsh.</details|folding>
                       - He reached out with his own heart, sending the pride he felt for her.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kutisakaqa hisubajana ’inara, kukitisu matta, qu ma’iki kuli ’adiTurassi ’ita’·’assata cani jannikiluqu.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。くてさかげひすばぢないなら、くきてすまった、もまいきくえあでとらっせいたいあっさたやにぢっにきをも。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>tisaka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hisu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ba</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>jana</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>kitisu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma’iki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ita’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’assa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kiluqu</dictionary@x-tlb-hl>.
-                      - <gloss><abbr>dat</abbr>-town-<abbr>gen</abbr> rule-<abbr>nmn</abbr>-elder say-goodbye, <abbr>dat</abbr>-wife-self also, and across <abbr>dat</abbr>-<abbr>com</abbr> near-KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> car-goods-and <abbr>prs;dyn</abbr> move-walk.</gloss>
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kutisakaqa hisubajana ’inara, kukitisu matta, qu ma’iki kuli ’adiTurassi ’ita’·’assata cani malukilubu.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。くてさかげひすばぢないなら、くきてすまった、もまいきくえあでとらっせいたいあっさたやにまをきをぶ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>tisaka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hisu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ba</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>jana</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>kitisu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma’iki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ita’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’assa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl>.
+                      - <gloss><abbr>dat</abbr>-town-<abbr>gen</abbr> rule-<abbr>nmn</abbr>-elder say-goodbye, <abbr>dat</abbr>-wife-self also, and across <abbr>dat</abbr>-<abbr>com</abbr> near-KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> car-goods-and <abbr>prs;dyn</abbr> move_to-walk.</gloss>
                       - (He) said goodbye to the elder-ruler of the town, and also his own wife, and walked across to the (he is) near Tŗsh and the goods-car.</details|folding>
                       - He farewelled the village elder, and his own wife, and walked across to join Toresh and the wagon.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Sara cani kukipuqa rali sisa pada, ’ita’·’assa ra’usi janni.</transliteration@x-tlb-hl></summary|folding>
@@ -3343,9 +3345,9 @@ entries:
                       - <gloss><abbr>Prs;sta</abbr> hope and, other_people-some <abbr>fut;dyn</abbr> fix-situation-must <abbr>3ani;int</abbr> perception.</gloss>
                       - I hope (it) is, and I assume that some other people will have to fix her.</details|folding>
                       - I hope so, but it seems that she’s their problem now.</paragraph>
-                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Pi’aduqa kahi cani dipa’akaqa tu qu, du’ikugurissu jannikiluqukka quhu.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。ぴあどげかひやにでぱあかげとも、どいくぐりっすぢっにきをもっかもほ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>$pi’adu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>di</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa’aka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>du’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-gurrisu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kiluqu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl>.
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Pi’aduqa kahi cani dipa’akaqa tu qu, du’ikugurissu jannikilubukka quhu.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。ぴあどげかひやにでぱあかげとも、どいくぐりっすぢっにきをぶっかもほ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>$pi’adu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>di</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa’aka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>du’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-gurrisu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl>.
                       - <gloss>KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf>-<abbr>gen</abbr> arm <abbr>prs;dyn</abbr> atop-child-<abbr>3ani;gen</abbr>-<abbr>gen</abbr> shoulder and, opposite-<abbr>dat</abbr>-door move-walk-<abbr>abv</abbr> <abbr>3ani;tra</abbr>.</gloss>
                       - Piadû’s arm is now above his child’s shoulder, and (he) walk-moves her to opposite the door.</details|folding>
                       - Piado put his arm around his daughter’s shoulder and walked her out the door.
@@ -3980,8 +3982,8 @@ entries:
                           - “Love the queen!”
                           title: High Lulani Dependent Clauses - A Grammar of the Tinellbian Languages
                         Gerunds:
-                          date: '2024-05-18'
-                          position: '18.0'
+                          date: '2025-04-18'
+                          position: '11.10'
                           text:
                           - <h1>Gerunds</h1>
                           - The gerund suffix <dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl> changes basic verbs into nouns describing the activity.
@@ -3993,9 +3995,9 @@ entries:
                           - <dictionary@x-tlb-hl>pakicu</dictionary@x-tlb-hl>ru<strong> </strong><tinellbian@x-tlb-hl>ぱきゆる</tinellbian@x-tlb-hl> <gloss>believing to be true</gloss>
                           - <dictionary@x-tlb-hl>’i’issi</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>いいっせる</tinellbian@x-tlb-hl> <gloss>singing</gloss></block></wordlist>
                           - The genitive determiners, including <dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl>, allow for (only) the subject of the verb to be mentioned.
-                          - <wordlist><block><details|folding><summary|folding><transliteration@x-tlb-hl>jannikiluquruqa nimalu</transliteration@x-tlb-hl></summary|folding>
+                          - <wordlist><block><details|folding><summary|folding><transliteration@x-tlb-hl>jannikiluburuqa nimalu</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>ぢっにきをもるげにまを</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kiluqu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl>
                           - <gloss>walk-<abbr>ger</abbr>-<abbr>gen</abbr> bear</gloss></details|folding>
                           - “the bear’s walking”
                           - <details|folding><summary|folding><transliteration@x-tlb-hl>guqqirupahi</transliteration@x-tlb-hl></summary|folding>

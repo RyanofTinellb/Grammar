@@ -52,8 +52,6 @@ default:
     font: Garamond
     ime: autocorrect
     size: 18
-    background: '#000'
-    color: '#fff'
 desktop:
   props:
     background: '#ff33ff'
