@@ -2595,7 +2595,7 @@ entries:
                     Sample Text:
                       children: {}
                       date: '2025-04-25'
-                      position: '166.49'
+                      position: '160.24'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><external-link>Prelude</external-link></cite>, the first chapter of <cite><external-link>The Crackled Egg</external-link></cite>, from <cite><external-link>The Coelacanth Quartet</external-link></cite><interlinear>
@@ -2755,9 +2755,9 @@ entries:
                       - <gloss>KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf> <abbr>prs;dyn</abbr> opposite-<abbr>abl</abbr>-field-village <abbr>dat</abbr>-joy-aug-<abbr>gen</abbr> offspring sense_image-drv.</gloss>
                       - Piadû sensed the great joy of the offspring from the other side of the village-field.</details|folding>
                       - Piado felt his daughter’s excitement from across the compound.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kiladikka ’ilusu’a, gi’a kuTurassi ’inada ’ixxa’i.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。きわでっかいをすあ、ぎあくとらっせいなだいっざい。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>ki</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ladi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ilu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>gi’a</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nada</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ixxa’i</dictionary@x-tlb-hl>.
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kiladikka ’ilusu’a, gi’a kuTurassi ’inada ’ixxa.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。きわでっかいをすあ、ぎあくとらっせいなだいっざ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>ki</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ladi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ilu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>gi’a</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nada</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ixxa</dictionary@x-tlb-hl>.
                       - <gloss>Big-spreading-<abbr>abv</abbr> heart-self, and <abbr>dat</abbr>-KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> speak-emotional_plane pride.</gloss>
                       - (He) spread out his own emotional body, and empathically sent pride to Tŗsh.</details|folding>
                       - He reached out with his own heart, sending the pride he felt for her.
