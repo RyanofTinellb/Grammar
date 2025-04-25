@@ -133,6 +133,22 @@ main .wordlist li + details {
     margin-block-start: var(--wordlist-sep);
 }
 
+main details.example {
+    margin-block-start: 2.5lh;
+}
+
+main details.example p,
+main details.example + p,
+main details.example summary {
+    line-height: 2;
+    padding-inline-start: 3rem;
+    text-indent: -1rem;
+}
+
+main details.example + p {
+    margin-block-end: 1.5lh;
+}
+
 main table.numbers {
     margin-inline: auto;
 
