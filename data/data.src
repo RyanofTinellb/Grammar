@@ -73,6 +73,7 @@ directory:
     - - Reformed
   - - Tsarin
     - - Classical
+      - - Blah
     - - Modern
   - - Solajin
     - - Ancient
@@ -785,8 +786,8 @@ entries:
                     Morphology:
                       children:
                         Adpositions:
-                          date: '2025-03-24'
-                          position: '80.3'
+                          date: '2025-04-25'
+                          position: '118.7'
                           text:
                           - <h1>Adpositions</h1>
                           - Adpositions are a closed class. They can be used in three different ways.
@@ -905,7 +906,7 @@ entries:
                           - <wordlist><block><dictionary@x-tlb-hl>data</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だた</tinellbian@x-tlb-hl> <gloss>backwards</gloss>
                           - <dictionary@x-tlb-hl>tirri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっり</tinellbian@x-tlb-hl> <gloss>forwards</gloss>
                           - <dictionary@x-tlb-hl>ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> <gloss>along</gloss>
-                          - <dictionary@x-tlb-hl>ma’iki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まいき</tinellbian@x-tlb-hl> <gloss>across</gloss>
+                          - <dictionary@x-tlb-hl>ma’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まい</tinellbian@x-tlb-hl> <gloss>across</gloss>
                           - <dictionary@x-tlb-hl>tiku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てく</tinellbian@x-tlb-hl> <gloss>around</gloss>
                           - <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>び</tinellbian@x-tlb-hl> <gloss>out of</gloss></block></wordlist>
                           - <h3>Animates</h3>
@@ -1696,8 +1697,8 @@ entries:
                               - <dictionary@x-tlb-hl>nagari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl> <gloss>will finish being</gloss></block></wordlist>
                               title: High Lulani Cisclass - A Grammar of the Tinellbian Languages
                             Determiners:
-                              date: '2024-07-27'
-                              position: '37.7'
+                              date: '2025-04-25'
+                              position: '10.13'
                               text:
                               - <h1>Determiners</h1>
                               - A determiner can be used to narrow the reference of a noun. They appear at the end of a noun phrase, after any normal suffixes. They do not move the stress of the noun, and can only receive up to secondary stress themselves.
@@ -1708,10 +1709,7 @@ entries:
                               - <h2>Quantity</h2>
                               - These are used to answer “how many?”
                               - <wordlist><block><dictionary@x-tlb-hl>-mimutu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みむと</tinellbian@x-tlb-hl> <gloss>some</gloss>
-                              - <dictionary@x-tlb-hl>-lumi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をみ</tinellbian@x-tlb-hl> <gloss>several</gloss>
-                              - <dictionary@x-tlb-hl>-raqi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らね</tinellbian@x-tlb-hl> <gloss>more</gloss>
-                              - <dictionary@x-tlb-hl>-’uhu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うほ</tinellbian@x-tlb-hl> <gloss>many</gloss>
-                              - <dictionary@x-tlb-hl>-takki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たっき</tinellbian@x-tlb-hl> <gloss>many</gloss></block></wordlist>
+                              - <dictionary@x-tlb-hl>-raqi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らね</tinellbian@x-tlb-hl> <gloss>more</gloss></block></wordlist>
                               - <h2>Choice</h2>
                               - There are two sets of determiners that are both used to select a part from the whole. One group is used with count nouns, the other with mass nouns.
                               - <h3>Count Nouns</h3>
@@ -2596,8 +2594,8 @@ entries:
                       title: High Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: {}
-                      date: '2025-04-22'
-                      position: '401.22'
+                      date: '2025-04-25'
+                      position: '166.49'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><external-link>Prelude</external-link></cite>, the first chapter of <cite><external-link>The Crackled Egg</external-link></cite>, from <cite><external-link>The Coelacanth Quartet</external-link></cite><interlinear>
@@ -2763,11 +2761,11 @@ entries:
                       - <gloss>Big-spreading-<abbr>abv</abbr> heart-self, and <abbr>dat</abbr>-KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> speak-emotional_plane pride.</gloss>
                       - (He) spread out his own emotional body, and empathically sent pride to Tŗsh.</details|folding>
                       - He reached out with his own heart, sending the pride he felt for her.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kutisakaqa hisubajana ’inara, kukitisu matta, qu ma’iki kuli ’adiTurassi ’ita’·’assata cani malukilubu.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。くてさかげひすばぢないなら、くきてすまった、もまいきくえあでとらっせいたいあっさたやにまをきをぶ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>tisaka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hisu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ba</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>jana</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>kitisu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma’iki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ita’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’assa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl>.
-                      - <gloss><abbr>dat</abbr>-town-<abbr>gen</abbr> rule-<abbr>nmn</abbr>-elder say-goodbye, <abbr>dat</abbr>-wife-self also, and across <abbr>dat</abbr>-<abbr>com</abbr> near-KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> car-goods-and <abbr>prs;dyn</abbr> move_to-walk.</gloss>
-                      - (He) said goodbye to the elder-ruler of the town, and also his own wife, and walked across to the (he is) near Tŗsh and the goods-car.</details|folding>
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kutisakaqa hisubajana ’inara, kusilu matta, qu ma’iki kuli ’adiTurassi ’ita’·’assata cani malukilubu.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。くてさかげひすばぢないなら、くせをまった、もまいきくえあでとらっせいたいあっさたやにまをきをぶ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>tisaka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hisu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ba</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>jana</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>silu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>$turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ita’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’assa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl>.
+                      - <abbr>dat</abbr>-<gloss>town</gloss>-<abbr>gen</abbr> <gloss>rule</gloss>-<abbr>nmn</abbr>-<gloss>elder say-goodbye, </gloss><abbr>dat</abbr>-<gloss>wife also, and across</gloss> <abbr>dat</abbr>-<abbr>com</abbr> <gloss>near-KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> car-goods-and</gloss> <abbr>prs;dyn</abbr> <gloss>move_to-walk.</gloss>
+                      - (He) said goodbye to the elder-ruler of the town, and also (his) wife, and walked across to the (he is) near Tŗsh and the goods-car.</details|folding>
                       - He farewelled the village elder, and his own wife, and walked across to join Toresh and the wagon.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Sara cani kukipuqa rali sisa pada, ’ita’·’assa ra’usi janni.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。さらやにくきぷげらえせさぱだ、いたいあっさらうせぢっに。</tinellbian@x-tlb-hl>
@@ -4313,6 +4311,12 @@ entries:
             Tsarin:
               children:
                 Classical:
+                  children:
+                    Blah:
+                      date: '2025-04-25'
+                      position: '1.0'
+                      text: []
+                      title: Classical Tsarin Blah - A Grammar of the Tinellbian Languages
                   date: '2025-03-27'
                   position: '1.16'
                   text:
@@ -4327,6 +4331,7 @@ entries:
                   - Modern Tsarin
                   title: Modern Tsarin - A Grammar of the Tinellbian Languages
               date: '2025-04-16'
+              position: '1.0'
               text:
               - <h1>Tsarin</h1>
               title: Tsarin - A Grammar of the Tinellbian Languages
