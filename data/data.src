@@ -3890,25 +3890,25 @@ entries:
                               - <gloss>grass-eat-<abbr>prs;sta</abbr> ox</gloss></details|folding>
                               - “the grass-eating cow.”</block></wordlist>
                               title: High Lulani Relative Clauses - A Grammar of the Tinellbian Languages
-                          date: '2024-05-18'
-                          position: '81.31'
+                          date: '2025-04-25'
+                          position: '16.39'
                           text:
                           - <h1>Dependent Clauses</h1>
                           - A dependent clause is a clause that is unable to stand meaningfully by itself.
                           - They are marked by having a non-optional auxiliary at the end.
                           - <h2>Subordinate Clauses</h2>
                           - A subordinate clause is one introduced by a subordinating conjunction in the matrix clause. A comma is used to separate a subordinate from its matrix. The conjunction is placed on the side of the main clause that is closest to the subordinate. The clauses can be put in either order.
-                          - <details|example><summary|folding><transliteration@x-tlb-hl>ʔusu ru lu’i fu daru’i, <highlight>ba pu’iba miku ra’u</highlight>.</transliteration@x-tlb-hl></summary|folding>
+                          - <details|example><summary|folding><transliteration@x-tlb-hl>ʔusu ru lu’i fu daru’i, ba pu’iba miku ra’u.</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>。うするをいふだるい、ばぷいばみく らう。</tinellbian@x-tlb-hl>
                           - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>daru’i</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pu’iba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>miku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>.
                           - <gloss><abbr>1int</abbr> <abbr>prs;gno</abbr> love <abbr>2tra</abbr> because, <abbr>2gen</abbr> ball red <abbr>prs;sta</abbr></gloss></details|example>
                           - “I love you because your ball is red.”
-                          - <details|example><summary|folding><transliteration@x-tlb-hl><highlight>Ba pu’iba miku ra’u</highlight>, daru’i ’usu ru lu’i fu.</transliteration@x-tlb-hl></summary|folding>
+                          - <details|example><summary|folding><transliteration@x-tlb-hl>Ba pu’iba miku ra’u, daru’i ’usu ru lu’i fu.</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>。ばぷいばみくらう、だるいうするをい ふ。</tinellbian@x-tlb-hl>
                           - <dictionary@x-tlb-hl>ba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pu’iba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>miku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>daru’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl>.
                           - <gloss><abbr>2gen</abbr> ball red <abbr>prs;sta</abbr>, because <abbr>1int</abbr> <abbr>prs;gno</abbr> love <abbr>2tra</abbr></gloss></details|example>
                           - “I love you because your ball is red.”
-                          - Here the subordinate clauses are highlighted. The cause is subordinate to the effect.
+                          - The cause is subordinate to the effect.
                           - <h3>Location Adverbial Clauses</h3>
                           - The word <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>where</gloss> is often used as a prefix for adpositions used as clausal conjunctions.
                           - <details|example><summary|folding><transliteration@x-tlb-hl>ʔusu lu’i fu madi, ba pu’iba miku qixa.</transliteration@x-tlb-hl></summary|folding>
