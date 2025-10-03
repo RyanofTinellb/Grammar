@@ -5,23 +5,23 @@ entries:
 - - A Grammar of the Tinellbian Languages
   - Languages
   - Lulani
-  - High
-  - Morphology
-  - Verbs
+  - Demotic
+  - Sample Text
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\grammar\data\assets\autocorrect.ime
-  ipa: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\ipa.ime
-  links: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\links.ime
-  tinellbian: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\tinellbian.ime
-  transliteration: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\transliteration.ime
+  ipa: c:\users\ryan\tinellbianlanguages\www\data\assets\ipa.ime
+  links: c:\users\ryan\tinellbianlanguages\www\data\assets\links.ime
+  tinellbian: c:\users\ryan\tinellbianlanguages\www\data\assets\tinellbian.ime
+  transliteration: c:\users\ryan\tinellbianlanguages\www\data\assets\transliteration.ime
 language: 'en: English'
-languages: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\languages.yml
+languages: c:\users\ryan\tinellbianlanguages\www\data\assets\languages.yml
 links:
+  abternal: c:\users\ryan\tinellbianlanguages\grammar\data\assets\abternal-links.glk
   external: c:\users\ryan\tinellbianlanguages\grammar\data\assets\external-links.glk
   glossary: c:\users\ryan\tinellbianlanguages\grammar\data\assets\glossary.glk
   grammar: c:\users\ryan\tinellbianlanguages\grammar\data\assets\internal-links.glk
-  lang: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\languages.yml
+  lang: c:\users\ryan\tinellbianlanguages\www\data\assets\languages.yml
   season: c:\users\ryan\tinellbianlanguages\grammar\data\assets\seasons.glk
 locations:
   directory: c:\users\ryan\tinellbianlanguages\grammar
@@ -32,16 +32,16 @@ markdown: ''
 port: 20025
 styles: c:\users\ryan\tinellbianlanguages\grammar\data\assets\styles.tag
 templates:
-  entry: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\entry.tpl
-  main: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\page.tpl
+  entry: c:\users\ryan\tinellbianlanguages\www\data\templates\entry.tpl
+  main: c:\users\ryan\tinellbianlanguages\www\data\templates\page.tpl
   sections:
-    basesearch: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\base_search.tpl
-    copyright: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\copyright.tpl
-    magnifyingglass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying_glass.tpl
-    mini-nav: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navigation_arrows.tpl
-    navigationpane: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navpane.tpl
+    basesearch: c:\users\ryan\tinellbianlanguages\www\data\templates\base_search.tpl
+    copyright: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\copyright.tpl
+    magnifyingglass: c:\users\ryan\tinellbianlanguages\www\data\templates\svg\magnifying_glass.tpl
+    mini-nav: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\navigation_arrows.tpl
+    navigationpane: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\navpane.tpl
   special:
-    page404: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search404.tpl
-    search: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search.tpl
-    wholepage: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\wholepage.tpl
+    page404: c:\users\ryan\tinellbianlanguages\www\data\templates\search404.tpl
+    search: c:\users\ryan\tinellbianlanguages\www\data\templates\search.tpl
+    wholepage: c:\users\ryan\tinellbianlanguages\www\data\templates\wholepage.tpl
 url: http://grammar.tinellb.com

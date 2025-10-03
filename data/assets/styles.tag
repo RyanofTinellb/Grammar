@@ -4,13 +4,24 @@ abbr:
     'off': space
     'on': Alt-G
   open: <dfn><abbr class="glossary" title="
-  param: $lookup:glossary$|$text$
+  param:
+    string: $lookup$|$text$
+    category: glossary
   pipe: '">'
   props:
     font: Felix Titling
     size: 70
   rank: -50
   type: span
+abternal-link:
+  key: Alt-a
+  param:
+    string: $link$|$text$
+    link: $grammar(lookup)$
+    category: abternal
+  props:
+    colour: '#33c'
+  type: anchor
 b:
   key: b
   props:
@@ -74,7 +85,10 @@ dictionary:
     'off': space
     'on': Alt-n
   language: true
-  param: http://dictionary.tinellb.com/lex/$text$.html#$url(lookup:lang)$|$upper(text)$
+  param:
+    string: $link$|$text$
+    link: http://dictionary.tinellb.com/lex/$dictionary(text)$.html#$grammar(lookup)$
+    category: lang
   props:
     colour: '#0000ff'
     ime: links
@@ -95,7 +109,9 @@ external:
   type: anchor
 external-link:
   key: Alt-e
-  param: $lookup:external$|$text$
+  param:
+    string: $lookup$|$node$
+    category: external
   props:
     colour: '#33c'
   type: anchor
@@ -108,7 +124,10 @@ gloss:
   type: span
 grammar-link:
   language: true
-  param: $link:lookup:grammar$|$text$
+  param:
+    string: $link$|$node$
+    link: $grammar(lookup)$
+    category: grammar
   props:
     colour: '#000099'
     underline: true
@@ -161,7 +180,10 @@ heading-link:
   close: </a></h2>
   language: true
   open: <h2><a
-  param: href="$link:lookup:grammar$"|$text$
+  param:
+    string: href="$link$"|$node$
+    link: $lookup$
+    category: grammar
   pipe: '>'
   props:
     bold: true
@@ -178,9 +200,12 @@ i:
     italics: true
 image:
   close: '">'
-  language: true
   open: <img src="
-  param: $link:lookup:grammar$
+  param:
+    string: $lookup$
+    category: external
+  props:
+    background: '#9f9'
 interlinear:
   end: ''
   start: ''
@@ -244,7 +269,9 @@ script:
 season:
   close: </dfn>
   open: <dfn class="season" title="
-  param: $lookup:season$|$text$
+  param:
+    string: $lookup$|$node$
+    category: season
   pipe: '">'
 sentence-list:
   props:
