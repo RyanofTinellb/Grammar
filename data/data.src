@@ -30,7 +30,6 @@ directory:
         - - Conjunctions
         - - Particles
           - - Interjections
-        - - Adverbs
       - - Syntax
         - - Case
         - - Matrix Clauses
@@ -47,9 +46,6 @@ directory:
         - - Kinship
         - - Elements
       - - Sample Text
-      - - Adverbs
-      - - Nouns
-        - - Adverbs
     - - Demotic
       - - Phonology
       - - Sample Text
@@ -1029,8 +1025,8 @@ entries:
                         Deixis:
                           children:
                             Indefinite Pro-forms:
-                              date: '2025-04-14'
-                              position: '152.5'
+                              date: '2025-10-04'
+                              position: '143.28'
                               text:
                               - <h1>Indefinite Pro-forms</h1>
                               - The indefinite pro-forms are sets of deictic words which can be placed into a table.
@@ -1174,7 +1170,7 @@ entries:
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Sabba sulla qixa?</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>。さっば・ すっわねざ。</tinellbian@x-tlb-hl>
                               - <dictionary@x-tlb-hl>sabba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sulla</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl>?
-                              - <gloss>father;2gen do_what <abbr>prs;dyn</abbr>?</gloss></details|example>
+                              - <gloss>father;<abbr>2gen</abbr> do_what <abbr>prs;dyn</abbr>?</gloss></details|example>
                               - “What does your father do?”
                               - <h2>Manner</h2>
                               - Manner pro-forms are used to refer to the way in which an action is undertaken. They function as modal adverbs in active sentences, <gloss>i.e.:</gloss> sentences with overt or implied auxiliaries of <internal>../auxiliaries.html#activityversusstate|activity</internal>.
@@ -1393,7 +1389,7 @@ entries:
                               - <dictionary@x-tlb-hl>dumi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どみ</tinellbian@x-tlb-hl> <gloss>try</gloss> <gloss>to</gloss>
                               - <dictionary@x-tlb-hl>danna</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だっな</tinellbian@x-tlb-hl> <gloss>successfully</gloss>
                               - <dictionary@x-tlb-hl>xaka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざか</tinellbian@x-tlb-hl> <gloss>fail to</gloss>
-                              - <dictionary@x-tlb-hl>ca’alla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やあっわ</tinellbian@x-tlb-hl> <gloss>must</gloss>
+                              - <dictionary@x-tlb-hl>calla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やっわ</tinellbian@x-tlb-hl> <gloss>must</gloss>
                               - <dictionary@x-tlb-hl>fuca</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ふや</tinellbian@x-tlb-hl> <gloss>can</gloss>
                               - <dictionary@x-tlb-hl>ritada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>りただ</tinellbian@x-tlb-hl> <gloss>by fate</gloss>
                               - <dictionary@x-tlb-hl>macu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まゆ</tinellbian@x-tlb-hl> <gloss>unexpectedly</gloss>
@@ -1911,7 +1907,7 @@ entries:
                               - <dictionary@x-tlb-hl>siku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せく</tinellbian@x-tlb-hl> <gloss>to die; to be dead</gloss>
                               - <dictionary@x-tlb-hl>hacci</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はっち</tinellbian@x-tlb-hl> <gloss>to awaken; to be awake</gloss>
                               - <dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>to sleep; to be asleep</gloss>
-                              - <dictionary@x-tlb-hl>nu’ifi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬいべ</tinellbian@x-tlb-hl> <gloss>to hide; to be hidden</gloss></block></wordlist>
+                              - <dictionary@x-tlb-hl>nufi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬべ</tinellbian@x-tlb-hl> <gloss>to hide; to be hidden</gloss></block></wordlist>
                               - <h2>Adjectival Verbs</h2>
                               - These verbs allow the speaker to describe an attribute of the <strong>subject</strong>.
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Linu ra’u ki. / Linu qixa ki.</transliteration@x-tlb-hl></summary|folding>
@@ -2181,10 +2177,6 @@ entries:
                           - <gloss>think-surroundings</gloss></details|folding>
                           - “to be conscious”</block></wordlist>
                           title: High Lulani Verbs - A Grammar of the Tinellbian Languages
-                        Adverbs:
-                          title: ''
-                          text: []
-                          position: '1.0'
                       date: '2024-05-11'
                       position: '1.0'
                       text:
@@ -3346,9 +3338,9 @@ entries:
                       - <gloss>MT:<ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt> good-life <abbr>pst;sta</abbr>?</gloss>
                       - Was Qōla’s life going ok?</details|folding>
                       - Is Corla alright?</paragraph>
-                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Ra’u nufira qu, dihhami lanu si’abassaca’alla mihu qaffi.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。らうぬべらも、でっはみわぬせあばっさやあっわみほげっべ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nufira</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>dihha</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>si’a</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>bassa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ca’alla</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qaffi</dictionary@x-tlb-hl>.
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Ra’u nufira qu, dihhami lanu si’abassacalla mihu qaffi.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。らうぬべらも、でっはみわぬせあばっさやっわみほげっべ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nufira</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>dihha</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>si’a</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>bassa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>calla</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qaffi</dictionary@x-tlb-hl>.
                       - <gloss><abbr>Prs;sta</abbr> hope and, other_people-some <abbr>fut;dyn</abbr> fix-situation-must <abbr>3ani;int</abbr> perception.</gloss>
                       - I hope (it) is, and I assume that some other people will have to fix her.</details|folding>
                       - I hope so, but it seems that she’s their problem now.</paragraph>
@@ -3664,9 +3656,9 @@ entries:
                       - <gloss><abbr>Abl</abbr>-this feel-happiness-<abbr>abv</abbr>-<abbr>psv</abbr>; <abbr>prs;sta</abbr> <abbr>abl</abbr>-land-plain-<abbr>nmn</abbr> experience-toleration-somewhat and, </gloss><abbr>3ani;abl</abbr><gloss> prs;hab experience-sleep-emotional_plane happened.</gloss>
                       - (He) feels happiness from this, (he) experiences some toleration for the people of the plains, and experiences of emotional tiredness happen.</details|folding>
                       - He was glad; he didn’t mind the flatlanders on occasion, but it was very easy to become tired of them.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kalucagaqa ’ikka pahapakuda ca’alla ga’·’aba.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。かをやがげいっかぱはぴいくだやあっわがいあば。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>caga</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>hapi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-da</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ca’alla</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ga’i</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-’aba</dictionary@x-tlb-hl>.
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kalucagaqa ’ikka pahapakuda calla ga’·’aba.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。かをやがげいっかぱはぴいくだやっわがいあば。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>caga</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>hapi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-da</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>calla</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ga’i</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-’aba</dictionary@x-tlb-hl>.
                       - <gloss><abbr>Abl</abbr>-mouth-<abbr>gen</abbr> speak-<abbr>abv</abbr> think-concentration-</gloss><abbr>aug</abbr><gloss>-negative need occasion-everything.</gloss>
                       - Because of speaking from the mouth, on every occasion (he) must concentrate a lot.</details|folding>
                       - He always needed to concentrate more, trying to communicate in words.
@@ -4192,19 +4184,6 @@ entries:
                       - <h1>Syntax</h1>
                       - High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.
                       title: High Lulani Syntax - A Grammar of the Tinellbian Languages
-                    Adverbs:
-                      title: ''
-                      text: []
-                      position: '1.0'
-                    Nouns:
-                      title: ''
-                      text: []
-                      position: '1.0'
-                      children:
-                        Adverbs:
-                          title: ''
-                          text: []
-                          position: '1.0'
                   date: '2025-04-13'
                   position: '1.11'
                   text:
