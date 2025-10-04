@@ -30,6 +30,7 @@ directory:
         - - Conjunctions
         - - Particles
           - - Interjections
+        - - Adverbs
       - - Syntax
         - - Case
         - - Matrix Clauses
@@ -46,6 +47,9 @@ directory:
         - - Kinship
         - - Elements
       - - Sample Text
+      - - Adverbs
+      - - Nouns
+        - - Adverbs
     - - Demotic
       - - Phonology
       - - Sample Text
@@ -489,7 +493,7 @@ entries:
                           - ' |  |  | <multiline><dictionary@x-tlb-hl>’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl> <gloss>iron</gloss></multiline> | <multiline><dictionary@x-tlb-hl>nasufi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なすべ</tinellbian@x-tlb-hl> <gloss>ruthenium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>supu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すぷ</tinellbian@x-tlb-hl> <gloss>osmium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>’i’ami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いあみ</tinellbian@x-tlb-hl> <gloss>hassium</gloss></multiline>'
                           - ' |  |  | <multiline><dictionary@x-tlb-hl>qumalli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>もまっえ</tinellbian@x-tlb-hl> <gloss>manganese</gloss></multiline> | <multiline><dictionary@x-tlb-hl>nikili</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>にきえ</tinellbian@x-tlb-hl> <gloss>technetium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>hasuki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はすき</tinellbian@x-tlb-hl> <gloss>rhenium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>cabahi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やばひ</tinellbian@x-tlb-hl> <gloss>bohrium</gloss></multiline>'
                           - ' |  |  | <multiline><dictionary@x-tlb-hl>fada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へだ</tinellbian@x-tlb-hl> <gloss>chromium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>sula</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すわ</tinellbian@x-tlb-hl> <gloss>molybdenum</gloss></multiline> | <multiline><dictionary@x-tlb-hl>minaʔi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みなっい</tinellbian@x-tlb-hl> <gloss>tungsten</gloss></multiline> | <multiline><dictionary@x-tlb-hl>saniki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さにき</tinellbian@x-tlb-hl> <gloss>seaborgium</gloss></multiline>'
-                          - ' |  |  | <multiline><dictionary@x-tlb-hl>nussa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬっさ</tinellbian@x-tlb-hl> <gloss>vanadium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>lakka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わっか</tinellbian@x-tlb-hl> <gloss>niobium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>hila</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひわ</tinellbian@x-tlb-hl> <gloss>tantalum</gloss></multiline> | <multiline><dictionary@x-tlb-hl>nullasu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬっわす</tinellbian@x-tlb-hl> <gloss>dubnium</gloss></multiline>'
+                          - ' |  |  | <multiline><dictionary@x-tlb-hl>nussa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬっさ</tinellbian@x-tlb-hl> <gloss>vanadium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>lakka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わっか</tinellbian@x-tlb-hl> <gloss>niobium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>hila</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひわ</tinellbian@x-tlb-hl> <gloss>tantalum</gloss></multiline> | <multiline><dictionary@x-tlb-hl>nulla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬっわ</tinellbian@x-tlb-hl> <gloss>dubnium</gloss></multiline>'
                           - ' |  |  | <multiline><dictionary@x-tlb-hl>ka’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かい</tinellbian@x-tlb-hl> <gloss>titanium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>pusu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぷす</tinellbian@x-tlb-hl> <gloss>zirconium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>tacuca</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たゆや</tinellbian@x-tlb-hl> <gloss>hafnium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>famati</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へまて</tinellbian@x-tlb-hl> <gloss>rutherfordium</gloss></multiline>'
                           - ' |  |  |  |  | <multiline><dictionary@x-tlb-hl>kixa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きざ</tinellbian@x-tlb-hl> <gloss>lutetium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>nulina</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬえな</tinellbian@x-tlb-hl> <gloss>lawrencium</gloss></multiline>'
                           - ' |  |  |  |  | <multiline><dictionary@x-tlb-hl>tukaga</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とかが</tinellbian@x-tlb-hl> <gloss>ytterbium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>qaʔiku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げっいく</tinellbian@x-tlb-hl> <gloss>nobelium</gloss></multiline>'
@@ -535,7 +539,7 @@ entries:
                           - <dictionary@x-tlb-hl>suki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すき</tinellbian@x-tlb-hl> <gloss>copper</gloss>
                           - <dictionary@x-tlb-hl>farra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へっら</tinellbian@x-tlb-hl> <gloss>curium</gloss>
                           - <dictionary@x-tlb-hl>na’ipa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ないぱ</tinellbian@x-tlb-hl> <gloss>darmstadtium</gloss>
-                          - <dictionary@x-tlb-hl>nullasu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬっわす</tinellbian@x-tlb-hl> <gloss>dubnium</gloss>
+                          - <dictionary@x-tlb-hl>nulla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬっわ</tinellbian@x-tlb-hl> <gloss>dubnium</gloss>
                           - <dictionary@x-tlb-hl>bumissi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶみっせ</tinellbian@x-tlb-hl> <gloss>dysprosium</gloss>
                           - <dictionary@x-tlb-hl>banara</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばなら</tinellbian@x-tlb-hl> <gloss>einsteinium</gloss>
                           - <dictionary@x-tlb-hl>calluna</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やっをな</tinellbian@x-tlb-hl> <gloss>erbium</gloss>
@@ -657,8 +661,8 @@ entries:
                           - Other kinship terms began as nuclear family names, but were thence extended across a generation. So <dictionary@x-tlb-hl>kaqqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっげ</tinellbian@x-tlb-hl> <gloss>elder sibling</gloss> and <dictionary@x-tlb-hl>kica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きや</tinellbian@x-tlb-hl> <gloss>younger sibling</gloss> can also be applied to cousins.
                           title: High Lulani Kinship - A Grammar of the Tinellbian Languages
                         Numbers:
-                          date: '2025-04-14'
-                          position: '67.6'
+                          date: '2025-10-04'
+                          position: '76.32'
                           text:
                           - <h1>Numbers</h1>
                           - Numerals and mathematical operations are particles.
@@ -667,13 +671,13 @@ entries:
                           - <h3>One-digit Numbers</h3>
                           - 'These are the names for the one-digit numbers:'
                           - <table|numbers> <dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> | <gloss>0</gloss> |||
-                          - ' <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>した </tinellbian@x-tlb-hl>| <gloss>1</gloss> | <dictionary@x-tlb-hl>mu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> | <gloss><overline>1</overline></gloss>'
-                          - ' <dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> | <gloss>2</gloss> | <dictionary@x-tlb-hl>kannu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>かっぬ</tinellbian@x-tlb-hl> | <gloss><overline>2</overline></gloss>'
-                          - ' <dictionary@x-tlb-hl>kifi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> | <gloss>3</gloss> | <dictionary@x-tlb-hl>bila</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>びわ</tinellbian@x-tlb-hl> | <gloss><overline>3</overline></gloss>'
-                          - ' <dictionary@x-tlb-hl>nuru</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぬる</tinellbian@x-tlb-hl> | <gloss>4</gloss> | <dictionary@x-tlb-hl>missu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>みっす</tinellbian@x-tlb-hl> | <gloss><overline>4</overline></gloss>'
-                          - ' <dictionary@x-tlb-hl>guhi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぐひ</tinellbian@x-tlb-hl> | <gloss>5</gloss> | <dictionary@x-tlb-hl>laffi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>わっべ</tinellbian@x-tlb-hl> | <gloss><overline>5</overline></gloss>'
-                          - ' <dictionary@x-tlb-hl>’usi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>うせ</tinellbian@x-tlb-hl> | <gloss>6</gloss> | <dictionary@x-tlb-hl>siti</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>せて</tinellbian@x-tlb-hl> | <gloss><overline>6</overline></gloss>'
-                          - ' <dictionary@x-tlb-hl>salumi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>さをみ</tinellbian@x-tlb-hl> | <gloss>7</gloss> | <dictionary@x-tlb-hl>haki</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>はき</tinellbian@x-tlb-hl> | <gloss><overline>7</overline></gloss></table|numbers>'
+                          - ' <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>した </tinellbian@x-tlb-hl>| <gloss>1</gloss> | <dictionary@x-tlb-hl>mu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> | <overline><gloss>1</gloss></overline>'
+                          - ' <dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> | <gloss>2</gloss> | <dictionary@x-tlb-hl>kannu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>かっぬ</tinellbian@x-tlb-hl> | <overline><gloss>2</gloss></overline>'
+                          - ' <dictionary@x-tlb-hl>kifi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> | <gloss>3</gloss> | <dictionary@x-tlb-hl>bila</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>びわ</tinellbian@x-tlb-hl> | <overline><gloss>3</gloss></overline>'
+                          - ' <dictionary@x-tlb-hl>nuru</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぬる</tinellbian@x-tlb-hl> | <gloss>4</gloss> | <dictionary@x-tlb-hl>missu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>みっす</tinellbian@x-tlb-hl> | <overline><gloss>4</gloss></overline>'
+                          - ' <dictionary@x-tlb-hl>guhi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぐひ</tinellbian@x-tlb-hl> | <gloss>5</gloss> | <dictionary@x-tlb-hl>laffi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>わっべ</tinellbian@x-tlb-hl> | <overline><gloss>5</gloss></overline>'
+                          - ' <dictionary@x-tlb-hl>’usi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>うせ</tinellbian@x-tlb-hl> | <gloss>6</gloss> | <dictionary@x-tlb-hl>siti</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>せて</tinellbian@x-tlb-hl> | <overline><gloss>6</gloss></overline>'
+                          - ' <dictionary@x-tlb-hl>salumi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>さをみ</tinellbian@x-tlb-hl> | <gloss>7</gloss> | <dictionary@x-tlb-hl>haki</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>はき</tinellbian@x-tlb-hl> | <overline><gloss>7</gloss></overline></table|numbers>'
                           - The full form <dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> <gloss>zero</gloss> is only used when by itself, or first in a number or noun phrase. Otherwise, the clipped form <dictionary@x-tlb-hl>-hha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っは</tinellbian@x-tlb-hl> <gloss>ten</gloss> is used.
                           - <h3>Two-digit Numbers</h3>
                           - Numbers between <gloss>1<overline>7</overline></gloss> and <gloss>16</gloss> are composed of the quasi-prefix <dictionary@x-tlb-hl>sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> and the final two syllables of the number, except for <dictionary@x-tlb-hl>salura</dictionary@x-tlb-hl> (not <dictionary@x-tlb-hl>sara</dictionary@x-tlb-hl>) <gloss>12</gloss>.
@@ -730,11 +734,11 @@ entries:
                           - <h3>Other Numbers</h3>
                           - 'Other numbers include:'
                           - <wordlist><block><dictionary@x-tlb-hl>fixi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べし</tinellbian@x-tlb-hl> <gloss>the circle constant</gloss> <symbol>τ</symbol>
-                          - <dictionary@x-tlb-hl>du’ami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どあみ</tinellbian@x-tlb-hl> <gloss>the imaginary number</gloss> <symbol>i</symbol>
+                          - <dictionary@x-tlb-hl>du’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どあ</tinellbian@x-tlb-hl> <gloss>the imaginary number</gloss> <symbol>i</symbol>
                           - <dictionary@x-tlb-hl>’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>う</tinellbian@x-tlb-hl> <gloss>the base </gloss><symbol>e</symbol> <gloss>of the natural logarithm</gloss></block></wordlist>
-                          - <details|example><summary|folding><transliteration@x-tlb-hl>Fixi batu du’ami calu ’u ’anu xita.</transliteration@x-tlb-hl></summary|folding>
-                          - <tinellbian@x-tlb-hl>。べしばとどあみやをうあぬした。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>fixi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>batu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>du’ami</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>calu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’anu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl>
+                          - <details|example><summary|folding><transliteration@x-tlb-hl>Fixi batu du’a calu ’u ’anu xita.</transliteration@x-tlb-hl></summary|folding>
+                          - <tinellbian@x-tlb-hl>。べしばとどあやをうあぬした。</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>fixi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>batu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>du’a</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>calu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’anu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl>
                           - <gloss><symbol>τ</symbol> multiply <symbol>i</symbol> power <symbol>e</symbol> equals one.</gloss></details|example>
                           - “<symbol>e</symbol> to the power of <symbol>τ</symbol> times <symbol>i</symbol> equals one.”
                           - <h2>Ordinal Numbers</h2>
@@ -1372,11 +1376,11 @@ entries:
                         Nouns:
                           children:
                             Adverbs:
-                              date: '2025-04-22'
-                              position: '27.10'
+                              date: '2025-10-04'
+                              position: '79.23'
                               text:
                               - <h1>Adverbs</h1>
-                              - 'A closed subset of nouns can have an adverbial function. These adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See Also: <internal>../../syntax/dependentclauses/index.html#locationadverbialclauses|Adverbial Clauses</internal>'
+                              - 'A closed subset of nouns can have an adverbial function. These adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See also: <grammar-link@x-tlb-hl>Adverbial Clauses</grammar-link@x-tlb-hl>.'
                               - <wordlist><block><dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まった</tinellbian@x-tlb-hl> <gloss>also</gloss>
                               - <dictionary@x-tlb-hl>gicirri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎちっり</tinellbian@x-tlb-hl> <gloss>instead</gloss>
                               - <dictionary@x-tlb-hl>naku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なく</tinellbian@x-tlb-hl> <gloss>together</gloss>
@@ -1449,10 +1453,11 @@ entries:
                               - <dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むさ</tinellbian@x-tlb-hl> <gloss>today</gloss>
                               - <dictionary@x-tlb-hl>laru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わる</tinellbian@x-tlb-hl> <gloss>this year</gloss>
                               - <dictionary@x-tlb-hl>xima</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しま</tinellbian@x-tlb-hl> <gloss>in the morning</gloss>
-                              - <dictionary@x-tlb-hl>tariti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たりて</tinellbian@x-tlb-hl> <gloss>at noon</gloss>
+                              - <dictionary@x-tlb-hl>tiri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てり</tinellbian@x-tlb-hl> <gloss>at noon</gloss>
                               - <dictionary@x-tlb-hl>batari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばたり</tinellbian@x-tlb-hl> <gloss>in the afternoon</gloss>
                               - <dictionary@x-tlb-hl>dumi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どみ</tinellbian@x-tlb-hl> <gloss>at night</gloss>
-                              - <dictionary@x-tlb-hl>hami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はみ</tinellbian@x-tlb-hl> <gloss>at midnight</gloss></block></wordlist>
+                              - <dictionary@x-tlb-hl>hami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はみ</tinellbian@x-tlb-hl> <gloss>at midnight</gloss>
+                              - <dictionary@x-tlb-hl>hamitirita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はみてりた</tinellbian@x-tlb-hl> <gloss>always</gloss></block></wordlist>
                               - Numbers can be suffixed to denote other times.
                               - <wordlist><block><details|folding><summary|folding><transliteration@x-tlb-hl>musahha</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>むさっは</tinellbian@x-tlb-hl>
@@ -1612,8 +1617,8 @@ entries:
                         Suffixes:
                           children:
                             Cisclass:
-                              date: '2025-04-22'
-                              position: '47.19'
+                              date: '2025-10-04'
+                              position: '55.17'
                               text:
                               - <h1>Cisclass</h1>
                               - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
@@ -1665,11 +1670,12 @@ entries:
                               - The suffix <dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> derives nouns which are somehow distinct from their stem.
                               - <wordlist><block><dictionary@x-tlb-hl>daruli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だるえ</tinellbian@x-tlb-hl> <gloss>wrong way</gloss>
                               - <dictionary@x-tlb-hl>gusuli</dictionary@x-tlb-hl> <gloss>non-guozu person</gloss></block></wordlist>
-                              - The names of parts of the body are derived using <dictionary@x-tlb-hl>-kku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っく</tinellbian@x-tlb-hl> on either nouns or verbs.
+                              - The names of parts of the body are derived from either nouns or verbs using <dictionary@x-tlb-hl>-kku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っく</tinellbian@x-tlb-hl> for the physical body, and <dictionary@x-tlb-hl>-si</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せ</tinellbian@x-tlb-hl> for the subtle.
                               - <wordlist><block><dictionary@x-tlb-hl>’itikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっく</tinellbian@x-tlb-hl> <gloss>breast</gloss>
                               - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss></block>
-                              - <block><dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss></block></wordlist>
-                              - The animate giver of the inanimate or abstract base is denoted by <dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>.
+                              - <block><dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss></block>
+                              - <block><dictionary@x-tlb-hl>tirusi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てるせ</tinellbian@x-tlb-hl> <gloss>memory</gloss></block></wordlist>
+                              - The giver of the inanimate or abstract base is denoted by <dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>.
                               - <wordlist><block><dictionary@x-tlb-hl>’aggami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police officer</gloss> / <gloss>law giver</gloss>
                               - <dictionary@x-tlb-hl>Sa’imi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss> / <gloss>light giver</gloss></block></wordlist>
                               - The animate user of an inanimate item is denoted by <dictionary@x-tlb-hl>-nissa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>にっさ</tinellbian@x-tlb-hl>.
@@ -2175,6 +2181,10 @@ entries:
                           - <gloss>think-surroundings</gloss></details|folding>
                           - “to be conscious”</block></wordlist>
                           title: High Lulani Verbs - A Grammar of the Tinellbian Languages
+                        Adverbs:
+                          title: ''
+                          text: []
+                          position: '1.0'
                       date: '2024-05-11'
                       position: '1.0'
                       text:
@@ -4182,6 +4192,19 @@ entries:
                       - <h1>Syntax</h1>
                       - High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.
                       title: High Lulani Syntax - A Grammar of the Tinellbian Languages
+                    Adverbs:
+                      title: ''
+                      text: []
+                      position: '1.0'
+                    Nouns:
+                      title: ''
+                      text: []
+                      position: '1.0'
+                      children:
+                        Adverbs:
+                          title: ''
+                          text: []
+                          position: '1.0'
                   date: '2025-04-13'
                   position: '1.11'
                   text:
