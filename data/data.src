@@ -503,7 +503,7 @@ entries:
                           - ' |  |  |  |  | <multiline><dictionary@x-tlb-hl>’i’isata</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いいさた</tinellbian@x-tlb-hl> <gloss>samarium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>sussi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すっせ</tinellbian@x-tlb-hl> <gloss>plutonium</gloss></multiline>'
                           - ' |  |  |  |  | <multiline><dictionary@x-tlb-hl>’uccadama</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うっやだま</tinellbian@x-tlb-hl> <gloss>prometheum</gloss></multiline> | <multiline><dictionary@x-tlb-hl>xasagi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざさぎ</tinellbian@x-tlb-hl> <gloss>neptunium</gloss></multiline>'
                           - ' |  |  |  |  | <multiline><dictionary@x-tlb-hl>fibaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べばく</tinellbian@x-tlb-hl> <gloss>neodymium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>kari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かり</tinellbian@x-tlb-hl> <gloss>uranium</gloss></multiline>'
-                          - ' |  |  |  |  | <multiline><dictionary@x-tlb-hl>raʔasa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らっあさ</tinellbian@x-tlb-hl> <gloss>praseodymium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>lakatti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わかって</tinellbian@x-tlb-hl> <gloss>protactinium</gloss></multiline>'
+                          - ' |  |  |  |  | <multiline><dictionary@x-tlb-hl>raʔasa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らっあさ</tinellbian@x-tlb-hl> <gloss>praseodymium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>katti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かって</tinellbian@x-tlb-hl> <gloss>protactinium</gloss></multiline>'
                           - ' |  |  |  |  | <multiline><dictionary@x-tlb-hl>’a’ami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ああみ</tinellbian@x-tlb-hl> <gloss>cerium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>paraba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱらば</tinellbian@x-tlb-hl> <gloss>thorium</gloss></multiline>'
                           - ' |  |  | <multiline><dictionary@x-tlb-hl>cakina</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やきな</tinellbian@x-tlb-hl> <gloss>scandium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>’aqqixi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっねし</tinellbian@x-tlb-hl> <gloss>yttrium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>xanaki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざなき</tinellbian@x-tlb-hl> <gloss>lanthanum</gloss></multiline> | <multiline><dictionary@x-tlb-hl>na’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なあ</tinellbian@x-tlb-hl> <gloss>actinium</gloss></multiline>'
                           - ' | <multiline><dictionary@x-tlb-hl>fiqqala</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べっげわ</tinellbian@x-tlb-hl> <gloss>beryllium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>xaki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざき</tinellbian@x-tlb-hl> <gloss>magnesium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>qaxa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げざ</tinellbian@x-tlb-hl> <gloss>calcium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>’aru’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あるう</tinellbian@x-tlb-hl> <gloss>strontium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>baca</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばや</tinellbian@x-tlb-hl> <gloss>barium</gloss></multiline> | <multiline><dictionary@x-tlb-hl>’ilasa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いわさ</tinellbian@x-tlb-hl> <gloss>radium</gloss></multiline>'
@@ -591,7 +591,7 @@ entries:
                           - <dictionary@x-tlb-hl>dina</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>でな</tinellbian@x-tlb-hl> <gloss>potassium</gloss>
                           - <dictionary@x-tlb-hl>raʔasa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らっあさ</tinellbian@x-tlb-hl> <gloss>praseodymium</gloss>
                           - <dictionary@x-tlb-hl>’uccadama</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うっやだま</tinellbian@x-tlb-hl> <gloss>prometheum</gloss>
-                          - <dictionary@x-tlb-hl>lakatti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わかって</tinellbian@x-tlb-hl> <gloss>protactinium</gloss>
+                          - <dictionary@x-tlb-hl>katti</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かって</tinellbian@x-tlb-hl> <gloss>protactinium</gloss>
                           - <dictionary@x-tlb-hl>’ilasa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いわさ</tinellbian@x-tlb-hl> <gloss>radium</gloss>
                           - <dictionary@x-tlb-hl>fasami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へさみ</tinellbian@x-tlb-hl> <gloss>radon</gloss>
                           - <dictionary@x-tlb-hl>hasuki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はすき</tinellbian@x-tlb-hl> <gloss>rhenium</gloss>
@@ -1383,7 +1383,7 @@ entries:
                               - <dictionary@x-tlb-hl>basa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばさ</tinellbian@x-tlb-hl> <gloss>unlawfully</gloss></block></wordlist>
                               - <h2>Purpose</h2>
                               - <wordlist><block><dictionary@x-tlb-hl>piddi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぴっで</tinellbian@x-tlb-hl> <gloss>on purpose</gloss>
-                              - <dictionary@x-tlb-hl>qiriji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ねりじ</tinellbian@x-tlb-hl> <gloss>with effort</gloss>
+                              - <dictionary@x-tlb-hl>riji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>りじ</tinellbian@x-tlb-hl> <gloss>with effort</gloss>
                               - <dictionary@x-tlb-hl>bata</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばた</tinellbian@x-tlb-hl> <gloss>carefully</gloss>
                               - <dictionary@x-tlb-hl>hibu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひぶ</tinellbian@x-tlb-hl> <gloss>allow oneself to</gloss>
                               - <dictionary@x-tlb-hl>dumi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どみ</tinellbian@x-tlb-hl> <gloss>try</gloss> <gloss>to</gloss>
@@ -1734,8 +1734,8 @@ entries:
                               - <dictionary@x-tlb-hl>-na’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なう</tinellbian@x-tlb-hl> <gloss>will be</gloss></block></wordlist>
                               title: High Lulani Determiners - A Grammar of the Tinellbian Languages
                             Transclass:
-                              date: '2025-03-25'
-                              position: '26.25'
+                              date: '2025-10-04'
+                              position: '35.24'
                               text:
                               - <h1>Transclass</h1>
                               - These tend to move words from one part of speech to another.
@@ -1769,8 +1769,9 @@ entries:
                               - <wordlist><block><dictionary@x-tlb-hl>malaki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まわき</tinellbian@x-tlb-hl> <gloss>mirror</gloss>
                               - <dictionary@x-tlb-hl>lu’iki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss>
                               - <dictionary@x-tlb-hl>bumaki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶまき</tinellbian@x-tlb-hl> <gloss>screen</gloss></block></wordlist>
-                              - The patientive suffix <dictionary@x-tlb-hl>-du</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ど</tinellbian@x-tlb-hl> is applied to <strong>stem</strong> verbs.
+                              - The patientive suffix <dictionary@x-tlb-hl>-du</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ど</tinellbian@x-tlb-hl> is applied to nouns or stem verbs or nouns.
                               - <wordlist><block><dictionary@x-tlb-hl>dasidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせど</tinellbian@x-tlb-hl> <gloss>food</gloss>
+                              - <dictionary@x-tlb-hl>kassudu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっすど</tinellbian@x-tlb-hl> <gloss>trade goods</gloss>
                               - <dictionary@x-tlb-hl>maladu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まわど</tinellbian@x-tlb-hl> <gloss>reflection</gloss></block></wordlist>
                               - The instrumental suffix <dictionary@x-tlb-hl>-ffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っべ</tinellbian@x-tlb-hl> is applied to a verb.
                               - <wordlist><block><dictionary@x-tlb-hl>dasiffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっべ</tinellbian@x-tlb-hl> <gloss>cutlery, tools for eating</gloss>
@@ -2347,8 +2348,8 @@ entries:
                     Phonology:
                       children:
                         Consonants:
-                          date: '2024-05-26'
-                          position: '81.21'
+                          date: '2025-10-04'
+                          position: '102.7'
                           text:
                           - <h1>Consonants</h1>
                           - Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
@@ -2451,7 +2452,7 @@ entries:
                           - The fricative <ipa@x-tlb-hl>/s/</ipa@x-tlb-hl> is apical.
                           - <wordlist><block><dictionary@x-tlb-hl>sikka</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈ<strong>s</strong>ikːə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>せっか</tinellbian@x-tlb-hl> <gloss>skin</gloss>
                           - <dictionary@x-tlb-hl>husabi</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/huˈ<strong>s</strong>abɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ほさび</tinellbian@x-tlb-hl> <gloss>finger</gloss>
-                          - <dictionary@x-tlb-hl>’alissa</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ʔəˈli<strong>sː</strong>ə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>あえっさ</tinellbian@x-tlb-hl> <gloss>requirement</gloss></block></wordlist>
+                          - <dictionary@x-tlb-hl>lissa</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈli<strong>sː</strong>ə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>あえっさ</tinellbian@x-tlb-hl> <gloss>requirement</gloss></block></wordlist>
                           - <h3>Palatal</h3>
                           - The palatal fricative <ipa@x-tlb-hl>/ɕ/</ipa@x-tlb-hl> is laminal.
                           - <wordlist><block><dictionary@x-tlb-hl>xaha</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈ<strong>ɕ</strong>ahə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ざは</tinellbian@x-tlb-hl> <gloss>name</gloss>
@@ -3200,9 +3201,9 @@ entries:
                       - <gloss><abbr>1int</abbr> speak-question <abbr>com</abbr> <abbr>2int</abbr> experience-hunger <abbr>pst;sta</abbr> now.</gloss>
                       - I now ask that you are hungry.</details|folding>
                       - I just asked if you were hungry.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Filli kal·li ’usu majja ra’u qidaccatu’i gi’a, ’usu ’adi ru xiku kalupasani gusuli’adipahi padissu qiriji qixa mihunisa.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。べっえかをえうすまっぢらうねだっやとい・ぎあ、うすあでるしくかをぱさにぐすえあでぱひぱでっすねりじねざみほにさ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>filli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dacca</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-tu’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gi’a</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>sani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gusu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-pahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qiriji</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl>.
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Filli kal·li ’usu majja ra’u qidaccatu’i gi’a, ’usu ’adi ru xiku kalupasani gusuli’adipahi padissu riji qixa mihunisa.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。べっえかをえうすまっぢらうねだっやとい・ぎあ、うすあでるしくかをぱさにぐすえあでぱひぱでっすりじねざみほにさ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>filli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dacca</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-tu’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gi’a</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>sani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gusu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-pahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>riji</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl>.
                       - <gloss><abbr>2int</abbr> <abbr>abl</abbr>-<abbr>com</abbr> <abbr>1int</abbr> here <abbr>prs;sta</abbr> experience-luck-positive_aspect that_is, <abbr>1int</abbr> near <abbr>prs;gno</abbr> <abbr>rel</abbr> <abbr>abl</abbr>-towards-north person-not-near-<abbr>1gen</abbr> think-new bother <abbr>pst;dyn</abbr> <abbr>3ani;int</abbr>-only.</gloss>
                       - You are experiencing good luck from me being here, that is, I am nearby the only she who bothered to learn from our near people towards the north.</details|folding>
                       - You’re lucky to have me; I’m the only one around here who bothered to learn from our northern neighbours.
