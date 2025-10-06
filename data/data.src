@@ -1613,8 +1613,8 @@ entries:
                         Suffixes:
                           children:
                             Cisclass:
-                              date: '2025-10-04'
-                              position: '55.17'
+                              date: '2025-10-06'
+                              position: '47.35'
                               text:
                               - <h1>Cisclass</h1>
                               - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
@@ -1635,9 +1635,9 @@ entries:
                               - <h2>Nominal suffixes</h2>
                               - These derive nouns from other nouns.
                               - <desktop><table><thead>|h inanimate base |h abstract base</thead>
-                              - <tbody>h animate | <multiline><dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>り。さ</tinellbian@x-tlb-hl></multiline>
-                              - h inanimate || <multiline><dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl></multiline>
-                              - h abstract | <multiline><dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った。ぢ</tinellbian@x-tlb-hl></multiline> |</tbody></table></desktop>
+                              - <tbody>h animate | <multiline><dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>り、さ</tinellbian@x-tlb-hl></multiline>
+                              - h inanimate || <multiline><dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で、り</tinellbian@x-tlb-hl></multiline>
+                              - h abstract | <multiline><dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った、ぢ</tinellbian@x-tlb-hl></multiline> |</tbody></table></desktop>
                               - <mobile>inanimate
                               - '<ul> → animate: <dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl>'
                               - ' → abstract: <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl></ul>'
@@ -1658,6 +1658,11 @@ entries:
                               - <dictionary@x-tlb-hl>’asilari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あせわり</tinellbian@x-tlb-hl> <gloss>friend</gloss></block></wordlist>
                               - The <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> suffix also denotes people from a particular place.
                               - <wordlist><block><dictionary@x-tlb-hl>Tinalli</dictionary@x-tlb-hl>ri <tinellbian@x-tlb-hl>てなっえり</tinellbian@x-tlb-hl> <gloss>Tinellbian</gloss></block></wordlist>
+                              - Words suffixed with <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> have had their meaning extended to refer to instruments.
+                              - <wordlist><block><dictionary@x-tlb-hl>cahuri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やほり</tinellbian@x-tlb-hl> <gloss>merchant / market stall</gloss>
+                              - <dictionary@x-tlb-hl>kamiri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かみり</tinellbian@x-tlb-hl> <gloss>farmer / pen</gloss>
+                              - '<dictionary@x-tlb-hl>gufu’iri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふいり</tinellbian@x-tlb-hl> <gloss>radio operator / radio receiver</gloss> '
+                              - <dictionary@x-tlb-hl>salari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さわり</tinellbian@x-tlb-hl> <gloss>makeup artist / antimony</gloss></block></wordlist>
                               - The suffix <dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl> derives an inanimate noun from something abstract.
                               - <wordlist><block><dictionary@x-tlb-hl>sinnadi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せっなで</tinellbian@x-tlb-hl> <gloss>book</gloss></block></wordlist>
                               - The suffix <dictionary@x-tlb-hl>-ji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl> derives an abstract noun from an inanimate count noun, whereas <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl> is used with inanimate mass nouns.
@@ -2348,8 +2353,8 @@ entries:
                     Phonology:
                       children:
                         Consonants:
-                          date: '2025-10-04'
-                          position: '102.7'
+                          date: '2025-10-06'
+                          position: '92.202'
                           text:
                           - <h1>Consonants</h1>
                           - Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
@@ -2446,7 +2451,7 @@ entries:
                           - <h3>Labial</h3>
                           - The fricative <ipa@x-tlb-hl>/f/</ipa@x-tlb-hl> is realised as labiodental.
                           - <wordlist><block><dictionary@x-tlb-hl>faxi</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈ<strong>f</strong>aɕɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>へし</tinellbian@x-tlb-hl> <gloss>to survive</gloss>
-                          - <dictionary@x-tlb-hl>bufiqi</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/bʉˈ<strong>f</strong>iŋɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべね</tinellbian@x-tlb-hl> <gloss>illness</gloss>
+                          - <dictionary@x-tlb-hl>bufi</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈbu<strong>f</strong>ɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべ</tinellbian@x-tlb-hl> <gloss>stone</gloss>
                           - <dictionary@x-tlb-hl>’iffa</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈʔi<strong>fː</strong>ə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl> <gloss>it</gloss></block></wordlist>
                           - <h3>Alveolar</h3>
                           - The fricative <ipa@x-tlb-hl>/s/</ipa@x-tlb-hl> is apical.
@@ -2596,8 +2601,8 @@ entries:
                       title: High Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: {}
-                      date: '2025-10-04'
-                      position: '7.29'
+                      date: '2025-10-06'
+                      position: '264.95'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><abternal-link>Prelude</abternal-link></cite>, the first chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite><interlinear>
@@ -2859,10 +2864,10 @@ entries:
                       - <gloss>Touch-hold hand-<abbr>3ani;gen</abbr> and_then, on-chest put-<abbr>3ina;int</abbr> and, name-<abbr>gen</abbr> self say.</gloss>
                       - (He) grabs her hand, and then put it on (his) chest, and says his own name.</details|folding>
                       - He reached out for her hand, placed it on his chest, and said his own name.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kal·ulu dusunidisi cani padissu li xahaqa ’umi ru.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。かをえよせぢっぬをどすにでせやにぱでっすえざはげうみる。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jusi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ulu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dusuni</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-disi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xaha</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’umi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl>.
-                      - <gloss><abbr>abl</abbr>-<abbr>com</abbr> 3ani;<abbr>dat</abbr> move-undo hand-<abbr>3ani;gen</abbr> <abbr>prs;dyn</abbr> think-new <abbr>com</abbr> name-<abbr>3ani;gen</abbr> something <abbr>prs;gno</abbr>.</gloss>
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kal·li jusi jannulu ’asadisi cani padissu li xahaqa ’umi ru.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。かをえよせぢっぬをあさでせやにぱでっすえざはげうみる。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jusi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ulu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’asa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-disi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xaha</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’umi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl>.
+                      - <gloss><abbr>abl</abbr>-<abbr>com</abbr> </gloss><abbr>3ani;dat</abbr><gloss> move-undo hand-<abbr>3ani;gen</abbr> <abbr>prs;dyn</abbr> think-new <abbr>com</abbr> name-<abbr>3ani;gen</abbr> something <abbr>prs;gno</abbr>.</gloss>
                       - (He) learned what her name is from un-moving her hand to her.</details|folding>
                       - Moving her hand back to her, he learned her name.</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Kurila.</transliteration@x-tlb-hl></summary|folding>
@@ -2883,9 +2888,9 @@ entries:
                       - <gloss><abbr>dat</abbr>-daughter speak-fin<abbr>ger</abbr> <abbr>com</abbr> move-across-<abbr>ger</abbr>-<abbr>3ani;gen</abbr> rise MT:<ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt> allow <abbr>fut;dyn</abbr>.</gloss>
                       - (He) finger-speaks to the daughter that her movement across will allow Qōla to rise.</details|folding>
                       - He motioned to his daughter to move across to allow Corla to ascend.</paragraph>
-                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Kurila ni’u’ilikasi kikacaqaraluminisa pi, maqa raqura tuhhisa gupi fiha.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。くりわにういえかせきかやげらをみにさぴ、まげ・らもらとっひさぐぴべは。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>Kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’u’ili</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kika</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>caqara</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lumi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>raqu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tuhhi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gupi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fiha</dictionary@x-tlb-hl>.
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Kurila ni’u’ilikasi kikacaqaluminisa pi, maqa raqura tuhhisa gupi fiha.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。くりわにういえかせきかやげをみにさぴ、まげ・らもらとっひさぐぴべは。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>Kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’u’ili</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kika</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>caqa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lumi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>raqu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tuhhi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gupi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fiha</dictionary@x-tlb-hl>.
                       - <gloss>MT:<ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt> in-reality-that over-hours-several-only <abbr>pst;sta</abbr>, when-down between-two farm-<abbr>nmn</abbr> sit safety.</gloss>
                       - Since Qōla was in that reality for only several hours, (she) sits in safety between two farm people.</details|folding>
                       - Within only a few hours in this world, Corla had found herself firmly ensconced between the two farmers.
