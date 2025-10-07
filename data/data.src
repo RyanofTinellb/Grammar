@@ -1025,8 +1025,8 @@ entries:
                         Deixis:
                           children:
                             Indefinite Pro-forms:
-                              date: '2025-10-04'
-                              position: '143.28'
+                              date: '2025-10-07'
+                              position: '100.10'
                               text:
                               - <h1>Indefinite Pro-forms</h1>
                               - The indefinite pro-forms are sets of deictic words which can be placed into a table.
@@ -1127,9 +1127,9 @@ entries:
                               - <dictionary@x-tlb-hl>taka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-cu</dictionary@x-tlb-hl>
                               - <gloss>sound-nothing</gloss></details|folding>
                               - “no sound”
-                              - <details|folding><summary|folding><transliteration@x-tlb-hl>manafamari</transliteration@x-tlb-hl></summary|folding>
-                              - <tinellbian@x-tlb-hl>まなへまり</tinellbian@x-tlb-hl>
-                              - <dictionary@x-tlb-hl>manafa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-mari</dictionary@x-tlb-hl>
+                              - <details|folding><summary|folding><transliteration@x-tlb-hl>kanafamari</transliteration@x-tlb-hl></summary|folding>
+                              - <tinellbian@x-tlb-hl>かなへまり</tinellbian@x-tlb-hl>
+                              - <dictionary@x-tlb-hl>kanafa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-mari</dictionary@x-tlb-hl>
                               - <gloss>country-this</gloss></details|folding>
                               - “this country”
                               - <details|folding><summary|folding><transliteration@x-tlb-hl>lulanimi</transliteration@x-tlb-hl></summary|folding>
