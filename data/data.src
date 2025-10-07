@@ -2353,8 +2353,8 @@ entries:
                     Phonology:
                       children:
                         Consonants:
-                          date: '2025-10-06'
-                          position: '92.202'
+                          date: '2025-10-07'
+                          position: '48.15'
                           text:
                           - <h1>Consonants</h1>
                           - Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
@@ -2403,7 +2403,7 @@ entries:
                           - <dictionary@x-tlb-hl>xuci</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈɕu<strong>cʰ</strong>ɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ずち</tinellbian@x-tlb-hl> <gloss>feather</gloss>
                           - <dictionary@x-tlb-hl>nacca</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈna<strong>cː</strong>ə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>なっや</tinellbian@x-tlb-hl> <gloss>clothing</gloss>
                           - <dictionary@x-tlb-hl>jagaru</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/<strong>ɟ</strong>əˈgaɽʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ぢがる</tinellbian@x-tlb-hl> <gloss>sand</gloss>
-                          - <dictionary@x-tlb-hl>sajimu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/səˈ<strong>ɟ</strong>imʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>さじむ</tinellbian@x-tlb-hl> <gloss>crack</gloss>
+                          - <dictionary@x-tlb-hl>dajabi</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/dəˈ<strong>ɟ</strong>abɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>だぢび</tinellbian@x-tlb-hl> <gloss>reading</gloss>
                           - <dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈma<strong>ɟʱː</strong>ə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl> <gloss>here</gloss></block></wordlist>
                           - <h3>Velars</h3>
                           - The velar plosives are <ipa@x-tlb-hl>/k/</ipa@x-tlb-hl> and <ipa@x-tlb-hl>/g/</ipa@x-tlb-hl>.
