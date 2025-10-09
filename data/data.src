@@ -1613,22 +1613,25 @@ entries:
                         Suffixes:
                           children:
                             Cisclass:
-                              date: '2025-10-06'
-                              position: '47.35'
+                              date: '2025-10-09'
+                              position: '16.16'
                               text:
                               - <h1>Cisclass</h1>
                               - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
                               - The augmentative <dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・あく</tinellbian@x-tlb-hl> is most often attached to nouns to reference something large or important. It is rarely used for people.
                               - <wordlist><block><dictionary@x-tlb-hl>tissaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっさく</tinellbian@x-tlb-hl> <gloss>wind</gloss>
                               - <dictionary@x-tlb-hl>’isilaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いせわく</tinellbian@x-tlb-hl> <gloss>depression</gloss></block></wordlist>
+                              - The suffix <dictionary@x-tlb-hl>-ira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、いら</tinellbian@x-tlb-hl> intensifies its referent.
+                              - <wordlist><block><dictionary@x-tlb-hl>kupira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>くぴら</tinellbian@x-tlb-hl> <gloss>intensely</gloss>
+                              - <dictionary@x-tlb-hl>fira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べら</tinellbian@x-tlb-hl> <gloss>want</gloss></block></wordlist>
                               - The diminutive <dictionary@x-tlb-hl>-ini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・いに</tinellbian@x-tlb-hl> is used to form words which reference something small or unimportant. When used with animate nouns, it creates a word for the young of non-sapient creatures. However, with sapient creatures, this word is obscene.
                               - <wordlist><block><dictionary@x-tlb-hl>’ahatini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あはてに</tinellbian@x-tlb-hl> <gloss>contentment</gloss>
                               - <dictionary@x-tlb-hl>tissini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっせに</tinellbian@x-tlb-hl> <gloss>breeze</gloss>
                               - <dictionary@x-tlb-hl>ranini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らにに</tinellbian@x-tlb-hl> <gloss>potato chips</gloss></block>
                               - <block><dictionary@x-tlb-hl>bi’ini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>びいに</tinellbian@x-tlb-hl> <gloss>to itch</gloss></block></wordlist>
-                              - The honorific <dictionary@x-tlb-hl>-fi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl> confers a nuance of sacredness upon a base word.
-                              - <wordlist><block><dictionary@x-tlb-hl>karafi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>からべ</tinellbian@x-tlb-hl> <gloss>sacredness</gloss>
-                              - <dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl><b>fi</b> <tinellbian@x-tlb-hl>をわにべ</tinellbian@x-tlb-hl> <gloss>great queen</gloss></block></wordlist>
+                              - There are two honorific suffixes, <dictionary@x-tlb-hl>-fi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl> for sacred things, and <dictionary@x-tlb-hl>-ni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> for exalted.
+                              - <wordlist><block><dictionary@x-tlb-hl>karafi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>からべ</tinellbian@x-tlb-hl> <gloss>sacredness</gloss></block>
+                              - <block><dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> <gloss>queen</gloss></block></wordlist>
                               - The pair <dictionary@x-tlb-hl>-tu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とい</tinellbian@x-tlb-hl> and <dictionary@x-tlb-hl>-da</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> are used to highlight the positive and negative aspects of a word, respectively.
                               - <wordlist><block><dictionary@x-tlb-hl>dasatu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださとい</tinellbian@x-tlb-hl> <gloss>passion</gloss> / <dictionary@x-tlb-hl>dasada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださだ</tinellbian@x-tlb-hl> <gloss>anger</gloss>
                               - <dictionary@x-tlb-hl>ta’itu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいとい</tinellbian@x-tlb-hl> <gloss>aroma</gloss> / <dictionary@x-tlb-hl>ta’ida</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいだ</tinellbian@x-tlb-hl> <gloss>stink</gloss></block></wordlist>
