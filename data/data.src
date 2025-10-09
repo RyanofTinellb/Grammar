@@ -1025,11 +1025,11 @@ entries:
                         Deixis:
                           children:
                             Indefinite Pro-forms:
-                              date: '2025-10-07'
-                              position: '100.10'
+                              date: '2025-10-10'
+                              position: '2.56'
                               text:
                               - <h1>Indefinite Pro-forms</h1>
-                              - The indefinite pro-forms are sets of deictic words which can be placed into a table.
+                              - The indefinite pro-forms are sets of deictic words that can be placed into a table.
                               - <desktop><table><thead>hr2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
                               - h noun |h determiner</thead>
                               - <tbody>h proximate | <multiline><dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-mari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>marila</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>madusi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>marika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl></multiline>
@@ -1194,8 +1194,8 @@ entries:
                               - “This is some kind of treasure.”
                               title: High Lulani Indefinite Pro-forms - A Grammar of the Tinellbian Languages
                             Personal Pro-forms:
-                              date: '2024-05-18'
-                              position: '65.15'
+                              date: '2025-10-10'
+                              position: '43.27'
                               text:
                               - <h1>Personal Pro-forms</h1>
                               - These are a closed class. They are marked for <grammar-link@x-tlb-hl>case</grammar-link@x-tlb-hl> and <external>https://en.wikipedia.org/wiki/Grammatical_person|person</external>. The third person pronouns are additionally marked for topicality or <grammar-link@x-tlb-hl>animacy</grammar-link@x-tlb-hl>. The alienable genitive acts as the nominal head of a possessive phrase, the inalienable genitive is a determiner, and the other pronouns all act as nouns.
