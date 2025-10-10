@@ -1025,8 +1025,8 @@ entries:
                         Deixis:
                           children:
                             Indefinite Pro-forms:
-                              date: '2025-10-10'
-                              position: '2.56'
+                              date: '2025-10-11'
+                              position: '129.21'
                               text:
                               - <h1>Indefinite Pro-forms</h1>
                               - The indefinite pro-forms are sets of deictic words that can be placed into a table.
@@ -1154,9 +1154,9 @@ entries:
                               - “every me and every you”</block></wordlist>
                               - <h2>Place</h2>
                               - 'Place pronouns are used for locations in any, some or all of: space, time, reality and <dictionary@en>gingla</dictionary@en>. They can function as <grammar-link@x-tlb-hl>adverbial adpositions</grammar-link@x-tlb-hl>,'
-                              - <details|example><summary|folding><transliteration@x-tlb-hl>Xudda majja dasi da.</transliteration@x-tlb-hl></summary|folding>
-                              - <tinellbian@x-tlb-hl>。ずっだまっぢだせだ。</tinellbian@x-tlb-hl>
-                              - <dictionary@x-tlb-hl>xudda</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>da</dictionary@x-tlb-hl>.
+                              - <details|example><summary|folding><transliteration@x-tlb-hl>Cufilu majja dasi da.</transliteration@x-tlb-hl></summary|folding>
+                              - <tinellbian@x-tlb-hl>。ゆべをまっぢだせだ。</tinellbian@x-tlb-hl>
+                              - <dictionary@x-tlb-hl>cufilu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>da</dictionary@x-tlb-hl>.
                               - <gloss>Elephant here consume water.</gloss></details|example>
                               - “The elephant drank water here” / “The elephant is drinking water now.”
                               - or as nouns.
@@ -1823,8 +1823,8 @@ entries:
                         Verbs:
                           children:
                             Ambitransitive:
-                              date: '2025-03-17'
-                              position: '37.29'
+                              date: '2025-10-11'
+                              position: '24.14'
                               text:
                               - <h1>Ambitransitive</h1>
                               - Ambitransitive verbs can be used with or without an argument in the object position.
@@ -1848,7 +1848,8 @@ entries:
                               - <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>lasida</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ju’isatadu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usa</dictionary@x-tlb-hl>.
                               - <gloss><abbr>3ani;int</abbr> <abbr>dat</abbr>-secret-seem conversation-</gloss><abbr>ger</abbr><gloss> see.</gloss></details|example>
                               - “She saw the secret meeting.”
-                              - <wordlist><block><dictionary@x-tlb-hl>’usa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl> <gloss>to see</gloss>
+                              - <wordlist><block><dictionary@x-tlb-hl>nalu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なを</tinellbian@x-tlb-hl> <gloss>to sense</gloss>
+                              - <dictionary@x-tlb-hl>’usa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl> <gloss>to see</gloss>
                               - <dictionary@x-tlb-hl>hulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ほを</tinellbian@x-tlb-hl> <gloss>to hear</gloss>
                               - <dictionary@x-tlb-hl>cussi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっせ</tinellbian@x-tlb-hl> <gloss>to feel</gloss>
                               - <dictionary@x-tlb-hl>ji’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>じい</tinellbian@x-tlb-hl> <gloss>to taste</gloss>
