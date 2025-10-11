@@ -1613,8 +1613,8 @@ entries:
                         Suffixes:
                           children:
                             Cisclass:
-                              date: '2025-10-09'
-                              position: '16.16'
+                              date: '2025-10-11'
+                              position: '25.38'
                               text:
                               - <h1>Cisclass</h1>
                               - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
@@ -1639,11 +1639,11 @@ entries:
                               - These derive nouns from other nouns.
                               - <desktop><table><thead>|h inanimate base |h abstract base</thead>
                               - <tbody>h animate | <multiline><dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>り、さ</tinellbian@x-tlb-hl></multiline>
-                              - h inanimate || <multiline><dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で、り</tinellbian@x-tlb-hl></multiline>
-                              - h abstract | <multiline><dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った、ぢ</tinellbian@x-tlb-hl></multiline> |</tbody></table></desktop>
+                              - h inanimate || <multiline><dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り、で</tinellbian@x-tlb-hl></multiline>
+                              - h abstract | <multiline><dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>は、った、ぢ</tinellbian@x-tlb-hl></multiline> |</tbody></table></desktop>
                               - <mobile>inanimate
                               - '<ul> → animate: <dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl>'
-                              - ' → abstract: <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl></ul>'
+                              - ' → abstract: <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>-ha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl></ul>'
                               - abstract
                               - '<ul> → animate: <dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl>'
                               - ' → inanimate: <dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl></ul></mobile>'
