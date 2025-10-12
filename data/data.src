@@ -785,8 +785,8 @@ entries:
                     Morphology:
                       children:
                         Adpositions:
-                          date: '2025-04-25'
-                          position: '118.7'
+                          date: '2025-10-12'
+                          position: '93.14'
                           text:
                           - <h1>Adpositions</h1>
                           - Adpositions are a closed class. They can be used in three different ways.
@@ -871,15 +871,17 @@ entries:
                           - These are used to mark the standard of a <grammar-link@x-tlb-hl>comparison</grammar-link@x-tlb-hl>.
                           - <wordlist><block><dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>equative</gloss> (+<abbr>dat</abbr>)
                           - <dictionary@x-tlb-hl>su</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>comparative</gloss> (+<abbr>abl</abbr>)</block></wordlist>
-                          - <h3>Directions</h3>
+                          - <h3>Direction</h3>
                           - This list includes both relative and absolute terms.
                           - <wordlist><block><dictionary@x-tlb-hl>saqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さげ</tinellbian@x-tlb-hl><gloss> right</gloss>
                           - <dictionary@x-tlb-hl>gi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎ</tinellbian@x-tlb-hl> <gloss>left</gloss></block>
                           - <block><dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>south</gloss>
                           - <dictionary@x-tlb-hl>sumika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すみか</tinellbian@x-tlb-hl> <gloss>west</gloss>
                           - <dictionary@x-tlb-hl>sani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さに</tinellbian@x-tlb-hl> <gloss>north</gloss>
-                          - <dictionary@x-tlb-hl>gibi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎび</tinellbian@x-tlb-hl> <gloss>east</gloss></block></wordlist>
-                          - <h3>Locations</h3>
+                          - <dictionary@x-tlb-hl>gibi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎび</tinellbian@x-tlb-hl> <gloss>east</gloss></block>
+                          - <block><dictionary@x-tlb-hl>rasu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らす</tinellbian@x-tlb-hl> <gloss>widdershins</gloss>
+                          - <dictionary@x-tlb-hl>sumi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すみ</tinellbian@x-tlb-hl> <gloss>deasil</gloss></block></wordlist>
+                          - <h3>Location</h3>
                           - These can be used to refer to locations in either space or time.
                           - <wordlist><block><dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あで</tinellbian@x-tlb-hl> <gloss>near</gloss> / <gloss>now</gloss>
                           - <dictionary@x-tlb-hl>xidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>しど</tinellbian@x-tlb-hl> <gloss>far</gloss> / <gloss>then</gloss></block>
@@ -890,7 +892,7 @@ entries:
                           - <block><dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>towards</gloss> / <gloss>at</gloss>
                           - <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> <gloss>at</gloss> / <gloss>during</gloss>
                           - <dictionary@x-tlb-hl>kika</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きか</tinellbian@x-tlb-hl> <gloss>over</gloss> / <gloss>over</gloss></block></wordlist>
-                          - <h3>Spatial Locations
+                          - <h3>Space
                           - </h3>These can only be used to refer to locations in space.
                           - <wordlist><block><dictionary@x-tlb-hl>jimuli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>じむえ</tinellbian@x-tlb-hl> <gloss>outside</gloss>
                           - <dictionary@x-tlb-hl>qu’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>もう</tinellbian@x-tlb-hl>  <gloss>in; inside</gloss>
@@ -2606,7 +2608,7 @@ entries:
                     Sample Text:
                       children: {}
                       date: '2025-10-12'
-                      position: '483.33'
+                      position: '489.9'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><abternal-link>Prelude</abternal-link></cite>, the first chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite><interlinear>

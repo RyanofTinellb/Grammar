@@ -188,6 +188,11 @@ main .interlinear p {
     text-indent: calc(-1 * var(--indent));
 }
 
+main .interlinear p:has(.tinellbian[lang$="hl"]) {
+    direction: rtl;
+    text-align: right;
+}
+
 main .interlinear details + p {
     margin-block-start: 0;
 }
