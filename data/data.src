@@ -785,8 +785,8 @@ entries:
                     Morphology:
                       children:
                         Adpositions:
-                          date: '2025-10-12'
-                          position: '93.14'
+                          date: '2025-10-13'
+                          position: '122.12'
                           text:
                           - <h1>Adpositions</h1>
                           - Adpositions are a closed class. They can be used in three different ways.
@@ -909,6 +909,7 @@ entries:
                           - <dictionary@x-tlb-hl>ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> <gloss>along</gloss>
                           - <dictionary@x-tlb-hl>ma’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まい</tinellbian@x-tlb-hl> <gloss>across</gloss>
                           - <dictionary@x-tlb-hl>tiku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てく</tinellbian@x-tlb-hl> <gloss>around</gloss>
+                          - <dictionary@x-tlb-hl>si’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せう</tinellbian@x-tlb-hl> <gloss>into</gloss>
                           - <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>び</tinellbian@x-tlb-hl> <gloss>out of</gloss></block></wordlist>
                           - <h3>Animates</h3>
                           - This group have animate objects.
@@ -925,8 +926,8 @@ entries:
                           - <dictionary@x-tlb-hl>’arri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっり</tinellbian@x-tlb-hl> <gloss>along with</gloss></block></wordlist>
                           title: High Lulani Adpositions - A Grammar of the Tinellbian Languages
                         Auxiliaries:
-                          date: '2025-03-15'
-                          position: '64.67'
+                          date: '2025-10-14'
+                          position: '39.52'
                           text:
                           - <h1>Auxiliaries</h1>
                           - Auxiliaries are a type of <grammar-link@x-tlb-hl>verb</grammar-link@x-tlb-hl>, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
@@ -961,11 +962,11 @@ entries:
                           - <h2>Tense</h2>
                           - The three tenses are past, present and future. In conversation, the tenses tend to mark the time at which the action began or occurred.
                           - On the other hand, narratives are mainly told in present tense. The other tenses are then used relatively, so that past tense is used for things that happened earlier than the narrative present, and the future tense for things that happened later.
-                          - <details|example><summary|folding><transliteration@x-tlb-hl>Quhu qixa dasi si’apa pada, jimuli cani janni qu, lanu haruqikanni la kiluqu.</transliteration@x-tlb-hl></summary|folding>
-                          - <tinellbian@x-tlb-hl>。もほねざだせせあぱぱだ、じむえやにぢっにも、わぬはるねかっにわきをも。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>si’apa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>jimuli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qikanni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>la</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kiluqu</dictionary@x-tlb-hl>.
-                          - <gloss><abbr>3ani;tra</abbr> <abbr>pst;dyn</abbr> eat meal and_then, outside <abbr>prs;dyn</abbr> move and, <abbr>fut;dyn</abbr> with-dog do walk.</gloss>
-                          - '<gloss>lit.: She did eat the meal, and then is going outside, and will do a walk with a dog.</gloss></details|example>'
+                          - <details|example><summary|folding><transliteration@x-tlb-hl>Quhu qixa dasippa pada, jimuli cani janni qu, lanu haruqikanni la kiluqu.</transliteration@x-tlb-hl></summary|folding>
+                          - <tinellbian@x-tlb-hl>。もほねざだせっぱぱだ、じむえやにぢっにも、わぬはるねかっにわきをも。</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dasippa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>jimuli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qikanni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>la</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kiluqu</dictionary@x-tlb-hl>.
+                          - <gloss><abbr>3ani;tra</abbr> <abbr>pst;dyn</abbr> mealtime and_then, outside <abbr>prs;dyn</abbr> move and, <abbr>fut;dyn</abbr> with-dog do walk.</gloss>
+                          - '<gloss>lit.: She did mealtime, and then is going outside, and will do a walk with a dog.</gloss></details|example>'
                           - “She ate the meal, went outside and walked the dog.”
                           - <h2>Aspect</h2>
                           - 'The aspects of positive polarity can be categorised in two different ways. Each of these has two possibilities, and thus there are four altogether:'
@@ -1902,8 +1903,8 @@ entries:
                               - <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to consider</gloss></block></wordlist>
                               title: High Lulani Ambitransitive Verbs - A Grammar of the Tinellbian Languages
                             Intransitive:
-                              date: '2025-09-28'
-                              position: '80.70'
+                              date: '2025-10-14'
+                              position: '27.24'
                               text:
                               - <h1>Intransitive</h1>
                               - Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
@@ -1928,9 +1929,9 @@ entries:
                               - <gloss>tree <abbr>prs;sta</abbr> big. / tree <abbr>prs;dyn</abbr> big.</gloss></details|example>
                               - “The tree is big. / The tree is growing.”
                               - The actor who imparts such an attribute is put in the <strong>ablative</strong> case.
-                              - <details|example><summary|folding><transliteration@x-tlb-hl>Juffila kaluMa’iliguna pani.</transliteration@x-tlb-hl></summary|folding>
-                              - <tinellbian@x-tlb-hl>。よっべわかをまいえぐなぱに。</tinellbian@x-tlb-hl>
-                              - <dictionary@x-tlb-hl>juffila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<external-link>ma’iliguna</external-link> <dictionary@x-tlb-hl>pani</dictionary@x-tlb-hl>.
+                              - <details|example><summary|folding><transliteration@x-tlb-hl>Juffilu kaluMa’iliguna pani.</transliteration@x-tlb-hl></summary|folding>
+                              - <tinellbian@x-tlb-hl>。よっべをかをまいえぐなぱに。</tinellbian@x-tlb-hl>
+                              - <dictionary@x-tlb-hl>juffilu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<external-link>ma’iliguna</external-link> <dictionary@x-tlb-hl>pani</dictionary@x-tlb-hl>.
                               - <gloss>dragon <abbr>abl</abbr>-Maelgwn tame.</gloss></details|example>
                               - ”The dragon was tamed by Maelgwn.”
                               - The experiencer who perceives such an attribute is put in the <strong>dative</strong> case.
@@ -2607,8 +2608,8 @@ entries:
                       title: High Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: {}
-                      date: '2025-10-12'
-                      position: '489.9'
+                      date: '2025-10-14'
+                      position: '1027.60'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><abternal-link>Prelude</abternal-link></cite>, the first chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite><interlinear>
@@ -2918,9 +2919,9 @@ entries:
                       - <gloss>Night_sky <abbr>prs;sta</abbr>-inc, when-at KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/ </ipa@x-tlb-kf>for-sleep-<abbr>ger</abbr> choose next_to-road place.</gloss>
                       - When the night sky is starting to exist, Piadû chooses a place next to the road for sleep.</details|folding>
                       - As night fell, Piado chose a place beside the road to rest.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Si’apaqafa ra’u xiku Turassi ’idu qixa jaffaracani dara’idu gapi.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。せあぱげへらうしくとらっせいどねざぢっへらやにだらいどがぴ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>si’apa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qafa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>Turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’idu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jaffara</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dara</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’idu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gapi</dictionary@x-tlb-hl>.
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Dasippaqafa ra’u xiku Turassi ’idu qixa jaffaracani dara’idu gapi.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。だせっぱげへらうしくとらっせいどねざぢっへらやにだらいどがぴ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>dasippa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qafa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>Turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’idu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jaffara</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dara</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’idu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gapi</dictionary@x-tlb-hl>.
                       - <gloss>Meal-last <abbr>prs;sta</abbr> <abbr>rel</abbr> KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> make <abbr>pst;dyn</abbr> spice-having lentil-made_of soup.</gloss>
                       - The final meal is a soup with spice made from lentils made by Tŗsh.</details|folding>
                       - Dinner was a spiced lentil stew, prepared by Toresh.
@@ -3626,17 +3627,17 @@ entries:
                       - <gloss>Stall-chain <abbr>fut;sta</abbr>&lt;<abbr>trm</abbr>&gt; clear and_thus, KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> father-and <abbr>dat</abbr>-place-bed-<abbr>nmn</abbr> move-undo-<abbr>abl</abbr> MT:<ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt> self-two-and <abbr>prs;dyn</abbr>.</gloss>
                       - The chain of stalls will clearly be ending, and so Tŗsh and the father put themselves and Qōla to the place of guests.</details|folding>
                       - The market was clearly closing, so Toresh and her father went back to the hotel, taking Corla with them.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kurila kaluLaruni satadiru gikassu si’apa qu, nagi nitujaram·marika, kalumixi saki dihhalumi.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。くりわかをわるにさたでるぎかっすせあぱすあも、なぎにとぢらみまりか、かをみしさきでっはをみ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>Kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>Laruni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sata</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>diru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kassu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>si’apa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>nagi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tuja</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>rami</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>marika</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>mixi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>saki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dihha</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lumi</dictionary@x-tlb-hl>.
-                      - <gloss>MT:<ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt> <abbr>abl</abbr>-TZ:<ipa@x-tlb-tz>/ˈɬær.ən/</ipa@x-tlb-tz> for-money get-trade meal-self and, <abbr>fut;sta</abbr> in-place-bed-this_state, <abbr>abl</abbr>-room share other_people-several.</gloss>
-                      - Qōla got her own meal through trade using money from Lharen, and will be in this kind of bed-place, (she) shares from the room to several others.</details|folding>
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Kurila kaluLaruni satadiru gikassu dasidu qu, nagi nitujaram·marika, kalumixi saki dihhalumi.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。くりわかをわるにさたでるぎかっすだせどすあも、なぎにとぢらみまりか、かをみしさきでっはをみ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>Kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>Laruni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sata</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>diru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kassu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dasidu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>nagi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tuja</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>rami</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>marika</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>mixi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>saki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dihha</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lumi</dictionary@x-tlb-hl>.
+                      - <gloss>MT:<ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt> <abbr>abl</abbr>-TZ:<ipa@x-tlb-tz>/ˈɬær.ən/</ipa@x-tlb-tz> for-money get-trade food and, <abbr>fut;sta</abbr> in-place-bed-this_state, <abbr>abl</abbr>-room share other_people-several.</gloss>
+                      - Qōla got food through trade using money from Lharen, and will be in this kind of bed-place, (she) shares from the room to several others.</details|folding>
                       - Corla used some money she had gained from Lharen to pay for her own dinner, and found herself in the bunkhouse, where she had to share lodgings with a few other people.</paragraph>
-                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Turassi pi ’adikumihu janni musara xima qu, cani nisi’apa gaquhu, lanu bipa niLusubi kucahuriqa bijaju musa.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。とらっせぴあでくみほぢっにむさらしまも、やににせあぱがもほ、わぬびぱにをすびくやほりげびぢよむさ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>Turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xima</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>si’apa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ga</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>Lusubi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>cahuri</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bijju</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl>.
-                      - <gloss>KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> <abbr>pst;sta</abbr> near-<abbr>dat</abbr>-<abbr>3ani;int</abbr> move day-two morning and, <abbr>prs;dyn</abbr> at-meal put-<abbr>3ani;tra</abbr>, <abbr>fut;dyn</abbr> from-<abbr>3ina;int</abbr> in-TZ:<ipa@x-tlb-tz>/ˈluː.soβ/</ipa@x-tlb-tz> <abbr>dat</abbr>-stall-<abbr>gen</abbr> first day.</gloss>
-                      - Tŗsh moved to near her tomorrow, and put her at the meal, (she) will be from it to the first day of the stalls in Lūsob.</details|folding>
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Turassi pi ’adikumihu janni musara xima qu, cani nidasippa gaquhu, lanu bipa niLusubi kucahuriqa bijaju musa.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。とらっせぴあでくみほぢっにむさらしまも、やににだせっぱがもほ、わぬびぱにをすびくやほりげびぢよむさ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>Turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xima</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dasippa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ga</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>Lusubi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>cahuri</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bijju</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl>.
+                      - <gloss>KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> <abbr>pst;sta</abbr> near-<abbr>dat</abbr>-<abbr>3ani;int</abbr> move day-two morning and, <abbr>prs;dyn</abbr> at-mealtime put-<abbr>3ani;tra</abbr>, <abbr>fut;dyn</abbr> from-<abbr>3ina;int</abbr> in-TZ:<ipa@x-tlb-tz>/ˈluː.soβ/</ipa@x-tlb-tz> <abbr>dat</abbr>-stall-<abbr>gen</abbr> first day.</gloss>
+                      - Tŗsh moved to near her tomorrow, and put her at the mealtime, (she) will be from it to the first day of the stalls in Lūsob.</details|folding>
                       - Toresh came around the next morning to take her to breakfast, and thence to her first day in the Lusov markets.</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Kurila pi cikkixi ’adisu’a kuruci qaxatu’i fati, mari parasi, kassumisama nagi lamadusi nuki lakadusi, kukuffaruqa dir·raqi mafatti’ika qu, qacca mahakassuru.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。くりわぴちっきしあですあくるちげざといへて、まりぱらせ、かっすみでくなぎわまどせぬきわかどせ、くくっへるげでるらねまへっていかも、げっやまはかっする。</tinellbian@x-tlb-hl>
