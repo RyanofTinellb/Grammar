@@ -1745,8 +1745,8 @@ entries:
                               - <dictionary@x-tlb-hl>-na’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なう</tinellbian@x-tlb-hl> <gloss>will be</gloss></block></wordlist>
                               title: High Lulani Determiners - A Grammar of the Tinellbian Languages
                             Transclass:
-                              date: '2025-10-04'
-                              position: '35.24'
+                              date: '2025-10-16'
+                              position: '51.29'
                               text:
                               - <h1>Transclass</h1>
                               - These tend to move words from one part of speech to another.
@@ -1791,9 +1791,17 @@ entries:
                               - <wordlist><block><dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss>
                               - <dictionary@x-tlb-hl>’itikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっく</tinellbian@x-tlb-hl> <gloss>breast</gloss>
                               - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss></block></wordlist>
-                              - When applied to a number, <dictionary@x-tlb-hl>-ssiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っせじ</tinellbian@x-tlb-hl> gives rise to the names of shapes.
+                              - When applied to a number, <dictionary@x-tlb-hl>-ssiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っせじ</tinellbian@x-tlb-hl> gives rise to the names of two-dimensional shapes, while <dictionary@x-tlb-hl>ba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> is used for higher dimensions.
                               - <wordlist><block><dictionary@x-tlb-hl>kifissiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きべっせじ</tinellbian@x-tlb-hl> <gloss>triangle</gloss>
-                              - <dictionary@x-tlb-hl>nurussiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬるっせじ</tinellbian@x-tlb-hl> <gloss>quadrilateral</gloss></block></wordlist>
+                              - <dictionary@x-tlb-hl>nurussiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬるっせじ</tinellbian@x-tlb-hl> <gloss>quadrilateral</gloss>
+                              - <dictionary@x-tlb-hl>pu’issiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぷいっせじ</tinellbian@x-tlb-hl> <gloss>circle</gloss></block>
+                              - <block><dictionary@x-tlb-hl>kifiba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きべば</tinellbian@x-tlb-hl> <gloss>tetrahedron</gloss>
+                              - <dictionary@x-tlb-hl>nuruba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬるば</tinellbian@x-tlb-hl> <gloss>cube</gloss>
+                              - <dictionary@x-tlb-hl>kifibara</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きべばら</tinellbian@x-tlb-hl> <gloss>octahedron</gloss>
+                              - <dictionary@x-tlb-hl>kifibatakki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きべばたっき</tinellbian@x-tlb-hl> <gloss>icositetrachoron</gloss>
+                              - <dictionary@x-tlb-hl>guhiba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぐひば</tinellbian@x-tlb-hl> <gloss>dodecahedron</gloss>
+                              - <dictionary@x-tlb-hl>takkiba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たっきば</tinellbian@x-tlb-hl> <gloss>icosahedron</gloss>
+                              - <dictionary@x-tlb-hl>pu’iba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぷいば</tinellbian@x-tlb-hl> <gloss>sphere</gloss></block></wordlist>
                               - <h3>Animate</h3>
                               - There are three suffixes for deriving animate nouns from verbs. The suffix <dictionary@x-tlb-hl>-la’i</dictionary@x-tlb-hl> is used with intransitive verbs, while <dictionary@x-tlb-hl>-ba</dictionary@x-tlb-hl> and <dictionary@x-tlb-hl>-pu’a</dictionary@x-tlb-hl> derive generic agents and patients respectively.
                               - <wordlist><block><dictionary@x-tlb-hl>narala’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ならわい</tinellbian@x-tlb-hl> <gloss>sleeper</gloss></block>
@@ -2199,8 +2207,8 @@ entries:
                     Orthography:
                       children:
                         Spelling Syllabary:
-                          date: '2025-04-14'
-                          position: '11.44'
+                          date: '2025-10-16'
+                          position: '70.18'
                           text:
                           - <h1>Spelling Syllabary</h1>
                           - There is a spelling syllabary, used for transmitting words across potentially noisy communication channels, such as telephone lines. It is also used for communicaing in situations where every syllable is important, such as giving names. Each syllable corresponds to a disyllabic word, which begins with the same consonant and ends with its vowel. The geminate symbol is represented by the word <dictionary@x-tlb-hl>faʔa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へっあ</tinellbian@x-tlb-hl> <gloss>language</gloss>.
@@ -2217,7 +2225,7 @@ entries:
                           - ' na: <dictionary@x-tlb-hl>nassa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>なっさ</tinellbian@x-tlb-hl> | <gloss>euphoria</gloss> | ni: <dictionary@x-tlb-hl>niddi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>にっで</tinellbian@x-tlb-hl> | <gloss>alertness</gloss> | nu: <dictionary@x-tlb-hl>nuku</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ぬく</tinellbian@x-tlb-hl> | <gloss>world</gloss>'
                           - ' qa: <dictionary@x-tlb-hl>qasa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>げさ</tinellbian@x-tlb-hl> | <gloss>fish</gloss> | qi: <dictionary@x-tlb-hl>quxi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>もし</tinellbian@x-tlb-hl> | <gloss>mountain</gloss> | qu: <dictionary@x-tlb-hl>qumu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>もむ</tinellbian@x-tlb-hl> | <gloss>woman</gloss>'
                           - ' la: <dictionary@x-tlb-hl>liffa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>えっへ</tinellbian@x-tlb-hl> | <gloss>speech</gloss> | li: <dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>をい</tinellbian@x-tlb-hl> | <gloss>love</gloss> | lu: <dictionary@x-tlb-hl>laqqu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>わっも</tinellbian@x-tlb-hl> | <gloss>wealth</gloss>'
-                          - ' ra: <dictionary@x-tlb-hl>rippa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>りっぱ</tinellbian@x-tlb-hl> | <gloss>surprise</gloss> | ri: <dictionary@x-tlb-hl>rali</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>らえ</tinellbian@x-tlb-hl> | <gloss>back</gloss> | ru: <dictionary@x-tlb-hl>riccu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl> | <gloss>sphere</gloss>'
+                          - ' ra: <dictionary@x-tlb-hl>rippa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>りっぱ</tinellbian@x-tlb-hl> | <gloss>surprise</gloss> | ri: <dictionary@x-tlb-hl>rali</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>らえ</tinellbian@x-tlb-hl> | <gloss>back</gloss> | ru: <dictionary@x-tlb-hl>riccu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl> | <gloss>fantasy</gloss>'
                           - ' fa: <dictionary@x-tlb-hl>fipa</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>べぱ</tinellbian@x-tlb-hl> | <gloss>storey</gloss> | fi: <dictionary@x-tlb-hl>faxi</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>へし</tinellbian@x-tlb-hl> | <gloss>to survive</gloss> | fu: <dictionary@x-tlb-hl>famu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>へむ</tinellbian@x-tlb-hl> | <gloss>completely</gloss>'
                           - ' sa: <dictionary@x-tlb-hl>sinna</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>せっな</tinellbian@x-tlb-hl> | <gloss>story</gloss> | si: <dictionary@x-tlb-hl>sutti</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>すって</tinellbian@x-tlb-hl> | <gloss>fear</gloss> | su: <dictionary@x-tlb-hl>silu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>せを</tinellbian@x-tlb-hl> | <gloss>spouse</gloss>'
                           - ' xa: <dictionary@x-tlb-hl>xima</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>しま</tinellbian@x-tlb-hl> | <gloss>morning</gloss> | xi: <dictionary@x-tlb-hl>xalli</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ざっえ</tinellbian@x-tlb-hl> | <gloss>spouse </gloss> | xu: <dictionary@x-tlb-hl>xaʔu</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>ざっう</tinellbian@x-tlb-hl> | <gloss>child</gloss>'
@@ -2271,7 +2279,7 @@ entries:
                           - ' nu: <dictionary@x-tlb-hl>nuku</dictionary@x-tlb-hl> <gloss>world</gloss>'
                           - ' qu: <dictionary@x-tlb-hl>qumu</dictionary@x-tlb-hl> <gloss>woman</gloss>'
                           - ' lu: <dictionary@x-tlb-hl>laqqu</dictionary@x-tlb-hl> <gloss>wealth</gloss>'
-                          - ' ru: <dictionary@x-tlb-hl>riccu</dictionary@x-tlb-hl> <gloss>sphere</gloss>'
+                          - ' ru: <dictionary@x-tlb-hl>riccu</dictionary@x-tlb-hl> <gloss>fantasy</gloss>'
                           - ' fu: <dictionary@x-tlb-hl>famu</dictionary@x-tlb-hl> <gloss>completely</gloss>'
                           - ' su: <dictionary@x-tlb-hl>silu</dictionary@x-tlb-hl> <gloss>spouse</gloss>'
                           - ' xu: <dictionary@x-tlb-hl>xaʔu</dictionary@x-tlb-hl> <gloss>child</gloss>'
@@ -2360,8 +2368,8 @@ entries:
                     Phonology:
                       children:
                         Consonants:
-                          date: '2025-10-07'
-                          position: '48.15'
+                          date: '2025-10-16'
+                          position: '59.32'
                           text:
                           - <h1>Consonants</h1>
                           - Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
@@ -2415,13 +2423,13 @@ entries:
                           - <h3>Velars</h3>
                           - The velar plosives are <ipa@x-tlb-hl>/k/</ipa@x-tlb-hl> and <ipa@x-tlb-hl>/g/</ipa@x-tlb-hl>.
                           - <wordlist><block><dictionary@x-tlb-hl>ka’u</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈ<strong>kʰ</strong>aʔʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>かう</tinellbian@x-tlb-hl> <gloss>jump</gloss>
-                          - <dictionary@x-tlb-hl>’isaki</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ʔɨsa<strong>kʰ</strong>ɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>いさき</tinellbian@x-tlb-hl> <gloss>company</gloss>
+                          - <dictionary@x-tlb-hl>saki</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈsa<strong>kʰ</strong>ɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>さき</tinellbian@x-tlb-hl> <gloss>to share</gloss>
                           - <dictionary@x-tlb-hl>nukki</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈnu<strong>kː</strong>ɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ぬっき</tinellbian@x-tlb-hl> <gloss>strawberry</gloss>
                           - <dictionary@x-tlb-hl>gurrisu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈ<strong>g</strong>urːɨsʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ぐっりす</tinellbian@x-tlb-hl> <gloss>door</gloss>
                           - <dictionary@x-tlb-hl>danagi</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/dəna<strong>g</strong>ɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>だなぎ</tinellbian@x-tlb-hl> <gloss>decree</gloss>
                           - <dictionary@x-tlb-hl>saggi</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈsa<strong>gʱː</strong>ɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>さっぎ</tinellbian@x-tlb-hl> <gloss>iron pyrites</gloss></block></wordlist>
                           - <h3>Glottal</h3>
-                          - The glottal stop <ipa@x-tlb-hl>/ʔ/</ipa@x-tlb-hl> is on<gloss>e</gloss> of the most common sounds. Non-geminate glottal stops are often suppressed between unstressed vowels. The second of a geminate glottal stop becomes a palatal approximant <ipa@x-tlb-hl>/j/</ipa@x-tlb-hl>.
+                          - The glottal stop <ipa@x-tlb-hl>/ʔ/</ipa@x-tlb-hl> is one of the most common sounds. Non-geminate glottal stops are often suppressed between unstressed vowels. The second of a geminate glottal stop becomes a palatal approximant <ipa@x-tlb-hl>/j/</ipa@x-tlb-hl>.
                           - <wordlist><block><dictionary@x-tlb-hl>’anu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈ<strong>ʔ</strong>anʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>あぬ</tinellbian@x-tlb-hl> <gloss>to balance</gloss>
                           - <dictionary@x-tlb-hl>kuli’a</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/kʰʉˈli<strong>ʔ</strong>ə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>くえあ</tinellbian@x-tlb-hl> <gloss>friend</gloss>
                           - <dictionary@x-tlb-hl>nasiʔu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/naˈsi<strong>ʔj</strong>ʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>なせっう</tinellbian@x-tlb-hl> <gloss>sheep</gloss></block></wordlist>
@@ -2529,8 +2537,8 @@ entries:
                           - Falling tone can also be used to bring focus to a particular word.
                           title: High Lulani Suprasegmentals - A Grammar of the Tinellbian Languages
                         Vowels:
-                          date: '2025-02-16'
-                          position: '36.0'
+                          date: '2025-10-16'
+                          position: '22.25'
                           text:
                           - <h1>Vowels</h1>
                           - There are three phonemic vowels, with two main allophones for each. The vowels are distinguished by closeness and frontness.
@@ -2542,7 +2550,7 @@ entries:
                           - <h2>Front</h2>
                           - The front close vowel is unrounded. It is realised as <ipa@x-tlb-hl>/i/</ipa@x-tlb-hl> or <ipa@x-tlb-hl>/ɨ/</ipa@x-tlb-hl>.
                           - <wordlist><block><dictionary@x-tlb-hl>mici</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈm<strong>i</strong>c<strong>ɨ</strong>/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>みち</tinellbian@x-tlb-hl> <gloss>peace</gloss>
-                          - <dictionary@x-tlb-hl>salilu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/səˈl<strong>i</strong>lʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>さえを</tinellbian@x-tlb-hl> <gloss>night sky</gloss>
+                          - <dictionary@x-tlb-hl>lilu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈl<strong>i</strong>lʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>えを</tinellbian@x-tlb-hl> <gloss>stairs</gloss>
                           - <dictionary@x-tlb-hl>dibada</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/d<strong>ɨ</strong>ˈbadə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>でばだ</tinellbian@x-tlb-hl> <gloss>life</gloss></block></wordlist>
                           - <h2>Open</h2>
                           - The open vowel is unrounded. It can be realised as <ipa@x-tlb-hl>/a/</ipa@x-tlb-hl> or <ipa@x-tlb-hl>/ə/</ipa@x-tlb-hl>.
@@ -2553,7 +2561,7 @@ entries:
                           - The back close vowel is rounded. It can be realised as <ipa@x-tlb-hl>/u/</ipa@x-tlb-hl> or <ipa@x-tlb-hl>/ʉ/</ipa@x-tlb-hl>.
                           - <wordlist><block><dictionary@x-tlb-hl>mulu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈm<strong>u</strong>l<strong>ʉ</strong>/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>むを</tinellbian@x-tlb-hl> <gloss>blood</gloss>
                           - <dictionary@x-tlb-hl>hulla</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈh<strong>u</strong>ʎːə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>ほっわ</tinellbian@x-tlb-hl> <gloss>to have sex</gloss>
-                          - <dictionary@x-tlb-hl>riccu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈɽicː<strong>ʉ</strong>/</ipa@x-tlb-hl><tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl> <gloss>sphere</gloss></block></wordlist>
+                          - <dictionary@x-tlb-hl>riccu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈɽicː<strong>ʉ</strong>/</ipa@x-tlb-hl><tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl> <gloss>fantasy</gloss></block></wordlist>
                           title: High Lulani Vowels - A Grammar of the Tinellbian Languages
                       date: '2024-07-16'
                       position: '1.0'
@@ -2608,8 +2616,8 @@ entries:
                       title: High Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: {}
-                      date: '2025-10-14'
-                      position: '1027.60'
+                      date: '2025-10-16'
+                      position: '304.21'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><abternal-link>Prelude</abternal-link></cite>, the first chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite><interlinear>
@@ -2904,7 +2912,7 @@ entries:
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Nimusacari jann·nika.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。にむさやりぢっににか。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>cari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nika</dictionary@x-tlb-hl>.
-                      - At-day-rest move-journey.
+                      - <gloss>At-day-rest move-journey.</gloss>
                       - (They) journey in the remainder of the day.</details|folding>
                       - The rest of the day was spent travelling.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Nagi nidaca narini qu, funi pasatadu’adi hulutuci.</transliteration@x-tlb-hl></summary|folding>
@@ -2913,9 +2921,9 @@ entries:
                       - <gloss><abbr>Fut;sta</abbr> at-seat sleep-dim and, <abbr>fut;neg</abbr> towards-conversation-near listen-half_do.</gloss>
                       - (She) will be napping in the seat, and won’t be half-listening to nearby conversation.</details|folding>
                       - She dozed in her seat, letting their conversation pass through her.</paragraph>
-                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Salilu ra’usi, mani Pi’adu nin·nar·ru qacca nifidaru tuja.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。さえをらうせ、まにぴあどになならるげっや・にべだるとぢ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>salilu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-si</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>Pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nina</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qacca</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nifi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>daru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tuja</dictionary@x-tlb-hl>.
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Sallu ra’usi, mani Pi’adu nin·nar·ru qacca nifidaru tuja.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。さっをらうせ、まにぴあどになならるげっやにべだるとぢ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>sallu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-si</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>Pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nina</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qacca</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nifi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>daru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tuja</dictionary@x-tlb-hl>.
                       - <gloss>Night_sky <abbr>prs;sta</abbr>-inc, when-at KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/ </ipa@x-tlb-kf>for-sleep-<abbr>ger</abbr> choose next_to-road place.</gloss>
                       - When the night sky is starting to exist, Piadû chooses a place next to the road for sleep.</details|folding>
                       - As night fell, Piado chose a place beside the road to rest.
@@ -3701,8 +3709,8 @@ entries:
                     Syntax:
                       children:
                         Argument Promotion:
-                          date: '2025-03-07'
-                          position: '90.0'
+                          date: '2025-10-16'
+                          position: '18.4'
                           text:
                           - <h1>Argument Promotion</h1>
                           - The first noun in a clause is the subject, which is prototypically the agent in transitive sentences and the patient in intransitive sentences. However, suffixes can be added to the verb to promote other nouns in the clause, other than the genitive.
@@ -3713,15 +3721,15 @@ entries:
                           - <dictionary@x-tlb-hl>-ilu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、いを</tinellbian@x-tlb-hl> replacing the final vowel if the final consonant is geminated, and
                           - <dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、いっを</tinellbian@x-tlb-hl> replacing the final vowel of the verb elsewise.</ul>
                           - The old subject is then marked with the ablative case. A sentence with this marker is intransitive. The demoted item is not compulsory, but if it is put in, it is the first ablative-marked noun in the new sentence.
-                          - <details|example><summary|folding><transliteration@x-tlb-hl>Fu qixa kissa kilatu’i!</transliteration@x-tlb-hl></summary|folding>
-                          - <tinellbian@x-tlb-hl>。ふねざきっさきわとい。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kissa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kilatu’i</dictionary@x-tlb-hl>!
-                          - <gloss><abbr>2tra</abbr> <abbr>pst;dyn</abbr> fight deer</gloss></details|example>
+                          - <details|example><summary|folding><transliteration@x-tlb-hl>Fu qixa kissa nimalu!</transliteration@x-tlb-hl></summary|folding>
+                          - <tinellbian@x-tlb-hl>。ふねざきっさにまを。</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kissa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl>!
+                          - <gloss><abbr>2tra</abbr> <abbr>pst;dyn</abbr> fight bear</gloss></details|example>
                           - “You fought a deer!”
-                          - <details|example><summary|folding><transliteration@x-tlb-hl>Kilatu’i qixa (sacu) kissilu.</transliteration@x-tlb-hl></summary|folding>
-                          - <tinellbian@x-tlb-hl>。きわといねざさゆきっせを。</tinellbian@x-tlb-hl>
-                          - <dictionary@x-tlb-hl>kilatu’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> (<dictionary@x-tlb-hl>sacu</dictionary@x-tlb-hl>) <dictionary@x-tlb-hl>kissa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ilu</dictionary@x-tlb-hl>.
-                          - <gloss>deer <abbr>pst;dyn</abbr>(<abbr>2abl</abbr>) fight-<abbr>psv</abbr></gloss></details|example>
+                          - <details|example><summary|folding><transliteration@x-tlb-hl>Nimalu qixa (sacu) kissilu.</transliteration@x-tlb-hl></summary|folding>
+                          - <tinellbian@x-tlb-hl>。にまをねざさゆきっせを。</tinellbian@x-tlb-hl>
+                          - <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> (<dictionary@x-tlb-hl>sacu</dictionary@x-tlb-hl>) <dictionary@x-tlb-hl>kissa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ilu</dictionary@x-tlb-hl>.
+                          - <gloss>bear <abbr>pst;dyn</abbr>(<abbr>2abl</abbr>) fight-<abbr>psv</abbr></gloss></details|example>
                           - “A deer was fought (by you).”
                           - <h2>Ablative</h2>
                           - 'The ablative suffix promotes the ablative. It has the form:'
