@@ -62,7 +62,7 @@ default:
   props:
     font: Garamond
     ime: autocorrect
-    size: 18
+    size: 14
 desktop:
   props:
     background: '#ff33ff'

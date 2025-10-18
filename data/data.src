@@ -1617,7 +1617,7 @@ entries:
                           children:
                             Cisclass:
                               date: '2025-10-18'
-                              position: '68.33'
+                              position: '59.22'
                               text:
                               - <h1>Cisclass</h1>
                               - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
@@ -1638,7 +1638,7 @@ entries:
                               - The pair <dictionary@x-tlb-hl>-tu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とい</tinellbian@x-tlb-hl> and <dictionary@x-tlb-hl>-da</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> are used to highlight the positive and negative aspects of a word, respectively.
                               - <wordlist><block><dictionary@x-tlb-hl>dasatu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださとい</tinellbian@x-tlb-hl> <gloss>passion</gloss> / <dictionary@x-tlb-hl>dasada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださだ</tinellbian@x-tlb-hl> <gloss>anger</gloss>
                               - <dictionary@x-tlb-hl>ta’itu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいとい</tinellbian@x-tlb-hl> <gloss>aroma</gloss> / <dictionary@x-tlb-hl>ta’ida</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいだ</tinellbian@x-tlb-hl> <gloss>stink</gloss></block></wordlist>
-                              - <h2>Nominal suffixes</h2>
+                              - <h2>Nominal Suffixes</h2>
                               - These derive nouns from other nouns.
                               - <desktop><table><thead>|h inanimate base |h abstract base</thead>
                               - <tbody>h animate | <multiline><dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>り、さ</tinellbian@x-tlb-hl></multiline>
@@ -1674,14 +1674,15 @@ entries:
                               - The suffix <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> derives an abstract noun from an inanimate count noun, whereas <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl> is used with inanimate mass nouns.
                               - <wordlist><block><dictionary@x-tlb-hl>ru’ihaja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るいはぢ</tinellbian@x-tlb-hl> <gloss>history</gloss></block>
                               - <block><dictionary@x-tlb-hl>busatta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶさった</tinellbian@x-tlb-hl> <gloss>colour</gloss></block></wordlist>
+                              - The suffix <dictionary@x-tlb-hl>-la</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> derives nouns that form part of their stem.
+                              - <wordlist><block><dictionary@x-tlb-hl>mi’ula</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みうわ</tinellbian@x-tlb-hl> <gloss>reed</gloss>
+                              - <dictionary@x-tlb-hl>raddila</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らっでわ</tinellbian@x-tlb-hl> <gloss>thulium</gloss>
+                              - <dictionary@x-tlb-hl>fiqqala</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べっげわ</tinellbian@x-tlb-hl> <gloss>beryllium</gloss>
+                              - <dictionary@x-tlb-hl>saqala</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さげわ</tinellbian@x-tlb-hl> <gloss>word</gloss>
+                              - <dictionary@x-tlb-hl>xakila</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざきわ</tinellbian@x-tlb-hl> <gloss>thought to be</gloss></block></wordlist>
                               - The suffix <dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> derives nouns which are somehow distinct from their stem.
                               - <wordlist><block><dictionary@x-tlb-hl>daruli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だるえ</tinellbian@x-tlb-hl> <gloss>wrong way</gloss>
                               - <dictionary@x-tlb-hl>gusuli</dictionary@x-tlb-hl> <gloss>non-guozu person</gloss></block></wordlist>
-                              - The names of parts of the body are derived from either nouns or verbs using <dictionary@x-tlb-hl>-kku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っく</tinellbian@x-tlb-hl> for the physical body, and <dictionary@x-tlb-hl>-si</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せ</tinellbian@x-tlb-hl> for the subtle.
-                              - <wordlist><block><dictionary@x-tlb-hl>’itikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっく</tinellbian@x-tlb-hl> <gloss>breast</gloss>
-                              - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss></block>
-                              - <block><dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss></block>
-                              - <block><dictionary@x-tlb-hl>tirusi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てるせ</tinellbian@x-tlb-hl> <gloss>memory</gloss></block></wordlist>
                               - The giver of the inanimate or abstract base is denoted by <dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>, receivers by <dictionary@x-tlb-hl>-su</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl>.
                               - <wordlist><block><dictionary@x-tlb-hl>’aggami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police officer</gloss> / <gloss>law giver</gloss>
                               - <dictionary@x-tlb-hl>Sa’imi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss> / <gloss>light giver</gloss></block>
@@ -1694,7 +1695,7 @@ entries:
                               - <wordlist><block><dictionary@x-tlb-hl>tihutuja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てほとぢ</tinellbian@x-tlb-hl>  <gloss>home</gloss></block>
                               - <block><dictionary@x-tlb-hl>nuhubatu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほばと</tinellbian@x-tlb-hl> <gloss>book</gloss></block>
                               - <block><dictionary@x-tlb-hl>pannaxa’uxxi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっなざうっし</tinellbian@x-tlb-hl> <gloss>army</gloss></block></wordlist>
-                              - <h2>Verbal suffixes</h2>
+                              - <h2>Verbal Suffixes</h2>
                               - These are only applied to verbs.
                               - The suffix <dictionary@x-tlb-hl>-ni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> is used to derive inceptive verbs.
                               - <wordlist><block><dictionary@x-tlb-hl>ducini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どちに</tinellbian@x-tlb-hl> <gloss>to receive</gloss></block></wordlist>
@@ -1709,6 +1710,9 @@ entries:
                               - The infix <dictionary@x-tlb-hl>-ar-</dictionary@x-tlb-hl> is placed before the final vowel of auxiliaries, and denotes an end to the action described by the sentence.
                               - <wordlist><block><dictionary@x-tlb-hl>lanaru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl> <gloss>will finish doing</gloss>
                               - <dictionary@x-tlb-hl>nagari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl> <gloss>will finish being</gloss></block></wordlist>
+                              - <h2>Mathematical Suffixes</h2>
+                              - These are used in mathematics.
+                              - The suffix <dictionary@x-tlb-hl>-ki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> derives <grammar-link@x-tlb-hl>fractions</grammar-link@x-tlb-hl>.
                               title: High Lulani Cisclass - A Grammar of the Tinellbian Languages
                             Determiners:
                               date: '2025-04-25'
@@ -1748,7 +1752,7 @@ entries:
                               title: High Lulani Determiners - A Grammar of the Tinellbian Languages
                             Transclass:
                               date: '2025-10-18'
-                              position: '41.114'
+                              position: '44.21'
                               text:
                               - <h1>Transclass</h1>
                               - These tend to move words from one part of speech to another.
@@ -1791,8 +1795,9 @@ entries:
                               - <wordlist><block><dictionary@x-tlb-hl>dasiffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっべ</tinellbian@x-tlb-hl> <gloss>cutlery, tools for eating</gloss>
                               - <dictionary@x-tlb-hl>sikuffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せくっべ</tinellbian@x-tlb-hl> <gloss>spear, tool for killing</gloss></block></wordlist>
                               - The suffix <dictionary@x-tlb-hl>-kku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っく</tinellbian@x-tlb-hl> derives names for parts of the physical body from verbs or nouns, while <dictionary@x-tlb-hl>-si</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せ</tinellbian@x-tlb-hl> is for the psyche.
-                              - <wordlist><block><dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss>
-                              - <dictionary@x-tlb-hl>’itikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっく</tinellbian@x-tlb-hl> <gloss>breast</gloss>
+                              - <wordlist><block><dictionary@x-tlb-hl>’itikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっく</tinellbian@x-tlb-hl> <gloss>breast</gloss>
+                              - <dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss>
+                              - <dictionary@x-tlb-hl>makukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まくっく</tinellbian@x-tlb-hl> <gloss>shoulder</gloss>
                               - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss></block>
                               - <block><dictionary@x-tlb-hl>’axasi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あざせ</tinellbian@x-tlb-hl> <gloss>maturity</gloss>
                               - <dictionary@x-tlb-hl>tirusi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てるせ</tinellbian@x-tlb-hl> <gloss>memory</gloss></block></wordlist>
@@ -2623,7 +2628,7 @@ entries:
                     Sample Text:
                       children: {}
                       date: '2025-10-18'
-                      position: '862.33'
+                      position: '748.14'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><abternal-link>Prelude</abternal-link></cite>, the first chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite><interlinear>
@@ -2699,9 +2704,9 @@ entries:
                       - <gloss><abbr>prs;neg</abbr> condition, hope <abbr>prs;gno</abbr>.</gloss>
                       - It is not this condition, (I) hope it is.
                       - </details|folding>At least, I hope so.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>ʔalamusa ra’u kalupa’akagi cussixa.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。あわむさらうかをぱあかぎゆっせざ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>’ala</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa’aka</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>gi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cussi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-xa</dictionary@x-tlb-hl>.
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>ʔalamusa ra’u kalumakukkugi cussixa.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。あわむさらうかをまくっくぎゆっせざ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>’ala</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>makukku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>gi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cussi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-xa</dictionary@x-tlb-hl>.
                       - <gloss>Heat-sun <abbr>prs;sta</abbr> <abbr>abl</abbr>-shoulder-left feel-<abbr>dtv</abbr>.</gloss>
                       - Sunheat is felt from over (her) left shoulder.
                       - </details|folding>The sun could be felt over her left shoulder.
@@ -3371,9 +3376,9 @@ entries:
                       - <gloss><abbr>Prs;sta</abbr> hope and, other_people-some <abbr>fut;dyn</abbr> fix-situation-must <abbr>3ani;int</abbr> perception.</gloss>
                       - I hope (it) is, and I assume that some other people will have to fix her.</details|folding>
                       - I hope so, but it seems that she’s their problem now.</paragraph>
-                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Pi’aduqa kahi cani dipa’akaqa tu qu, du’ikugurissu jannikilubukka quhu.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。ぴあどげかひやにでぱあかげとも、どいくぐりっすぢっにきをぶっかもほ。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>Pi’adu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>di</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa’aka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>du’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-gurrisu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl>.
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Pi’aduqa kahi cani dimakukkuqa tu qu, du’ikugurissu jannikilubukka quhu.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。ぴあどげかひやにでまくっくげとも、どいくぐりっすぢっにきをぶっかもほ。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>Pi’adu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>di</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>makukku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>du’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-gurrisu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl>.
                       - <gloss>KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf>-<abbr>gen</abbr> arm <abbr>prs;dyn</abbr> atop-child-<abbr>3ani;gen</abbr>-<abbr>gen</abbr> shoulder and, opposite-<abbr>dat</abbr>-door move-walk-<abbr>abv</abbr> <abbr>3ani;tra</abbr>.</gloss>
                       - Piadû’s arm is now above his child’s shoulder, and (he) walk-moves her to opposite the door.</details|folding>
                       - Piado put his arm around his daughter’s shoulder and walked her out the door.
