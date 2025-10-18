@@ -1747,8 +1747,8 @@ entries:
                               - <dictionary@x-tlb-hl>-na’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なう</tinellbian@x-tlb-hl> <gloss>will be</gloss></block></wordlist>
                               title: High Lulani Determiners - A Grammar of the Tinellbian Languages
                             Transclass:
-                              date: '2025-10-16'
-                              position: '51.29'
+                              date: '2025-10-18'
+                              position: '41.114'
                               text:
                               - <h1>Transclass</h1>
                               - These tend to move words from one part of speech to another.
@@ -1783,16 +1783,19 @@ entries:
                               - <dictionary@x-tlb-hl>lu’iki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss>
                               - <dictionary@x-tlb-hl>bumaki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶまき</tinellbian@x-tlb-hl> <gloss>screen</gloss></block></wordlist>
                               - The patientive suffix <dictionary@x-tlb-hl>-du</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ど</tinellbian@x-tlb-hl> is applied to nouns or stem verbs or nouns.
-                              - <wordlist><block><dictionary@x-tlb-hl>dasidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせど</tinellbian@x-tlb-hl> <gloss>food</gloss>
+                              - <wordlist><block><dictionary@x-tlb-hl>pacadu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱやど</tinellbian@x-tlb-hl> <gloss>council</gloss>
+                              - <dictionary@x-tlb-hl>dasidu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせど</tinellbian@x-tlb-hl> <gloss>food</gloss>
                               - <dictionary@x-tlb-hl>kassudu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっすど</tinellbian@x-tlb-hl> <gloss>trade goods</gloss>
                               - <dictionary@x-tlb-hl>maladu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まわど</tinellbian@x-tlb-hl> <gloss>reflection</gloss></block></wordlist>
                               - The instrumental suffix <dictionary@x-tlb-hl>-ffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っべ</tinellbian@x-tlb-hl> is applied to a verb.
                               - <wordlist><block><dictionary@x-tlb-hl>dasiffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっべ</tinellbian@x-tlb-hl> <gloss>cutlery, tools for eating</gloss>
                               - <dictionary@x-tlb-hl>sikuffi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せくっべ</tinellbian@x-tlb-hl> <gloss>spear, tool for killing</gloss></block></wordlist>
-                              - The suffix <dictionary@x-tlb-hl>-kku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っく</tinellbian@x-tlb-hl> derives names for parts of the body from verbs or nouns.
+                              - The suffix <dictionary@x-tlb-hl>-kku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っく</tinellbian@x-tlb-hl> derives names for parts of the physical body from verbs or nouns, while <dictionary@x-tlb-hl>-si</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せ</tinellbian@x-tlb-hl> is for the psyche.
                               - <wordlist><block><dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss>
                               - <dictionary@x-tlb-hl>’itikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いてっく</tinellbian@x-tlb-hl> <gloss>breast</gloss>
-                              - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss></block></wordlist>
+                              - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss></block>
+                              - <block><dictionary@x-tlb-hl>’axasi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あざせ</tinellbian@x-tlb-hl> <gloss>maturity</gloss>
+                              - <dictionary@x-tlb-hl>tirusi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てるせ</tinellbian@x-tlb-hl> <gloss>memory</gloss></block></wordlist>
                               - When applied to a number, <dictionary@x-tlb-hl>-ssiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っせじ</tinellbian@x-tlb-hl> gives rise to the names of two-dimensional shapes, while <dictionary@x-tlb-hl>ba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> is used for higher dimensions.
                               - <wordlist><block><dictionary@x-tlb-hl>kifissiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きべっせじ</tinellbian@x-tlb-hl> <gloss>triangle</gloss>
                               - <dictionary@x-tlb-hl>nurussiji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬるっせじ</tinellbian@x-tlb-hl> <gloss>quadrilateral</gloss>
@@ -2048,8 +2051,8 @@ entries:
                               - <dictionary@x-tlb-hl>hulla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ほっわ</tinellbian@x-tlb-hl> <gloss>to copulate; to have consumated</gloss></block></wordlist>
                               title: High Lulani Intransitive Verbs - A Grammar of the Tinellbian Languages
                             Transitive:
-                              date: '2025-04-14'
-                              position: '117.36'
+                              date: '2025-10-18'
+                              position: '68.0'
                               text:
                               - <h1>Transitive</h1>
                               - The divalent verbs are called transitive, and these require an object to complete its meaning. It is possible to elide this object if it is obvious or irrelevant. The <strong>subject</strong> is the agent, and the <strong>object</strong> is the patient.
@@ -2117,7 +2120,8 @@ entries:
                               - <gloss><abbr>1int</abbr> <abbr>3ina;abl</abbr> give <abbr>2tra</abbr>.</gloss>
                               - '<gloss>lit: “I gave you from it.”</gloss></details|example>'
                               - “I’ve given you it.”
-                              - <wordlist><block><dictionary@x-tlb-hl>kuffa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>くっへ</tinellbian@x-tlb-hl> <gloss>to give</gloss>
+                              - <wordlist><block><dictionary@x-tlb-hl>kassu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>to trade</gloss>
+                              - <dictionary@x-tlb-hl>kuffa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>くっへ</tinellbian@x-tlb-hl> <gloss>to give</gloss>
                               - <dictionary@x-tlb-hl>saki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さき</tinellbian@x-tlb-hl> <gloss>to share</gloss>
                               - <dictionary@x-tlb-hl>ga</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>が</tinellbian@x-tlb-hl> <gloss>to put</gloss>
                               - <dictionary@x-tlb-hl>maku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まく</tinellbian@x-tlb-hl> <gloss>to throw</gloss>
