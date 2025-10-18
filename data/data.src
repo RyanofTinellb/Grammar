@@ -1375,8 +1375,8 @@ entries:
                         Nouns:
                           children:
                             Adverbs:
-                              date: '2025-10-04'
-                              position: '79.23'
+                              date: '2025-10-18'
+                              position: '17.4'
                               text:
                               - <h1>Adverbs</h1>
                               - 'A closed subset of nouns can have an adverbial function. These adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See also: <grammar-link@x-tlb-hl>Adverbial Clauses</grammar-link@x-tlb-hl>.'
@@ -1394,7 +1394,7 @@ entries:
                               - <dictionary@x-tlb-hl>xaka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざか</tinellbian@x-tlb-hl> <gloss>fail to</gloss>
                               - <dictionary@x-tlb-hl>calla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やっわ</tinellbian@x-tlb-hl> <gloss>must</gloss>
                               - <dictionary@x-tlb-hl>fuca</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ふや</tinellbian@x-tlb-hl> <gloss>can</gloss>
-                              - <dictionary@x-tlb-hl>ritada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>りただ</tinellbian@x-tlb-hl> <gloss>by fate</gloss>
+                              - <dictionary@x-tlb-hl>rita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>りた</tinellbian@x-tlb-hl> <gloss>by fate</gloss>
                               - <dictionary@x-tlb-hl>macu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まゆ</tinellbian@x-tlb-hl> <gloss>unexpectedly</gloss>
                               - <dictionary@x-tlb-hl>xani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざに</tinellbian@x-tlb-hl> <gloss>unwillingly</gloss>
                               - <dictionary@x-tlb-hl>dukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どっく</tinellbian@x-tlb-hl> <gloss>not by choice</gloss></block></wordlist>
@@ -1616,8 +1616,8 @@ entries:
                         Suffixes:
                           children:
                             Cisclass:
-                              date: '2025-10-11'
-                              position: '25.38'
+                              date: '2025-10-18'
+                              position: '68.33'
                               text:
                               - <h1>Cisclass</h1>
                               - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
@@ -1643,10 +1643,10 @@ entries:
                               - <desktop><table><thead>|h inanimate base |h abstract base</thead>
                               - <tbody>h animate | <multiline><dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> | <tinellbian@x-tlb-hl>り、さ</tinellbian@x-tlb-hl></multiline>
                               - h inanimate || <multiline><dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り、で</tinellbian@x-tlb-hl></multiline>
-                              - h abstract | <multiline><dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-ha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>は、った、ぢ</tinellbian@x-tlb-hl></multiline> |</tbody></table></desktop>
+                              - h abstract | <multiline><dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> / <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> / <tinellbian@x-tlb-hl>った、ぢ</tinellbian@x-tlb-hl></multiline> |</tbody></table></desktop>
                               - <mobile>inanimate
                               - '<ul> → animate: <dictionary@x-tlb-hl>-rra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl>'
-                              - ' → abstract: <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>-ha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl></ul>'
+                              - ' → abstract: <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl></ul>'
                               - abstract
                               - '<ul> → animate: <dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> / <dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl>'
                               - ' → inanimate: <dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl></ul></mobile>'
@@ -1671,7 +1671,7 @@ entries:
                               - <dictionary@x-tlb-hl>salari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さわり</tinellbian@x-tlb-hl> <gloss>makeup artist / antimony</gloss></block></wordlist>
                               - The suffix <dictionary@x-tlb-hl>-di</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl> derives an inanimate noun from something abstract.
                               - <wordlist><block><dictionary@x-tlb-hl>sinnadi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>せっなで</tinellbian@x-tlb-hl> <gloss>book</gloss></block></wordlist>
-                              - The suffix <dictionary@x-tlb-hl>-ji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl> derives an abstract noun from an inanimate count noun, whereas <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl> is used with inanimate mass nouns.
+                              - The suffix <dictionary@x-tlb-hl>-ja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl> derives an abstract noun from an inanimate count noun, whereas <dictionary@x-tlb-hl>-tta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl> is used with inanimate mass nouns.
                               - <wordlist><block><dictionary@x-tlb-hl>ru’ihaja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るいはぢ</tinellbian@x-tlb-hl> <gloss>history</gloss></block>
                               - <block><dictionary@x-tlb-hl>busatta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぶさった</tinellbian@x-tlb-hl> <gloss>colour</gloss></block></wordlist>
                               - The suffix <dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> derives nouns which are somehow distinct from their stem.
@@ -1682,9 +1682,11 @@ entries:
                               - <dictionary@x-tlb-hl>mulukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl> <gloss>heart</gloss></block>
                               - <block><dictionary@x-tlb-hl>dasikku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だせっく</tinellbian@x-tlb-hl> <gloss>digestive system</gloss></block>
                               - <block><dictionary@x-tlb-hl>tirusi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てるせ</tinellbian@x-tlb-hl> <gloss>memory</gloss></block></wordlist>
-                              - The giver of the inanimate or abstract base is denoted by <dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>.
+                              - The giver of the inanimate or abstract base is denoted by <dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>, receivers by <dictionary@x-tlb-hl>-su</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl>.
                               - <wordlist><block><dictionary@x-tlb-hl>’aggami</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police officer</gloss> / <gloss>law giver</gloss>
-                              - <dictionary@x-tlb-hl>Sa’imi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss> / <gloss>light giver</gloss></block></wordlist>
+                              - <dictionary@x-tlb-hl>Sa’imi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss> / <gloss>light giver</gloss></block>
+                              - <block><dictionary@x-tlb-hl>kitisu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きてす</tinellbian@x-tlb-hl> <gloss>father / responsibility receiver</gloss>
+                              - <dictionary@x-tlb-hl>mifasu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みへす</tinellbian@x-tlb-hl> <gloss>vassal / task receiver</gloss></block></wordlist>
                               - The animate user of an inanimate item is denoted by <dictionary@x-tlb-hl>-nissa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>にっさ</tinellbian@x-tlb-hl>.
                               - <wordlist><block><dictionary@x-tlb-hl>taʔanissa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たっあにっさ</tinellbian@x-tlb-hl> <gloss>musician</gloss></block></wordlist>
                               - <h3>Quasi-suffixes</h3>
@@ -2616,8 +2618,8 @@ entries:
                       title: High Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: {}
-                      date: '2025-10-16'
-                      position: '304.21'
+                      date: '2025-10-18'
+                      position: '862.33'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><abternal-link>Prelude</abternal-link></cite>, the first chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite><interlinear>
@@ -3449,9 +3451,9 @@ entries:
                       - <gloss>That <abbr>prs;sta</abbr> <abbr>abl</abbr>-think-<abbr>nmn</abbr>-group-<abbr>3ani;gen</abbr>, person, TZ:<ipa@x-tlb-tz>/ˈɬær.ən/</ipa@x-tlb-tz> speak-reply.</gloss>
                       - That was her group of thoughts, person, Lharen said in reply.</details|folding>
                       - It’s her idea, sir, Lharen answered.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Ra’u pali fu kulillu ritada rusa tucinaci pu’i.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。らうぱえふくえっをりただるさとちなちぷい。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kuli</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ritada</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>rusa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tucinaci</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pu’i</dictionary@x-tlb-hl>.
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Ra’u pali fu kulillu rita rusa tucinaci pu’i.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。らうぱえふくえっをりたるさとちなちぷい。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kuli</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>rita</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>rusa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tucinaci</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pu’i</dictionary@x-tlb-hl>.
                       - <gloss><abbr>Prs;sta</abbr> think-<abbr>com</abbr> <abbr>2tra</abbr> meet-<abbr>psv</abbr> fate <abbr>pst;gno</abbr> somewhat incredulous.</gloss>
                       - She somewhat thinks that she was fated until now to meet you, and I find it hard to believe.</details|folding>
                       - She’s got this idea that meeting you was fated or something.</paragraph>
@@ -3479,9 +3481,9 @@ entries:
                       - <gloss><abbr>1tra</abbr> <abbr>1abl</abbr> <abbr>dat</abbr>-place-abide put-<abbr>psv</abbr> try.</gloss>
                       - I (am) trying to be put at (my) abode by me.</details|folding>
                       - I’m trying to get home.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Xiku ’usu nimajja pi tujali’aba, ’usu nagari nipa lahifami rixi bixaca.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。しくうすにまっぢぴとぢえあば、うすながりにぱわひへみりしびざや。</tinellbian@x-tlb-hl>
-                      - <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tuja</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’aba</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nagari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>la</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>hifa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>rixi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bixaca</dictionary@x-tlb-hl>.
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Xiku ’usu nimajja pi tujali’aba, ’usu nagari nipa lamifami rixi bixaca.</transliteration@x-tlb-hl></summary|folding>
+                      - <tinellbian@x-tlb-hl>。しくうすにまっぢぴとぢえあば、うすながりにぱわみへみりしびざや。</tinellbian@x-tlb-hl>
+                      - <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tuja</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’aba</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nagari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>la</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mifa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-mi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>rixi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bixaca</dictionary@x-tlb-hl>.
                       - <gloss><abbr>Rel</abbr> <abbr>1int</abbr> at-here <abbr>pst;sta</abbr> place-other-every, <abbr>1int</abbr> <abbr>fut;sta</abbr>-<abbr>trm</abbr> at-<abbr>3ina;int</abbr> do-task-some must experience.</gloss>
                       - Every other place where I am here, I will probably have completed some task at it.</details|folding>
                       - Every other place I’ve been, it seems that I need to complete some task.
