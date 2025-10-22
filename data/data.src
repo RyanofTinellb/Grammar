@@ -1616,8 +1616,8 @@ entries:
                         Suffixes:
                           children:
                             Cisclass:
-                              date: '2025-10-18'
-                              position: '59.22'
+                              date: '2025-10-22'
+                              position: '82.51'
                               text:
                               - <h1>Cisclass</h1>
                               - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
@@ -1680,6 +1680,9 @@ entries:
                               - <dictionary@x-tlb-hl>fiqqala</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べっげわ</tinellbian@x-tlb-hl> <gloss>beryllium</gloss>
                               - <dictionary@x-tlb-hl>saqala</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さげわ</tinellbian@x-tlb-hl> <gloss>word</gloss>
                               - <dictionary@x-tlb-hl>xakila</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざきわ</tinellbian@x-tlb-hl> <gloss>thought to be</gloss></block></wordlist>
+                              - The suffix <dictionary@x-tlb-hl>-lli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っえ</tinellbian@x-tlb-hl> derives nouns that are one step down from an ultimate superior.
+                              - <wordlist><block><dictionary@x-tlb-hl>tinalli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl> <gloss><dictionary@en>bubble</dictionary@en></gloss>
+                              - <dictionary@x-tlb-hl>kimilli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きみっえ</tinellbian@x-tlb-hl> <gloss>king</gloss></block></wordlist>
                               - The suffix <dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> derives nouns which are somehow distinct from their stem.
                               - <wordlist><block><dictionary@x-tlb-hl>daruli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だるえ</tinellbian@x-tlb-hl> <gloss>wrong way</gloss>
                               - <dictionary@x-tlb-hl>gusuli</dictionary@x-tlb-hl> <gloss>non-guozu person</gloss></block></wordlist>
@@ -1699,7 +1702,7 @@ entries:
                               - These are only applied to verbs.
                               - The suffix <dictionary@x-tlb-hl>-ni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> is used to derive inceptive verbs.
                               - <wordlist><block><dictionary@x-tlb-hl>ducini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どちに</tinellbian@x-tlb-hl> <gloss>to receive</gloss></block></wordlist>
-                              - The suffix <dictionary@x-tlb-hl>-ulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・うを</tinellbian@x-tlb-hl> denotes reversal of an action, and can only be applied to stem verbs.
+                              - The suffix <dictionary@x-tlb-hl>-ulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、うを</tinellbian@x-tlb-hl> denotes reversal of an action, and can only be applied to stem verbs.
                               - <wordlist><block><dictionary@x-tlb-hl>lulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をを</tinellbian@x-tlb-hl> <gloss>to undo</gloss>
                               - <dictionary@x-tlb-hl>jannulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっぬを</tinellbian@x-tlb-hl> <gloss>to slow down</gloss>
                               - <dictionary@x-tlb-hl>turulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とるを</tinellbian@x-tlb-hl> <gloss>to open</gloss>
