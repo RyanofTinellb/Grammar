@@ -1924,8 +1924,8 @@ entries:
                               - <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to consider</gloss></block></wordlist>
                               title: High Lulani Ambitransitive Verbs - A Grammar of the Tinellbian Languages
                             Intransitive:
-                              date: '2025-10-14'
-                              position: '27.24'
+                              date: '2025-10-23'
+                              position: '90.28'
                               text:
                               - <h1>Intransitive</h1>
                               - Intransitive verbs are monovalent. For the archetypal intransitives, the verbal patient is the <strong>subject</strong>.
@@ -2013,9 +2013,9 @@ entries:
                               - <h3>Comparatives</h3>
                               - These verbs are used to denote the degree of similarity between two nouns. Their nuance can be modified by use of different case markers or adpositions.
                               - Case denotes unmarked similarity or difference, <strong>dative</strong> for the former, <strong>ablative</strong> for the latter.
-                              - <details|example><summary|folding><transliteration@x-tlb-hl>Nimalu kuquliruxita runi.</transliteration@x-tlb-hl></summary|folding>
-                              - <tinellbian@x-tlb-hl>。にまをくもえるしたるに。</tinellbian@x-tlb-hl>
-                              - <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>quliru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>runi</dictionary@x-tlb-hl>.
+                              - <details|example><summary|folding><transliteration@x-tlb-hl>Nimalu kuqusanuxita runi.</transliteration@x-tlb-hl></summary|folding>
+                              - <tinellbian@x-tlb-hl>。にまをくもさぬるしたるに。</tinellbian@x-tlb-hl>
+                              - <dictionary@x-tlb-hl>nimalu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>qusanu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>runi</dictionary@x-tlb-hl>.
                               - <gloss>bear <abbr>dat</abbr>-family-one similar.</gloss></details|example>
                               - “The bear is like one of the family.”
                               - The adposition <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>with</gloss> denotes a slight similarity or difference.
@@ -2382,8 +2382,8 @@ entries:
                     Phonology:
                       children:
                         Consonants:
-                          date: '2025-10-16'
-                          position: '59.32'
+                          date: '2025-10-23'
+                          position: '77.14'
                           text:
                           - <h1>Consonants</h1>
                           - Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
@@ -2461,7 +2461,7 @@ entries:
                           - <dictionary@x-tlb-hl>sinna</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈsi<strong>ɲː</strong>ə/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>せっな</tinellbian@x-tlb-hl> <gloss>story</gloss></block></wordlist>
                           - <h3>Velar</h3>
                           - The nasal <ipa@x-tlb-hl>/ŋ/</ipa@x-tlb-hl> is velar.
-                          - <wordlist><block><dictionary@x-tlb-hl>quliru</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/<strong>ŋ</strong>ʉˈliɽʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>もえる</tinellbian@x-tlb-hl> <gloss>family</gloss>
+                          - <wordlist><block><dictionary@x-tlb-hl>qusanu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/<strong>ŋ</strong>ʉˈsanʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>もえる</tinellbian@x-tlb-hl> <gloss>family</gloss>
                           - <dictionary@x-tlb-hl>kunaqi</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/kʰʉˈna<strong>ŋ</strong>ɨ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>くなね</tinellbian@x-tlb-hl> <gloss>earth</gloss>
                           - <dictionary@x-tlb-hl>laqqu</dictionary@x-tlb-hl> <ipa@x-tlb-hl>/ˈla<strong>ŋː</strong>ʉ/</ipa@x-tlb-hl> <tinellbian@x-tlb-hl>わっも</tinellbian@x-tlb-hl> <gloss>wealth</gloss></block></wordlist>
                           - <h2>Liquids</h2>
