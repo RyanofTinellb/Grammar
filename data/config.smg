@@ -9,6 +9,11 @@ entries:
   - Morphology
   - Verbs
   - Intransitive
+- - A Grammar of the Tinellbian Languages
+  - Languages
+  - Lulani
+  - High
+  - Sample Text
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\grammar\data\assets\autocorrect.ime
