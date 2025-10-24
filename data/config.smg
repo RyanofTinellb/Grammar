@@ -7,13 +7,8 @@ entries:
   - Lulani
   - High
   - Morphology
-  - Verbs
-  - Intransitive
-- - A Grammar of the Tinellbian Languages
-  - Languages
-  - Lulani
-  - High
-  - Sample Text
+  - Suffixes
+  - Cisclass
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\grammar\data\assets\autocorrect.ime

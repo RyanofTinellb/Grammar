@@ -1616,28 +1616,11 @@ entries:
                         Suffixes:
                           children:
                             Cisclass:
-                              date: '2025-10-22'
-                              position: '82.51'
+                              date: '2025-10-25'
+                              position: '101.18'
                               text:
                               - <h1>Cisclass</h1>
                               - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
-                              - The augmentative <dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・あく</tinellbian@x-tlb-hl> is most often attached to nouns to reference something large or important. It is rarely used for people.
-                              - <wordlist><block><dictionary@x-tlb-hl>tissaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっさく</tinellbian@x-tlb-hl> <gloss>wind</gloss>
-                              - <dictionary@x-tlb-hl>’isilaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いせわく</tinellbian@x-tlb-hl> <gloss>depression</gloss></block></wordlist>
-                              - The suffix <dictionary@x-tlb-hl>-ira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、いら</tinellbian@x-tlb-hl> intensifies its referent.
-                              - <wordlist><block><dictionary@x-tlb-hl>kupira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>くぴら</tinellbian@x-tlb-hl> <gloss>intensely</gloss>
-                              - <dictionary@x-tlb-hl>fira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べら</tinellbian@x-tlb-hl> <gloss>want</gloss></block></wordlist>
-                              - The diminutive <dictionary@x-tlb-hl>-ini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・いに</tinellbian@x-tlb-hl> is used to form words which reference something small or unimportant. When used with animate nouns, it creates a word for the young of non-sapient creatures. However, with sapient creatures, this word is obscene.
-                              - <wordlist><block><dictionary@x-tlb-hl>’ahatini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あはてに</tinellbian@x-tlb-hl> <gloss>contentment</gloss>
-                              - <dictionary@x-tlb-hl>tissini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっせに</tinellbian@x-tlb-hl> <gloss>breeze</gloss>
-                              - <dictionary@x-tlb-hl>ranini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らにに</tinellbian@x-tlb-hl> <gloss>potato chips</gloss></block>
-                              - <block><dictionary@x-tlb-hl>bi’ini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>びいに</tinellbian@x-tlb-hl> <gloss>to itch</gloss></block></wordlist>
-                              - There are two honorific suffixes, <dictionary@x-tlb-hl>-fi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl> for sacred things, and <dictionary@x-tlb-hl>-ni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> for exalted.
-                              - <wordlist><block><dictionary@x-tlb-hl>karafi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>からべ</tinellbian@x-tlb-hl> <gloss>sacredness</gloss></block>
-                              - <block><dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> <gloss>queen</gloss></block></wordlist>
-                              - The pair <dictionary@x-tlb-hl>-tu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とい</tinellbian@x-tlb-hl> and <dictionary@x-tlb-hl>-da</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> are used to highlight the positive and negative aspects of a word, respectively.
-                              - <wordlist><block><dictionary@x-tlb-hl>dasatu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださとい</tinellbian@x-tlb-hl> <gloss>passion</gloss> / <dictionary@x-tlb-hl>dasada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださだ</tinellbian@x-tlb-hl> <gloss>anger</gloss>
-                              - <dictionary@x-tlb-hl>ta’itu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいとい</tinellbian@x-tlb-hl> <gloss>aroma</gloss> / <dictionary@x-tlb-hl>ta’ida</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいだ</tinellbian@x-tlb-hl> <gloss>stink</gloss></block></wordlist>
                               - <h2>Nominal Suffixes</h2>
                               - These derive nouns from other nouns.
                               - <desktop><table><thead>|h inanimate base |h abstract base</thead>
@@ -1680,7 +1663,7 @@ entries:
                               - <dictionary@x-tlb-hl>fiqqala</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べっげわ</tinellbian@x-tlb-hl> <gloss>beryllium</gloss>
                               - <dictionary@x-tlb-hl>saqala</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さげわ</tinellbian@x-tlb-hl> <gloss>word</gloss>
                               - <dictionary@x-tlb-hl>xakila</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざきわ</tinellbian@x-tlb-hl> <gloss>thought to be</gloss></block></wordlist>
-                              - The suffix <dictionary@x-tlb-hl>-lli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っえ</tinellbian@x-tlb-hl> derives nouns that are one step down from an ultimate superior.
+                              - The suffix <dictionary@x-tlb-hl>-lli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っえ</tinellbian@x-tlb-hl> derives nouns that are the penultimate entry in a hierarchy.
                               - <wordlist><block><dictionary@x-tlb-hl>tinalli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl> <gloss><dictionary@en>bubble</dictionary@en></gloss>
                               - <dictionary@x-tlb-hl>kimilli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きみっえ</tinellbian@x-tlb-hl> <gloss>king</gloss></block></wordlist>
                               - The suffix <dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> derives nouns which are somehow distinct from their stem.
@@ -1693,6 +1676,26 @@ entries:
                               - <dictionary@x-tlb-hl>mifasu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みへす</tinellbian@x-tlb-hl> <gloss>vassal / task receiver</gloss></block></wordlist>
                               - The animate user of an inanimate item is denoted by <dictionary@x-tlb-hl>-nissa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>にっさ</tinellbian@x-tlb-hl>.
                               - <wordlist><block><dictionary@x-tlb-hl>taʔanissa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たっあにっさ</tinellbian@x-tlb-hl> <gloss>musician</gloss></block></wordlist>
+                              - Something considered as having the full set of identical items is denoted by <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>い。</tinellbian@x-tlb-hl>
+                              - <wordlist><block><dictionary@x-tlb-hl>’ita’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いたい</tinellbian@x-tlb-hl> <gloss>wagon</gloss>
+                              - <dictionary@x-tlb-hl>sapi’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さぴい</tinellbian@x-tlb-hl> <gloss>spider</gloss></block></wordlist>
+                              - The augmentative <dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・あく</tinellbian@x-tlb-hl> is most often attached to nouns to reference something large or important. It is rarely used for people.
+                              - <wordlist><block><dictionary@x-tlb-hl>tissaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっさく</tinellbian@x-tlb-hl> <gloss>wind</gloss>
+                              - <dictionary@x-tlb-hl>’isilaku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いせわく</tinellbian@x-tlb-hl> <gloss>depression</gloss></block></wordlist>
+                              - The suffix <dictionary@x-tlb-hl>-ira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、いら</tinellbian@x-tlb-hl> intensifies its referent.
+                              - <wordlist><block><dictionary@x-tlb-hl>kupira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>くぴら</tinellbian@x-tlb-hl> <gloss>intensely</gloss>
+                              - <dictionary@x-tlb-hl>fira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べら</tinellbian@x-tlb-hl> <gloss>want</gloss></block></wordlist>
+                              - The diminutive <dictionary@x-tlb-hl>-ini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・いに</tinellbian@x-tlb-hl> is used to form words which reference something small or unimportant. When used with animate nouns, it creates a word for the young of non-sapient creatures. However, with sapient creatures, this word is obscene.
+                              - <wordlist><block><dictionary@x-tlb-hl>’ahatini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あはてに</tinellbian@x-tlb-hl> <gloss>contentment</gloss>
+                              - <dictionary@x-tlb-hl>tissini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっせに</tinellbian@x-tlb-hl> <gloss>breeze</gloss>
+                              - <dictionary@x-tlb-hl>ranini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らにに</tinellbian@x-tlb-hl> <gloss>potato chips</gloss></block>
+                              - <block><dictionary@x-tlb-hl>bi’ini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>びいに</tinellbian@x-tlb-hl> <gloss>to itch</gloss></block></wordlist>
+                              - There are two honorific suffixes, <dictionary@x-tlb-hl>-fi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl> for sacred things, and <dictionary@x-tlb-hl>-ni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> for exalted.
+                              - <wordlist><block><dictionary@x-tlb-hl>karafi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>からべ</tinellbian@x-tlb-hl> <gloss>sacredness</gloss></block>
+                              - <block><dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> <gloss>queen</gloss></block></wordlist>
+                              - The pair <dictionary@x-tlb-hl>-tu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とい</tinellbian@x-tlb-hl> and <dictionary@x-tlb-hl>-da</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> are used to highlight the positive and negative aspects of a word, respectively.
+                              - <wordlist><block><dictionary@x-tlb-hl>dasatu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださとい</tinellbian@x-tlb-hl> <gloss>passion</gloss> / <dictionary@x-tlb-hl>dasada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ださだ</tinellbian@x-tlb-hl> <gloss>anger</gloss>
+                              - <dictionary@x-tlb-hl>ta’itu’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいとい</tinellbian@x-tlb-hl> <gloss>aroma</gloss> / <dictionary@x-tlb-hl>ta’ida</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たいだ</tinellbian@x-tlb-hl> <gloss>stink</gloss></block></wordlist>
                               - <h3>Quasi-suffixes</h3>
                               - Some nouns are so generic when forming compounds that they tend to end up acting as suffixes.
                               - <wordlist><block><dictionary@x-tlb-hl>tihutuja</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てほとぢ</tinellbian@x-tlb-hl>  <gloss>home</gloss></block>
@@ -1713,9 +1716,10 @@ entries:
                               - The infix <dictionary@x-tlb-hl>-ar-</dictionary@x-tlb-hl> is placed before the final vowel of auxiliaries, and denotes an end to the action described by the sentence.
                               - <wordlist><block><dictionary@x-tlb-hl>lanaru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl> <gloss>will finish doing</gloss>
                               - <dictionary@x-tlb-hl>nagari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl> <gloss>will finish being</gloss></block></wordlist>
-                              - <h2>Mathematical Suffixes</h2>
+                              - <h2>Mathematical Affixes</h2>
                               - These are used in mathematics.
-                              - The suffix <dictionary@x-tlb-hl>-ki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> derives <grammar-link@x-tlb-hl>fractions</grammar-link@x-tlb-hl>.
+                              - The prefix <dictionary@x-tlb-hl>ki-</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> derives <grammar-link@x-tlb-hl>fractions</grammar-link@x-tlb-hl>.
+                              - <wordlist><block><dictionary@x-tlb-hl>kinuru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きぬる</tinellbian@x-tlb-hl> <gloss>quarter</gloss></block></wordlist>
                               title: High Lulani Cisclass - A Grammar of the Tinellbian Languages
                             Determiners:
                               date: '2025-04-25'
@@ -2630,8 +2634,8 @@ entries:
                       title: High Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: {}
-                      date: '2025-10-24'
-                      position: '425.33'
+                      date: '2025-10-25'
+                      position: '43.50'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><abternal-link>Prelude</abternal-link></cite>, the first chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite><interlinear>
@@ -2674,8 +2678,8 @@ entries:
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Kikafasa dissu kal·li kal·lu’ipu’a nura dukku na kixina hibu.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。きかへさでっすかをえかををいぷあぬらどっくなきしな。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>kika</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>fasa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kal·li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-pu’a</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nura</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dukku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kixina</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hibu</dictionary@x-tlb-hl>.
-                      - <gloss>over-moment feel <abbr>abl</abbr>-<abbr>com</abbr> <abbr>abl</abbr>-love-<abbr>nmn</abbr> separate must <abbr>prs;hab</abbr> grief allowing_oneself.</gloss>
-                      - (She) allows herself for a moment to feel grief from (the fact that she) must repeatedly be separated from (her) lover.
+                      - <gloss>over-moment feel <abbr>abl</abbr>-<abbr>com</abbr> <abbr>abl</abbr>-love-<abbr>nmn</abbr> separate must <abbr>prs;hab</abbr> mourning allowing_oneself.</gloss>
+                      - (She) allows herself for a moment to feel mourning from (the fact that she) must repeatedly be separated from (her) lover.
                       - </details|folding>She allowed herself to feel grief for a moment, grief at being continually separated from her beloved.</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Ku·li ’amilaru piba kuppu xiku racaxa disi ’usaju’illuru lanu qapi ru palinu qixa, surra maditiba, cani pajaga milami.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。くえあみわるぴばくっぷしくらやざでせうさよいっをるわぬげぴるぱえぬねざ、すっらまでてば、やにぱぢがみわみ。</tinellbian@x-tlb-hl>
