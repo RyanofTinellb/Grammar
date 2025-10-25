@@ -1376,7 +1376,7 @@ entries:
                           children:
                             Adverbs:
                               date: '2025-10-25'
-                              position: '47.21'
+                              position: '17.16'
                               text:
                               - <h1>Adverbs</h1>
                               - 'A closed subset of nouns can have an adverbial function. These adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See also: <grammar-link@x-tlb-hl>Adverbial Clauses</grammar-link@x-tlb-hl>.'
@@ -1394,7 +1394,7 @@ entries:
                               - <dictionary@x-tlb-hl>xaka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざか</tinellbian@x-tlb-hl> <gloss>fail to</gloss>
                               - <dictionary@x-tlb-hl>calla</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やっわ</tinellbian@x-tlb-hl> <gloss>must</gloss>
                               - <dictionary@x-tlb-hl>fuca</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ふや</tinellbian@x-tlb-hl> <gloss>can</gloss>
-                              - <dictionary@x-tlb-hl>rita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>りた</tinellbian@x-tlb-hl> <gloss>by fate</gloss>
+                              - <dictionary@x-tlb-hl>rita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>りた</tinellbian@x-tlb-hl> <gloss>fated to</gloss>
                               - <dictionary@x-tlb-hl>macu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まゆ</tinellbian@x-tlb-hl> <gloss>unexpectedly</gloss>
                               - <dictionary@x-tlb-hl>xani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざに</tinellbian@x-tlb-hl> <gloss>unwillingly</gloss>
                               - <dictionary@x-tlb-hl>dukku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どっく</tinellbian@x-tlb-hl> <gloss>not by choice</gloss></block></wordlist>
@@ -1619,7 +1619,7 @@ entries:
                           children:
                             Cisclass:
                               date: '2025-10-25'
-                              position: '105.18'
+                              position: '119.70'
                               text:
                               - <h1>Cisclass</h1>
                               - 'These tend to derive words within a class, <i>i.e.</i>: a noun from a noun, or a verb from a verb.'
@@ -1739,8 +1739,13 @@ entries:
                               - pa<dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱら</tinellbian@x-tlb-hl> <b>2&thinsp;562&thinsp;890&thinsp;625</b> <gloss>1&thinsp;0000&thinsp;0000</gloss>
                               - <dictionary@x-tlb-hl>pahha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっは</tinellbian@x-tlb-hl> <gloss>one</gloss>
                               - pa<dictionary@x-tlb-hl>mu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱむ</tinellbian@x-tlb-hl> <b>~0.000&thinsp;019</b> <gloss>0.0001</gloss></block></wordlist>
-                              - The suffix <dictionary@x-tlb-hl>-hha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っは</tinellbian@x-tlb-hl>, derived from the last two morae of <dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> <gloss>zero</gloss> denotes multiples of <b>15</b> <i>10</i>
-                              - <dictionary@x-tlb-hl>sahha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さっは</tinellbian@x-tlb-hl> <gloss>ten</gloss>
+                              - The suffix <dictionary@x-tlb-hl>-hha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っは</tinellbian@x-tlb-hl>, derived from the last two morae of <dictionary@x-tlb-hl>qihha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> <gloss>zero</gloss>, denotes multiples of <b>15</b> <i>10</i>
+                              - <wordlist><dictionary@x-tlb-hl>sahha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さっは</tinellbian@x-tlb-hl> <gloss>ten</gloss>
+                              - <dictionary@x-tlb-hl>rahha</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らっは</tinellbian@x-tlb-hl> <b>30</b> <i>20</i></wordlist>
+                              - The suffix <dictionary@x-tlb-hl>-uju</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、うよ</tinellbian@x-tlb-hl> derives ordinal numbers from cardinals. Negative numbers count from the end of the list.
+                              - <dictionary@x-tlb-hl>kifuju</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きふよ</tinellbian@x-tlb-hl> <gloss>third</gloss>
+                              - <dictionary@x-tlb-hl>muju</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>むよ</tinellbian@x-tlb-hl> <gloss>last</gloss>
+                              - <dictionary@x-tlb-hl>kannuju</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>かっぬよ</tinellbian@x-tlb-hl> <gloss>second-last</gloss>
                               title: High Lulani Cisclass - A Grammar of the Tinellbian Languages
                             Determiners:
                               date: '2025-04-25'
