@@ -60,9 +60,11 @@ columns:
 components: ol
 default:
   props:
-    font: Garamond
+    font: Calibri
+    top: 5
+    bottom: 5
     ime: autocorrect
-    size: 14
+    size: 16
 desktop:
   props:
     background: '#ff33ff'
