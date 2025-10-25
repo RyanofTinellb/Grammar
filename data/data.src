@@ -1375,8 +1375,8 @@ entries:
                         Nouns:
                           children:
                             Adverbs:
-                              date: '2025-10-18'
-                              position: '17.4'
+                              date: '2025-10-25'
+                              position: '47.21'
                               text:
                               - <h1>Adverbs</h1>
                               - 'A closed subset of nouns can have an adverbial function. These adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See also: <grammar-link@x-tlb-hl>Adverbial Clauses</grammar-link@x-tlb-hl>.'
@@ -1417,12 +1417,14 @@ entries:
                               - <dictionary@x-tlb-hl>dura</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どら</tinellbian@x-tlb-hl> <gloss>repeatedly</gloss></block></wordlist>
                               - <h2>Modals</h2>
                               - These adverbs cannot be used as verbal suffixes, and can only describe an entire sentence.
-                              - <wordlist><block><dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まった</tinellbian@x-tlb-hl> <gloss>again</gloss>
+                              - <wordlist><block><dictionary@x-tlb-hl>’aru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ある</tinellbian@x-tlb-hl> <gloss>turns out</gloss>
+                              - <dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まった</tinellbian@x-tlb-hl> <gloss>again</gloss>
                               - <dictionary@x-tlb-hl>hiru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひる</tinellbian@x-tlb-hl> <gloss>contrariwise</gloss></block></wordlist>
                               - <h3>Probability</h3>
                               - These tell how likely an event is to have occurred, or to occur in the future.
                               - <wordlist><block><dictionary@x-tlb-hl>’ili</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いえ</tinellbian@x-tlb-hl> <gloss>actually</gloss>
                               - <dictionary@x-tlb-hl>da’aru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だある</tinellbian@x-tlb-hl> <gloss>experience</gloss>
+                              - <dictionary@x-tlb-hl>’aqqi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>あっね</tinellbian@x-tlb-hl> <gloss>predictably</gloss>
                               - <dictionary@x-tlb-hl>fa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>へ</tinellbian@x-tlb-hl> <gloss>maybe</gloss>
                               - <dictionary@x-tlb-hl>tasi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たせ</tinellbian@x-tlb-hl> <gloss>probably</gloss>
                               - <dictionary@x-tlb-hl>qaxa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げざ</tinellbian@x-tlb-hl> <gloss>predicted to</gloss>
