@@ -80,6 +80,12 @@ main ol.components {
     list-style: lower-roman;
 }
 
+main ul.particles {
+    margin-inline-start: 10%;
+    line-height: 1.9;
+    list-style: "-    ";
+}
+
 main table {
     margin-inline-start: 5%;
     margin-block: 2em;

@@ -1610,11 +1610,11 @@ entries:
                           text:
                           - <h1>Particles</h1>
                           - 'There are very few particles. These are simply words that do not fit neatly into any other category. This includes:'
-                          - <ul><internal-link@x-tlb-hl>interjections</internal-link@x-tlb-hl>,
+                          - <particles><internal-link@x-tlb-hl>interjections</internal-link@x-tlb-hl>,
                           - <internal-link@x-tlb-hl>numbers</internal-link@x-tlb-hl> and mathematical operations,
                           - pronouns of the <internal-link@x-tlb-hl>alienable genitive</internal-link@x-tlb-hl>,
                           - <internal-link@x-tlb-hl>content</internal-link@x-tlb-hl> and <internal-link@x-tlb-hl>relative clause</internal-link@x-tlb-hl> introductory markers, and
-                          - the <internal-link@x-tlb-hl>superlative</internal-link@x-tlb-hl> marker.</ul>
+                          - the <internal-link@x-tlb-hl>superlative</internal-link@x-tlb-hl> marker.</particles>
                           title: High Lulani Particles - A Grammar of the Tinellbian Languages
                         Suffixes:
                           children:
@@ -2366,8 +2366,8 @@ entries:
                           - h h | ⠂ | ⠆ | ⠦</table></mobile>
                           - Dot 5 (⠐) by itself is the geminate. Word separation is shown by (⠀) an empty space, clause separation by (⠤) the comma, and sentence separation by (⠔) the period. Numbers are prefixed with (⠨) the number sign, and the first syllable of each number is used.
                           title: High Lulani Tactile Syllabary - A Grammar of the Tinellbian Languages
-                      date: '2025-04-11'
-                      position: '20.18'
+                      date: '2025-10-26'
+                      position: '40.82'
                       text:
                       - <h1>Orthography</h1>
                       - As well as the syllabary for most written use, there are also special-use syllabaries. One of these encodes more redundancy for use with noisy channels. The other is a non-visual written code for blind and other visually impaired users.
@@ -2408,7 +2408,7 @@ entries:
                       - ' xa: <tinellbian@x-tlb-hl>ざ</tinellbian@x-tlb-hl> | xi: <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> | xu: <tinellbian@x-tlb-hl>ず</tinellbian@x-tlb-hl>'
                       - ' ha: <tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl> | hi: <tinellbian@x-tlb-hl>ひ</tinellbian@x-tlb-hl> | hu: <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl></table></mobile>'
                       - Geminate consonants are shown as <tinellbian@x-tlb-hl>っ</tinellbian@x-tlb-hl>, placed before the geminated consonant.
-                      - A central dot <tinellbian@x-tlb-hl>・</tinellbian@x-tlb-hl> is placed between words, and sentences begin and end with a <tinellbian@x-tlb-hl>。</tinellbian@x-tlb-hl> symbol.
+                      - Sentences begin and end with a <tinellbian@x-tlb-hl>。</tinellbian@x-tlb-hl> symbol, and clauses are separated with a <tinellbian@x-tlb-hl>、</tinellbian@x-tlb-hl> symbol.
                       title: High Lulani Orthography - A Grammar of the Tinellbian Languages
                     Phonology:
                       children:

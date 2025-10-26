@@ -264,6 +264,7 @@ paragraph:
   rank: 150
   start: <p>
   type: div
+particles: ul
 portrait: div
 script:
   props:
