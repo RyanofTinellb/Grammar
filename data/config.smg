@@ -7,7 +7,7 @@ entries:
   - Lulani
   - High
   - Morphology
-  - Particles
+  - Verbs
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\grammar\data\assets\autocorrect.ime
@@ -46,3 +46,4 @@ templates:
     search: c:\users\ryan\tinellbianlanguages\www\data\templates\search.tpl
     wholepage: c:\users\ryan\tinellbianlanguages\www\data\templates\wholepage.tpl
 url: grammar.tinellb.com
+
