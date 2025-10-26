@@ -815,7 +815,7 @@ entries:
                           - <gloss>down-<abbr>abl</abbr>-car</gloss>
                           - </details|folding>“down from the cart”</block></wordlist>
                           - <h4>Government</h4>
-                          - When the object of an adposition is an <grammar-link@x-tlb-hl>animate</grammar-link@x-tlb-hl> <grammar-link@x-tlb-hl>personal pronoun</grammar-link@x-tlb-hl>, they can take different cases depending on the adposition.
+                          - When the object of an adposition is an <internal-link@x-tlb-hl>animate</internal-link@x-tlb-hl> <internal-link@x-tlb-hl>personal pronoun</internal-link@x-tlb-hl>, they can take different cases depending on the adposition.
                           - <wordlist><block><details|folding><summary|folding><transliteration@x-tlb-hl>harupixi</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>はるぴし</tinellbian@x-tlb-hl>
                           - <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pixi</dictionary@x-tlb-hl>
@@ -868,7 +868,7 @@ entries:
                           - “The minister is usually having a drink around now.”
                           - <h2>List of Adpositions</h2>
                           - <h3>Comparative</h3>
-                          - These are used to mark the standard of a <grammar-link@x-tlb-hl>comparison</grammar-link@x-tlb-hl>.
+                          - These are used to mark the standard of a <internal-link@x-tlb-hl>comparison</internal-link@x-tlb-hl>.
                           - <wordlist><block><dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>equative</gloss> (+<abbr>dat</abbr>)
                           - <dictionary@x-tlb-hl>su</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>comparative</gloss> (+<abbr>abl</abbr>)</block></wordlist>
                           - <h3>Direction</h3>
@@ -930,7 +930,7 @@ entries:
                           position: '39.52'
                           text:
                           - <h1>Auxiliaries</h1>
-                          - Auxiliaries are a type of <grammar-link@x-tlb-hl>verb</grammar-link@x-tlb-hl>, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
+                          - Auxiliaries are a type of <internal-link@x-tlb-hl>verb</internal-link@x-tlb-hl>, however, they are sufficiently different from main verbs for them to be treated separately in this grammar. They are used to mark tense (the time at which an action takes place) and aspect (the nature of the passage of time during the action). The auxiliary can be dropped from a sentence if it is obvious from context, or is the same as that of the sentence immediately prior. They are a closed class.
                           - <desktop><table><thead>|h dynamic |h stative |h negative |h habitual |h gnomic</thead>
                           - <tbody>h past | <multiline><dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>qilu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>taku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>rusa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></multiline>
                           - h present | <multiline><dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>ji</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></multiline>
@@ -1015,7 +1015,7 @@ entries:
                           - <dictionary@x-tlb-hl>nuki</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぬき</tinellbian@x-tlb-hl> <gloss>or</gloss>
                           - <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱだ</tinellbian@x-tlb-hl> <gloss>and then</gloss></block></wordlist>
                           - <h3>Subordinating Conjunctions</h3>
-                          - Subordinating conjunctions are used to introduce a dependent clause. See the section on <grammar-link@x-tlb-hl>subordinate clauses</grammar-link@x-tlb-hl> for syntactical information.
+                          - Subordinating conjunctions are used to introduce a dependent clause. See the section on <internal-link@x-tlb-hl>subordinate clauses</internal-link@x-tlb-hl> for syntactical information.
                           - <wordlist><block><dictionary@x-tlb-hl>surra</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すっら</tinellbian@x-tlb-hl> <gloss>if</gloss>
                           - <dictionary@x-tlb-hl>daru’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>だるい</tinellbian@x-tlb-hl> <gloss>because</gloss>
                           - <dictionary@x-tlb-hl>gi’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎあ</tinellbian@x-tlb-hl> <gloss>that is</gloss>
@@ -1097,7 +1097,7 @@ entries:
                               - <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sama</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kuffa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>diru</dictionary@x-tlb-hl>? / <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sama</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kuffa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qikanni</dictionary@x-tlb-hl>?
                               - <gloss><abbr>2tra</abbr> <abbr>dat</abbr>-what give money? / <abbr>2tra</abbr> <abbr>dat</abbr>-what give dog?</gloss></details|example>
                               - “To whom did you give the money?” / “What did you give the dog?”
-                              - This latter example exploits the ability to swap dative and object for <grammar-link@x-tlb-hl>motive verbs</grammar-link@x-tlb-hl>.
+                              - This latter example exploits the ability to swap dative and object for <internal-link@x-tlb-hl>motive verbs</internal-link@x-tlb-hl>.
                               - Reduplicated indefinite pronouns with suffixed -<dictionary@x-tlb-hl>ta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>た</tinellbian@x-tlb-hl> <gloss>and</gloss> are used for emphasis.
                               - <wordlist><block><details|folding><summary|folding><transliteration@x-tlb-hl>sama samata?</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>さまさまた</tinellbian@x-tlb-hl>
@@ -1156,7 +1156,7 @@ entries:
                               - <gloss><abbr>1int</abbr>-every <abbr>2int</abbr>-every-and</gloss></details|folding>
                               - “every me and every you”</block></wordlist>
                               - <h2>Place</h2>
-                              - 'Place pronouns are used for locations in any, some or all of: space, time, reality and <dictionary@en>gingla</dictionary@en>. They can function as <grammar-link@x-tlb-hl>adverbial adpositions</grammar-link@x-tlb-hl>,'
+                              - 'Place pronouns are used for locations in any, some or all of: space, time, reality and <dictionary@en>gingla</dictionary@en>. They can function as <internal-link@x-tlb-hl>adverbial adpositions</internal-link@x-tlb-hl>,'
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Cufilu majja dasi da.</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>。ゆべをまっぢだせだ。</tinellbian@x-tlb-hl>
                               - <dictionary@x-tlb-hl>cufilu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>da</dictionary@x-tlb-hl>.
@@ -1201,7 +1201,7 @@ entries:
                               position: '43.27'
                               text:
                               - <h1>Personal Pro-forms</h1>
-                              - These are a closed class. They are marked for <grammar-link@x-tlb-hl>case</grammar-link@x-tlb-hl> and <external>https://en.wikipedia.org/wiki/Grammatical_person|person</external>. The third person pronouns are additionally marked for topicality or <grammar-link@x-tlb-hl>animacy</grammar-link@x-tlb-hl>. The alienable genitive acts as the nominal head of a possessive phrase, the inalienable genitive is a determiner, and the other pronouns all act as nouns.
+                              - These are a closed class. They are marked for <internal-link@x-tlb-hl>case</internal-link@x-tlb-hl> and <external>https://en.wikipedia.org/wiki/Grammatical_person|person</external>. The third person pronouns are additionally marked for topicality or <internal-link@x-tlb-hl>animacy</internal-link@x-tlb-hl>. The alienable genitive acts as the nominal head of a possessive phrase, the inalienable genitive is a determiner, and the other pronouns all act as nouns.
                               - <desktop><table><thead>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
                               - h topic |h animate |h inanimate</thead>
                               - <tbody>hc2 intranstitive | <multiline><dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>filli</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べっえ</tinellbian@x-tlb-hl></multiline> | <multiline>(<dictionary@x-tlb-hl>su’a</dictionary@x-tlb-hl>) <tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みほ</tinellbian@x-tlb-hl></multiline> | <multiline><dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl></multiline>
@@ -1375,11 +1375,11 @@ entries:
                         Nouns:
                           children:
                             Adverbs:
-                              date: '2025-10-25'
-                              position: '17.16'
+                              date: '2025-10-26'
+                              position: '71.45'
                               text:
                               - <h1>Adverbs</h1>
-                              - 'A closed subset of nouns can have an adverbial function. These adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See also: <grammar-link@x-tlb-hl>Adverbial Clauses</grammar-link@x-tlb-hl>.'
+                              - 'A closed subset of nouns can have an adverbial function. These adverbs can be used either as a verbal suffix or independently to describe the entire utterance. See also: <internal-link@x-tlb-hl>Adverbial Clauses</internal-link@x-tlb-hl>.'
                               - <wordlist><block><dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まった</tinellbian@x-tlb-hl> <gloss>also</gloss>
                               - <dictionary@x-tlb-hl>gicirri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぎちっり</tinellbian@x-tlb-hl> <gloss>instead</gloss>
                               - <dictionary@x-tlb-hl>naku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なく</tinellbian@x-tlb-hl> <gloss>together</gloss>
@@ -1447,7 +1447,8 @@ entries:
                               - <dictionary@x-tlb-hl>rapi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らぴ</tinellbian@x-tlb-hl> <gloss>disregard (“I don’t care!”)</gloss>
                               - <dictionary@x-tlb-hl>tappa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>たっぱ</tinellbian@x-tlb-hl> <gloss>seeking confirmation (“Isn’t it?”)</gloss>
                               - <dictionary@x-tlb-hl>rani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>らに</tinellbian@x-tlb-hl> <gloss>giving confirmation (“I agree.”)</gloss>
-                              - <dictionary@x-tlb-hl>qarihu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げりほ</tinellbian@x-tlb-hl> <gloss>regret (“I’m sorry.”)</gloss>
+                              - <dictionary@x-tlb-hl>qarihu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げりほ</tinellbian@x-tlb-hl> <gloss>regret (“I’m sorry I did this.”)</gloss>
+                              - <dictionary@x-tlb-hl>’iba</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>いば</tinellbian@x-tlb-hl> <gloss>sympathy (“I’m sorry this happened.”)</gloss>
                               - <dictionary@x-tlb-hl>tupi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とぴ</tinellbian@x-tlb-hl> <gloss>respect (“With all due respect…”)</gloss></block></wordlist>
                               - <h3>Occasion</h3>
                               - <wordlist><block><dictionary@x-tlb-hl>miru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl> <gloss>now</gloss>
@@ -1504,7 +1505,7 @@ entries:
                           - <dictionary@x-tlb-hl>Lulani</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl> <gloss>Lulani</gloss> (name of a language)
                           - <dictionary@x-tlb-hl>Xucipura.Cula</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ずちぷら、ゆわ</tinellbian@x-tlb-hl> <gloss>The Crackled Egg</gloss> (name of a story)</block></wordlist>
                           - <h3>Pronoun</h3>
-                          - Pronouns are used to refer to a known noun or noun phrase. Full information can be found in the section on <grammar-link@x-tlb-hl>deixis</grammar-link@x-tlb-hl>.
+                          - Pronouns are used to refer to a known noun or noun phrase. Full information can be found in the section on <internal-link@x-tlb-hl>deixis</internal-link@x-tlb-hl>.
                           - <wordlist><block><dictionary@x-tlb-hl>su’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl> <gloss>them</gloss>
                           - <dictionary@x-tlb-hl>puttu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぷっと</tinellbian@x-tlb-hl> <gloss>from me</gloss>
                           - <dictionary@x-tlb-hl>ba’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ばう</tinellbian@x-tlb-hl> <gloss>to you</gloss>
@@ -1531,7 +1532,7 @@ entries:
                           - <gloss>bird-blue</gloss></details|folding>
                           - “bluebird”</block></wordlist>
                           - <h3>Derived</h3>
-                          - These nouns are derived from stem or compound nouns, or from other parts of speech, by means of <grammar-link@x-tlb-hl>suffixes</grammar-link@x-tlb-hl>.
+                          - These nouns are derived from stem or compound nouns, or from other parts of speech, by means of <internal-link@x-tlb-hl>suffixes</internal-link@x-tlb-hl>.
                           - <wordlist><block><details|folding><summary|folding><transliteration@x-tlb-hl>dasada</transliteration@x-tlb-hl></summary|folding>
                           - <tinellbian@x-tlb-hl>ださだ</tinellbian@x-tlb-hl>
                           - <dictionary@x-tlb-hl>dasa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-da</dictionary@x-tlb-hl>
@@ -1604,16 +1605,16 @@ entries:
                               - <dictionary@x-tlb-hl>kica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きや</tinellbian@x-tlb-hl> <gloss>what?</gloss>
                               - <dictionary@x-tlb-hl>hira</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ひら</tinellbian@x-tlb-hl> <gloss>please; thank-you</gloss></block></wordlist>
                               title: High Lulani Interjections - A Grammar of the Tinellbian Languages
-                          date: '2025-01-19'
-                          position: '1.39'
+                          date: '2025-10-26'
+                          position: '8.0'
                           text:
                           - <h1>Particles</h1>
                           - 'There are very few particles. These are simply words that do not fit neatly into any other category. This includes:'
-                          - <ul><internal>interjections.html|interjections</internal>,
-                          - <internal>../../apocrypha/numbers.html|numbers</internal> and mathematical operations,
-                          - pronouns of the <internal>../deixis/personalpro-forms.html#alienablepossession|alienable genitive</internal>,
-                          - <internal>../../syntax/dependentclauses.html#contentclauses|content</internal> and <internal>../../syntax/dependentclauses.html#relativeclauses|relative</internal> clause introductory markers, and
-                          - the <internal>../../apocrypha/comparatives.html#superlative|superlative</internal> marker.</ul>
+                          - <ul><internal-link@x-tlb-hl>interjections</internal-link@x-tlb-hl>,
+                          - numbers and mathematical operations,
+                          - pronouns of the alienable genitive,
+                          - content and relative clause introductory markers, and
+                          - the superlative marker.</ul>
                           title: High Lulani Particles - A Grammar of the Tinellbian Languages
                         Suffixes:
                           children:
@@ -1714,7 +1715,7 @@ entries:
                               - <dictionary@x-tlb-hl>pannaxa’uxxi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっなざうっし</tinellbian@x-tlb-hl> <gloss>army</gloss></block></wordlist>
                               - <h2>Verbal Suffixes</h2>
                               - These are only applied to verbs.
-                              - There are three suffixes (<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、いっを</tinellbian@x-tlb-hl> <abbr>psv</abbr>, <dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っか</tinellbian@x-tlb-hl> <abbr>abv</abbr> and <dictionary@x-tlb-hl>-xa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざ</tinellbian@x-tlb-hl> <abbr>dtv</abbr>) that <grammar-link@x-tlb-hl>promote</grammar-link@x-tlb-hl> different noun phrases within a sentence to subject.
+                              - There are three suffixes (<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、いっを</tinellbian@x-tlb-hl> <abbr>psv</abbr>, <dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っか</tinellbian@x-tlb-hl> <abbr>abv</abbr> and <dictionary@x-tlb-hl>-xa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ざ</tinellbian@x-tlb-hl> <abbr>dtv</abbr>) that <internal-link@x-tlb-hl>promote</internal-link@x-tlb-hl> different noun phrases within a sentence to subject.
                               - The suffix <dictionary@x-tlb-hl>-ni</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> is used to derive inceptive verbs.
                               - <wordlist><block><dictionary@x-tlb-hl>ducini</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>どちに</tinellbian@x-tlb-hl> <gloss>to receive</gloss></block></wordlist>
                               - The suffix <dictionary@x-tlb-hl>-ulu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、うを</tinellbian@x-tlb-hl> denotes reversal of an action, and can only be applied to stem verbs.
@@ -1732,7 +1733,7 @@ entries:
                               - <dictionary@x-tlb-hl>nagari</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl> <gloss>will finish being</gloss></block></wordlist>
                               - <h2>Mathematical Affixes</h2>
                               - These are used in mathematics.
-                              - The prefix <dictionary@x-tlb-hl>ki-</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> derives <grammar-link@x-tlb-hl>fractions</grammar-link@x-tlb-hl>.
+                              - The prefix <dictionary@x-tlb-hl>ki-</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> derives <internal-link@x-tlb-hl>fractions</internal-link@x-tlb-hl>.
                               - <wordlist><block><dictionary@x-tlb-hl>kinuru</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きぬる</tinellbian@x-tlb-hl> <gloss>quarter</gloss></block></wordlist>
                               - The prefix <dictionary@x-tlb-hl>pa-</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> denotes powers of <b>50&thinsp;625</b> <i>10&thinsp;0000</i>.
                               - <wordlist><block>pa<dictionary@x-tlb-hl>xita</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ぱした</tinellbian@x-tlb-hl> <b>50&thinsp;625 </b><gloss>1&thinsp;0000</gloss>
@@ -1806,7 +1807,7 @@ entries:
                               - <wordlist><block><dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>だせる</tinellbian@x-tlb-hl> <gloss>eating</gloss>
                               - <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>ぢっにる</tinellbian@x-tlb-hl> <gloss>moving</gloss>
                               - <dictionary@x-tlb-hl>huba</dictionary@x-tlb-hl>ru <tinellbian@x-tlb-hl>ほばる</tinellbian@x-tlb-hl> <gloss>breathing</gloss></block></wordlist>
-                              - The suffix <dictionary@x-tlb-hl>-ci</dictionary@x-tlb-hl> is applied to <grammar-link@x-tlb-hl>adjectival verbs</grammar-link@x-tlb-hl>. This includes <grammar-link@x-tlb-hl>chromatic verbs</grammar-link@x-tlb-hl>, whence come the name for colours.
+                              - The suffix <dictionary@x-tlb-hl>-ci</dictionary@x-tlb-hl> is applied to <internal-link@x-tlb-hl>adjectival verbs</internal-link@x-tlb-hl>. This includes <internal-link@x-tlb-hl>chromatic verbs</internal-link@x-tlb-hl>, whence come the name for colours.
                               - <wordlist><block><dictionary@x-tlb-hl>nama</dictionary@x-tlb-hl>ci <tinellbian@x-tlb-hl>なまち</tinellbian@x-tlb-hl> <gloss>weakness</gloss>
                               - <dictionary@x-tlb-hl>kiʔaci</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きっあち</tinellbian@x-tlb-hl> <gloss>white</gloss></block></wordlist>
                               - Application of <dictionary@x-tlb-hl>-ppa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>っぱ</tinellbian@x-tlb-hl> derives terms for times and occasions.
@@ -1855,7 +1856,7 @@ entries:
                               - <dictionary@x-tlb-hl>lu’ipu’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>をいぷあ</tinellbian@x-tlb-hl> <gloss>lover</gloss>
                               - <dictionary@x-tlb-hl>cikkipu’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ちっきぷあ</tinellbian@x-tlb-hl> <gloss>telepath</gloss></block></wordlist>
                               - <h2>Determiners</h2>
-                              - When applied to an abstract noun, <dictionary@x-tlb-hl>-tu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>と</tinellbian@x-tlb-hl> forms <grammar-link@x-tlb-hl>determiners</grammar-link@x-tlb-hl>.
+                              - When applied to an abstract noun, <dictionary@x-tlb-hl>-tu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>と</tinellbian@x-tlb-hl> forms <internal-link@x-tlb-hl>determiners</internal-link@x-tlb-hl>.
                               - <wordlist><block><dictionary@x-tlb-hl>-fi’atu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>べあと</tinellbian@x-tlb-hl> <gloss>particular</gloss>
                               - <dictionary@x-tlb-hl>sabutu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>さぶと</tinellbian@x-tlb-hl> <gloss>different</gloss>
                               - <dictionary@x-tlb-hl>-mimutu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みむと</tinellbian@x-tlb-hl> <gloss>some</gloss></block></wordlist>
@@ -1919,7 +1920,7 @@ entries:
                               - <dictionary@x-tlb-hl>kimilli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’issi</dictionary@x-tlb-hl>.
                               - <gloss>king </gloss><abbr>dat</abbr><gloss>-queen speak song</gloss></details|example>
                               - “The king sang to the queen.”
-                              - Indirect speech is signified by a <grammar-link@x-tlb-hl>complement</grammar-link@x-tlb-hl> <strong>object</strong>. As with any complement, the topic of the inner clause is the same as the outer clause.
+                              - Indirect speech is signified by a <internal-link@x-tlb-hl>complement</internal-link@x-tlb-hl> <strong>object</strong>. As with any complement, the topic of the inner clause is the same as the outer clause.
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Kimilli jusi ’i li (su’a) lu’i lulani ru</transliteration@x-tlb-hl>.</summary|folding>
                               - <tinellbian@x-tlb-hl>。きみっえよせいえすあをいをわにる。</tinellbian@x-tlb-hl>
                               - <dictionary@x-tlb-hl>kimilli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jusi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> (<dictionary@x-tlb-hl>su’a</dictionary@x-tlb-hl>) <dictionary@x-tlb-hl>lu’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lulani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl>.
@@ -2006,7 +2007,7 @@ entries:
                               - <dictionary@x-tlb-hl>suqa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>すげ</tinellbian@x-tlb-hl> <gloss>ready</gloss>
                               - <dictionary@x-tlb-hl>bi’u</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>びう</tinellbian@x-tlb-hl> <gloss>sore</gloss></block></wordlist>
                               - <h3>Chromatic Verbs</h3>
-                              - These are adjectival verbs specifically dealing with <grammar-link@x-tlb-hl>colour</grammar-link@x-tlb-hl>.
+                              - These are adjectival verbs specifically dealing with <internal-link@x-tlb-hl>colour</internal-link@x-tlb-hl>.
                               - <wordlist><block><dictionary@x-tlb-hl>kiʔa</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>きっあ</tinellbian@x-tlb-hl> <gloss>white</gloss>
                               - <dictionary@x-tlb-hl>ga</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>が</tinellbian@x-tlb-hl> <gloss>black</gloss>
                               - <dictionary@x-tlb-hl>miku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みく</tinellbian@x-tlb-hl> <gloss>red</gloss>
@@ -2031,7 +2032,7 @@ entries:
                               - <h2>Quasi-Transitive Verbs</h2>
                               - These are intransitive verbs in that they do not require a noun phrase in the object position. However, they act transitively by having a second noun phrase marked in a particular way.
                               - <h3>Oblique Arguments</h3>
-                              - 'These are marked with an <grammar-link@x-tlb-hl>oblique case marker</grammar-link@x-tlb-hl>:'
+                              - 'These are marked with an <internal-link@x-tlb-hl>oblique case marker</internal-link@x-tlb-hl>:'
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Luna kalujifiru’i mala; luna kalu’ilupahi mala.</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>。をなかをじべるいまわ / をなかをいをぱひまわ。</tinellbian@x-tlb-hl>
                               - <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>jifiru’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl>; <dictionary@x-tlb-hl>luna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’ilu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-pahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mala</dictionary@x-tlb-hl>.
@@ -2064,7 +2065,7 @@ entries:
                               - <dictionary@x-tlb-hl>tinna</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てっな</tinellbian@x-tlb-hl> <gloss>to be different from</gloss></block></wordlist>
                               - <h3>Symmetric Relations</h3>
                               - 'The participants of these verbs are equivalent to each other, that is, if Alice acts on Bob, then Bob acts on Alice in the same way. When the subject is Alice, say, then Bob can:'
-                              - '1. Be placed in the object position. Despite the structure, this is not transitive, as the verb has no <grammar-link@x-tlb-hl>passive</grammar-link@x-tlb-hl>, and pronouns use the intransitive form:'
+                              - '1. Be placed in the object position. Despite the structure, this is not transitive, as the verb has no <internal-link@x-tlb-hl>passive</internal-link@x-tlb-hl>, and pronouns use the intransitive form:'
                               - <details|example><summary|folding><transliteration@x-tlb-hl>ʔallisi sisa Bubu.</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>。あっえせせさぶぶ。</tinellbian@x-tlb-hl>
                               - ʔallisi <dictionary@x-tlb-hl>sisa</dictionary@x-tlb-hl> Bubu.
@@ -2111,7 +2112,7 @@ entries:
                               - <dictionary@x-tlb-hl>qarri</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>げっり</tinellbian@x-tlb-hl> <gloss>to open</gloss>
                               - <dictionary@x-tlb-hl>turu</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>とる</tinellbian@x-tlb-hl> <gloss>to close</gloss></block></wordlist>
                               - <h2>Motive Verbs</h2>
-                              - 'The unmarked argument structure is as follows: the oblique arguments for these are the same as for <grammar-link@x-tlb-hl>kinetic verbs</grammar-link@x-tlb-hl>,<gloss> i.e.:</gloss> <strong>ablative</strong> <gloss>source</gloss>, <strong>dative</strong> <gloss>destination</gloss>, and <gloss>direction</gloss> with <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>. As for the core arguments, the agent of the movement is the <strong>subject</strong>, and the patient being moved is the <strong>object</strong>.'
+                              - 'The unmarked argument structure is as follows: the oblique arguments for these are the same as for <internal-link@x-tlb-hl>kinetic verbs</internal-link@x-tlb-hl>,<gloss> i.e.:</gloss> <strong>ablative</strong> <gloss>source</gloss>, <strong>dative</strong> <gloss>destination</gloss>, and <gloss>direction</gloss> with <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>. As for the core arguments, the agent of the movement is the <strong>subject</strong>, and the patient being moved is the <strong>object</strong>.'
                               - <h3>Dative</h3>
                               - These are motive verbs focussing on movement <gloss>to</gloss> the destination.
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Suma gi pa.</transliteration@x-tlb-hl></summary|folding>
@@ -2165,7 +2166,7 @@ entries:
                               - <dictionary@x-tlb-hl>maku</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>まく</tinellbian@x-tlb-hl> <gloss>to throw</gloss>
                               - <dictionary@x-tlb-hl>funi</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl> <gloss>to lose; to lack</gloss></block></wordlist>
                               - <h2>Apparent Verbs</h2>
-                              - These act like the transitive counterpart of the <grammar-link@x-tlb-hl>adjectival verbs</grammar-link@x-tlb-hl>, <gloss>i.e.:</gloss> the patient as the <strong>subject</strong>, the cause in <strong>ablative</strong> and the experiencer in <strong>dative</strong>. The additional <strong>object</strong>, which makes these transitive, is an abstract noun that refers to a quality or attribute, or an inanimate noun that refers to an actual substance or energy being released. The precise verb is chosen by whether the ‘radiation’ is physical or <dictionary@en>subtle</dictionary@en> in nature.
+                              - These act like the transitive counterpart of the <internal-link@x-tlb-hl>adjectival verbs</internal-link@x-tlb-hl>, <gloss>i.e.:</gloss> the patient as the <strong>subject</strong>, the cause in <strong>ablative</strong> and the experiencer in <strong>dative</strong>. The additional <strong>object</strong>, which makes these transitive, is an abstract noun that refers to a quality or attribute, or an inanimate noun that refers to an actual substance or energy being released. The precise verb is chosen by whether the ‘radiation’ is physical or <dictionary@en>subtle</dictionary@en> in nature.
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Hifumari ba’u xi huba ra’u?</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>。ひふまりばうしほばらう。</tinellbian@x-tlb-hl>
                               - <dictionary@x-tlb-hl>hifu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ba’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>huba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>?
@@ -2198,7 +2199,7 @@ entries:
                               - <dictionary@x-tlb-hl>hisutuba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tara</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sinna</dictionary@x-tlb-hl>.
                               - <gloss>babysitter begin story.</gloss></details|example>
                               - “The babysitter started the story.”
-                              - 'They can also take <grammar-link@x-tlb-hl>gerunds</grammar-link@x-tlb-hl>:'
+                              - 'They can also take <internal-link@x-tlb-hl>gerunds</internal-link@x-tlb-hl>:'
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Kipu nu dasiruqa hafi.</transliteration@x-tlb-hl></summary|folding>
                               - <tinellbian@x-tlb-hl>。きぷぬだせるげはべ。</tinellbian@x-tlb-hl>
                               - <dictionary@x-tlb-hl>kipu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hafi</dictionary@x-tlb-hl>.
@@ -2215,7 +2216,7 @@ entries:
                           position: '4.140'
                           text:
                           - <h1>Verbs</h1>
-                          - A verb is a necessary part of any sentence, except when making <grammar-link@x-tlb-hl>copular sentences</grammar-link@x-tlb-hl>. Verbs can be categorised on the basis of how many elements compose them.
+                          - A verb is a necessary part of any sentence, except when making <internal-link@x-tlb-hl>copular sentences</internal-link@x-tlb-hl>. Verbs can be categorised on the basis of how many elements compose them.
                           - <h2>Stem Verbs</h2>
                           - The class of stem verbs is semi-closed — there are only about 100 pure verbs in the entire language. Stem verbs consist of a single element.
                           - <wordlist><block><dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to say</gloss>
