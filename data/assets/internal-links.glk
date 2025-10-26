@@ -9,7 +9,8 @@ x-tlb-hl:
   adposition: /Languages/Lulani/High/Syntax/Argument Promotion.html#adposition
   adpositions: /Languages/Lulani/High/Morphology/Adpositions.html
   adverbs: /Languages/Lulani/High/Morphology/Nouns/Adverbs.html
-  alienablepossession: /Languages/Lulani/High/Morphology/Deixis/Personalpro-forms.html#alienablepossession
+  alienablepossession: /Languages/Lulani/High/Morphology/Deixis/Personal Pro-forms.html#alienablepossession
+  alienablegenitive: /Languages/Lulani/High/Morphology/Deixis/Personal Pro-forms.html#alienablepossession
   alignment: /Languages/Lulani/High/Syntax/Case.html#alignment
   alveolar: /Languages/Lulani/High/Phonology/Consonants.html#alveolar
   alveolars: /Languages/Lulani/High/Phonology/Consonants.html#alveolars
@@ -40,14 +41,15 @@ x-tlb-hl:
   colours: /Languages/Lulani/High/Apocrypha/Colours.html
   commonnouns: /Languages/Lulani/High/Morphology/Nouns/Index.html#common
   communicativeverbs: /Languages/Lulani/High/Morphology/Verbs/Ambitransitivity.html#communicativeverbs
-  complement: /Languages/Lulani/High/Syntax/Dependentclauses/Index.html#contentclauses
+  complement: /Languages/Lulani/High/Syntax/Dependent Clauses/Index.html#contentclauses
   comparatives: /Languages/Lulani/High/Apocrypha/Comparatives.html
   comparison: /Languages/Lulani/High/Apocrypha/Comparatives.html
   compoundnouns: /Languages/Lulani/High/Morphology/Nouns/Index.html#compound
   compoundverbs: /Languages/Lulani/High/Morphology/Verbs/Index.html#compoundverbs
   conjunctions: /Languages/Lulani/High/Morphology/Conjunctions.html
   consonants: /Languages/Lulani/High/Phonology/Consonants.html
-  contentclauses: /Languages/Lulani/High/Syntax/Dependentclauses/Index.html#contentclauses
+  content: /Languages/Lulani/High/Syntax/Dependent Clauses/Index.html#contentclauses
+  contentclauses: /Languages/Lulani/High/Syntax/Dependent Clauses/Index.html#contentclauses
   contrastingpronouns: /Languages/Lulani/High/Syntax/Matrix Clauses/Index.html#contrastingpronouns
   coordinatingconjunctions: /Languages/Lulani/High/Morphology/Conjunctions.html#coordinatingconjunctions
   copularsentences: /Languages/Lulani/High/Syntax/Matrix Clauses/Index.html#copularsentences
@@ -56,7 +58,7 @@ x-tlb-hl:
   dative: /Languages/Lulani/High/Syntax/Argument Promotion.html#dative
   degree: /Languages/Lulani/High/Morphology/Suffixes/Determiners.html#degree
   deixis: /Languages/Lulani/High/Morphology/Deixis/Index.html
-  dependentclauses: /Languages/Lulani/High/Syntax/Dependentclauses/Index.html
+  dependentclauses: /Languages/Lulani/High/Syntax/Dependent Clauses/Index.html
   determiners: /Languages/Lulani/High/Morphology/Suffixes/Determiners.html
   directions: /Languages/Lulani/High/Morphology/Adpositions.html#directions
   elements: /Languages/Lulani/High/Apocrypha/Elements.html
@@ -68,22 +70,22 @@ x-tlb-hl:
   fractions: /Languages/Lulani/High/Apocrypha/Numbers.html#fractions
   fricatives: /Languages/Lulani/High/Phonology/Consonants.html#fricatives
   front: /Languages/Lulani/High/Phonology/Vowels.html#front
-  genitiveforms: /Languages/Lulani/High/Morphology/Deixis/Personalpro-forms.html#genitiveforms
+  genitiveforms: /Languages/Lulani/High/Morphology/Deixis/Personal Pro-forms.html#genitiveforms
   gerunds: /Languages/Lulani/High/Syntax/Gerunds.html
   glottal: /Languages/Lulani/High/Phonology/Consonants.html#glottal
   higherandlowerordernumbers: /Languages/Lulani/High/Apocrypha/Numbers.html#higherandlowerordernumbers
   highlulani: /Languages/Lulani/High/Index.html
-  imperatives: /Languages/Lulani/High/Syntax/Dependentclauses/Index.html#imperatives
-  inalienablepossession: /Languages/Lulani/High/Morphology/Deixis/Personalpro-forms.html#inalienablepossession
+  imperatives: /Languages/Lulani/High/Syntax/Dependent Clauses/Index.html#imperatives
+  inalienablepossession: /Languages/Lulani/High/Morphology/Deixis/Personal Pro-forms.html#inalienablepossession
   inanimate: /Languages/Lulani/High/Morphology/Suffixes/Index.html#inanimate
   inanimatenoun: /Languages/Lulani/High/Morphology/Nouns/Index.html#inanimate
   inanimates: /Languages/Lulani/High/Morphology/Adpositions.html#inanimates
   indefinitepro-forms: /Languages/Lulani/High/Morphology/Deixis/Indefinite Pro-forms.html
   interjections: /Languages/Lulani/High/Morphology/Particles/Interjections.html
-  interrogatives: /Languages/Lulani/High/Syntax/Dependentclauses/Index.html#interrogatives
+  interrogatives: /Languages/Lulani/High/Syntax/Dependent Clauses/Index.html#interrogatives
   intransitive: /Languages/Lulani/High/Syntax/Case.html#intransitive
   intransitiveclauses: /Languages/Lulani/High/Syntax/Matrix Clauses/Index.html#intransitiveclauses
-  intransitives: /Languages/Lulani/High/Syntax/Dependentclauses/Relativeclauses.html#intransitives
+  intransitives: /Languages/Lulani/High/Syntax/Dependent Clauses/Relative Clauses.html#intransitives
   intransitivity: /Languages/Lulani/High/Morphology/Verbs/Intransitivity.html
   kineticverbs: /Languages/Lulani/High/Morphology/Verbs/Intransitivity.html#kineticverbs
   kinship: /Languages/Lulani/High/Apocrypha/Kinship.html
@@ -91,7 +93,7 @@ x-tlb-hl:
   labials: /Languages/Lulani/High/Phonology/Consonants.html#labials
   likelihood: /Languages/Lulani/High/Morphology/Nouns/Adverbs.html#likelihood
   liquids: /Languages/Lulani/High/Phonology/Consonants.html#liquids
-  locationadverbialclauses: /Languages/Lulani/High/Syntax/Dependentclauses/Index.html#locationadverbialclauses
+  locationadverbialclauses: /Languages/Lulani/High/Syntax/Dependent Clauses/Index.html#locationadverbialclauses
   locations: /Languages/Lulani/High/Morphology/Adpositions.html#locations
   manner: /Languages/Lulani/High/Morphology/Deixis/Indefinite Pro-forms.html#manner
   marriage: /Languages/Lulani/High/Apocrypha/Kinship.html#marriage
@@ -110,7 +112,7 @@ x-tlb-hl:
   nounphrases: /Languages/Lulani/High/Syntax/Nounphrases.html
   nouns: /Languages/Lulani/High/Morphology/Nouns/Index.html
   nuclearfamily: /Languages/Lulani/High/Apocrypha/Kinship.html#nuclearfamily
-  number: /Languages/Lulani/High/Morphology/Deixis/Personalpro-forms.html#number
+  number: /Languages/Lulani/High/Morphology/Deixis/Personal Pro-forms.html#number
   numbers: /Languages/Lulani/High/Apocrypha/Numbers.html
   objectdeterminer: /Languages/Lulani/High/Morphology/Deixis/Indefinite Pro-forms.html#objectdeterminer
   objectnoun: /Languages/Lulani/High/Morphology/Deixis/Indefinite Pro-forms.html#objectnoun
@@ -126,8 +128,8 @@ x-tlb-hl:
   particles: /Languages/Lulani/High/Morphology/Particles/Index.html
   passive: /Languages/Lulani/High/Syntax/Argument Promotion.html#passive
   perceptiveverbs: /Languages/Lulani/High/Morphology/Verbs/Ambitransitivity.html#perceptiveverbs
-  personalpronoun: /Languages/Lulani/High/Morphology/Deixis/Personalpro-forms.html
-  personalpro-forms: /Languages/Lulani/High/Morphology/Deixis/Personalpro-forms.html
+  personalpronoun: /Languages/Lulani/High/Morphology/Deixis/Personal Pro-forms.html
+  personalpro-forms: /Languages/Lulani/High/Morphology/Deixis/Personal Pro-forms.html
   phonology: /Languages/Lulani/High/Phonology/Index.html
   phonotactics: /Languages/Lulani/High/Phonology/Phonotactics.html
   phrase-levelconjunctions: /Languages/Lulani/High/Morphology/Conjunctions.html#phrase-levelconjunctions
@@ -143,9 +145,10 @@ x-tlb-hl:
   quasi-suffixes: /Languages/Lulani/High/Morphology/Suffixes/Index.html#quasi-suffixes
   quasi-transitiveverbs: /Languages/Lulani/High/Morphology/Verbs/Intransitivity.html#quasi-transitiveverbs
   quaternarystress: /Languages/Lulani/High/Phonology/Suprasegmentals.html#quaternarystress
-  questionsandrequests: /Languages/Lulani/High/Syntax/Dependentclauses/Index.html#questionsandrequests
+  questionsandrequests: /Languages/Lulani/High/Syntax/Dependent Clauses/Index.html#questionsandrequests
   readingmantissas: /Languages/Lulani/High/Apocrypha/Numbers.html#readingmantissas
-  relativeclauses: /Languages/Lulani/High/Syntax/Dependentclauses/Relativeclauses.html#relativeclauses
+  relativeclauses: /Languages/Lulani/High/Syntax/Dependent Clauses/Relative Clauses.html#relativeclauses
+  relativeclause: /Languages/Lulani/High/Syntax/Dependent Clauses/Relative Clauses.html#relativeclauses
   repeatingandreflectingstrings: /Languages/Lulani/High/Apocrypha/Numbers.html#repeatingandreflectingstrings
   sampletext: /Languages/Lulani/High/Sample Text/Index.html
   secondarystress: /Languages/Lulani/High/Phonology/Suprasegmentals.html#secondarystress
@@ -156,10 +159,11 @@ x-tlb-hl:
   stemverbs: /Languages/Lulani/High/Morphology/Verbs/Index.html#stemverbs
   stops: /Languages/Lulani/High/Phonology/Consonants.html#stops
   stress: /Languages/Lulani/High/Phonology/Suprasegmentals.html#stress
-  subordinateclauses: /Languages/Lulani/High/Syntax/Dependentclauses/Index.html#subordinateclauses
+  subordinateclauses: /Languages/Lulani/High/Syntax/Dependent Clauses/Index.html#subordinateclauses
   subordinatingconjunctions: /Languages/Lulani/High/Morphology/Conjunctions.html#subordinatingconjunctions
   suffixes: /Languages/Lulani/High/Morphology/Suffixes/Index.html
-  superlatives: /Languages/Lulani/High/Apocrypha/Comparatives.html#superlatives
+  superlatives: /Languages/Lulani/High/Apocrypha/Comparatives.html#Superlative
+  superlative: /Languages/Lulani/High/Apocrypha/Comparatives.html#Superlative
   suprasegmentals: /Languages/Lulani/High/Phonology/Suprasegmentals.html
   syllabication: /Languages/Lulani/High/Phonology/Suprasegmentals.html#syllabication
   symmetricrelations: /Languages/Lulani/High/Morphology/Verbs/Intransitivity.html#symmetricrelations
@@ -175,7 +179,7 @@ x-tlb-hl:
   transformativeverbs: /Languages/Lulani/High/Morphology/Verbs/Transitivity.html#transformativeverbs
   transitive: /Languages/Lulani/High/Syntax/Case.html#transitive
   transitiveclauses: /Languages/Lulani/High/Syntax/Matrix Clauses/Index.html#transitiveclauses
-  transitives: /Languages/Lulani/High/Syntax/Dependentclauses/Relativeclauses.html#transitives
+  transitives: /Languages/Lulani/High/Syntax/Dependent Clauses/Relative Clauses.html#transitives
   transitivity: /Languages/Lulani/High/Morphology/Verbs/Transitivity.html
   two-digitnumbers: /Languages/Lulani/High/Apocrypha/Numbers.html#two-digitnumbers
   usingnumbers: /Languages/Lulani/High/Apocrypha/Numbers.html#usingnumbers

@@ -1093,7 +1093,7 @@ entries:
                               - <gloss>This <abbr>prs;sta</abbr> police. / This <abbr>prs;sta</abbr> tree.</gloss></details|example>
                               - “This (person) is a police officer.” / “This (object) is a tree.”
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Fu kusama kuffa diru? / Fu kusama kuffa qikanni?</transliteration@x-tlb-hl></summary|folding>
-                              - <tinellbian@x-tlb-hl>。ふくさまくっへねかっに。ふくさま ・ くっへでる。</tinellbian@x-tlb-hl>
+                              - <tinellbian@x-tlb-hl>。ふくさまくっへねかっに。ふくさまくっへでる。</tinellbian@x-tlb-hl>
                               - <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sama</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kuffa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>diru</dictionary@x-tlb-hl>? / <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sama</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kuffa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qikanni</dictionary@x-tlb-hl>?
                               - <gloss><abbr>2tra</abbr> <abbr>dat</abbr>-what give money? / <abbr>2tra</abbr> <abbr>dat</abbr>-what give dog?</gloss></details|example>
                               - “To whom did you give the money?” / “What did you give the dog?”
@@ -1171,7 +1171,7 @@ entries:
                               - <h2>Action</h2>
                               - The action terms are pro-verbs, which can be used to replace ordinary verbs in sentences.
                               - <details|example><summary|folding><transliteration@x-tlb-hl>Sabba sulla qixa?</transliteration@x-tlb-hl></summary|folding>
-                              - <tinellbian@x-tlb-hl>。さっば・ すっわねざ。</tinellbian@x-tlb-hl>
+                              - <tinellbian@x-tlb-hl>。さっばすっわねざ。</tinellbian@x-tlb-hl>
                               - <dictionary@x-tlb-hl>sabba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sulla</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl>?
                               - <gloss>father;<abbr>2gen</abbr> do_what <abbr>prs;dyn</abbr>?</gloss></details|example>
                               - “What does your father do?”
@@ -1591,14 +1591,14 @@ entries:
                         Particles:
                           children:
                             Interjections:
-                              date: '2019-05-17'
-                              position: '1.0'
+                              date: '2025-10-26'
+                              position: '10.25'
                               text:
                               - <h1>Interjections</h1>
                               - These are exclamations that do not fit the syntactic rules of the other parts of speech, hence their classification among the particles. All interjections end with the same vowel, either naturally,
                               - <wordlist><block><dictionary@x-tlb-hl>ta</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>た</tinellbian@x-tlb-hl> <gloss>um</gloss>
                               - <dictionary@x-tlb-hl>ti’a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>てあ</tinellbian@x-tlb-hl>  <gloss>oh!</gloss></block></wordlist>
-                              - or because the interjection marker <dictionary@x-tlb-hl>-a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>・あ</tinellbian@x-tlb-hl> has derived them from nouns or verbs.
+                              - or because the interjection marker <dictionary@x-tlb-hl>-a</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>、あ</tinellbian@x-tlb-hl> has derived them from nouns or verbs.
                               - <wordlist><block><dictionary@x-tlb-hl>mica</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>みや</tinellbian@x-tlb-hl> <gloss>hello</gloss>
                               - <dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>goodbye; good night</gloss>
                               - <dictionary@x-tlb-hl>hacca</dictionary@x-tlb-hl> <tinellbian@x-tlb-hl>はっや</tinellbian@x-tlb-hl> <gloss>good morning</gloss>
@@ -1611,10 +1611,10 @@ entries:
                           - <h1>Particles</h1>
                           - 'There are very few particles. These are simply words that do not fit neatly into any other category. This includes:'
                           - <ul><internal-link@x-tlb-hl>interjections</internal-link@x-tlb-hl>,
-                          - numbers and mathematical operations,
-                          - pronouns of the alienable genitive,
-                          - content and relative clause introductory markers, and
-                          - the superlative marker.</ul>
+                          - <internal-link@x-tlb-hl>numbers</internal-link@x-tlb-hl> and mathematical operations,
+                          - pronouns of the <internal-link@x-tlb-hl>alienable genitive</internal-link@x-tlb-hl>,
+                          - <internal-link@x-tlb-hl>content</internal-link@x-tlb-hl> and <internal-link@x-tlb-hl>relative clause</internal-link@x-tlb-hl> introductory markers, and
+                          - the <internal-link@x-tlb-hl>superlative</internal-link@x-tlb-hl> marker.</ul>
                           title: High Lulani Particles - A Grammar of the Tinellbian Languages
                         Suffixes:
                           children:
@@ -2697,7 +2697,7 @@ entries:
                       - Three of them have been covered over, one of them will be covered over, (I’m) near the living place, (she) thought.
                       - </details|folding>Three down, one to go, she thought to herself.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Haru’usi dattusaqa Tinalli, li ’usi marila canari ku’ahati micita dissuka ’usu.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。はるうせだっとさげてなっえ、えうせまりわ・やなりくあはてみちたでっすかうす。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。はるうせだっとさげてなっえ、えうせまりわやなりくあはてみちたでっすかうす。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>haru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’usi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dattusa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>Tinalli</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>marila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl>&lt;<dictionary@x-tlb-hl>-ar-</dictionary@x-tlb-hl>&gt; <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’ahati</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mici</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl>.
                       - <gloss>With-six god-<abbr>gen</abbr> Tinellb, <abbr>com</abbr> <abbr>1int</abbr> do_this <abbr>prs;dyn</abbr>&lt;<abbr>trm</abbr>&gt; <abbr>dat</abbr>-happiness peace-and feel-</gloss><abbr>abv</abbr><gloss> <abbr>1int</abbr>.</gloss>
                       - With the six gods of Tinellb, me finishing doing this will make me feel happiness and peace.
@@ -2817,7 +2817,7 @@ entries:
                       - (She) repeatedly helped in the goat pen from the learning to walk, and was given permission to repeatedly travel down the hill only over the several recent years in the past.</details|folding>
                       - She had helped in the goat pens since she learned to walk, but only been allowed to travel down the hills within the last few years.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu cani du’ikaluhafitisaka kumallijakuqa tu rubasika.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。ぴあどやにどいかをはべてさかくまっえぢくげと・るばせか。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴあどやにどいかをはべてさかくまっえぢくげとるばせか。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>Pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>du’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>hafi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tisaka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>malliju</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cikki</dictionary@x-tlb-hl>.
                       - <gloss>KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf> <abbr>prs;dyn</abbr> opposite-<abbr>abl</abbr>-field-village <abbr>dat</abbr>-joy-aug-<abbr>gen</abbr> offspring sense_image-drv.</gloss>
                       - Piadû sensed the great joy of the offspring from the other side of the village-field.</details|folding>
@@ -2859,7 +2859,7 @@ entries:
                       - As the big joy of Tŗsh from since the beginning became small, (she) will sleep because of the vibration of the car.</details|folding>
                       - Toresh’s initial excitement faded as she was lulled into sleep by the gently rocking wagon.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu qirisunarakka quhu dumi daru’i, li nirasi kalupamilarudisi kissa’agudanna nubitu’afuri da’aru lanu pagi.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。ぴあどねりすならっかもほどみだるい、え・にらせかをぱみわるでせきっさあぐだっなぬびとあふりだあるわぬぱぎ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴあどねりすならっかもほどみだるい、えにらせかをぱみわるでせきっさあぐだっなぬびとあふりだあるわぬぱぎ。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>Pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>risu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>quhu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dumi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>daru’i</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>rasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mila</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>disi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kissa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’agu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>danna</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>naqi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tu’afu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ri</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>da’aru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pagi</dictionary@x-tlb-hl>.
                       - <gloss>KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf> experience-want-sleep-<abbr>abv</abbr> <abbr>3ani;tra</abbr> try because, <abbr>com</abbr> at-future <abbr>abl</abbr>-think-surroundings-<abbr>ger</abbr>-<abbr>3ani;gen</abbr> fight-contest-succeed land-plain-<abbr>nmn</abbr> experience <abbr>fut;dyn</abbr> think-hold.</gloss>
                       - Piadû tries to make her experience a want for sleep, because (he) knows that in the future her being conscious of her surroundings will have (them) succeed in contest with the people of the plains.
@@ -2877,7 +2877,7 @@ entries:
                       - The only noise is it that is broadcast by the car and horse.</details|folding>
                       - The only sounds were those made by the wagon and the draughtsbeast.</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>ʔita’i tikunarra janni ra’u, mani Pi’adu nujanniruqa kipu gi’ika, sisa tuhiru kaluqa gusu ga’iniqqi tuci ji.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。いたいてくなっらぢっにらう、まにぴあど・ぬぢっにるげきぷぎいか、せさとひるかをげぐすがいにっねとちじ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。いたいてくなっらぢっにらう、まにぴあどぬぢっにるげきぷぎいか、せさとひるかをげぐすがいにっねとちじ。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>’ita’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tiku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>narra</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>Pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kipu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gi’ika</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>sisa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tuhi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gusu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ga’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tuci</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ji</dictionary@x-tlb-hl>.
                       - <gloss>Car turn-corner move <abbr>prs;sta</abbr>, where-at KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf> stop-move-<abbr>ger</abbr>-<abbr>gen</abbr> horse to, contact small-<abbr>prs;gno</abbr> body-<abbr>gen</abbr> person time half_do <abbr>prs;neg</abbr>.</gloss>
                       - When the car is moving around the corner, Piadû stopped the movement of the horse in order to not touch a small body of a person in a mostly timely manner.</details|folding>
@@ -2901,7 +2901,7 @@ entries:
                       - Have (you) been experiencing loss until now?</details|folding>
                       - Are you lost?</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Saqalaqa ’allaxi faʔaji’a cani ’ixarunisaqa su’a.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。さげわげあっわしへっあじあやにいざるにさげ・すあ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。さげわげあっわしへっあじあやにいざるにさげすあ。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>saqala</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’alla</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>faʔa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ji’a</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-xa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>su’a</dictionary@x-tlb-hl>.
                       - <gloss>Word-<abbr>gen</abbr> familiarity-broadcasting language-not <abbr>prs;dyn</abbr> say-<abbr>dtv</abbr>-<abbr>ger</abbr>-only-<abbr>gen</abbr> <abbr>3top</abbr>.</gloss>
                       - Words of a familiar non-language are the only things that were said to him.</details|folding>
@@ -2913,7 +2913,7 @@ entries:
                       - (He) gives the reins to the offspring who is suddenly experiencing great alertness, and then (he) will move down from the car.</details|folding>
                       - Handing the reins to his suddenly very alert daughter, he got out of the wagon.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Pi li mihu tu’afuri lisina ru kal·li ku’iludisi cikki ji pa pada, fukaru pa madusi gi’a, kukiʔatuciruqa sikkadisi pa’usa.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。ぴえみほとあふりえせなるかをえ・くいをでせちっきじぱぱだ、ふかるぱまどせぎあ、くきっあとちるげ・せっかでせぱうさ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴえみほとあふりえせなるかをえくいをでせちっきじぱぱだ、ふかるぱまどせぎあ、くきっあとちるげせっかでせぱうさ。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tu’afu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ri</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lisina</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’ilu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-disi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cikki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ji</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>fuku</dictionary@x-tlb-hl>&lt;<dictionary@x-tlb-hl>-ar</dictionary@x-tlb-hl>-&gt; <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>madusi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gi’a</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>kiʔa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tuci</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sikka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-disi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’usa</dictionary@x-tlb-hl>.
                       - <gloss><abbr>pst;sta</abbr> <abbr>com</abbr> <abbr>3ani;int</abbr> plain-<abbr>nmn</abbr> assume <abbr>prs;gno</abbr> <abbr>abl</abbr>-<abbr>com</abbr> <abbr>dat</abbr>-heart-3<abbr>gen</abbr> thought_speak <abbr>prs;neg</abbr> think and, <abbr>fut;neg</abbr></gloss>&lt;<gloss><abbr>trm</abbr></gloss>&gt;<gloss> think this_manner that_is, <abbr>dat</abbr>-white-sort_of-<abbr>ger</abbr>-<abbr>gen</abbr> skin-<abbr>3ani;gen</abbr> think-see.</gloss>
                       - (He) is assuming that she is a plains-person from the fact that (he) doesn’t though-speak her emotional body, and (he) will stop not thinking this way, that is, (he) noticed the sort-of whiteness of her skin.</details|folding>
@@ -2949,7 +2949,7 @@ entries:
                       - (He) finger-speaks to the daughter that her movement across will allow Qōla to rise.</details|folding>
                       - He motioned to his daughter to move across to allow Corla to ascend.</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Kurila ni’u’ilikasi kikacaqaluminisa pi, maqa raqura tuhhisa gupi fiha.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。くりわにういえかせきかやげをみにさぴ、まげ・らもらとっひさぐぴべは。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くりわにういえかせきかやげをみにさぴ、まげらもらとっひさぐぴべは。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>Kurila</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’u’ili</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kasi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kika</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>caqa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lumi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>raqu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tuhhi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gupi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fiha</dictionary@x-tlb-hl>.
                       - <gloss>MT:<ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt> in-reality-that over-hours-several-only <abbr>pst;sta</abbr>, when-down between-two farm-<abbr>nmn</abbr> sit safety.</gloss>
                       - Since Qōla was in that reality for only several hours, (she) sits in safety between two farm people.</details|folding>
@@ -3051,7 +3051,7 @@ entries:
                       - From what are you?</details|folding>
                       - Where are you from?</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Li ’usu kupiki xikka cihafi nagi qira fa.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。えうすくぴきしっかちはべなぎねら・へ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。えうすくぴきしっかちはべなぎねらへ。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>piki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cihafi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nagi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qira</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fa</dictionary@x-tlb-hl>.
                       - <gloss><abbr>com</abbr> <abbr>1int</abbr> <abbr>dat</abbr>-clarity appear-<abbr>abv</abbr> topic <abbr>fut;sta</abbr> difficult maybe.</gloss>
                       - Me making this topic seem clear might be difficult.</details|folding>
@@ -3087,7 +3087,7 @@ entries:
                       - The ability that is done by me only speaks subtly to one of the race like me, Qōla spoke in answer.</details|folding>
                       - My abilities only seem to work properly on my own people, Corla replied.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>ʔusu ninali pamana li duhapaccaqa kuppakutuja mituja ru qu, padissu faʔaba jati qixa cikki ti’ici qu, mari ru ’aba.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。うすになえぱまなえどはぱっやげくっぱくとぢ・みとぢるも、ぱでっすへっあばぢてねざちっきていちも、まり・るあば。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。うすになえぱまなえどはぱっやげくっぱくとぢみとぢるも、ぱでっすへっあばぢてねざちっきていちも、まりるあば。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nina</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mana</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>duhapacca</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kuppu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tuja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mituja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>faʔa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jati</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cikki</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ti’ici</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’aba</dictionary@x-tlb-hl>.
                       - <gloss><abbr>1int</abbr> to-<abbr>com</abbr> think-ascent <abbr>com</abbr> population-<abbr>gen</abbr> density-</gloss><abbr>aug</abbr><gloss>-place anywhere <abbr>prs;gno</abbr> and, think-new language-<abbr>2gen</abbr> apparently <abbr>pst;dyn</abbr> telepath extent and, this <abbr>prs;gno</abbr> everything.</gloss>
                       - I hear to a certain extent in order to realise where places of high population density are and apparently learn your language, but this is everything.</details|folding>
@@ -3105,7 +3105,7 @@ entries:
                       - (He) swung his legs to beside the car, when (he) grunts.</details|folding>
                       - He swung his legs out over the side of the cart, grunting as his did so.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Nikunaqi ra’u, maqa cani cussigi dusunidisi qu, cahussurudisi.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。にくなねらう、まげやにゆっせぎどすにでせ・も、やほっするでせ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。にくなねらう、まげやにゆっせぎどすにでせも、やほっするでせ。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kunaqi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cussi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>gi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dusuni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>disi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ca</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>hussu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-disi</dictionary@x-tlb-hl>.
                       - <gloss>At-ground <abbr>prs;sta</abbr>, when-down <abbr>prs;dyn</abbr> touch-hold hand-<abbr>3ani;gen</abbr> and, help-drop-<abbr>ger</abbr>-<abbr>3ani;gen</abbr>.</gloss>
                       - After (he) is on the ground, (he) holds her hand, and helps her drop.</details|folding>
@@ -3129,7 +3129,7 @@ entries:
                       - In a room at the end of a corridor, (they) see a woman who is sitting on the other side of a table.</details|folding>
                       - In a room at the end of the corridor, they found a woman sitting behind a desk.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Qumu ra’u ju’i xiku nidifigi ga’i ju’i nubitu’afuri na sun·ni.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。もむらうよいしくにでべぎがいよい・ぬびとあふりなすぬに。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。もむらうよいしくにでべぎがいよいぬびとあふりなすぬに。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>qumu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ju’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>difi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>gi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ga’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ju’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>naqi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tu’afu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sunu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ni</dictionary@x-tlb-hl>.
                       - <gloss>Woman </gloss><abbr>prs;sta</abbr><gloss> link </gloss><abbr>rel</abbr><gloss> at-formality-give time link land-plains-</gloss><abbr>nmn</abbr><gloss> </gloss>prs;hab<gloss> cloak-high.</gloss>
                       - The woman is linked to an exalted cloak that the plains people wear at occasions that do formality.</details|folding>
@@ -3183,7 +3183,7 @@ entries:
                       - Move with me.</details|folding>
                       - Come with me.</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu ’ussa dumi qu, nuxa li gurrisu du’ijannibiqixa gusura turillu cani.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。ぴあどうっさどみも、ぬざえぐっりす・どいぢっにびねざぐすらとりっをやに。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴあどうっさどみも、ぬざえぐっりすどいぢっにびねざぐすらとりっをやに。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>Pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ussa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dumi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>nu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-xa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gurrisu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>du’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gusu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ra</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>turu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl>.
                       - <gloss>KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf> follow try and, stop-<abbr>dtv</abbr> <abbr>com</abbr> door opposite-move-out-<abbr>pst;dyn</abbr> person-two close-<abbr>psv</abbr> <abbr>prs;dyn</abbr>.</gloss>
                       - Piadû tries following and, was stopped by the door is closing opposite the two moving-out people.</details|folding>
@@ -3195,7 +3195,7 @@ entries:
                       - At times where (he) is with his people, (he) doesn’t consider how much these people project rudeness.</details|folding>
                       - He forgot each time he was among his own people how rude these were.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Li tana lar·raqi ji pamana qu, kukipu gupira’u tuta jannulu.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。えたなわるらねじぱまなも、くきぷ・ぐぴらうとたぢっぬを。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。えたなわるらねじぱまなも、くきぷぐぴらうとたぢっぬを。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tana</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>la</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-raqi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ji</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mana</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>kipu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gupi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ulu</dictionary@x-tlb-hl>.
                       - <gloss><abbr>Com</abbr> there_is do-<abbr>ger</abbr>-more <abbr>prs;neg</abbr> think-realisation and, <abbr>dat</abbr>-horse wait-<abbr>prs;sta</abbr> offspring-and move-undo.</gloss>
                       - (He) slowly realises that there are no more things to do, and moves back to the horse and the waiting offspring.</details|folding>
@@ -3207,7 +3207,7 @@ entries:
                       - Qōla was pushed along the passage, and didn’t not try to trip because of something.</details|folding>
                       - Corla was pushed along the passageway, trying not to trip on anything.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Gurrisu qixa ’arisu’a qarrillu qu, ra’u miru qu’utuhiru mixi jamihulu.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。ぐっりすねざありすあげっりっをも、らう・みるもうとひるみしぢみほを。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぐっりすねざありすあげっりっをも、らうみるもうとひるみしぢみほを。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>gurrisu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ari</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>su’a</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qarri</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>miru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu’u</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tuhi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mixi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jami</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>hulu</dictionary@x-tlb-hl>.
                       - <gloss>Door pst-dyn before-</gloss><abbr>3TOP</abbr><gloss> open-<abbr>psv</abbr> and, prs-sta now in-small-<abbr>prs;gno</abbr> room evidentially-hear.</gloss>
                       - It was evident from the sound that a door was opened in front of her, and she is now in a small room.</details|folding>
@@ -3231,7 +3231,7 @@ entries:
                       - (She) opened both doors one at a time, and no one isn’t replying because of her speaking.</details|folding>
                       - She opened both doors, one at a time, but no one answered her calls.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Ra’u patisaka ji’i qu, nidu’ara kutaritiqa ’alamusa cussi mani, nifikimadiru madu gupitiba ra’u.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。らうぱてさかじいも、にどあらくたりてげ・あわむさゆっせまに、にべきまでるまどぐぴてばらう。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。らうぱてさかじいも、にどあらくたりてげあわむさゆっせまに、にべきまでるまどぐぴてばらう。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tisaka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ji’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>nidu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’ara</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>tariti</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ala</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>musa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cussi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>nifi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ki</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>madi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>madu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gupi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tiba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>.
                       - <gloss><abbr>Prs;sta</abbr> towards-city smell and, with-face <abbr>dat</abbr>-noon-<abbr>gen</abbr> heat-sun feel when-at, beside-big-high-<abbr>prs;gno</abbr> window still-leg <abbr>prs;sta</abbr>.</gloss>
                       - (She) is smelling the city, and feeling the sunlight of noon with her face, when she is standing next to the tall window.</details|folding>
@@ -3249,7 +3249,7 @@ entries:
                       - The helper does from the own language say something, and then Qōla will have spoken to her in that of Piadû that the self does not understand from her.</details|folding>
                       - The assistant’s voice said something in her own language, and Corla told her in Piado’s tongue that she could not understand her.</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Ti’a, filli kaluFaxila’inisa ’i jami tappa ru?</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。てあ、べっえかをへしえにさいぢみたっぱ・る。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。てあ、べっえかをへしえにさいぢみたっぱる。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>ti’a</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>filli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>faxila’i</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jami</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tappa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl>?
                       - <gloss>Oh!, <abbr>2int</abbr> <abbr>abl</abbr>-KF:<ipa@x-tlb-kf>/ˈfɛʒlə/</ipa@x-tlb-kf>-only speak perceive confirmation <abbr>prs;gno</abbr>?</gloss>
                       - Oh, I want confirmation of my perception that you only speak from Fezhlê?</details|folding>
@@ -3267,7 +3267,7 @@ entries:
                       - I now ask that you are hungry.</details|folding>
                       - I just asked if you were hungry.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Filli kal·li ’usu majja ra’u qidaccatu’i gi’a, ’usu ’adi ru xiku kalupasani gusuli’adipahi padissu riji qixa mihunisa.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。べっえかをえうすまっぢらうねだっやとい・ぎあ、うすあでるしくかをぱさにぐすえあでぱひぱでっすりじねざみほにさ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。べっえかをえうすまっぢらうねだっやといぎあ、うすあでるしくかをぱさにぐすえあでぱひぱでっすりじねざみほにさ。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>filli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>majja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dacca</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-tu’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gi’a</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>sani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gusu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-li</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-pahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>riji</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl>.
                       - <gloss><abbr>2int</abbr> <abbr>abl</abbr>-<abbr>com</abbr> <abbr>1int</abbr> here <abbr>prs;sta</abbr> experience-luck-positive_aspect that_is, <abbr>1int</abbr> near <abbr>prs;gno</abbr> <abbr>rel</abbr> <abbr>abl</abbr>-towards-north person-not-near-<abbr>1gen</abbr> think-new bother <abbr>pst;dyn</abbr> <abbr>3ani;int</abbr>-only.</gloss>
                       - You are experiencing good luck from me being here, that is, I am nearby the only she who bothered to learn from our near people towards the north.</details|folding>
@@ -3339,7 +3339,7 @@ entries:
                       - What makes me be rude nearby?</details|folding>
                       - Where have my manners gone now?
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>ʔusu kamihu guqqi pada, ’usu papa pa pu’i, fu kalu’irupahi ’usaju’i dasidu.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。うすかみほぐっねぱだ、うすぱぱぱ・ぷい、ふかをいるぱひうさよいだせど。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。うすかみほぐっねぱだ、うすぱぱぱぷい、ふかをいるぱひうさよいだせど。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ka</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>guqqi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pu’i</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-pahi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ju’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dasi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-du</dictionary@x-tlb-hl>.
                       - <gloss><abbr>1int</abbr> as-<abbr>3ani;int</abbr> bad that_is, <abbr>1int</abbr> toward-<abbr>3ina;int</abbr> think incredulous, <abbr>2tra</abbr> <abbr>abl</abbr>-speak-<abbr>ger</abbr>-<abbr>1gen</abbr> see-join eat-<abbr>nmn</abbr>.</gloss>
                       - I (am) bad like them, that is, I incredulously think towards it, you find food from my saying.</details|folding>
@@ -3567,7 +3567,7 @@ entries:
                       - With respect, you can’t see.</details|folding>
                       - With all due respect, you’re blind.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Filli kalusullaru lanu hu’usupa mudallijillu lanu?</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。べっえかをすっわるわぬほうすぱむだっえじっを・わぬ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。べっえかをすっわるわぬほうすぱむだっえじっをわぬ。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>filli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>sulla</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dalliji</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl>?
                       - <gloss><abbr>2int</abbr> <abbr>abl</abbr>-do_what-<abbr>ger</abbr> <abbr>fut;dyn</abbr> for-<abbr>1int</abbr>-<abbr>3ina;int</abbr> good-use-<abbr>psv</abbr> <abbr>fut;dyn</abbr>?</gloss>
                       - From the doing of what will you become useful for us?</details|folding>
@@ -3603,7 +3603,7 @@ entries:
                       - Please, father, make yourself feel balanced.</details|folding>
                       - Please, father, calm yourself.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>ʔusu pafaru li ’usufu papifa ’amilarudisi fuca ra’u.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>。うすぱへるえうすふぱぴへあみわるでせ・ふやらう。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。うすぱへるえうすふぱぴへあみわるでせふやらう。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>faru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’usu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>fu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>pifa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’amila</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-disi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>fuca</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>.
                       - <gloss><abbr>1int</abbr> think-sure <abbr>com</abbr> <abbr>1int</abbr>-<abbr>2nd</abbr> think-make do_something-<abbr>ger</abbr>-<abbr>3ani;gen</abbr> can <abbr>prs;sta</abbr>.</gloss>
                       - I am certain that you and I can make up her doing of something.</details|folding>

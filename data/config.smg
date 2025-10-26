@@ -7,7 +7,8 @@ entries:
   - Lulani
   - High
   - Morphology
-  - Verbs
+  - Particles
+  - Interjections
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\grammar\data\assets\autocorrect.ime
@@ -20,8 +21,8 @@ languages: c:\users\ryan\tinellbianlanguages\www\data\assets\languages.yml
 links:
   abternal: c:\users\ryan\tinellbianlanguages\grammar\data\assets\abternal-links.glk
   external: c:\users\ryan\tinellbianlanguages\grammar\data\assets\external-links.glk
+  internal: c:\users\ryan\tinellbianlanguages\grammar\data\assets\internal-links.glk
   glossary: c:\users\ryan\tinellbianlanguages\grammar\data\assets\glossary.glk
-  grammar: c:\users\ryan\tinellbianlanguages\grammar\data\assets\internal-links.glk
   lang: c:\users\ryan\tinellbianlanguages\www\data\assets\languages.yml
   season: c:\users\ryan\tinellbianlanguages\grammar\data\assets\seasons.glk
 locations:
@@ -46,4 +47,3 @@ templates:
     search: c:\users\ryan\tinellbianlanguages\www\data\templates\search.tpl
     wholepage: c:\users\ryan\tinellbianlanguages\www\data\templates\wholepage.tpl
 url: grammar.tinellb.com
-

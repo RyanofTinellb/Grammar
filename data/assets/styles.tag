@@ -124,16 +124,6 @@ gloss:
   props:
     italics: true
   type: span
-grammar-link:
-  language: true
-  param:
-    string: $link$|$node$
-    link: $grammar(lookup)$
-    category: grammar
-  props:
-    colour: '#000099'
-    underline: true
-  type: anchor
 h1:
   type: heading
   keys:
@@ -185,7 +175,7 @@ heading-link:
   param:
     string: href="$link$"|$node$
     link: $lookup$
-    category: grammar
+    category: internal
   pipe: '>'
   props:
     bold: true
@@ -217,6 +207,17 @@ internal:
     colour: blue
     underline: true
   type: anchor
+internal-link:
+  language: true
+  param:
+    string: $link$|$node$
+    link: $grammar(lookup)$
+    category: internal
+  props:
+    colour: '#000099'
+    underline: true
+  type: anchor
+  key: Alt-I
 internal-script:
   close: '></script>'
   end: '"'
