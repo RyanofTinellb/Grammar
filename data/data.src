@@ -380,12 +380,12 @@ entries:
                       title: Demotic Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: []
-                      date: '2025-10-04'
-                      position: '10.0'
+                      date: '2025-10-30'
+                      position: '3.40'
                       text:
                       - <h1>Sample Text</h1>
                       - <message>In this section, I am translating a text into High Lulani, and then evolving the language into its Demotic form.</message>
-                      - This is from an early draft of <cite><abternal-link>Firesight</abternal-link></cite>, the second chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite>.
+                      - This is from an early draft of <cite><abternal-link>Waterfall</abternal-link></cite>, the second chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite>.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Tosöliyi hisuban Losübimalu Cixiqqa Menikizbotu eriIlröni kwaxtoj maloceni.</transliteration@x-tlb-hl></summary|folding>
                       - Tussuli’i hisubaqa Lusubimalu Tisiqq·qa Manikisabutu ’ariLaruni ku’ajjatuja malucani.
                       - <dictionary@x-tlb-hl>Tussuli</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hisuba</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>Lusubi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tisiqqi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>maniki</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-sabutu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ari</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>Laruni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’ajjatuja</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl>.</details|folding>
