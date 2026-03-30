@@ -54,6 +54,10 @@ cite:
     'on': Alt-c
   props:
     italics: true
+code:
+  key: C
+  props:
+    size: 80
 columns:
   type: div
   pipe: ''

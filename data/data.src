@@ -51,6 +51,8 @@ directory:
       - - Sample Text
       - - Appendices
         - - Diachrony
+      - - Morphology
+        - - Verbs
   - - Ptokan
     - - Old
       - - Appendices
@@ -393,6 +395,23 @@ entries:
                       - <details|folding>Jusi ’i li mihu ~~~ luxxa
                       - </details|folding>He bade her wait for a few moments longer while he set himself up inside.
                       title: Demotic Lulani Sample Text - A Grammar of the Tinellbian Languages
+                    Morphology:
+                      title: ''
+                      text: []
+                      position: '1.0'
+                      children:
+                        Verbs:
+                          title: Demotic Lulani Verbs - A Grammar of the Tinellbian Languages
+                          text:
+                          - <h1>Verbs</h1>
+                          - <h2>Participles</h2>
+                          - Verbal participles derive from <code>verb</code> + <code>auxiliary</code> constructs in High Lulani.
+                          - <table><thead> |h active |h passive</thead>
+                          - <tbody>h perfect | -qix | -pi
+                          - h imperfect | -ceni | -rő
+                          - h subjunctive | -lanu | -negi</tbody></table>
+                          position: '7.29'
+                          date: '2026-03-30'
                   date: '2025-03-16'
                   position: '3.0'
                   text:

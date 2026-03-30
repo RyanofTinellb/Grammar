@@ -6,7 +6,8 @@ entries:
   - Languages
   - Lulani
   - Demotic
-  - Sample Text
+  - Morphology
+  - Verbs
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\grammar\data\assets\autocorrect.ime
