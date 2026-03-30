@@ -48,11 +48,11 @@ directory:
       - - Sample Text
     - - Demotic
       - - Phonology
+      - - Morphology
+        - - Verbs
       - - Sample Text
       - - Appendices
         - - Diachrony
-      - - Morphology
-        - - Verbs
   - - Ptokan
     - - Old
       - - Appendices
