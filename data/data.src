@@ -2681,18 +2681,19 @@ entries:
                     Sample Text:
                       children: {}
                       date: '2026-11-03'
-                      position: '217.132'
+                      position: '1079.2'
                       text:
                       - <h1>Sample Text</h1>
                       - This comes from an early draft of <cite><abternal-link>Prelude</abternal-link></cite>, the first chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite>
-                      - <sample><tinellbian@x-tlb-hl>でせっなむか</tinellbian@x-tlb-hl>
+                      - <details|sample><summary|sample>Sample text in High Lulani script.</summary|sample>
+                      - <tinellbian@x-tlb-hl>でせっなむか</tinellbian@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。くりわやにぱみわまったなる、あわねらあたげにぐぴぴぢがるぱまな。やにまでてばばた。かぬららうかをえにゆらるぐぴからべぴびう。</tinellbian@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。きべげねざとるばせっを、したげわぬとるばせっを、あでてほとぢ、やにぱ。はるうせだっとさげてなっえ、えうせまりわやなりくあはてみちたでっすかうす。きかへさでっすかをえかををいぷあぬらどっくなきしな。</tinellbian@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。くえあみわるぴばくっぷしくらやざでせうさよいっをるわぬげぴるぱえぬねざ、すっらまでてば、やにぱぢがみわみ。ぶべげだるらうげぱっやふにはるぢがるなっやぐぴくなねぢみゆっせ。ほをあにさじびぐすえも、るばげぐすえらうしどでっせを。</tinellbian@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。だるたせぢみ。じりか、ぬべらる。あわむさらうかをまくっくぎゆっせざ。むさがばせっをる、ぬきうせさるらう。うすぎびすみかせぢなかをらう。</tinellbian@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。ぴばくっぷらうるばげちっあどいかをむさ。じえきかみるちっき、ぎあえゆいかをぐぴぬるさいばっせをじぱえぬ。とひぬほをすあになにがきっば、もやにせぢだるびむさぢっにばた。</tinellbian@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。かっすわむさげぴ。いをげとらっせしさい。らっなししくになえげくぬびとあふぎあっさわぬらうがいぎあ、ぱじがなっえみげすわたになざてげかっらえさみうわたぷらかっす。えよいさたどしむっさるぐすたっき、もくぐすぬっえきかがいぬらなぎわて。えしあっわるすわはべぬっえたげたいぷらみわみぢがるだやにもっはげたいわぬげわて。</tinellbian@x-tlb-hl>
-                      - <tinellbian@x-tlb-hl>。になえとるくっへいたいあっさやなりやきてす。たくにかみりげすわびえぱでっすきをぶるねざや、ぱだきかしくあでにあっだるわるをみにさびえげくぬっえぢっににかなさきみぢっにを。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。になえとるくっへいたいあっさやなりやきてす。たくにかみりげすわびえぱでっすきをぶるねざや、ぱだきかしくあでにあっだるわるをみにさびえげくぬっえぢっににかなさきみちっを。</tinellbian@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。ぴあどやにどいかをはべてさかくまっえぢくげとるばせか。きわでっかいをすあ、ぎあくとらっせいなだいっざ。くてさかげひすばぢないなら、くせをまった、もまいきくえあでとらっせいたいあっさたやにまをきをぶ。</tinellbian@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。さらやにくきぷげらえせさぱだ、いたいあっさらうせぢっに。ぴあどきかびぢよゆっりげへをきぢっにいたいっか、ぢへあかげもっはげぬっえぢっに。もっはげしどうせざ、ぱらうにへいだげわるすずでにきとち。げえっいまっえぢくげとらっせとひやに、はるわぬかをいたいげぢっにいっさるなら。ぴあどねりすならっかもほどみだるい、えにらせかをぱみわるでせきっさあぐだっなぬびとあふりだあるわぬぱぎ。</tinellbian@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。ゆいじにだる。ざばにさらうしくかをいたいきぷたずいっをらうぱ。</tinellbian@x-tlb-hl>
@@ -2749,7 +2750,7 @@ entries:
                       - <tinellbian@x-tlb-hl>。やほりげぴるかるらげりか、とらっせさっばたくとぢらみっらぢっにほをっかくりわすあらたやに。くりわかをわるにさたでるぎかっすだせどすあも、なぎにとぢらみまりか、かをみしさきでっはをみ。</tinellbian@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。とらっせぴあでくみほぢっにむさらしまも、やににだせっぱがもほ、わぬびぱにをすびくやほりげびぢよむさ。</tinellbian@x-tlb-hl>
                       - <tinellbian@x-tlb-hl>。くりわぴちっきしあですあくるちげざといへて、まりぱらせ、かっすみでくなぎわまどせぬきわかどせ、くくっへるげでるらねまへっていかも、げっやまはかっする。ぴあどでっすたっらといまゆも、とやらうちっき、はりじぱぱず。もほくでるあっさせぢぷらかっすいかばとな、だるいなきかむさとひぱっやなる。うみるくわかっすきかむさをみも、ぴあどぱげっやえぷらたなえむさらわぬ。かをまりでっすあはてっかもを、らうかをぬびとあふりねでっしなちも、かっせなねならなだだある。かをやがげいっかぱはぴいくだやっわがいあば。ぱえくりわわいなぎでせぱなえまりりっかかせらうたりっぱ。</tinellbian@x-tlb-hl>
-                      - <tinellbian@x-tlb-hl>。ぴあどねざならまげ、とらっせやぴじりはるくりわはっちどみはる、にらべきだせっにちっぢらう。.ぱうさえわるににぐっりすをっくぐぴてばなぎりか、かをいほすびぢっにみほ.</tinellbian@x-tlb-hl></sample>
+                      - <tinellbian@x-tlb-hl>。ぴあどねざならまげ、とらっせやぴじりはるくりわはっちどみはる、にらべきだせっにちっぢらう。ぱうさえわるににぐっりすをっくぐぴてばなぎりか、かをいほすびぢっにみほ。</tinellbian@x-tlb-hl></details|sample>
                       - <interlinear><paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Disinnamuka</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>でせっなむか</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>disinnamuka</dictionary@x-tlb-hl>
@@ -2894,10 +2895,10 @@ entries:
                       - <gloss>of-<abbr>com</abbr> fill wagon <abbr>prs;dyn</abbr>&lt;<abbr>trm</abbr>&gt; help father.</gloss>
                       - (She) is finishing helping (her) father with stacking the wagon.</details|folding>
                       - She finished helping her parents fill the wagon.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Taku nikamiriqa sula bili padissu kiluburu qixa ca, pada kikaxiku ’adi ni’adda ru laruluminisa bili qakunulli jannillu.</transliteration@x-tlb-hl></summary|folding>
+                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Taku nikamiriqa sula bili padissu kiluburu qixa ca, pada kikaxiku ’adi ni’adda ru laruluminisa bili qakunulli jann·nika na sakimicillu.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。たくにかみりげすわびえぱでっすきをぶるねざや、ぱだきかしくあでにあっだるわるをみにさびえげくぬっえぢっににかなさきみちっを。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>taku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kamiri</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sula</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ca</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kika</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’adda</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>laru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lumi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>nulli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nika</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>saki</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mici</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl>.
-                      - <gloss><abbr>pst;hab</abbr> at-pen-<abbr>gen</abbr> goat from-<abbr>com</abbr> think-new walk-<abbr>ger</abbr> <abbr>pst;dyn</abbr> help, and_then over-<abbr>rel</abbr> near at-past <abbr>prs;gno</abbr> year-several-only from-<abbr>com</abbr> down-<abbr>dat</abbr>-hill move-travel prs;hab share-permission-<abbr>psv</abbr>.</gloss>
+                      - <gloss><abbr>pst;hab</abbr> at-pen-<abbr>gen</abbr> goat from-<abbr>com</abbr> think-new walk-<abbr>ger</abbr> <abbr>pst;dyn</abbr> help, and_then over-<abbr>rel</abbr> near at-past <abbr>prs;gno</abbr> year-several-only from-<abbr>com</abbr> down-<abbr>dat</abbr>-hill move-travel </gloss><abbr>prs;hab</abbr><gloss> share-permission-<abbr>psv</abbr>.</gloss>
                       - (She) repeatedly helped in the goat pen from the learning to walk, and was given permission to repeatedly travel down the hill only over the several recent years in the past.</details|folding>
                       - She had helped in the goat pens since she learned to walk, but only been allowed to travel down the hills within the last few years.</paragraph>
                       - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu cani du’ikaluhafitisaka kumallijakuqa tu rubasika.</transliteration@x-tlb-hl></summary|folding>
@@ -3803,7 +3804,7 @@ entries:
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Kalumari dissu’ahatikkilu, ra’u kalunubitu’afuri qidixxinaci qu, kassi na qinaranada da’aru.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。かをまりでっすあはてっかもを、らうかをぬびとあふりねでっしなちも、かっせなねならなだだある。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>mari</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’ahati</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-kka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ilu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>naqi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tu’afu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ri</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dixxi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-naci</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>kassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nada</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>da’aru</dictionary@x-tlb-hl>.
-                      - <gloss><abbr>Abl</abbr>-this feel-happiness-<abbr>abv</abbr>-<abbr>psv</abbr>; <abbr>prs;sta</abbr> <abbr>abl</abbr>-land-plain-<abbr>nmn</abbr> experience-toleration-somewhat and, </gloss><abbr>3ani;abl</abbr><gloss> prs;hab experience-sleep-emotional_plane happened.</gloss>
+                      - <gloss><abbr>Abl</abbr>-this feel-happiness-<abbr>abv</abbr>-<abbr>psv</abbr>; <abbr>prs;sta</abbr> <abbr>abl</abbr>-land-plain-<abbr>nmn</abbr> experience-toleration-somewhat and, </gloss><abbr>3ani;abl</abbr><gloss> </gloss><abbr>prs;hab</abbr><gloss> experience-sleep-emotional_plane happened.</gloss>
                       - (He) feels happiness from this, (he) experiences some toleration for the people of the plains, and experiences of emotional tiredness happen.</details|folding>
                       - He was glad; he didn’t mind the flatlanders on occasion, but it was very easy to become tired of them.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Kalucagaqa ’ikka pahapakuda calla ga’·’aba.</transliteration@x-tlb-hl></summary|folding>
@@ -3825,7 +3826,7 @@ entries:
                       - After Piadû went to sleep, later Tŗsh was not stopping being awake with Corla, while having small drinks of alcohol.</details|folding>
                       - Later that evening, when Piado had gone to bed, the two women remained awake, sipping their drinks in the bar.
                       - <details|folding><summary|folding><transliteration@x-tlb-hl>Pa’usa li Laruni nigurrisulukku gupitiba nagi rika, kalu’ihusubi janni mihu.</transliteration@x-tlb-hl></summary|folding>
-                      - <tinellbian@x-tlb-hl>.ぱうさえわるににぐっりすをっくぐぴてばなぎりか、かをいほすびぢっにみほ.</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぱうさえわるににぐっりすをっくぐぴてばなぎりか、かをいほすびぢっにみほ。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’usa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>Laruni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>gurrisu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>lukku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>gupi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tiba</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>nagi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>rika</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>husabi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>mihu</dictionary@x-tlb-hl>.
                       - <gloss>Think-look <abbr>com</abbr> CZ:<ipa@x-tlb-cz>/ˈɬær.ən/</ipa@x-tlb-cz> at-door-wall stay-legs <abbr>fut;sta</abbr> and_thus, <abbr>abl</abbr>-speak-finger move <abbr>3ani;int</abbr>.</gloss>
                       - (She) thought by seeing that Lharen will be standing at the wall-door, and so (she) moved her with finger-speech.</details|folding>

@@ -200,6 +200,7 @@ main .sample p:has(.tinellbian[lang$="hl"]) {
     text-align: right;
     letter-spacing: 0.1em;
     line-height: 1.7lh;
+    margin-block-start: 0.5lh;
 }
 
 main .interlinear p:has(.tinellbian[lang$="hl"]) {

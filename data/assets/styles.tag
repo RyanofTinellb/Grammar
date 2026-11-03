@@ -86,6 +86,8 @@ details|folding:
   props:
     left: 20
   type: block
+details|sample:
+  type: block
 dictionary:
   keys:
     'off': space
@@ -272,7 +274,6 @@ paragraph:
   type: div
 particles: ul
 portrait: div
-sample: div
 script:
   props:
     background: '#cc3'
@@ -305,6 +306,8 @@ summary|folding:
     'on': f
   props:
     colour: '#0cc'
+  type: line
+summary|sample:
   type: line
 sup:
   props:
