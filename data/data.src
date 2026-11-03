@@ -2680,12 +2680,77 @@ entries:
                       title: High Lulani Phonology - A Grammar of the Tinellbian Languages
                     Sample Text:
                       children: {}
-                      date: '2025-10-25'
-                      position: '43.50'
+                      date: '2026-11-03'
+                      position: '217.132'
                       text:
                       - <h1>Sample Text</h1>
-                      - This comes from an early draft of <cite><abternal-link>Prelude</abternal-link></cite>, the first chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite><interlinear>
-                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Disinnamuka</transliteration@x-tlb-hl></summary|folding>
+                      - This comes from an early draft of <cite><abternal-link>Prelude</abternal-link></cite>, the first chapter of <cite><abternal-link>The Crackled Egg</abternal-link></cite>, from <cite><abternal-link>The Coelacanth Quartet</abternal-link></cite>
+                      - <sample><tinellbian@x-tlb-hl>でせっなむか</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くりわやにぱみわまったなる、あわねらあたげにぐぴぴぢがるぱまな。やにまでてばばた。かぬららうかをえにゆらるぐぴからべぴびう。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。きべげねざとるばせっを、したげわぬとるばせっを、あでてほとぢ、やにぱ。はるうせだっとさげてなっえ、えうせまりわやなりくあはてみちたでっすかうす。きかへさでっすかをえかををいぷあぬらどっくなきしな。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くえあみわるぴばくっぷしくらやざでせうさよいっをるわぬげぴるぱえぬねざ、すっらまでてば、やにぱぢがみわみ。ぶべげだるらうげぱっやふにはるぢがるなっやぐぴくなねぢみゆっせ。ほをあにさじびぐすえも、るばげぐすえらうしどでっせを。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。だるたせぢみ。じりか、ぬべらる。あわむさらうかをまくっくぎゆっせざ。むさがばせっをる、ぬきうせさるらう。うすぎびすみかせぢなかをらう。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴばくっぷらうるばげちっあどいかをむさ。じえきかみるちっき、ぎあえゆいかをぐぴぬるさいばっせをじぱえぬ。とひぬほをすあになにがきっば、もやにせぢだるびむさぢっにばた。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。かっすわむさげぴ。いをげとらっせしさい。らっなししくになえげくぬびとあふぎあっさわぬらうがいぎあ、ぱじがなっえみげすわたになざてげかっらえさみうわたぷらかっす。えよいさたどしむっさるぐすたっき、もくぐすぬっえきかがいぬらなぎわて。えしあっわるすわはべぬっえたげたいぷらみわみぢがるだやにもっはげたいわぬげわて。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。になえとるくっへいたいあっさやなりやきてす。たくにかみりげすわびえぱでっすきをぶるねざや、ぱだきかしくあでにあっだるわるをみにさびえげくぬっえぢっににかなさきみぢっにを。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴあどやにどいかをはべてさかくまっえぢくげとるばせか。きわでっかいをすあ、ぎあくとらっせいなだいっざ。くてさかげひすばぢないなら、くせをまった、もまいきくえあでとらっせいたいあっさたやにまをきをぶ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。さらやにくきぷげらえせさぱだ、いたいあっさらうせぢっに。ぴあどきかびぢよゆっりげへをきぢっにいたいっか、ぢへあかげもっはげぬっえぢっに。もっはげしどうせざ、ぱらうにへいだげわるすずでにきとち。げえっいまっえぢくげとらっせとひやに、はるわぬかをいたいげぢっにいっさるなら。ぴあどねりすならっかもほどみだるい、えにらせかをぱみわるでせきっさあぐだっなぬびとあふりだあるわぬぱぎ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ゆいじにだる。ざばにさらうしくかをいたいきぷたずいっをらうぱ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。いたいてくなっらぢっにらう、まにぴあどぬぢっにるげきぷぎいか、せさとひるかをげぐすがいにっねとちじ。よせいわぎにえみほぢっにわぬも、だとぬすっら、みほぱすあにどうさじをっふうさなぎ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。うすかっえばういひげくねざでっすいせえも、さましどうみはるゆいまをっかふらう。ねかっあるさ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。さげわげあっわしへっあじあやにいざるにさげすあ。やにくしくねにっだくずがらうとくっへさらぱだ、わぬげかをいたいぢっに。ぴえみほとあふりえせなるかをえくいをでせちっきじぱぱだ、ふかるぱまどせぎあ、くきっあとちるげせっかでせぱうさ。ゆっせぎどすにでせぱだ、かどたっくをぎぱも、ざはげすあい。かをえよせぢっぬをあさでせやにぱでっすえざはげうみる。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くりわ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くいたいうっさかみほも、よせくえっかとらっせ。くといほさびえぢっにぢるでせまでくりわ、ふやわぬ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くりわにういえかせきかやげをみにさぴ、まげらもらとっひさぐぴべは。にむさやりぢっににか。なぎにだやなりにも、ふにぱさたどあでほをとち。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。さっをらうせ、まにぴあどになならるげっやにべだるとぢ。だせっぱげへらうしくとらっせいどねざぢっへらやにだらいどがぴ。ぴあどじにだっよならはでっすりも、らうにげてでいたいわぎちっり。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くなねにしまゆっせでっちざも、あわむさあでくざっあぷらっかだひくなねも、くちっさがあわ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。いたいにびぢよばたりくをすべいになかっするてさかぢっに。ぴあどはるくりわいたいたぐぴやでぴまに、とらっせひすばげかっすとぢさたえやほりすげなてはわぬうさよい。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴあど、ふたくはうすわくぴら。ひら。ぴあどいりっぱ。うすねをぱえべっえいさげわじ。さまでいっかゆいねを。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。うすさたゆらあぱでっすへっあば。うすじかべっえちっきなだぷあ、うするぱるちちっき。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。かうすぐす。かをさまべっえる。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。えうすくぴきしっかちはべなぎねらへ。べっえぱるいはぢばうみぱぎる。るいはぢしどちかひる。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ちっきるちぷある。うすみるぱさまらう。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。しくぷっとえっをなたじほかくうすはへしたいゆっさにさ、くりわいたむ。うすになえぱまなえどはぱっやげくっぱくとぢみとぢるも、ぱでっすへっあばぢてねざちっきていちも、まりるあば。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴあどやにかをまたっにるじあてくてげしえげ。にべくいたいぢっにがたかぬまに、ずかほ。にくなねらう、まげやにゆっせぎどすにでせも、やほっするでせ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。やにくらべぱやにだるほばげをすべまわぶべいどひふうっさっかみほ。えくみとぢすあみほたぢっにぴっでわぬかをうさだぢびっをにぎるげやぷはげひふぱでっす。やにしくどいいうぢぐぴらうもむにみしにじへでげぢうさ。もむらうよいしくにでべぎがいよいぬびとあふりなすぬに。ぴあどねざいげやも、くりわいだあるふに、までではわとひるた。やばでせまいっかをぐっりすをっくぢっにあで。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くえたぱっせなりにへなるさら。いちぷざ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。やばしたまぱだ、かをではげぢっにほさびるもうかをみしぢっに。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ひすばたぱっせわぬせあばっさ、ぴあどいほちっを。くえなる。はるうすぢっにわぬ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴあどうっさどみも、ぬざえぐっりすどいぢっにびねざぐすらとりっをやに。じにしくはるはへにまをるがいぱしちえはへまりしべぷへなる。えたなわるらねじぱまなも、くきぷぐぴらうとたぢっぬを。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くりわぢじへでがぢっにでっをも、じかをうみほっすでっやはどみひた。ぐっりすねざありすあげっりっをも、らうみるもうとひるみしぢみほを。ではねざくだやたやうっさっかみほも、やにぐぴっかみほも、わぬぢっぬら。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くりわやににみしにえはるさぴまでてばも、ほかをゆっせるげやでぱひに。ぱしたぐっりすらあばげっえも、ゆいじかをいるでせいだた。らうぱてさかじいも、にどあらくたりてげあわむさゆっせまに、にべきまでるまどぐぴてばらう。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。げっりぐっりすまったどみみるぱだ、うみかをたなじむえまりわした。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。やばねざかをへっあいうみぱだ、くりわなぎよせかをかせげぴあどいえすあかっせぎいじ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。てあ、べっえかをへしえにさいぢみたっぱる。かをえくかせぷらがやにい。うすいちぷえべっえねいくぴみる。べっえかをえうすまっぢらうねだっやといぎあ、うすあでるしくかをぱさにぐすえあでぱひぱでっすりじねざみほにさ。べっえねをかでむかでし、うすげりほ、かぬびでさ。べっえくえだせどかすぢにでばらういざねを。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。かをいどちだてっをねざさげわぴへげぴやにでっすりっぱ、くりわわぬかをわふやほっすでべるにさ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。あでみるぐす。じまいをでっはげい。かまり、みほぱりだえうさゆいばぱえぬえだせどみるらうなぷい。うすさっるぱやどいまり、いげりほ。うすいざひっをわるにらぴ。ばせいえべっえくえなるらへらう。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。むきゆっかみほぱだ、いえねいくらにらう。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。さまあでしべぷっかうすらう。うすかみほぐっねぱだ、うすぱぱぱぷい、ふかをいるぱひうさよいだせど。くりわる。ぱしむっさ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くりわねざぱみほなずっあも、らうくすあにでばまりかはがもほぎあ、わあぱぴときはぎなてはばとげあわとちぴだた。もほわぬにあっりだざちがしくすあじいらうぱも、すあになえいげやせっなほむたっでっかぱあ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くぢっぬをるげさっすあぐぴな、まにとらっせらうくとぢならやままりがすあ、にだるげなっらとひるとぢらみっら。ぴあどもうくみしぢっにまあで、とらっせがたっですあみりぴ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。みや、とぱひ。べっえねいくらう。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。らうとちなち、さっば、とらっせいたむ。くりわむでばだぴ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。らうぬべらも、でっはみわぬせあばっさやっわみほげっべ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴあどげかひやにでまくっくげとも、どいくぐりっすぢっにきをぶっかもほ。らうにとぢだせげとぢらみっらひげだせどかっせにしうみ。ぱざとえだとわっもらねむさらわぬりか、だせたいといらねずうみだせっぱたぱふやほ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くしまらうあわさあくたむさら。をすびいきるてさか、ぢぱあわねざやぱがっも。ぴあどとらっせたらうかをみしくやほりげぴあっりかっすどぢっににぎ。ぴあどやぴすげぴいうぢぐぴてばまに、とらっせわぬになまりげわどみるわぴばしあせわなぎずっあ、げぷらずてさかっらわぬにどあっさどみ。かっするなきかしま。をすびわぬあわぴばゆっせたりてなちりか、てさかっらならばたりわかる。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。むさがにばせっを、まあでしくにさびほくりわわにがなわるにぢっにあで。やばふにになうみげかっするじあまっぢらげ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。べっえらかをさままっぢらう。ぴあどいちぷまりでっすてほら。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。かせらうかをぱあばとでせ、ぐす、わるにいたむ。らうぱえふくえっをりたるさとちなちぷい。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。かせじぱいっを、くりわむきゆっか。うすぱきゆえしくぷっとにざわでまっぢわいっをりしほぱはるべっえなぎとちなち。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。きや。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。すまぷっとくとぢてほがいっをどみ。しくうすにまっぢぴとぢえあば、うすながりにぱわみへみりしびざや。うすえべっえよいばっさらうぴばまいを。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。すまぱになかせすっわぬべら。ぴあどじしはたじあ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぬえうすはるべっえぢっにるくふに。うすじくわひぷてるでっすすって。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。べっえじうさとぴ。べっえかをすっわるわぬほうすぱむだっえじっをわぬ。うすぴかをえくまっぢぎべっえねざわぱっで。あでるさら。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。とらっせださだでせげきるちっき。ぢっにちよっかべっぱげでせひ。ひら、さっば、ふでっすあぬっかなぎ。うすぱへるえうすふぱぴへあみわるでせふやらう。かっすみげいいっをじねら。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くりわわぬいに。うすたくくかっすみかえさだあるいえ。うすかをまりすべっえむたせ、べっえじちっきなだぬびとあふり。うすらうひる。た、かをたじほぱひちっきとちえせな。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴあどいふっはなくざに。るくむ。ばうだっえじほ、すっらべっえはるうすぱてほみや。てさかげぱやどぱげっやえべっえあみわなぎまげ、くとぢてほがうすふぱ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。わるにやぴいうぢがにがくりわぱだ、しどぢっに。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。やほりげぴるかるらげりか、とらっせさっばたくとぢらみっらぢっにほをっかくりわすあらたやに。くりわかをわるにさたでるぎかっすだせどすあも、なぎにとぢらみまりか、かをみしさきでっはをみ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。とらっせぴあでくみほぢっにむさらしまも、やににだせっぱがもほ、わぬびぱにをすびくやほりげびぢよむさ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。くりわぴちっきしあですあくるちげざといへて、まりぱらせ、かっすみでくなぎわまどせぬきわかどせ、くくっへるげでるらねまへっていかも、げっやまはかっする。ぴあどでっすたっらといまゆも、とやらうちっき、はりじぱぱず。もほくでるあっさせぢぷらかっすいかばとな、だるいなきかむさとひぱっやなる。うみるくわかっすきかむさをみも、ぴあどぱげっやえぷらたなえむさらわぬ。かをまりでっすあはてっかもを、らうかをぬびとあふりねでっしなちも、かっせなねならなだだある。かをやがげいっかぱはぴいくだやっわがいあば。ぱえくりわわいなぎでせぱなえまりりっかかせらうたりっぱ。</tinellbian@x-tlb-hl>
+                      - <tinellbian@x-tlb-hl>。ぴあどねざならまげ、とらっせやぴじりはるくりわはっちどみはる、にらべきだせっにちっぢらう。.ぱうさえわるににぐっりすをっくぐぴてばなぎりか、かをいほすびぢっにみほ.</tinellbian@x-tlb-hl></sample>
+                      - <interlinear><paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Disinnamuka</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>でせっなむか</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>disinnamuka</dictionary@x-tlb-hl>
                       - <gloss>prologue</gloss>
@@ -2822,8 +2887,8 @@ entries:
                       - <dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>xi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’alla</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sula</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hafi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nulli</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ta</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ta’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pura</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>milami</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>jagaru</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>da</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>quhha</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ta’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lanu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>lati</dictionary@x-tlb-hl>.
                       - <gloss><abbr>com</abbr> appear-familiarity-<abbr>prs;gno</abbr> goat grass-hill-and-<abbr>gen</abbr> scent change-circumstance sand-water-having river-<abbr>gen</abbr> scent <abbr>fut;dyn</abbr>-<abbr>gen</abbr> opportunity.</gloss>
                       - An opportunity to change the circumstances from scents of familiar-seeming goats and hillgrass to those of watersand having rivers.
-                      - </details|folding>A chance to exchange the familiar smells of goat and heath for the scent of the silty river.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Ninali turukuffa ’ita’i’assa canari ca kitisu.</transliteration@x-tlb-hl></summary|folding>
+                      - </details|folding>A chance to exchange the familiar smells of goat and heath for the scent of the silty river.</paragraph>
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Ninali turukuffa ’ita’i’assa canari ca kitisu.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。になえとるくっへいたいあっさやなりやきてす。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>nina</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>turukuffa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ita’i’assa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl>&lt;<dictionary@x-tlb-hl>-ar-</dictionary@x-tlb-hl>&gt; <dictionary@x-tlb-hl>ca</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kitisu</dictionary@x-tlb-hl>.
                       - <gloss>of-<abbr>com</abbr> fill wagon <abbr>prs;dyn</abbr>&lt;<abbr>trm</abbr>&gt; help father.</gloss>
@@ -2834,8 +2899,8 @@ entries:
                       - <dictionary@x-tlb-hl>taku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kamiri</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sula</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>dissu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qixa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ca</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>kika</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>xiku</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’adda</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ru</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>laru</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-lumi</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-nisa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>bi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>nulli</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nika</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>na</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>saki</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>mici</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-illu</dictionary@x-tlb-hl>.
                       - <gloss><abbr>pst;hab</abbr> at-pen-<abbr>gen</abbr> goat from-<abbr>com</abbr> think-new walk-<abbr>ger</abbr> <abbr>pst;dyn</abbr> help, and_then over-<abbr>rel</abbr> near at-past <abbr>prs;gno</abbr> year-several-only from-<abbr>com</abbr> down-<abbr>dat</abbr>-hill move-travel prs;hab share-permission-<abbr>psv</abbr>.</gloss>
                       - (She) repeatedly helped in the goat pen from the learning to walk, and was given permission to repeatedly travel down the hill only over the several recent years in the past.</details|folding>
-                      - She had helped in the goat pens since she learned to walk, but only been allowed to travel down the hills within the last few years.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu cani du’ikaluhafitisaka kumallijakuqa tu rubasika.</transliteration@x-tlb-hl></summary|folding>
+                      - She had helped in the goat pens since she learned to walk, but only been allowed to travel down the hills within the last few years.</paragraph>
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Pi’adu cani du’ikaluhafitisaka kumallijakuqa tu rubasika.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。ぴあどやにどいかをはべてさかくまっえぢくげとるばせか。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>Pi’adu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>du’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kalu-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>hafi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>tisaka</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>malliju</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-aku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>tu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cikki</dictionary@x-tlb-hl>.
                       - <gloss>KF:<ipa@x-tlb-kf>/pʰɪ.ˈa.dɯ/</ipa@x-tlb-kf> <abbr>prs;dyn</abbr> opposite-<abbr>abl</abbr>-field-village <abbr>dat</abbr>-joy-aug-<abbr>gen</abbr> offspring sense_image-drv.</gloss>
@@ -2852,8 +2917,8 @@ entries:
                       - <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>tisaka</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>hisu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>ba</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>jana</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>nara</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>silu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>matta</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>qu</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ma’i</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>li</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’adi</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>Turassi</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>’ita’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’assa</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-ta</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>malu</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>kilubu</dictionary@x-tlb-hl>.
                       - <abbr>dat</abbr>-<gloss>town</gloss>-<abbr>gen</abbr> <gloss>rule</gloss>-<abbr>nmn</abbr>-<gloss>elder say-goodbye, </gloss><abbr>dat</abbr>-<gloss>wife also, and across</gloss> <abbr>dat</abbr>-<abbr>com</abbr> <gloss>near-KF:<ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf> car-goods-and</gloss> <abbr>prs;dyn</abbr> <gloss>move_to-walk.</gloss>
                       - (He) said goodbye to the elder-ruler of the town, and also (his) wife, and walked across to the (he is) near Tŗsh and the goods-car.</details|folding>
-                      - He farewelled the village elder, and his own wife, and walked across to join Toresh and the wagon.
-                      - <details|folding><summary|folding><transliteration@x-tlb-hl>Sara cani kukipuqa rali sisa pada, ’ita’·’assa ra’usi janni.</transliteration@x-tlb-hl></summary|folding>
+                      - He farewelled the village elder, and his own wife, and walked across to join Toresh and the wagon.</paragraph>
+                      - <paragraph><details|folding><summary|folding><transliteration@x-tlb-hl>Sara cani kukipuqa rali sisa pada, ’ita’·’assa ra’usi janni.</transliteration@x-tlb-hl></summary|folding>
                       - <tinellbian@x-tlb-hl>。さらやにくきぷげらえせさぱだ、いたいあっさらうせぢっに。</tinellbian@x-tlb-hl>
                       - <dictionary@x-tlb-hl>sara</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>cani</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ku-</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>kipu</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-qa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>rali</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>sisa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>pada</dictionary@x-tlb-hl>, <dictionary@x-tlb-hl>’ita’i</dictionary@x-tlb-hl>-<dictionary@x-tlb-hl>’assa</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>ra’u</dictionary@x-tlb-hl>|<dictionary@x-tlb-hl>-si</dictionary@x-tlb-hl> <dictionary@x-tlb-hl>janni</dictionary@x-tlb-hl>.
                       - <gloss>Rein <abbr>prs;dyn</abbr> <abbr>dat</abbr>-horse-<abbr>gen</abbr> back contact and_then, car-goods <abbr>prs;sta</abbr>-<abbr>inc</abbr> move.</gloss>

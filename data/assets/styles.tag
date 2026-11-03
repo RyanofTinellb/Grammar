@@ -263,6 +263,8 @@ overline:
     underline: true
   type: span
 paragraph:
+  props:
+    background: '#fcc'
   end: </p>
   open: <hr><div class="paragraph">
   rank: 150
@@ -270,6 +272,7 @@ paragraph:
   type: div
 particles: ul
 portrait: div
+sample: div
 script:
   props:
     background: '#cc3'
